@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-14T20:44:17.828715+00:00",
+  "last_updated_utc": "2026-07-14T23:39:38.525571+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Sector Update: Tech Stocks Rise Late Afternoon | CleanSpark Lands $6.6 Billion Data Center Lease With Global Tech Tenant | Stock Market Today, July 14: Growth Stocks Rally as Inflation Cools to 3.5%, Equaling 2020 Lows"
+      "recent_news": "Bitcoin Mining Declined In June | Why CleanSpark Stock Climbed Today | CleanSpark Lands First HPC Lease Worth Nearly $7 Bil. Bitcoin Leads CPI-Fueled Crypto Surge."
     },
     {
       "ticker": "MVO",
@@ -84,7 +84,7 @@
       "cash_debt_ratio": 5.31,
       "insider_pct": 10.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "recent_dilution_filings_90d": 12,
       "recent_news": "Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List | Tango Therapeutics Rides a New Precision Oncology Trend in 2026 | Is TNGX Stock Still Worth Buying After Its Huge Rally in 2026?"
     },
     {
@@ -122,27 +122,10 @@
       "recent_news": "TeraWulf (WULF) Plans $3.5B Debt Raise for Kentucky Data Center Campus | What's Next for Small Caps After a Stellar First Half? | Applied Digital vs. TeraWulf: Which Neocloud Stock Is the Better Buy?"
     },
     {
-      "ticker": "ATAI",
-      "score": 55.3,
-      "last_close": 5.67,
-      "rel_volume": 1.31,
-      "price_change_pct": 14.08,
-      "gap_pct": 13.88,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2087505152,
-      "float_shares": 303811139,
-      "cash_debt_ratio": 44.91,
-      "insider_pct": 2.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "The Race to Commercialize the World’s Most Powerful Psychedelic | Is AtaiBeckley Inc (ATAI) Stock Outpacing Its Medical Peers This Year? | Psychedelics guidance from the FDA set to benefit developers, including AtaiBeckley, Jefferies says"
-    },
-    {
       "ticker": "NTSK",
-      "score": 55.0,
+      "score": 55.9,
       "last_close": 14.27,
-      "rel_volume": 1.29,
+      "rel_volume": 1.36,
       "price_change_pct": 11.48,
       "gap_pct": 10.62,
       "st_msg_count": null,
@@ -154,6 +137,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Netskope's Biggest Backer Just Bought $7.2 Million in Stock After a Steep Selloff | ICONIQ Buys Another 610,000 Netskope Shares. What Does This Multi-Million-Dollar Buy Mean for Investors? | Netskope Shareholders Reelect Directors, Ratify KPMG at Annual Meeting"
+    },
+    {
+      "ticker": "ATAI",
+      "score": 55.4,
+      "last_close": 5.67,
+      "rel_volume": 1.32,
+      "price_change_pct": 14.08,
+      "gap_pct": 13.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2087505152,
+      "float_shares": 303811139,
+      "cash_debt_ratio": 44.91,
+      "insider_pct": 2.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "The Race to Commercialize the World’s Most Powerful Psychedelic | Is AtaiBeckley Inc (ATAI) Stock Outpacing Its Medical Peers This Year? | Psychedelics guidance from the FDA set to benefit developers, including AtaiBeckley, Jefferies says"
     },
     {
       "ticker": "CRMT",
@@ -170,13 +170,13 @@
       "insider_pct": 16.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why America's Car-Mart (CRMT) Stock Is Up Today | America's Car-Mart (NASDAQ:CRMT) Misses Q1 CY2026 Sales Expectations, But Stock Soars 9.2% | America's Car-Mart (CRMT) Q1 Earnings: What To Expect"
+      "recent_news": "America's Car-Mart Inc (CRMT) Q4 2026 Earnings Call Highlights: Navigating Challenges with ... | Why America's Car-Mart (CRMT) Stock Is Up Today | America's Car-Mart (NASDAQ:CRMT) Misses Q1 CY2026 Sales Expectations, But Stock Soars 9.2%"
     },
     {
       "ticker": "SAIL",
-      "score": 53.2,
+      "score": 53.3,
       "last_close": 15.2,
-      "rel_volume": 1.13,
+      "rel_volume": 1.14,
       "price_change_pct": 8.49,
       "gap_pct": 8.49,
       "st_msg_count": null,
@@ -224,6 +224,23 @@
       "recent_news": "Why Is TGB Stock Rising Today? | Trekor Metals Advances Environmental Assessment Process for Yellowhead Copper Project | pH7 Technologies secures funding for copper cathode production"
     },
     {
+      "ticker": "RGC",
+      "score": 52.6,
+      "last_close": 5.65,
+      "rel_volume": 1.08,
+      "price_change_pct": 11.88,
+      "gap_pct": 11.68,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2793862400,
+      "float_shares": 56282728,
+      "cash_debt_ratio": 6.1,
+      "insider_pct": 88.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Auditor Change Puts Regencell Bioscience Governance And Cash Runway In Focus | Taiwan Semiconductor Upgraded, Eli Lilly Downgraded: Updated Rankings on Top Blue-Chip Stocks | Here's Why I Wouldn't Touch Regencell Bioscience With a 10‑Foot Pole Right Now"
+    },
+    {
       "ticker": "MEI",
       "score": 52.5,
       "last_close": 17.42,
@@ -241,27 +258,10 @@
       "recent_news": "3 Reasons MEI is Risky and 1 Stock to Buy Instead | Why Methode Electronics (MEI) Stock Is Trading Up Today | Methode Electronics Inc (MEI) Q4 2026 Earnings Call Highlights: Strong EBITDA Growth Amidst ..."
     },
     {
-      "ticker": "RGC",
-      "score": 52.4,
-      "last_close": 5.65,
-      "rel_volume": 1.06,
-      "price_change_pct": 11.88,
-      "gap_pct": 11.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2793862400,
-      "float_shares": 56282728,
-      "cash_debt_ratio": 6.1,
-      "insider_pct": 88.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Auditor Change Puts Regencell Bioscience Governance And Cash Runway In Focus | Taiwan Semiconductor Upgraded, Eli Lilly Downgraded: Updated Rankings on Top Blue-Chip Stocks | Here's Why I Wouldn't Touch Regencell Bioscience With a 10‑Foot Pole Right Now"
-    },
-    {
       "ticker": "TRVI",
-      "score": 52.1,
+      "score": 52.4,
       "last_close": 17.91,
-      "rel_volume": 1.05,
+      "rel_volume": 1.07,
       "price_change_pct": 8.41,
       "gap_pct": 7.93,
       "st_msg_count": null,
@@ -310,9 +310,9 @@
     },
     {
       "ticker": "TSHA",
-      "score": 43.7,
+      "score": 43.9,
       "last_close": 5.7,
-      "rel_volume": 1.08,
+      "rel_volume": 1.09,
       "price_change_pct": 5.95,
       "gap_pct": 6.69,
       "st_msg_count": null,
@@ -480,9 +480,9 @@
     },
     {
       "ticker": "JBLU",
-      "score": 37.8,
+      "score": 38.1,
       "last_close": 5.33,
-      "rel_volume": 1.09,
+      "rel_volume": 1.11,
       "price_change_pct": -4.82,
       "gap_pct": -5.36,
       "st_msg_count": null,
@@ -527,7 +527,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Nubank's Mexico Business Just Passed 15 Million Customers. Here's Why It's the Real Growth Story. | GGAL vs. NU: Which Stock Is the Better Value Option? | Needham Initiates Nu Holdings (NU) at Buy"
+      "recent_news": "Nu Holdings Ltd. (NU) Outpaces Stock Market Gains: What You Should Know | Nubank's Mexico Business Just Passed 15 Million Customers. Here's Why It's the Real Growth Story. | GGAL vs. NU: Which Stock Is the Better Value Option?"
     },
     {
       "ticker": "HAIN",
@@ -560,8 +560,25 @@
       "cash_debt_ratio": 0.23,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 111,
+      "recent_dilution_filings_90d": 112,
       "recent_news": "FuelCell's Big Partnership Couldn't Outrun Its Big Bill | How Bloom Energy Became AI’s Emergency Power Button | 1 Cash-Burning Stock with Impressive Fundamentals and 2 We Turn Down"
+    },
+    {
+      "ticker": "AAL",
+      "score": 30.5,
+      "last_close": 15.67,
+      "rel_volume": 1.01,
+      "price_change_pct": -3.92,
+      "gap_pct": -3.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 10363905024,
+      "float_shares": 654910177,
+      "cash_debt_ratio": 0.23,
+      "insider_pct": 1.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "United's latest Economy Plus gambit? Kick out the middle-seat passenger for more space. | What Kept Coming Up When Analysts Grilled DAL | Why American Airlines (AAL) Might be Well Poised for a Surge"
     },
     {
       "ticker": "NEXA",
@@ -579,23 +596,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "5 Low Price-to-Book Value Stocks to Buy in July for Solid Returns | Will Aripuana's Record Q1'26 Zinc Output Aid NEXA's Long-Term Growth? | Buy These 4 Value Stocks as Middle East Tensions Rattle Markets Again"
-    },
-    {
-      "ticker": "AAL",
-      "score": 30.4,
-      "last_close": 15.67,
-      "rel_volume": 1.0,
-      "price_change_pct": -3.92,
-      "gap_pct": -3.46,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 10363905024,
-      "float_shares": 654910177,
-      "cash_debt_ratio": 0.23,
-      "insider_pct": 1.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "United's latest Economy Plus gambit? Kick out the middle-seat passenger for more space. | What Kept Coming Up When Analysts Grilled DAL | Why American Airlines (AAL) Might be Well Poised for a Surge"
     },
     {
       "ticker": "AEVA",
@@ -624,7 +624,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 395438240,
-      "float_shares": 261521300,
+      "float_shares": 262236009,
       "cash_debt_ratio": 0.04,
       "insider_pct": 9.3,
       "dilution_risk": "낮음",
@@ -709,22 +709,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "PATH",
+      "score": 20.2,
+      "last_close": 11.94,
+      "rel_volume": 1.5,
+      "price_change_pct": 0.76,
+      "gap_pct": 0.17,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GENI",
       "score": 20.1,
       "last_close": 6.42,
       "rel_volume": 0.46,
       "price_change_pct": -2.87,
       "gap_pct": -3.1,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "PATH",
-      "score": 19.7,
-      "last_close": 11.94,
-      "rel_volume": 1.46,
-      "price_change_pct": 0.76,
-      "gap_pct": 0.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -809,22 +809,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TBLA",
+      "score": 12.8,
+      "last_close": 5.49,
+      "rel_volume": 0.51,
+      "price_change_pct": -1.44,
+      "gap_pct": -1.26,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "TROX",
       "score": 12.8,
       "last_close": 6.19,
       "rel_volume": 0.59,
       "price_change_pct": 1.14,
       "gap_pct": 1.23,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TBLA",
-      "score": 12.6,
-      "last_close": 5.49,
-      "rel_volume": 0.49,
-      "price_change_pct": -1.44,
-      "gap_pct": -1.26,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
