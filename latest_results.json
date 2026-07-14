@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-14T06:24:25.481225+00:00",
+  "last_updated_utc": "2026-07-14T12:02:27.474294+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -29,12 +29,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 276728448,
-      "float_shares": 14814405,
+      "float_shares": 11690915,
       "cash_debt_ratio": 0.79,
-      "insider_pct": 53.1,
+      "insider_pct": 52.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Gloo Touts Tripled Q1 Revenue, EBITDA Gains and New Financing at Annual Meeting | GLOO Ranks Among the Best Technology Penny Stocks with Huge Upside Potential | Gloo Holdings Inc (GLOO) Q1 2026 Earnings Call Highlights: Record Revenue Growth and Strategic ..."
+      "recent_news": "Gloo Holdings (GLOO) Prices Secondary Offering at $3.25 | Is Gloo Holdings’ (GLOO) Discounted Equity Raise Reframing Its AI Growth Ambitions Or Dilution Story? | Gloo Touts Tripled Q1 Revenue, EBITDA Gains and New Financing at Annual Meeting"
     },
     {
       "ticker": "GOSS",
@@ -373,7 +373,7 @@
       "cash_debt_ratio": 0.75,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3393,
+      "recent_dilution_filings_90d": 3399,
       "recent_news": "Opendoor Technologies (OPEN) Stock Jumps 10.7%: Will It Continue to Soar? | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout | Opendoor Technologies (OPEN) Gains on Strong Housing Data And Improved Unit Economics, Can It Go Higher?"
     },
     {
