@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-15T07:31:25.534131+00:00",
+  "last_updated_utc": "2026-07-15T12:56:16.394764+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -9,16 +9,6 @@
       "rel_volume": 1.02,
       "price_change_pct": NaN,
       "gap_pct": -3.46,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ACH",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 0.54,
-      "price_change_pct": NaN,
-      "gap_pct": 6.53,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -37,7 +27,7 @@
       "insider_pct": 2.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "The Race to Commercialize the World’s Most Powerful Psychedelic | Is AtaiBeckley Inc (ATAI) Stock Outpacing Its Medical Peers This Year? | Psychedelics guidance from the FDA set to benefit developers, including AtaiBeckley, Jefferies says"
+      "recent_news": "Is AtaiBeckley Inc. (ATAI) Stock a Psychedelic Medicine Opportunity Ahead of Phase 2 Results? | The Race to Commercialize the World’s Most Powerful Psychedelic | Is AtaiBeckley Inc (ATAI) Stock Outpacing Its Medical Peers This Year?"
     },
     {
       "ticker": "BBD",
@@ -61,10 +51,10 @@
       "market_cap": 9278406656,
       "float_shares": 529618150,
       "cash_debt_ratio": 663.83,
-      "insider_pct": 0.8,
+      "insider_pct": 0.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Bitmine Immersion Technologies (BMNR) Stock Looks Reasonable On Book Value But Weak On Returns | BitMine Revenue Jumps 22x Even as It Posts $9 Billion Net Loss | Bitcoin, Ethereum, XRP, Dogecoin Jump as Softer Inflation Dims Rate Hike Odds: Analyst Sees 'Bullish Case' Amid Muted Crypto Chatter"
+      "recent_news": "Why Bitmine Immersion Technologies (BMNR) Is Up 10.1% After Massive Ethereum Pivot And Staking Treasury | Bitmine Immersion Technologies (BMNR) Stock Looks Reasonable On Book Value But Weak On Returns | BitMine Revenue Jumps 22x Even as It Posts $9 Billion Net Loss"
     },
     {
       "ticker": "CCO",
@@ -91,34 +81,17 @@
       "insider_pct": 3.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "CleanSpark (CLSK) Scores Billion-Dollar Deals in Georgia, Texas; Shares Climb | Bitcoin Mining Declined In June | Why CleanSpark Stock Climbed Today"
+      "recent_news": "CleanSpark (CLSK) Surges 8.8%: Is This an Indication of Further Gains? | CleanSpark (CLSK) Scores Billion-Dollar Deals in Georgia, Texas; Shares Climb | Bitcoin Mining Declined In June"
     },
     {
-      "ticker": "CPIX",
+      "ticker": "CRMT",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.96,
+      "rel_volume": 1.67,
       "price_change_pct": NaN,
-      "gap_pct": 7.49,
+      "gap_pct": 39.74,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ERAS",
-      "score": 61.6,
-      "last_close": 19.5,
-      "rel_volume": 1.85,
-      "price_change_pct": 8.94,
-      "gap_pct": 8.88,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 6064198656,
-      "float_shares": 207890056,
-      "cash_debt_ratio": 5.31,
-      "insider_pct": 10.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 12,
-      "recent_news": "Erasca (ERAS) Surges 8.9% on Encouraging Cancer Trial Results | Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List | Tango Therapeutics Rides a New Precision Oncology Trend in 2026"
     },
     {
       "ticker": "F",
@@ -151,6 +124,23 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "JOBY",
+      "score": 40.8,
+      "last_close": 7.89,
+      "rel_volume": 1.22,
+      "price_change_pct": 5.48,
+      "gap_pct": 5.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 7760942080,
+      "float_shares": 662326078,
+      "cash_debt_ratio": 3.3,
+      "insider_pct": 32.6,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "JOBY Stock: Flying High or Overpriced Sci-Fi? | JOBY, EQT, XE Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? | Toyota (TSE:7203) Stock Looks Above Fair Value While Earnings Sit Below Fair Value"
+    },
+    {
       "ticker": "KOS",
       "score": NaN,
       "last_close": NaN,
@@ -171,12 +161,39 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "LESL",
+      "score": 75.0,
+      "last_close": 3.3,
+      "rel_volume": 25.54,
+      "price_change_pct": -41.07,
+      "gap_pct": -40.71,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 30886178,
+      "float_shares": 9126491,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 6.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "3 Reasons to Avoid LESL and 1 Stock to Buy Instead | A Look Back at Consumer Retail Stocks’ Q1 Earnings: Leslie's (NASDAQ:LESL) Vs The Rest Of The Pack | 3 Unpopular Stocks We Steer Clear Of"
+    },
+    {
       "ticker": "MEI",
       "score": NaN,
       "last_close": NaN,
       "rel_volume": 1.23,
       "price_change_pct": NaN,
       "gap_pct": 9.64,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "MVO",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 2.82,
+      "price_change_pct": NaN,
+      "gap_pct": 8.51,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -201,6 +218,57 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "NXTC",
+      "score": 75.0,
+      "last_close": 6.58,
+      "rel_volume": 717.79,
+      "price_change_pct": 201.83,
+      "gap_pct": 207.78,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 26773698,
+      "float_shares": 2259836,
+      "cash_debt_ratio": 6.05,
+      "insider_pct": 14.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Sector Update: Healthcare Stocks Fall Late Afternoon | Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill | Does NextCure (NXTC) Have the Potential to Rally 107.88% as Wall Street Analysts Expect?"
+    },
+    {
+      "ticker": "GLOO",
+      "score": 66.3,
+      "last_close": 3.38,
+      "rel_volume": 2.8,
+      "price_change_pct": 6.96,
+      "gap_pct": 6.33,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 295994336,
+      "float_shares": 11690915,
+      "cash_debt_ratio": 0.79,
+      "insider_pct": 52.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Gloo Holdings (GLOO) Prices Secondary Offering at $3.25 | Is Gloo Holdings’ (GLOO) Discounted Equity Raise Reframing Its AI Growth Ambitions Or Dilution Story? | Gloo Touts Tripled Q1 Revenue, EBITDA Gains and New Financing at Annual Meeting"
+    },
+    {
+      "ticker": "NTSK",
+      "score": 56.1,
+      "last_close": 14.27,
+      "rel_volume": 1.38,
+      "price_change_pct": 11.48,
+      "gap_pct": 10.62,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 5763990528,
+      "float_shares": 172968185,
+      "cash_debt_ratio": 1.48,
+      "insider_pct": 3.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Netskope's Biggest Backer Just Bought $7.2 Million in Stock After a Steep Selloff | ICONIQ Buys Another 610,000 Netskope Shares. What Does This Multi-Million-Dollar Buy Mean for Investors? | Netskope Shareholders Reelect Directors, Ratify KPMG at Annual Meeting"
+    },
+    {
       "ticker": "OPK",
       "score": NaN,
       "last_close": NaN,
@@ -219,40 +287,6 @@
       "gap_pct": 5.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "PMVP",
-      "score": 75.0,
-      "last_close": 1.42,
-      "rel_volume": 3.75,
-      "price_change_pct": 10.94,
-      "gap_pct": 8.98,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 75731112,
-      "float_shares": 43135799,
-      "cash_debt_ratio": 319.28,
-      "insider_pct": 3.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "PMV Pharmaceuticals (PMVP) Loses 26% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Why PMV Pharmaceuticals, Inc. (PMVP) Faces Funding Concerns Despite Positive Trial Activity | 12 Health Care Stocks Moving In Wednesday's After-Market Session"
-    },
-    {
-      "ticker": "NTSK",
-      "score": 56.1,
-      "last_close": 14.27,
-      "rel_volume": 1.38,
-      "price_change_pct": 11.48,
-      "gap_pct": 10.62,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 5763990528,
-      "float_shares": 172968185,
-      "cash_debt_ratio": 1.48,
-      "insider_pct": 3.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Netskope's Biggest Backer Just Bought $7.2 Million in Stock After a Steep Selloff | ICONIQ Buys Another 610,000 Netskope Shares. What Does This Multi-Million-Dollar Buy Mean for Investors? | Netskope Shareholders Reelect Directors, Ratify KPMG at Annual Meeting"
     },
     {
       "ticker": "PRGO",
@@ -280,6 +314,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Is Runway Growth Finance (RWAY) One of the Top 10 Dividend Stocks with 10%+ Yield? | Sector Update: Financial Stocks Advance in Afternoon Trading | Runway Growth Finance Profitability Expected to Disappoint, BofA Says"
+    },
+    {
+      "ticker": "ERAS",
+      "score": 61.6,
+      "last_close": 19.5,
+      "rel_volume": 1.85,
+      "price_change_pct": 8.94,
+      "gap_pct": 8.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 6064198656,
+      "float_shares": 207890056,
+      "cash_debt_ratio": 5.31,
+      "insider_pct": 10.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 12,
+      "recent_news": "Erasca (ERAS) Surges 8.9% on Encouraging Cancer Trial Results | Robinhood and 4 More Stocks That Were Just Added to This Firm’s ‘Top Picks’ List | Tango Therapeutics Rides a New Precision Oncology Trend in 2026"
     },
     {
       "ticker": "SAIL",
@@ -316,50 +367,6 @@
       "recent_news": "Auditor Change Puts Regencell Bioscience Governance And Cash Runway In Focus | Taiwan Semiconductor Upgraded, Eli Lilly Downgraded: Updated Rankings on Top Blue-Chip Stocks | Here's Why I Wouldn't Touch Regencell Bioscience With a 10‑Foot Pole Right Now"
     },
     {
-      "ticker": "GOSS",
-      "score": 43.1,
-      "last_close": 0.14,
-      "rel_volume": 2.51,
-      "price_change_pct": -2.78,
-      "gap_pct": -2.71,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 68487424,
-      "float_shares": 137909882,
-      "cash_debt_ratio": 0.49,
-      "insider_pct": 1.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Gossamer Bio (GOSS) Stock Fair Value Moves Lower After Mixed Analyst Target Changes | Gossamer Bio (GOSS) Stock Faces Mixed Analyst Target Changes On Funding Risk | Gossamer Bio Inc (GOSS) Q1 2026 Earnings Call Highlights: Strategic Debt Reduction and ..."
-    },
-    {
-      "ticker": "TGB",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 1.14,
-      "price_change_pct": NaN,
-      "gap_pct": 12.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TRVI",
-      "score": 52.4,
-      "last_close": 17.91,
-      "rel_volume": 1.07,
-      "price_change_pct": 8.41,
-      "gap_pct": 7.93,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2542856704,
-      "float_shares": 118774545,
-      "cash_debt_ratio": 251.88,
-      "insider_pct": 0.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters. | Trevi Therapeutics Maps Haduvio Chronic Cough Push, Sees Cash Runway Into 2030 | Trevi Therapeutics, Inc. Q1 2026 Earnings Call Summary"
-    },
-    {
       "ticker": "ONDS",
       "score": 49.1,
       "last_close": 7.36,
@@ -377,23 +384,6 @@
       "recent_news": "Can Ondas Drive Growth Through AI-Powered Defense Systems? | ONDS Stock Extends Six-Week Slide – But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low | Ondas Snaps Up DZYNE in $875M Deal, Boosts Autonomous Defense Revenue Target"
     },
     {
-      "ticker": "TSHA",
-      "score": 44.9,
-      "last_close": 5.7,
-      "rel_volume": 1.18,
-      "price_change_pct": 5.95,
-      "gap_pct": 6.69,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1637957760,
-      "float_shares": 205945896,
-      "cash_debt_ratio": 4.03,
-      "insider_pct": 9.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Taysha's R&D Chief Sold $1.2 Million in Stock After a 149% Run | Taysha Advances Rett Syndrome Programme as Pivotal Trial Enrollment Completes (TSHA) | Taysha Gene Therapies (TSHA) Stock Looks Undervalued After Sharp Three Year Recovery"
-    },
-    {
       "ticker": "SPCE",
       "score": 44.1,
       "last_close": 2.61,
@@ -408,7 +398,24 @@
       "insider_pct": 0.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks | SpaceX Falls 6% Despite Wave of Bullish Analyst Initiations, Rocket Lab Dives 10%, AST SpaceMobile Drops 6%, Virgin Galactic Declines 5% | Chamath Palihapitiya Announces $135 Million Funding, Rare CEO Title For 8090: ‘AI Can Be The Grand Equalizer’"
+      "recent_news": "Traders Bet There's An 88% Chance The S&P 500 Will Plunge Soon | SpaceX Went Nowhere for a Month, but It Easily Beat Other Space Stocks | SpaceX Falls 6% Despite Wave of Bullish Analyst Initiations, Rocket Lab Dives 10%, AST SpaceMobile Drops 6%, Virgin Galactic Declines 5%"
+    },
+    {
+      "ticker": "GOSS",
+      "score": 43.1,
+      "last_close": 0.14,
+      "rel_volume": 2.51,
+      "price_change_pct": -2.78,
+      "gap_pct": -2.71,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 68487424,
+      "float_shares": 137909882,
+      "cash_debt_ratio": 0.49,
+      "insider_pct": 1.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "Gossamer Bio (GOSS) Stock Fair Value Moves Lower After Mixed Analyst Target Changes | Gossamer Bio (GOSS) Stock Faces Mixed Analyst Target Changes On Funding Risk | Gossamer Bio Inc (GOSS) Q1 2026 Earnings Call Highlights: Strategic Debt Reduction and ..."
     },
     {
       "ticker": "NXDR",
@@ -440,8 +447,8 @@
       "float_shares": 158826861,
       "cash_debt_ratio": 1.39,
       "insider_pct": 4.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "1 Cash-Heavy Stock to Target This Week and 2 Facing Headwinds | ACV Auctions, Fiverr, and Remitly Shares Are Falling, What You Need To Know | 2 Reasons to Avoid ACVA and 1 Stock to Buy Instead"
     },
     {
@@ -462,23 +469,6 @@
       "recent_news": "1 Stock Under $10 Worth Investigating and 2 Facing Headwinds | Getty Images, SAIC, Cognex, Hewlett Packard Enterprise, and IBM Shares Skyrocket, What You Need To Know | 3 Small-Cap Stocks We Keep Off Our Radar"
     },
     {
-      "ticker": "JOBY",
-      "score": 40.8,
-      "last_close": 7.89,
-      "rel_volume": 1.22,
-      "price_change_pct": 5.48,
-      "gap_pct": 5.01,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 7760942080,
-      "float_shares": 662326078,
-      "cash_debt_ratio": 3.3,
-      "insider_pct": 32.6,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "JOBY Stock: Flying High or Overpriced Sci-Fi? | JOBY, EQT, XE Stocks Hit 52-Week Lows Last Week: What Drove The Selloff? | Toyota (TSE:7203) Stock Looks Above Fair Value While Earnings Sit Below Fair Value"
-    },
-    {
       "ticker": "OPENL",
       "score": 39.6,
       "last_close": 0.248,
@@ -494,23 +484,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Opendoor Technologies (OPEN) Stock Jumps 10.7%: Will It Continue to Soar? | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout | Opendoor Technologies (OPEN) Gains on Strong Housing Data And Improved Unit Economics, Can It Go Higher?"
-    },
-    {
-      "ticker": "LZM",
-      "score": 39.1,
-      "last_close": 3.55,
-      "rel_volume": 0.52,
-      "price_change_pct": 6.61,
-      "gap_pct": 6.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 323793024,
-      "float_shares": 33388307,
-      "cash_debt_ratio": 0.39,
-      "insider_pct": 57.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "All You Need to Know About Lifezone Metals Limited (LZM) Rating Upgrade to Buy | Is BUNGE GLOBAL SA (BG) Stock Outpacing Its Basic Materials Peers This Year? | Wall Street Analysts Think Lifezone Metals Limited (LZM) Could Surge 69.55%: Read This Before Placing a Bet"
     },
     {
       "ticker": "SLDP",
@@ -543,8 +516,8 @@
       "cash_debt_ratio": 2.59,
       "insider_pct": 1.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 13,
-      "recent_news": "Nu Holdings Ltd. (NU) Outpaces Stock Market Gains: What You Should Know | Nubank's Mexico Business Just Passed 15 Million Customers. Here's Why It's the Real Growth Story. | GGAL vs. NU: Which Stock Is the Better Value Option?"
+      "recent_dilution_filings_90d": 14,
+      "recent_news": "3 Growth Stocks to Add to Your Roster | Nu Holdings Ltd. (NU) Outpaces Stock Market Gains: What You Should Know | Nubank's Mexico Business Just Passed 15 Million Customers. Here's Why It's the Real Growth Story."
     },
     {
       "ticker": "NEXA",
@@ -561,7 +534,7 @@
       "insider_pct": 66.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "5 Low Price-to-Book Value Stocks to Buy in July for Solid Returns | Will Aripuana's Record Q1'26 Zinc Output Aid NEXA's Long-Term Growth? | Buy These 4 Value Stocks as Middle East Tensions Rattle Markets Again"
+      "recent_news": "Zacks.com featured highlights Harmony, StoneCo, General Motors, Invesco and Nexa | Zacks.com featured highlights Harmony, StoneCo, General Motors, Hewlett and Nexa | 5 Low Price-to-Book Value Stocks to Buy in July for Solid Returns"
     },
     {
       "ticker": "OPTU",
@@ -576,63 +549,9 @@
       "float_shares": 262236009,
       "cash_debt_ratio": 0.04,
       "insider_pct": 9.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Spotting Winners: Optimum Communications (NYSE:OPTU) And Consumer Discretionary - Wireless, Cable and Satellite Stocks In Q1 | Optimum Communications (OPTU) Stock Is Up, What You Need To Know | 3 Small-Cap Stocks That Concern Us"
-    },
-    {
-      "ticker": "TMC",
-      "score": 30.2,
-      "last_close": 4.18,
-      "rel_volume": 0.55,
-      "price_change_pct": 4.76,
-      "gap_pct": 4.76,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2332116224,
-      "float_shares": 242707810,
-      "cash_debt_ratio": null,
-      "insider_pct": 47.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "Why's Everyone Getting Excited About The Metals Company? | TMC The Metals (TMC) Stock Looks Stretched Given Its Early Stage Risks | TMC The Metals (TMC) Wins Faster U.S. Permitting Path For Deep Sea Mining"
-    },
-    {
-      "ticker": "AEVA",
-      "score": 30.1,
-      "last_close": 19.82,
-      "rel_volume": 0.38,
-      "price_change_pct": 5.37,
-      "gap_pct": 4.73,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1338547584,
-      "float_shares": 36764776,
-      "cash_debt_ratio": 0.97,
-      "insider_pct": 18.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
-      "recent_news": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares? | Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group? | The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026"
-    },
-    {
-      "ticker": "AARD",
-      "score": 29.3,
-      "last_close": 6.26,
-      "rel_volume": 0.89,
-      "price_change_pct": 5.03,
-      "gap_pct": 1.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "JELD",
-      "score": 29.0,
-      "last_close": 1.23,
-      "rel_volume": 0.36,
-      "price_change_pct": 5.13,
-      "gap_pct": 4.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
     },
     {
       "ticker": "ORC",
@@ -665,16 +584,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GENI",
-      "score": 21.0,
-      "last_close": 6.42,
-      "rel_volume": 0.53,
-      "price_change_pct": -2.87,
-      "gap_pct": -3.1,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PATH",
       "score": 20.2,
       "last_close": 11.94,
@@ -685,22 +594,140 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "MARA",
-      "score": 17.9,
-      "last_close": 12.16,
-      "rel_volume": 1.34,
-      "price_change_pct": -0.25,
-      "gap_pct": -0.78,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CMPS",
       "score": 16.3,
       "last_close": 13.39,
       "rel_volume": 0.68,
       "price_change_pct": 1.55,
       "gap_pct": 1.9,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TBLA",
+      "score": 13.0,
+      "last_close": 5.49,
+      "rel_volume": 0.53,
+      "price_change_pct": -1.44,
+      "gap_pct": -1.26,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TGB",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 1.14,
+      "price_change_pct": NaN,
+      "gap_pct": 12.68,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TMC",
+      "score": 30.2,
+      "last_close": 4.18,
+      "rel_volume": 0.55,
+      "price_change_pct": 4.76,
+      "gap_pct": 4.76,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2332116224,
+      "float_shares": 242707810,
+      "cash_debt_ratio": null,
+      "insider_pct": 47.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "Why's Everyone Getting Excited About The Metals Company? | TMC The Metals (TMC) Stock Looks Stretched Given Its Early Stage Risks | TMC The Metals (TMC) Wins Faster U.S. Permitting Path For Deep Sea Mining"
+    },
+    {
+      "ticker": "TROX",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 0.78,
+      "price_change_pct": NaN,
+      "gap_pct": 1.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TRVI",
+      "score": 52.4,
+      "last_close": 17.91,
+      "rel_volume": 1.07,
+      "price_change_pct": 8.41,
+      "gap_pct": 7.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2542856704,
+      "float_shares": 118774545,
+      "cash_debt_ratio": 251.88,
+      "insider_pct": 0.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Trevi Therapeutics Is Up 100%, Pivotal bioVenture Adds Anyway. Here's Why That Matters. | Trevi Therapeutics Maps Haduvio Chronic Cough Push, Sees Cash Runway Into 2030 | Trevi Therapeutics, Inc. Q1 2026 Earnings Call Summary"
+    },
+    {
+      "ticker": "TSHA",
+      "score": 44.9,
+      "last_close": 5.7,
+      "rel_volume": 1.18,
+      "price_change_pct": 5.95,
+      "gap_pct": 6.69,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1637957760,
+      "float_shares": 205945896,
+      "cash_debt_ratio": 4.03,
+      "insider_pct": 9.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Taysha's R&D Chief Sold $1.2 Million in Stock After a 149% Run | Taysha Advances Rett Syndrome Programme as Pivotal Trial Enrollment Completes (TSHA) | Taysha Gene Therapies (TSHA) Stock Looks Undervalued After Sharp Three Year Recovery"
+    },
+    {
+      "ticker": "AEVA",
+      "score": 30.1,
+      "last_close": 19.82,
+      "rel_volume": 0.38,
+      "price_change_pct": 5.37,
+      "gap_pct": 4.73,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1338547584,
+      "float_shares": 36764776,
+      "cash_debt_ratio": 0.97,
+      "insider_pct": 18.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Is Aeva Technologies a Stock to Sell After Its CFO Unloaded 11,000 Shares? | Which Robotics Supply Chain Stock Has Dominated in 2026: Ouster, Aeva, or Vishay Precision Group? | The First Major Robotics IPO Is Here: 5 Robotics Stocks That Could Run in the Second Half of 2026"
+    },
+    {
+      "ticker": "JELD",
+      "score": 29.0,
+      "last_close": 1.23,
+      "rel_volume": 0.36,
+      "price_change_pct": 5.13,
+      "gap_pct": 4.7,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GENI",
+      "score": 21.0,
+      "last_close": 6.42,
+      "rel_volume": 0.53,
+      "price_change_pct": -2.87,
+      "gap_pct": -3.1,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "MARA",
+      "score": 17.9,
+      "last_close": 12.16,
+      "rel_volume": 1.34,
+      "price_change_pct": -0.25,
+      "gap_pct": -0.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -721,26 +748,6 @@
       "rel_volume": 1.27,
       "price_change_pct": 0.32,
       "gap_pct": 0.16,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CWH",
-      "score": 15.3,
-      "last_close": 6.18,
-      "rel_volume": 1.01,
-      "price_change_pct": 0.65,
-      "gap_pct": 0.81,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GSBD",
-      "score": 11.4,
-      "last_close": 8.9,
-      "rel_volume": 0.47,
-      "price_change_pct": 1.02,
-      "gap_pct": 1.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
