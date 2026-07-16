@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-07-16T06:38:40.552066+00:00",
-  "tickers_scanned": 68,
+  "last_updated_utc": "2026-07-16T12:12:07.116631+00:00",
+  "tickers_scanned": 70,
   "results": [
     {
       "ticker": "ANGO",
@@ -12,8 +12,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 598079680,
-      "float_shares": 34622274,
-      "cash_debt_ratio": null,
+      "float_shares": 34320349,
+      "cash_debt_ratio": 4.92,
       "insider_pct": 12.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -54,23 +54,6 @@
       "recent_news": "Packaging, Forest Products Face Lackluster Demand, Weak Volumes, BofA Says | Apple, IBM downgraded: Wall Street's top analyst calls | Apogee Q1 Earnings Beat Estimates on Pricing, Productivity Gains"
     },
     {
-      "ticker": "GWH",
-      "score": 74.1,
-      "last_close": 1.02,
-      "rel_volume": 2.92,
-      "price_change_pct": 17.24,
-      "gap_pct": 18.97,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 29976952,
-      "float_shares": 25341400,
-      "cash_debt_ratio": 1.0,
-      "insider_pct": 10.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 16,
-      "recent_news": "ESS Tech launches 1.2-MWh sodium-ion battery ‘building block’ system | AI’s Energy Crunch Has Investors Searching for Next IPO Winners | Exclusive: ESS Tech speeds up sodium-ion development on $1bn opportunity pipeline"
-    },
-    {
       "ticker": "LCID",
       "score": 74.1,
       "last_close": 5.95,
@@ -85,7 +68,24 @@
       "insider_pct": 10.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Stock Market Today, July 15: Lucid Spikes 29% After Dismissing Bankruptcy and Take-Private Rumors | Stock Market Today, July 15: Markets Rise on Cooler Inflation and Strong Earnings Start | Lucid (LCID) Denies Bankruptcy Rumors While Reshaping Leadership And Operations"
+      "recent_news": "Lucid Stock, Down About 44% This Year, Skyrockets Over 28% After CEO Goes on the Offensive Against Bankruptcy Report: 'So Far From the Facts…' | Lucid Group (LCID) Moves 28.8% Higher: Will This Strength Last? | Stock Market Today, July 15: Lucid Spikes 29% After Dismissing Bankruptcy and Take-Private Rumors"
+    },
+    {
+      "ticker": "LESL",
+      "score": 70.3,
+      "last_close": 2.97,
+      "rel_volume": 2.6,
+      "price_change_pct": -10.0,
+      "gap_pct": -8.79,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 27797560,
+      "float_shares": 9126491,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 6.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "3 Reasons to Avoid LESL and 1 Stock to Buy Instead | A Look Back at Consumer Retail Stocks’ Q1 Earnings: Leslie's (NASDAQ:LESL) Vs The Rest Of The Pack | 3 Unpopular Stocks We Steer Clear Of"
     },
     {
       "ticker": "MESO",
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2362217728,
-      "float_shares": 83383668,
+      "float_shares": 82506189,
       "cash_debt_ratio": 0.96,
       "insider_pct": 5.0,
       "dilution_risk": "주의",
@@ -122,6 +122,23 @@
       "recent_news": "Why MINISO Group Holding Limited Unsponsored ADR (MNSO) Outpaced the Stock Market Today | MINISO Group Holding Limited Unsponsored ADR (MNSO) Stock Moves -3.78%: What You Should Know | Here’s Why MINISO (MNSO) is Among the 10 Fastest Growing Asian Stocks to Buy Now"
     },
     {
+      "ticker": "SMWB",
+      "score": 65.9,
+      "last_close": 7.31,
+      "rel_volume": 2.22,
+      "price_change_pct": 10.76,
+      "gap_pct": 10.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 640360000,
+      "float_shares": 41161742,
+      "cash_debt_ratio": 1.66,
+      "insider_pct": 17.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google stock price faces major AI test ahead of earnings | Google holds steady as Claude, Gemini surge in June user growth | Google Traffic Grows Even as AI Rivals Explode"
+    },
+    {
       "ticker": "ANNX",
       "score": 63.8,
       "last_close": 6.5,
@@ -137,6 +154,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Annexon Eyes ‘Win Season’ With Q4 Vision Trial Data, GBS Filings Ahead | Exploring 3 High Growth Tech Stocks in the US Market | Annexon Maps 3 Big Pipeline Catalysts Ahead of Q4 Vision-Drug Readout"
+    },
+    {
+      "ticker": "STTK",
+      "score": 58.1,
+      "last_close": 6.77,
+      "rel_volume": 1.86,
+      "price_change_pct": 7.63,
+      "gap_pct": 6.68,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 646590272,
+      "float_shares": 46847962,
+      "cash_debt_ratio": 31.3,
+      "insider_pct": 4.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate | Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK) | Why Shattuck Labs Stock Soared More Than 53% Higher This Week"
     },
     {
       "ticker": "MRVI",
@@ -182,7 +216,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1778764800,
-      "float_shares": 205945896,
+      "float_shares": 205974632,
       "cash_debt_ratio": 4.03,
       "insider_pct": 9.6,
       "dilution_risk": "높음",
@@ -236,8 +270,8 @@
       "float_shares": 725642509,
       "cash_debt_ratio": 0.12,
       "insider_pct": 1.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 24,
       "recent_news": "Why Are Compass (COMP) Shares Soaring Today | D-Wave Quantum Stock Surges 42.9% in a Year: What's Driving the Rally? | CMPS Stock Climbs After-Hours: Analyst Sees Depression Drug Approval By H1 2027 Or Sooner After Strong Trial Data"
     },
     {
@@ -288,8 +322,25 @@
       "cash_debt_ratio": 0.01,
       "insider_pct": 3.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 805,
+      "recent_dilution_filings_90d": 806,
       "recent_news": "Dave & Buster's (PLAY) Down 17.4% Since Last Earnings Report: Can It Rebound? | 3 Reasons to Sell PLAY and 1 Stock to Buy Instead | 3 Small-Cap Stocks with Questionable Fundamentals"
+    },
+    {
+      "ticker": "MQ",
+      "score": 50.0,
+      "last_close": 17.37,
+      "rel_volume": 1.01,
+      "price_change_pct": 7.69,
+      "gap_pct": 7.59,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1827359616,
+      "float_shares": 95158763,
+      "cash_debt_ratio": 96.67,
+      "insider_pct": 6.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "BILL, Marqeta, and Upland Software Shares Skyrocket, What You Need To Know | How Investors May Respond To Marqeta (MQ) As AI-Focused Flows Shift Toward Payments Software | Marqeta (MQ) Rises On Software Rotation As Its Rich Valuation Stays In Focus"
     },
     {
       "ticker": "UAMY",
@@ -360,23 +411,6 @@
       "recent_news": "Cantor Taps Securitize to Support Onchain Initial Public Offerings | Securitize (SECZ): Leading the Charge in Tokenization and Digital Securities | Is Securitize (SECZ) Fairly Valued Following Its Continental Tokenization Partnership?"
     },
     {
-      "ticker": "GTN",
-      "score": 46.7,
-      "last_close": 4.06,
-      "rel_volume": 1.17,
-      "price_change_pct": 6.56,
-      "gap_pct": 6.69,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 417118112,
-      "float_shares": 82203184,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 7.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Why Is Gray Television (GTN) Stock Rocketing Higher Today | Investors Heavily Search Gray Media Inc. (GTN): Here is What You Need to Know | Gray Media (GTN) Stock Sinks As Market Gains: What You Should Know"
-    },
-    {
       "ticker": "MAAS",
       "score": 45.8,
       "last_close": 16.57,
@@ -445,23 +479,6 @@
       "recent_news": "Atlassian, Sprout Social, and Flywire Stocks Trade Up, What You Need To Know | 3 Growth Stocks to Stash | Can Flywire's B2B Opportunity Accelerate Growth?"
     },
     {
-      "ticker": "NPWR",
-      "score": 45.1,
-      "last_close": 1.55,
-      "rel_volume": 1.26,
-      "price_change_pct": 5.44,
-      "gap_pct": 7.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 136994880,
-      "float_shares": 46154021,
-      "cash_debt_ratio": 86.76,
-      "insider_pct": 50.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "NET Power (NPWR) Among Barclays Key Gas Power Generation Picks | NET Power Leads The Charge With 2 Other Penny Stocks | NET Power Inc (NPWR) Q1 2026 Earnings Call Highlights: Strong Financial Position and Strategic ..."
-    },
-    {
       "ticker": "ONDS",
       "score": 44.4,
       "last_close": 7.05,
@@ -474,8 +491,8 @@
       "float_shares": 463473629,
       "cash_debt_ratio": 88.49,
       "insider_pct": 1.9,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Can Draganfly Capitalize on the Global Shift Toward Drone Automation? | Can Ondas Drive Growth Through AI-Powered Defense Systems? | ONDS Stock Extends Six-Week Slide – But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low"
     },
     {
@@ -492,7 +509,7 @@
       "cash_debt_ratio": 0.75,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3348,
+      "recent_dilution_filings_90d": 3359,
       "recent_news": "Opendoor Technologies (OPEN) Stock Jumps 10.7%: Will It Continue to Soar? | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout | Opendoor Technologies (OPEN) Gains on Strong Housing Data And Improved Unit Economics, Can It Go Higher?"
     },
     {
@@ -525,8 +542,8 @@
       "float_shares": 73162360,
       "cash_debt_ratio": 0.27,
       "insider_pct": 2.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Is the Options Market Predicting a Spike in N-able Stock? | Is N-able (NABL) One of the Best Value Penny Stocks to Buy According to Hedge Funds? | N-able (NABL) Launches Shadow AI Visibility to Monitor Unauthorized AI Usage"
     },
     {
@@ -539,7 +556,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 371946848,
-      "float_shares": 262236009,
+      "float_shares": 262803010,
       "cash_debt_ratio": 0.04,
       "insider_pct": 9.3,
       "dilution_risk": "낮음",
@@ -559,9 +576,26 @@
       "float_shares": 153325824,
       "cash_debt_ratio": 0.01,
       "insider_pct": 37.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "New Fortress Energy vs. ONEOK: Which Energy Stock Is a Better Buy in 2026? | Sector Update: Energy Stocks Fall Late Afternoon | Sector Update: Energy Stocks Fall Thursday Afternoon"
+    },
+    {
+      "ticker": "EBS",
+      "score": 36.6,
+      "last_close": 7.89,
+      "rel_volume": 0.91,
+      "price_change_pct": 5.2,
+      "gap_pct": 5.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 407094784,
+      "float_shares": 49384363,
+      "cash_debt_ratio": 0.27,
+      "insider_pct": 3.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Emergent BioSolutions Inc. (EBS) Gains Attention as ACAM2000 Receives Broader Public Health Authorization | Emergent BioSolutions Shares Turnaround Update at 2026 Annual Meeting; All Proposals Approved | Emergent BioSolutions Inc. Q1 2026 Earnings Call Summary"
     },
     {
       "ticker": "BMBL",
@@ -661,8 +695,8 @@
       "float_shares": 570258963,
       "cash_debt_ratio": 0.04,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 35,
       "recent_news": "Can AMC's Debt Restructuring Unlock Further Interest Savings? | IBM downgraded, Cava upgraded: Wall Street's top analyst calls | Here Are Wednesday’s Top Wall Street Analyst Research Calls: Allstate, AMC Entertainment, Boeing, CAVA Group, Check Point Software, Digital Realty Trust, FedEx, IBM, UPS, and More"
     },
     {
@@ -700,23 +734,6 @@
       "recent_news": "Xeris Biopharma (XERS) Moves 6.8% Higher: Will This Strength Last? | Is Xeris Biopharma Holdings, Inc. (XERS) Stock Positioned for Long-Term Growth With Extended Keveyis Exclusivity? | Jim Cramer Blesses a Caller’s Speculative Investment in Xeris Biopharma"
     },
     {
-      "ticker": "TWO",
-      "score": 30.7,
-      "last_close": 12.09,
-      "rel_volume": 2.59,
-      "price_change_pct": -0.17,
-      "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1270010240,
-      "float_shares": 104007425,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 1.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4682,
-      "recent_news": "Can UWM Holdings (UWMC) Still Look Like A Bargain As Its Two Harbors Bid Fails? | UWM Holdings (UWMC) Stock Has Room To Run Due To Cheap Valuation | Two Harbors Investment (TWO) Stock Looks Fairly Priced But Sales Look Expensive"
-    },
-    {
       "ticker": "CSIQ",
       "score": 30.6,
       "last_close": 15.84,
@@ -729,8 +746,8 @@
       "float_shares": 47389662,
       "cash_debt_ratio": 0.2,
       "insider_pct": 29.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "How Is First Solar Expanding Its Manufacturing Asset Base? | What The Market Refuses To Pay For FSLR | Is Canadian Solar (CSIQ) Undervalued Following New Storage Deals And Russell Index Inclusion?"
     },
     {
@@ -754,12 +771,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "BMNR",
+      "score": 29.2,
+      "last_close": 15.79,
+      "rel_volume": 1.06,
+      "price_change_pct": -3.07,
+      "gap_pct": -3.84,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "SOFI",
       "score": 29.1,
       "last_close": 17.87,
       "rel_volume": 0.86,
       "price_change_pct": -3.67,
       "gap_pct": -4.04,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GCTS",
+      "score": 26.7,
+      "last_close": 2.31,
+      "rel_volume": 0.69,
+      "price_change_pct": -3.35,
+      "gap_pct": -4.39,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -804,22 +841,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TROX",
-      "score": 19.2,
-      "last_close": 6.07,
-      "rel_volume": 0.85,
-      "price_change_pct": -1.94,
-      "gap_pct": -1.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PRGO",
       "score": 18.5,
       "last_close": 10.15,
       "rel_volume": 0.64,
       "price_change_pct": 2.53,
       "gap_pct": 1.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GETY",
+      "score": 18.2,
+      "last_close": 0.629,
+      "rel_volume": 0.15,
+      "price_change_pct": -3.38,
+      "gap_pct": -3.15,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -874,22 +911,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "HL",
-      "score": 16.0,
-      "last_close": 15.46,
-      "rel_volume": 1.28,
-      "price_change_pct": -0.26,
-      "gap_pct": -0.16,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "DNUT",
       "score": 15.9,
       "last_close": 3.32,
       "rel_volume": 1.26,
       "price_change_pct": -0.3,
       "gap_pct": -0.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NAT",
+      "score": 15.9,
+      "last_close": 6.16,
+      "rel_volume": 0.49,
+      "price_change_pct": -2.07,
+      "gap_pct": -1.99,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -920,16 +957,6 @@
       "rel_volume": 0.37,
       "price_change_pct": 1.99,
       "gap_pct": 1.66,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TBLA",
-      "score": 13.6,
-      "last_close": 5.44,
-      "rel_volume": 0.72,
-      "price_change_pct": -0.91,
-      "gap_pct": -1.28,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
