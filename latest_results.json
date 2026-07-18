@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-18T14:39:04.897135+00:00",
+  "last_updated_utc": "2026-07-18T18:09:59.705586+00:00",
   "tickers_scanned": 68,
   "results": [
     {
@@ -136,7 +136,7 @@
       "insider_pct": 2.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
-      "recent_news": "Is Venture Global’s (VG) Fiduciary Probe Quietly Reframing Its Management Credibility Narrative? | Venture Global (VG) Stock Looks About Right On Fresh LNG Contract News | Will ExxonMobil's Expanding LNG Portfolio Drive Long-Term Growth?"
+      "recent_news": "Is Venture Global (VG) Cheap As Legal Scrutiny Meets Its LNG Growth Story? | Is Venture Global’s (VG) Fiduciary Probe Quietly Reframing Its Management Credibility Narrative? | Venture Global (VG) Stock Looks About Right On Fresh LNG Contract News"
     },
     {
       "ticker": "MMED",
@@ -334,7 +334,7 @@
       "gap_pct": 6.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 546658112,
+      "market_cap": null,
       "float_shares": 37244745,
       "cash_debt_ratio": 0.08,
       "insider_pct": 5.2,
@@ -657,7 +657,7 @@
       "gap_pct": 5.79,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 245126176,
+      "market_cap": 245760944,
       "float_shares": 39512584,
       "cash_debt_ratio": 0.04,
       "insider_pct": 8.9,
@@ -674,7 +674,7 @@
       "gap_pct": 3.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1328743936,
+      "market_cap": null,
       "float_shares": 571021791,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.2,
