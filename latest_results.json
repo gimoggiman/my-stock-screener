@@ -1,24 +1,7 @@
 {
-  "last_updated_utc": "2026-07-18T18:09:59.705586+00:00",
-  "tickers_scanned": 68,
+  "last_updated_utc": "2026-07-18T21:38:34.418100+00:00",
+  "tickers_scanned": 69,
   "results": [
-    {
-      "ticker": "AMWL",
-      "score": 75.0,
-      "last_close": 13.23,
-      "rel_volume": 4.22,
-      "price_change_pct": 20.82,
-      "gap_pct": 20.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 221053216,
-      "float_shares": 11723507,
-      "cash_debt_ratio": 45.43,
-      "insider_pct": 5.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "American Well (AMWL) Soars 11.1%: Is Further Upside Left in the Stock? | American Well (AMWL) Moves 9.4% Higher: Will This Strength Last? | Are Medical Stocks Lagging  Butterfly Network (BFLY) This Year?"
-    },
     {
       "ticker": "CNF",
       "score": 75.0,
@@ -156,23 +139,6 @@
       "recent_news": "This Undervalued Medical-Devices Stock Is Poised for a Rebound | A Look At MiniMed Group (MMED) Valuation After Recent Share Price Volatility | Medtronic Bottoms, Healthy Rebound Ahead"
     },
     {
-      "ticker": "FUN",
-      "score": 55.2,
-      "last_close": 17.53,
-      "rel_volume": 1.46,
-      "price_change_pct": -7.59,
-      "gap_pct": -7.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1791635200,
-      "float_shares": 85508928,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 2.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 26,
-      "recent_news": "Here’s What Northcoast Thinks About Six Flags Entertainment (FUN) | Six Flags Entertainment (FUN) Names A New COO But Is The Upside Already Priced In | Caesars vs. Six Flags: Which Leisure Entertainment Stock Is a Better Buy in 2026?"
-    },
-    {
       "ticker": "IOVA",
       "score": 53.8,
       "last_close": 5.0,
@@ -204,7 +170,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "SELLAS Life Sciences Group (SLS) Stock Looks Rich On Book Value Yet Strong On Returns | SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz | Sellas Life (SLS) Climbs 12% Ahead of ‘Potentially Company-Defining’ Clinical Trial Result"
+      "recent_news": "Will Near-Complete REGAL Phase 3 GPS Data and New Executive Terms Change SELLAS Life Sciences Group's (SLS) Narrative | SELLAS Life Sciences Group (SLS) Stock Looks Rich On Book Value Yet Strong On Returns | SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz"
     },
     {
       "ticker": "ENHA",
@@ -306,7 +272,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Naming billion dollar companies isn’t just vibes, here’s the science behind it. | OpenAI Targets 2026 AI Speaker Launch as Apple Lawsuit Looms | OpenAI steps into the living room: Screen-free smart speaker sinks Sonos shares"
+      "recent_news": "OpenAI Hardware Pivot Sends Blunt Warning to Audio Giant. How to Play Hard-Hit Sonos Stock Here. | Naming billion dollar companies isn’t just vibes, here’s the science behind it. | OpenAI Targets 2026 AI Speaker Launch as Apple Lawsuit Looms"
     },
     {
       "ticker": "ITG",
@@ -324,6 +290,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 54,
       "recent_news": "ITG (ITG) Stock Looks Undervalued Even As Broader Checks Stay Cautious | ITG Raises $312.2 Million After IPO Prices Below Range"
+    },
+    {
+      "ticker": "KLTR",
+      "score": 47.0,
+      "last_close": 1.39,
+      "rel_volume": 1.25,
+      "price_change_pct": 6.92,
+      "gap_pct": 5.77,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 209020880,
+      "float_shares": 86530138,
+      "cash_debt_ratio": 1.39,
+      "insider_pct": 35.3,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Innoviz Technologies Among 3 Compelling Penny Stocks To Consider | US$3.50 - That's What Analysts Think Kaltura, Inc. (NASDAQ:KLTR) Is Worth After These Results | Is Netskope Stock a Buy After Sapphire Ventures Purchased 5.7 Million Shares?"
     },
     {
       "ticker": "WNC",
@@ -428,6 +411,23 @@
       "recent_news": "Can Draganfly Capitalize on the Global Shift Toward Drone Automation? | Can Ondas Drive Growth Through AI-Powered Defense Systems? | ONDS Stock Extends Six-Week Slide – But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low"
     },
     {
+      "ticker": "CWH",
+      "score": 41.9,
+      "last_close": 6.18,
+      "rel_volume": 0.98,
+      "price_change_pct": -5.5,
+      "gap_pct": -7.1,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 392552256,
+      "float_shares": 54687993,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 2.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "3 Reasons CWH is Risky and 1 Stock to Buy Instead | Camping World Holdings (CWH) Stock Sees Fair Value Cut As Analysts Trim Targets | 1 Stock Under $10 for Long-Term Investors and 2 Facing Headwinds"
+    },
+    {
       "ticker": "EROC",
       "score": 39.7,
       "last_close": 10.81,
@@ -479,6 +479,23 @@
       "recent_news": "AtaiBeckley acquisition highlights growing Big Pharma interest in psychedelics | AtaiBeckley (ATAI) After Eli Lillys Bid Still Looks Fully Valued | Eli Lilly's $3.8bn psychedelics bet is built on British science"
     },
     {
+      "ticker": "RERE",
+      "score": 36.3,
+      "last_close": 3.87,
+      "rel_volume": 0.57,
+      "price_change_pct": -5.84,
+      "gap_pct": -6.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 857169600,
+      "float_shares": 131455947,
+      "cash_debt_ratio": 3.51,
+      "insider_pct": 9.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "ATRenew Touts Recycling Scale, 32% Revenue Growth and Bigger Trade-In Ambitions | ATRenew And Two Insider-Favored Growth Stocks To Watch | ATRenew Inc. Just Beat EPS By 13%: Here's What Analysts Think Will Happen Next"
+    },
+    {
       "ticker": "ACRS",
       "score": 35.8,
       "last_close": 5.68,
@@ -513,23 +530,6 @@
       "recent_news": "Kyverna Therapeutics Sinks 13%: Here’s Why | How Cabaletta Bio (CABA) Is Turning Rese-cel Enrollment and New Financing Into a Clearer Autoimmune Cell Therapy Setup | FDA Clears Imviva’s Dual-Target CAR-T for Autoimmune Diseases"
     },
     {
-      "ticker": "OXSQ",
-      "score": 35.7,
-      "last_close": 1.46,
-      "rel_volume": 0.91,
-      "price_change_pct": -4.89,
-      "gap_pct": -5.21,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 153385040,
-      "float_shares": null,
-      "cash_debt_ratio": 0.27,
-      "insider_pct": 6.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Oxford Square’s 21% Yield Masks a Crumbling Portfolio | Oxford Square Capital Q1 Earnings Call Highlights | Oxford Square’s 22% Yield Masks a Dangerous Math Problem"
-    },
-    {
       "ticker": "VTEX",
       "score": 35.6,
       "last_close": 4.2,
@@ -547,21 +547,21 @@
       "recent_news": "VTEX or SE: Which Is the Better Value Stock Right Now? | BrilliA And 2 Other Penny Stocks To Consider For Your Watchlist | LTF: VTEX Co-Founder & Co-CEO Geraldo Thomaz"
     },
     {
-      "ticker": "CCRN",
-      "score": 35.1,
-      "last_close": 13.24,
-      "rel_volume": 5.22,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.04,
+      "ticker": "WTI",
+      "score": 34.0,
+      "last_close": 3.49,
+      "rel_volume": 1.03,
+      "price_change_pct": 4.8,
+      "gap_pct": 3.75,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 427737856,
-      "float_shares": 29697549,
-      "cash_debt_ratio": 51.68,
-      "insider_pct": 7.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Cross Country Healthcare Clears Key Hurdle as Stockholders Approve Merger | Cross Country Healthcare to be taken private by PE firm for $437M | Cross Country Healthcare (CCRN) Reports Q1 Loss, Beats Revenue Estimates"
+      "market_cap": 519234176,
+      "float_shares": 97254493,
+      "cash_debt_ratio": 0.37,
+      "insider_pct": 36.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 29,
+      "recent_news": "BATL, TPET, WTI, XOM, USO Stocks Climb Amid Escalating US-Iran Conflict: Oil Nears $80 A Barrel | Eni Teams Up With Mercuria to Boost Global Energy Trading Footprint | E Launches New Compression Project to Sustain Bahr Essalam Gas Output"
     },
     {
       "ticker": "AAL",
@@ -612,7 +612,7 @@
       "insider_pct": 32.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "eVTOL Stocks Like Archer Aviation Team Up For New Charging Network | Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair? | This Beaten-Down Aviation Stock Is Worth a Look Despite Its 46% Decline"
+      "recent_news": "Why Did Joby Aviation Stock Fall Below $10? | eVTOL Stocks Like Archer Aviation Team Up For New Charging Network | Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?"
     },
     {
       "ticker": "HL",
@@ -790,12 +790,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "IMSR",
-      "score": 19.2,
-      "last_close": 4.625,
-      "rel_volume": 0.87,
-      "price_change_pct": -2.12,
-      "gap_pct": -1.27,
+      "ticker": "CSIQ",
+      "score": 19.8,
+      "last_close": 14.95,
+      "rel_volume": 1.0,
+      "price_change_pct": 1.42,
+      "gap_pct": 1.97,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -826,6 +826,26 @@
       "rel_volume": 0.25,
       "price_change_pct": -3.19,
       "gap_pct": -3.24,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TROX",
+      "score": 18.9,
+      "last_close": 5.84,
+      "rel_volume": 1.03,
+      "price_change_pct": 1.21,
+      "gap_pct": 1.65,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NAT",
+      "score": 18.5,
+      "last_close": 6.05,
+      "rel_volume": 0.64,
+      "price_change_pct": -2.42,
+      "gap_pct": -1.85,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -900,6 +920,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GENI",
+      "score": 12.6,
+      "last_close": 6.3,
+      "rel_volume": 0.94,
+      "price_change_pct": 0.32,
+      "gap_pct": -0.32,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "F",
       "score": 12.3,
       "last_close": 14.23,
@@ -940,32 +970,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OPK",
-      "score": 6.9,
-      "last_close": 1.19,
-      "rel_volume": 0.59,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PGEN",
       "score": 6.8,
       "last_close": 4.95,
       "rel_volume": 0.58,
       "price_change_pct": 0.0,
       "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CCO",
-      "score": 4.4,
-      "last_close": 2.42,
-      "rel_volume": 0.23,
-      "price_change_pct": 0.41,
-      "gap_pct": 0.21,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
