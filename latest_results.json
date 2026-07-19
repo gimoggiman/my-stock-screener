@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-07-19T15:34:27.441523+00:00",
-  "tickers_scanned": 69,
+  "last_updated_utc": "2026-07-19T20:00:11.524279+00:00",
+  "tickers_scanned": 67,
   "results": [
     {
       "ticker": "CNF",
@@ -442,7 +442,7 @@
       "insider_pct": 20.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Okta upgraded, Datadog downgraded: Wall Street's top analyst calls | ERock (EROC) Simplified Its Equity Structure And Added An Independent Board After IPO | ERock IPO: A $1.3B Power Play Solution"
+      "recent_news": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound | Okta upgraded, Datadog downgraded: Wall Street's top analyst calls | ERock (EROC) Simplified Its Equity Structure And Added An Independent Board After IPO"
     },
     {
       "ticker": "TALO",
@@ -460,23 +460,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Shell Plc (NYSE:SHEL)  A Top UK Growth Dividend Stock on Asset Divestment Spree | 3 Reasons We Love Talos Energy (TALO) | Diamondback Energy, APA Corporation, and Talos Energy Stocks Trade Up, What You Need To Know"
-    },
-    {
-      "ticker": "ATAI",
-      "score": 37.0,
-      "last_close": 7.22,
-      "rel_volume": 2.82,
-      "price_change_pct": 0.98,
-      "gap_pct": 0.56,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2671070976,
-      "float_shares": 305913371,
-      "cash_debt_ratio": 44.91,
-      "insider_pct": 2.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "AtaiBeckley acquisition highlights growing Big Pharma interest in psychedelics | AtaiBeckley (ATAI) After Eli Lillys Bid Still Looks Fully Valued | Eli Lilly's $3.8bn psychedelics bet is built on British science"
     },
     {
       "ticker": "RERE",
@@ -630,23 +613,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Silver miners slide as spot price drops on Iran tensions | NVRO Metals Partners with Hecla Mining (HL) for Tailings Processing | Silver has plunged 50% from its January peak to $60. Why it could hit $130 next year."
-    },
-    {
-      "ticker": "GRAB",
-      "score": 30.9,
-      "last_close": 3.57,
-      "rel_volume": 0.83,
-      "price_change_pct": -4.29,
-      "gap_pct": -4.16,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 14601298944,
-      "float_shares": 2777069100,
-      "cash_debt_ratio": 3.32,
-      "insider_pct": 19.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 12,
-      "recent_news": "Grab CFO Peter Oey Sells 50,000 Shares | Grab Holdings Limited (GRAB) Declines More Than Market: Some Information for Investors | What Does Morgan Stanley See in Grab Holdings (GRAB) After Raising Its Target ?"
     },
     {
       "ticker": "NNBR",
