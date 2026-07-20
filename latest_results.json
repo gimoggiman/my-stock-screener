@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-07-19T22:38:25.597136+00:00",
-  "tickers_scanned": 67,
+  "last_updated_utc": "2026-07-20T10:26:07.472671+00:00",
+  "tickers_scanned": 68,
   "results": [
     {
       "ticker": "CNF",
@@ -34,7 +34,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Green Plains (GPRE) Shares Skyrocket, What You Need To Know | ALTO Trades at a Discount Despite 344% Rally in a Year: What's Next? | HighPeak Energy, Green Plains, and Gevo Shares Skyrocket, What You Need To Know"
+      "recent_news": "Green Plains (GPRE) Surges 11.7%: Is This an Indication of Further Gains? | Green Plains (GPRE) Shares Skyrocket, What You Need To Know | ALTO Trades at a Discount Despite 344% Rally in a Year: What's Next?"
     },
     {
       "ticker": "TRVI",
@@ -170,7 +170,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Will Near-Complete REGAL Phase 3 GPS Data and New Executive Terms Change SELLAS Life Sciences Group's (SLS) Narrative | SELLAS Life Sciences Group (SLS) Stock Looks Rich On Book Value Yet Strong On Returns | SELLAS Life Sciences Group (SLS) Stock Pricey Following Phase 3 Trial Buzz"
+      "recent_news": "SLS Stock Jumps Ahead Of CEO’s Fox Appearance: Retail Bets AML Readout Could Spark Big Pharma Bidding War | Will Near-Complete REGAL Phase 3 GPS Data and New Executive Terms Change SELLAS Life Sciences Group's (SLS) Narrative | SELLAS Life Sciences Group (SLS) Stock Looks Rich On Book Value Yet Strong On Returns"
     },
     {
       "ticker": "ENHA",
@@ -317,7 +317,7 @@
       "gap_pct": 6.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 546658112,
+      "market_cap": null,
       "float_shares": 37244745,
       "cash_debt_ratio": 0.08,
       "insider_pct": 5.2,
@@ -408,7 +408,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Can Draganfly Capitalize on the Global Shift Toward Drone Automation? | Can Ondas Drive Growth Through AI-Powered Defense Systems? | ONDS Stock Extends Six-Week Slide – But Retail Traders Eye 'Rare Opportunity' At Seven-Month Low"
+      "recent_news": "Ondas Stock Climbs After Seven Weeks In The Red: Retail Hopes For 'Drone Rally' As US-Iran War Rages On | Can Draganfly Capitalize on the Global Shift Toward Drone Automation? | Can Ondas Drive Growth Through AI-Powered Defense Systems?"
     },
     {
       "ticker": "CWH",
@@ -443,6 +443,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound | Okta upgraded, Datadog downgraded: Wall Street's top analyst calls | ERock (EROC) Simplified Its Equity Structure And Added An Independent Board After IPO"
+    },
+    {
+      "ticker": "PRPL",
+      "score": 38.7,
+      "last_close": 7.19,
+      "rel_volume": 0.09,
+      "price_change_pct": -7.26,
+      "gap_pct": -96.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 31526782,
+      "float_shares": 2256434,
+      "cash_debt_ratio": 0.12,
+      "insider_pct": 4.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "3 Reasons to Avoid PRPL and 1 Stock to Buy Instead | Somnigroup, Mohawk Industries, and Purple Stocks Trade Up, What You Need To Know | Bright Horizons, Harley-Davidson, and Purple Stocks Trade Up, What You Need To Know"
     },
     {
       "ticker": "TALO",
@@ -640,7 +657,7 @@
       "gap_pct": 3.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1328743936,
+      "market_cap": null,
       "float_shares": 571021791,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.2,
@@ -662,7 +679,7 @@
       "cash_debt_ratio": 0.05,
       "insider_pct": 11.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 145,
+      "recent_dilution_filings_90d": 144,
       "recent_news": "Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction | Why Sable Offshore (SOC) is One of the Best Strong Buy Penny Stocks to Invest in Now | Sable Offshore (SOC) Is Down 42.3% After Convertible Notes And Equity Sale To Rework Exxon Loan"
     },
     {
