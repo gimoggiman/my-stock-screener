@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-21T20:50:25.621154+00:00",
+  "last_updated_utc": "2026-07-22T00:10:34.991155+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -83,9 +83,26 @@
       "float_shares": 56282728,
       "cash_debt_ratio": 6.1,
       "insider_pct": 88.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Auditor Change Puts Regencell Bioscience Governance And Cash Runway In Focus | Taiwan Semiconductor Upgraded, Eli Lilly Downgraded: Updated Rankings on Top Blue-Chip Stocks | Here's Why I Wouldn't Touch Regencell Bioscience With a 10‑Foot Pole Right Now"
+    },
+    {
+      "ticker": "TIC",
+      "score": 51.7,
+      "last_close": 7.0,
+      "rel_volume": 1.48,
+      "price_change_pct": 7.03,
+      "gap_pct": 6.65,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1547298304,
+      "float_shares": 96948242,
+      "cash_debt_ratio": 0.25,
+      "insider_pct": 11.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Is TIC Solutions, Inc. (TIC) A Good Stock To Buy Now? | Why TIC Solutions, Inc. (TIC) Is a Data Center Cooling Services Play After Its Loan Repricing | Credit Restructuring Bodes Well for TIC Solutions (TIC)"
     },
     {
       "ticker": "CDE",
@@ -105,27 +122,10 @@
       "recent_news": "Silver miners slide as spot price drops on Iran tensions | Coeur Mining (CDE) Stock May Trade At A 47% Discount As Index Inclusion Nears | Will Coeur Mining's Shift Into Russell 1000 Value and Midcap Indices Change Coeur Mining's (CDE) Narrative"
     },
     {
-      "ticker": "TROX",
-      "score": 50.3,
-      "last_close": 6.49,
-      "rel_volume": 0.88,
-      "price_change_pct": 9.08,
-      "gap_pct": 9.66,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1035311360,
-      "float_shares": 118676354,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 25.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Tronox (TROX) Is Up 9.3% After Beating 2025 Sustainability Targets And Advancing Rare Earths Program | Tronox (TROX) Stock After 81% Year To Date Rally Is There Value Left | Tronox (TROX) Down 7.2% Since Last Earnings Report: Can It Rebound?"
-    },
-    {
       "ticker": "PGEN",
-      "score": 49.8,
+      "score": 49.9,
       "last_close": 5.49,
-      "rel_volume": 0.86,
+      "rel_volume": 0.87,
       "price_change_pct": 8.28,
       "gap_pct": 7.89,
       "st_msg_count": null,
@@ -139,10 +139,27 @@
       "recent_news": "What Does the Sale of Precigen Shares Worth $1.1 Million by the CFO Mean for Investors? | Precigen (PGEN) Ends 11.6% Higher — This FDA Approval Could Hold the Reason | Precigen (PGEN) Secures FDA Orphan Drug Exclusivity for PAPZIMEOS"
     },
     {
+      "ticker": "NRGV",
+      "score": 49.4,
+      "last_close": 3.48,
+      "rel_volume": 0.81,
+      "price_change_pct": 15.23,
+      "gap_pct": 14.9,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 630712640,
+      "float_shares": 144097791,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 15.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Citi  Starts Coverage of Energy Vault Holdings, Inc. (NRGV) | Energy Vault Holdings (NRGV) Aiming for Geographic Expansion Through Latest Acquisition | Energy Vault Holdings (NRGV) Stock Sees Modest Fair Value Cut As Analysts Weigh Growth Catalysts"
+    },
+    {
       "ticker": "GOSS",
-      "score": 49.2,
+      "score": 49.3,
       "last_close": 0.155,
-      "rel_volume": 0.79,
+      "rel_volume": 0.8,
       "price_change_pct": 9.79,
       "gap_pct": 8.3,
       "st_msg_count": null,
@@ -173,21 +190,21 @@
       "recent_news": "Cantor Taps Securitize to Support Onchain Initial Public Offerings | Securitize (SECZ): Leading the Charge in Tokenization and Digital Securities | Is Securitize (SECZ) Fairly Valued Following Its Continental Tokenization Partnership?"
     },
     {
-      "ticker": "NRGV",
+      "ticker": "UAMY",
       "score": 48.5,
-      "last_close": 3.48,
+      "last_close": 5.84,
       "rel_volume": 0.73,
-      "price_change_pct": 15.23,
-      "gap_pct": 14.9,
+      "price_change_pct": 8.96,
+      "gap_pct": 8.68,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 630712640,
-      "float_shares": 144097791,
-      "cash_debt_ratio": 0.32,
-      "insider_pct": 15.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Citi  Starts Coverage of Energy Vault Holdings, Inc. (NRGV) | Energy Vault Holdings (NRGV) Aiming for Geographic Expansion Through Latest Acquisition | Energy Vault Holdings (NRGV) Stock Sees Modest Fair Value Cut As Analysts Weigh Growth Catalysts"
+      "market_cap": 865404032,
+      "float_shares": 130281773,
+      "cash_debt_ratio": 39.23,
+      "insider_pct": 8.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push | Nova Minerals Advances U.S. Defense Supply Chain with Antimony Pilot Plant Buildout | Why Shares of United States Antimony Are Soaring This Week"
     },
     {
       "ticker": "TMC",
@@ -219,9 +236,9 @@
       "float_shares": 372989308,
       "cash_debt_ratio": 0.21,
       "insider_pct": 0.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term | Applied Digital Sheds 44%: Buy the Dip or Run? | Why Mara Holdings Stock Crushed the Market on Monday"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "What This MARA Insider Sale Signals as Revenue Fell 18% Amid AI Pivot | What This MARA Insider Sale Signals After a $1.26 Billion Quarterly Loss | Coinbase CEO Brian Armstrong Says Bitcoin Will 'Mostly' Be a Measure of Inflation Fears in the Long Term"
     },
     {
       "ticker": "AVEX",
@@ -239,23 +256,6 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "AEVEX (AVEX) is One of the Best IPO Stocks with Huge Upside Potential, Here’s Why | AEVEX Announces A Win, And Investors Sell | Is AEVEX (AVEX) Still Undervalued After New Defense Contract Wins?"
-    },
-    {
-      "ticker": "UAMY",
-      "score": 47.4,
-      "last_close": 5.84,
-      "rel_volume": 0.63,
-      "price_change_pct": 8.96,
-      "gap_pct": 8.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 865404032,
-      "float_shares": 130281773,
-      "cash_debt_ratio": 39.23,
-      "insider_pct": 8.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push | Nova Minerals Advances U.S. Defense Supply Chain with Antimony Pilot Plant Buildout | Why Shares of United States Antimony Are Soaring This Week"
     },
     {
       "ticker": "CCCC",
@@ -287,8 +287,8 @@
       "float_shares": 85742,
       "cash_debt_ratio": 3.2,
       "insider_pct": 20.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
       "recent_news": "Bank of America Says Recent Pullback Is a Buying Opportunity in These 2 Stocks | J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound | Okta upgraded, Datadog downgraded: Wall Street's top analyst calls"
     },
     {
@@ -310,9 +310,9 @@
     },
     {
       "ticker": "ACVA",
-      "score": 43.0,
+      "score": 44.5,
       "last_close": 7.93,
-      "rel_volume": 0.82,
+      "rel_volume": 0.95,
       "price_change_pct": 7.02,
       "gap_pct": 6.14,
       "st_msg_count": null,
@@ -327,9 +327,9 @@
     },
     {
       "ticker": "SPCE",
-      "score": 43.0,
+      "score": 43.1,
       "last_close": 2.78,
-      "rel_volume": 0.32,
+      "rel_volume": 0.33,
       "price_change_pct": 8.59,
       "gap_pct": 7.62,
       "st_msg_count": null,
@@ -406,15 +406,15 @@
       "float_shares": 196659469,
       "cash_debt_ratio": 0.05,
       "insider_pct": 78.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "1 Stock Under $10 Worth Investigating and 2 Facing Headwinds | Getty Images, SAIC, Cognex, Hewlett Packard Enterprise, and IBM Shares Skyrocket, What You Need To Know | 3 Small-Cap Stocks We Keep Off Our Radar"
     },
     {
       "ticker": "PLUG",
-      "score": 40.3,
+      "score": 40.4,
       "last_close": 2.27,
-      "rel_volume": 0.75,
+      "rel_volume": 0.76,
       "price_change_pct": 6.57,
       "gap_pct": 5.87,
       "st_msg_count": null,
@@ -425,7 +425,7 @@
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 106,
-      "recent_news": "FuelCell Energy Rallies 6% While Bloom Energy Slides 6%, Splitting the Fuel-Cell Trade | Plug Power vs. FuelCell: Both Are Hot in 2026, but Only One Is Worth Buying Now | Plug Power Wins a 50-Megawatt Order in Australia. Here's What It Means for the Hydrogen Stock."
+      "recent_news": "How Long Bloom Energy Stock Sits Underwater | FuelCell Energy Rallies 6% While Bloom Energy Slides 6%, Splitting the Fuel-Cell Trade | Plug Power vs. FuelCell: Both Are Hot in 2026, but Only One Is Worth Buying Now"
     },
     {
       "ticker": "RXRX",
@@ -457,8 +457,8 @@
       "float_shares": 4441396370,
       "cash_debt_ratio": 1.75,
       "insider_pct": 3.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
       "recent_news": "European Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading | GM, Alphabet, IBM Earnings: What to Watch This Week | Is Nokia Stock a Smart Buy Ahead of Q2 Earnings Release?"
     },
     {
@@ -474,8 +474,8 @@
       "float_shares": 137389954,
       "cash_debt_ratio": 0.46,
       "insider_pct": 5.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 9,
       "recent_news": "Sonos (SONO) Soars 5.9%: Is Further Upside Left in the Stock? | Why people are buying an action camera from Amazon over a GoPro by two to one | AI Memory Crunch Hits Hardware Makers"
     },
     {
@@ -525,9 +525,9 @@
       "float_shares": 410040379,
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "PATH or APP: Which AI-driven Tech Stock Should You Bet on? | Is UiPath's Expanding ARR Reinforcing Its Long-Term Growth Story? | UiPath, Inc. (PATH) is Attracting Investor Attention: Here is What You Should Know"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 447,
+      "recent_news": "Stock Market Today, July 21: UiPath Falls 1% Despite Tech Stock Rebound | PATH or APP: Which AI-driven Tech Stock Should You Bet on? | Is UiPath's Expanding ARR Reinforcing Its Long-Term Growth Story?"
     },
     {
       "ticker": "STTK",
@@ -547,6 +547,23 @@
       "recent_news": "Netflix upgraded, Microsoft initiated: Wall Street's top analyst calls | We're Not Very Worried About Shattuck Labs' (NASDAQ:STTK) Cash Burn Rate | Cantor Fitzgerald Initiates Coverage of Shattuck Labs (STTK)"
     },
     {
+      "ticker": "CCRN",
+      "score": 35.5,
+      "last_close": 13.25,
+      "rel_volume": 3.87,
+      "price_change_pct": 0.08,
+      "gap_pct": 0.11,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 428060928,
+      "float_shares": 29697549,
+      "cash_debt_ratio": 51.68,
+      "insider_pct": 7.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Cross Country Healthcare Clears Key Hurdle as Stockholders Approve Merger | Cross Country Healthcare to be taken private by PE firm for $437M | Cross Country Healthcare (CCRN) Reports Q1 Loss, Beats Revenue Estimates"
+    },
+    {
       "ticker": "NAT",
       "score": 35.3,
       "last_close": 6.47,
@@ -562,6 +579,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
       "recent_news": "Oil Tanker Stocks Set Up Amid Trump's Flip-Flop On Hormuz Toll | 5 Dividend Stocks Flashing Warning Signs | Crude Tanker Market Strength Bodes Well for ECO: More Upside Ahead?"
+    },
+    {
+      "ticker": "RIG",
+      "score": 35.3,
+      "last_close": 5.24,
+      "rel_volume": 1.15,
+      "price_change_pct": 4.38,
+      "gap_pct": 4.38,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 5799424000,
+      "float_shares": 916709850,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 9.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 37,
+      "recent_news": "Transocean (RIG): Buy, Sell, or Hold Post Q1 Earnings? | RIG: A Cash Gusher At A Marked-Down Price | Transocean and Noble Corporation Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "KOS",
@@ -581,23 +615,6 @@
       "recent_news": "Kosmos Energy (KOS): One of the Most Undervalued Stocks Under $5 to Buy | SM Energy, Northern Oil and Gas, and Kosmos Energy Shares Are Soaring, What You Need To Know | Is Calumet, Inc. (CLMT) Outperforming Other Oils-Energy Stocks This Year?"
     },
     {
-      "ticker": "RIG",
-      "score": 34.3,
-      "last_close": 5.24,
-      "rel_volume": 1.06,
-      "price_change_pct": 4.38,
-      "gap_pct": 4.38,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 5799424000,
-      "float_shares": 916709850,
-      "cash_debt_ratio": 0.06,
-      "insider_pct": 9.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 37,
-      "recent_news": "Transocean (RIG): Buy, Sell, or Hold Post Q1 Earnings? | RIG: A Cash Gusher At A Marked-Down Price | Transocean and Noble Corporation Shares Are Soaring, What You Need To Know"
-    },
-    {
       "ticker": "NU",
       "score": 34.0,
       "last_close": 14.39,
@@ -610,9 +627,9 @@
       "float_shares": 3759001100,
       "cash_debt_ratio": 2.59,
       "insider_pct": 1.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Nubank Buys Brazilian Bank to Secure Banking License | Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank' | NU Expands Operations: Is Growth Set to Accelerate in Brazil & Mexico?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 13,
+      "recent_news": "OpenAI Expands Board With Fintech, Banking Leaders Ahead Of Potential IPO — Launches ChatGPT Program For Small Businesses | OpenAI Is Adding Two Independent Board Members Ahead of IPO | OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO"
     },
     {
       "ticker": "SOUN",
@@ -633,9 +650,9 @@
     },
     {
       "ticker": "JOBY",
-      "score": 31.0,
+      "score": 31.7,
       "last_close": 7.66,
-      "rel_volume": 1.75,
+      "rel_volume": 1.81,
       "price_change_pct": 2.54,
       "gap_pct": 1.41,
       "st_msg_count": null,
@@ -649,22 +666,22 @@
       "recent_news": "1 eVTOL Stock to Buy, and 1 to Avoid | Price Prediction: Joby Aviation Will End The Year at This Price | Can A Military Drone Save Archer Aviation Stock?"
     },
     {
+      "ticker": "SOFI",
+      "score": 29.6,
+      "last_close": 17.64,
+      "rel_volume": 1.02,
+      "price_change_pct": 3.7,
+      "gap_pct": 3.26,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CMPS",
       "score": 29.3,
       "last_close": 12.18,
       "rel_volume": 0.65,
       "price_change_pct": 4.37,
       "gap_pct": 4.28,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "SOFI",
-      "score": 29.3,
-      "last_close": 17.64,
-      "rel_volume": 1.0,
-      "price_change_pct": 3.7,
-      "gap_pct": 3.26,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -679,20 +696,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "BW",
-      "score": 27.5,
-      "last_close": 10.86,
-      "rel_volume": 0.33,
-      "price_change_pct": 5.13,
-      "gap_pct": 4.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "WTI",
-      "score": 24.6,
+      "score": 25.3,
       "last_close": 3.63,
-      "rel_volume": 0.76,
+      "rel_volume": 0.82,
       "price_change_pct": 3.42,
       "gap_pct": 2.71,
       "st_msg_count": null,
@@ -700,9 +707,9 @@
     },
     {
       "ticker": "GTM",
-      "score": 21.8,
+      "score": 22.2,
       "last_close": 3.02,
-      "rel_volume": 0.54,
+      "rel_volume": 0.58,
       "price_change_pct": -3.51,
       "gap_pct": -2.4,
       "st_msg_count": null,
@@ -759,16 +766,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CWH",
-      "score": 17.7,
-      "last_close": 5.96,
-      "rel_volume": 1.21,
-      "price_change_pct": -1.0,
-      "gap_pct": -0.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "OPEN",
       "score": 15.6,
       "last_close": 4.48,
@@ -789,12 +786,42 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "FUN",
+      "score": 13.9,
+      "last_close": 17.59,
+      "rel_volume": 0.59,
+      "price_change_pct": 1.15,
+      "gap_pct": 1.81,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ORC",
       "score": 13.2,
       "last_close": 6.77,
       "rel_volume": 0.76,
       "price_change_pct": 0.89,
       "gap_pct": 0.82,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OPK",
+      "score": 12.7,
+      "last_close": 1.21,
+      "rel_volume": 0.73,
+      "price_change_pct": 0.83,
+      "gap_pct": 0.83,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "IVR",
+      "score": 11.6,
+      "last_close": 7.91,
+      "rel_volume": 0.95,
+      "price_change_pct": 0.13,
+      "gap_pct": 0.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -809,12 +836,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "IVR",
-      "score": 10.1,
-      "last_close": 7.91,
-      "rel_volume": 0.82,
-      "price_change_pct": 0.13,
-      "gap_pct": 0.06,
+      "ticker": "OXSQ",
+      "score": 10.7,
+      "last_close": 1.47,
+      "rel_volume": 0.86,
+      "price_change_pct": 0.0,
+      "gap_pct": -0.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -829,32 +856,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PRGO",
-      "score": 9.9,
-      "last_close": 10.47,
-      "rel_volume": 0.3,
-      "price_change_pct": -1.13,
-      "gap_pct": -1.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "RGNX",
-      "score": 8.6,
-      "last_close": 10.34,
-      "rel_volume": 0.61,
-      "price_change_pct": 0.19,
-      "gap_pct": 0.48,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "FIGS",
-      "score": 4.3,
-      "last_close": 10.27,
-      "rel_volume": 0.3,
-      "price_change_pct": 0.1,
-      "gap_pct": 0.24,
+      "ticker": "CCO",
+      "score": 5.5,
+      "last_close": 2.4,
+      "rel_volume": 0.33,
+      "price_change_pct": -0.41,
+      "gap_pct": -0.21,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
