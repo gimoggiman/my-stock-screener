@@ -1,16 +1,16 @@
 {
-  "last_updated_utc": "2026-07-22T20:51:39.749506+00:00",
+  "last_updated_utc": "2026-07-23T00:18:05.014339+00:00",
   "tickers_scanned": 67,
   "results": [
     {
       "ticker": "RNWWW",
-      "score": 75.2,
+      "score": 85.0,
       "last_close": 0.003,
       "rel_volume": 3.36,
       "price_change_pct": 30.0,
       "gap_pct": 30.0,
       "st_msg_count": null,
-      "short_volume_ratio_pct": 1.0,
+      "short_volume_ratio_pct": 50.1,
       "market_cap": null,
       "float_shares": 66740051,
       "cash_debt_ratio": 0.1,
@@ -57,7 +57,7 @@
       "ticker": "GWH",
       "score": 63.1,
       "last_close": 0.888,
-      "rel_volume": 4.16,
+      "rel_volume": 4.17,
       "price_change_pct": 5.31,
       "gap_pct": 6.16,
       "st_msg_count": null,
@@ -101,8 +101,8 @@
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 450,
-      "recent_news": "Stock Market Today, July 21: UiPath Falls 1% Despite Tech Stock Rebound | PATH or APP: Which AI-driven Tech Stock Should You Bet on? | Is UiPath's Expanding ARR Reinforcing Its Long-Term Growth Story?"
+      "recent_dilution_filings_90d": 441,
+      "recent_news": "UiPath (PATH) Dips More Than Broader Market: What You Should Know | Stock Market Today, July 21: UiPath Falls 1% Despite Tech Stock Rebound | PATH or APP: Which AI-driven Tech Stock Should You Bet on?"
     },
     {
       "ticker": "KODK",
@@ -122,6 +122,23 @@
       "recent_news": "Kodak's portable photo printers for smartphones work instantly and start at just $80 | HP, Intel, and Xerox Are All Chasing the Same Comeback. History Says Only One Survives | Are You Making the Kodak Mistake?"
     },
     {
+      "ticker": "KOS",
+      "score": 51.7,
+      "last_close": 2.65,
+      "rel_volume": 1.0,
+      "price_change_pct": 9.5,
+      "gap_pct": 9.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1571951616,
+      "float_shares": 571021791,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 2.2,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "3 Cash-Burning Stocks We Approach with Caution | Kosmos Energy (KOS): One of the Most Undervalued Stocks Under $5 to Buy | SM Energy, Northern Oil and Gas, and Kosmos Energy Shares Are Soaring, What You Need To Know"
+    },
+    {
       "ticker": "CRSR",
       "score": 51.1,
       "last_close": 10.6,
@@ -137,23 +154,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Corsair Gaming (CRSR) Following A Downgrade Is Fair Value Still Out Of Reach | AI Is Transforming the Personal Computing Experience. This Stock Will Profit. | Take-Two Interactive's 'GTA VI' Pricing Suggests Incremental Upside to Financials, B. Riley Says"
-    },
-    {
-      "ticker": "KOS",
-      "score": 50.8,
-      "last_close": 2.65,
-      "rel_volume": 0.93,
-      "price_change_pct": 9.5,
-      "gap_pct": 9.3,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1571951616,
-      "float_shares": 571021791,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "3 Cash-Burning Stocks We Approach with Caution | Kosmos Energy (KOS): One of the Most Undervalued Stocks Under $5 to Buy | SM Energy, Northern Oil and Gas, and Kosmos Energy Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "SSMR",
@@ -203,7 +203,7 @@
       "cash_debt_ratio": 0.26,
       "insider_pct": null,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
+      "recent_dilution_filings_90d": 5,
       "recent_news": "National Steel Q1 Earnings Miss Estimates on Softer Steel Demand | National Steel Q1 Earnings Call Highlights | Companhia Siderurgica Nacional (SID) Q1 2026 Earnings Call Highlights: Record Iron Ore ..."
     },
     {
@@ -238,7 +238,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Red Cat Just Dropped 26% in a Month: Are Drone Stocks Like RCAT, Ondas, Redwire, and AeroVironment Out of Fuel? | Why Ondas Stock Popped Today | Should Ondas’ New Defense Orders and Sentinel Launch Require Action From Ondas (ONDS) Investors?"
+      "recent_news": "Stock Market Today, July 22: Ondas Secures $70 Million in New Orders, Rises 28% Over the Last Week | Red Cat Just Dropped 26% in a Month: Are Drone Stocks Like RCAT, Ondas, Redwire, and AeroVironment Out of Fuel? | Why Ondas Stock Popped Today"
     },
     {
       "ticker": "KRO",
@@ -327,9 +327,9 @@
     },
     {
       "ticker": "XIFR",
-      "score": 39.3,
+      "score": 40.6,
       "last_close": 12.88,
-      "rel_volume": 1.26,
+      "rel_volume": 1.37,
       "price_change_pct": 5.14,
       "gap_pct": 4.57,
       "st_msg_count": null,
@@ -390,7 +390,7 @@
       "cash_debt_ratio": 0.04,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 294,
+      "recent_dilution_filings_90d": 288,
       "recent_news": "2 Profitable Stocks for Long-Term Investors and 1 Facing Headwinds | 5 Value Stocks With Impressive EV-to-EBITDA Ratios to Own Now | 3 Small-Cap Stocks Walking a Fine Line"
     },
     {
@@ -411,21 +411,21 @@
       "recent_news": "LiveWire (LVWR) Acquires Dust Moto Assets | LiveWire Group, Inc. Q1 2026 Earnings Call Summary | LiveWire (LVWR) Q1 2026 Earnings Call Transcript"
     },
     {
-      "ticker": "AARD",
-      "score": 37.1,
-      "last_close": 6.48,
-      "rel_volume": 0.47,
-      "price_change_pct": 6.58,
-      "gap_pct": 5.92,
+      "ticker": "CTNM",
+      "score": 36.7,
+      "last_close": 14.73,
+      "rel_volume": 0.62,
+      "price_change_pct": 5.97,
+      "gap_pct": 5.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 141809344,
-      "float_shares": 10910374,
-      "cash_debt_ratio": 271.43,
-      "insider_pct": 16.1,
+      "market_cap": 550701312,
+      "float_shares": 27588529,
+      "cash_debt_ratio": 35.42,
+      "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Several Insiders Invested In Aardvark Therapeutics Flagging Positive News | Sector Update: Healthcare Stocks Decline Late Afternoon | Top Midday Decliners"
+      "recent_news": "Are You Looking for a Top Momentum Pick? Why Contineum Therapeutics, Inc. (CTNM) is a Great Choice | Are Medical Stocks Lagging  Adagene (ADAG) This Year? | Wall Street Analysts See a 59.96% Upside in Contineum Therapeutics, Inc. (CTNM): Can the Stock Really Move This High?"
     },
     {
       "ticker": "SUPV",
@@ -475,7 +475,7 @@
       "cash_debt_ratio": 9.81,
       "insider_pct": 4.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 1008,
+      "recent_dilution_filings_90d": 993,
       "recent_news": "Nebius vs. C3.ai: Which AI Growth Stock is the Better Buy? | Will Faster Product Innovation Help BBAI Win More Enterprise Clients? | What Does the C3.ai CEO's Sale of Company Shares Worth $4.2 Million Mean for Investors?"
     },
     {
@@ -509,7 +509,7 @@
       "cash_debt_ratio": 0.15,
       "insider_pct": 1.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 163,
+      "recent_dilution_filings_90d": 162,
       "recent_news": "Unpacking Q1 Earnings: Wolverine Worldwide (NYSE:WWW) In The Context Of Other Consumer Discretionary - Footwear Stocks | Is Wolverine World Wide (WWW) Stock Undervalued Right Now? | NIKE's Brand Investments: Building Growth or Hurting Margins?"
     },
     {
@@ -584,20 +584,20 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "FIGS",
-      "score": 28.2,
-      "last_close": 9.92,
-      "rel_volume": 0.93,
-      "price_change_pct": -3.41,
-      "gap_pct": -3.55,
+      "ticker": "OPK",
+      "score": 26.8,
+      "last_close": 1.18,
+      "rel_volume": 1.23,
+      "price_change_pct": -2.48,
+      "gap_pct": -2.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
       "ticker": "BMNR",
-      "score": 25.5,
+      "score": 25.6,
       "last_close": 17.74,
-      "rel_volume": 0.92,
+      "rel_volume": 0.93,
       "price_change_pct": 2.96,
       "gap_pct": 2.96,
       "st_msg_count": null,
@@ -615,9 +615,9 @@
     },
     {
       "ticker": "OPEN",
-      "score": 25.4,
+      "score": 25.5,
       "last_close": 4.38,
-      "rel_volume": 1.29,
+      "rel_volume": 1.3,
       "price_change_pct": -2.23,
       "gap_pct": -1.79,
       "st_msg_count": null,
@@ -644,12 +644,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "HL",
-      "score": 23.6,
-      "last_close": 15.69,
-      "rel_volume": 0.93,
-      "price_change_pct": 2.62,
-      "gap_pct": 2.45,
+      "ticker": "AMC",
+      "score": 22.4,
+      "last_close": 2.25,
+      "rel_volume": 0.73,
+      "price_change_pct": 2.27,
+      "gap_pct": 3.64,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -664,6 +664,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "SOUN",
+      "score": 22.3,
+      "last_close": 6.46,
+      "rel_volume": 1.28,
+      "price_change_pct": -1.45,
+      "gap_pct": -1.53,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "WTI",
       "score": 22.3,
       "last_close": 3.72,
@@ -674,12 +684,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "SOUN",
-      "score": 22.2,
-      "last_close": 6.46,
-      "rel_volume": 1.27,
-      "price_change_pct": -1.45,
-      "gap_pct": -1.53,
+      "ticker": "LAC",
+      "score": 21.8,
+      "last_close": 2.99,
+      "rel_volume": 0.99,
+      "price_change_pct": -2.29,
+      "gap_pct": -1.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -694,32 +704,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ACHR",
+      "score": 21.6,
+      "last_close": 5.18,
+      "rel_volume": 0.95,
+      "price_change_pct": -1.89,
+      "gap_pct": -2.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GTM",
       "score": 21.5,
       "last_close": 2.92,
       "rel_volume": 0.53,
       "price_change_pct": -3.31,
       "gap_pct": -2.65,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "LAC",
-      "score": 21.3,
-      "last_close": 2.99,
-      "rel_volume": 0.95,
-      "price_change_pct": -2.29,
-      "gap_pct": -1.63,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ACHR",
-      "score": 21.0,
-      "last_close": 5.18,
-      "rel_volume": 0.9,
-      "price_change_pct": -1.89,
-      "gap_pct": -2.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -765,9 +765,9 @@
     },
     {
       "ticker": "MARA",
-      "score": 17.3,
+      "score": 17.4,
       "last_close": 12.41,
-      "rel_volume": 0.9,
+      "rel_volume": 0.91,
       "price_change_pct": 1.31,
       "gap_pct": 1.43,
       "st_msg_count": null,
@@ -775,21 +775,11 @@
     },
     {
       "ticker": "NU",
-      "score": 16.6,
+      "score": 17.1,
       "last_close": 14.51,
-      "rel_volume": 1.11,
+      "rel_volume": 1.16,
       "price_change_pct": 0.83,
       "gap_pct": 0.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TROX",
-      "score": 16.3,
-      "last_close": 6.62,
-      "rel_volume": 0.54,
-      "price_change_pct": 2.0,
-      "gap_pct": 2.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -810,6 +800,16 @@
       "rel_volume": 0.4,
       "price_change_pct": -2.05,
       "gap_pct": -2.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "FUN",
+      "score": 14.7,
+      "last_close": 17.28,
+      "rel_volume": 0.43,
+      "price_change_pct": -1.76,
+      "gap_pct": -2.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -845,9 +845,9 @@
     },
     {
       "ticker": "CSIQ",
-      "score": 11.1,
+      "score": 11.3,
       "last_close": 15.4,
-      "rel_volume": 0.72,
+      "rel_volume": 0.74,
       "price_change_pct": 0.2,
       "gap_pct": 1.11,
       "st_msg_count": null,
@@ -855,9 +855,9 @@
     },
     {
       "ticker": "JOBY",
-      "score": 10.6,
+      "score": 10.9,
       "last_close": 7.63,
-      "rel_volume": 0.79,
+      "rel_volume": 0.82,
       "price_change_pct": -0.39,
       "gap_pct": 0.07,
       "st_msg_count": null,
@@ -874,20 +874,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PRGO",
-      "score": 8.6,
-      "last_close": 10.47,
-      "rel_volume": 0.71,
-      "price_change_pct": 0.0,
-      "gap_pct": -0.19,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "UAMY",
-      "score": 6.9,
+      "score": 7.6,
       "last_close": 5.84,
-      "rel_volume": 0.59,
+      "rel_volume": 0.65,
       "price_change_pct": 0.0,
       "gap_pct": 0.0,
       "st_msg_count": null,
@@ -900,6 +890,16 @@
       "rel_volume": 0.17,
       "price_change_pct": -0.68,
       "gap_pct": 1.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CCO",
+      "score": 4.7,
+      "last_close": 2.41,
+      "rel_volume": 0.19,
+      "price_change_pct": 0.42,
+      "gap_pct": 0.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
