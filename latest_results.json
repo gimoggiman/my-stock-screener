@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-07-24T00:15:37.647450+00:00",
+  "last_updated_utc": "2026-07-24T09:43:11.005516+00:00",
   "tickers_scanned": 61,
   "results": [
     {
       "ticker": "ACI",
       "score": 75.0,
       "last_close": 11.44,
-      "rel_volume": 5.94,
+      "rel_volume": 5.95,
       "price_change_pct": -21.64,
       "gap_pct": -22.29,
       "st_msg_count": null,
@@ -17,7 +17,7 @@
       "insider_pct": 1.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Kroger, Dollar Tree, and Grocery Outlet Shares Are Falling, What You Need To Know | Albertsons Companies Inc (ACI) Q1 2026 Earnings Call Highlights: Navigating Challenges with ... | Why Kohl's (KSS) Shares Are Plunging Today"
+      "recent_news": "Albertsons (ACI) Q1 2026 Earnings Call Transcript | Kroger, Dollar Tree, and Grocery Outlet Shares Are Falling, What You Need To Know | Albertsons Companies Inc (ACI) Q1 2026 Earnings Call Highlights: Navigating Challenges with ..."
     },
     {
       "ticker": "CLF",
@@ -32,9 +32,9 @@
       "float_shares": 564379670,
       "cash_debt_ratio": 0.01,
       "insider_pct": 0.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing | Cleveland-Cliffs Inc (CLF) Q2 2026 Earnings Call Highlights: Strong EBITDA Growth and Positive ... | Cleveland-Cliffs Inc. Q2 2026 Earnings Call Summary"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Cleveland-Cliffs (CLF) Climbs 16% on Strong Earnings, Highly Upbeat Outlook | Cleveland-Cliffs (CLF) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates | Stock Market Today, July 23: Cleveland-Cliffs Stock Soars on Robust Steel Demand and Pricing"
     },
     {
       "ticker": "EVH",
@@ -68,7 +68,7 @@
       "insider_pct": 10.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Novocure Flashes A Bullish Signal As It Breaks Out. Have Shares 'Turned A Corner?' | NVCR Stock Surges 28% For Best Day In Over 1.5 Years — What’s Driving The Rally? | NovoCure Ltd (NVCR) Q2 2026 Earnings Call Highlights: Record Revenue and Strategic Growth Amid ..."
+      "recent_news": "Why Did CSX, UNP, NVCR Stocks Surge To 52-Week Highs Today? | Novocure (NVCR) Hits New High on Optimistic Outlook, FDA Approval Hopes | Novocure Flashes A Bullish Signal As It Breaks Out. Have Shares 'Turned A Corner?'"
     },
     {
       "ticker": "OTLY",
@@ -91,7 +91,7 @@
       "ticker": "FEDU",
       "score": 73.8,
       "last_close": 8.12,
-      "rel_volume": 7.89,
+      "rel_volume": 7.76,
       "price_change_pct": 6.84,
       "gap_pct": 3.95,
       "st_msg_count": null,
@@ -119,7 +119,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 20,
-      "recent_news": "QuantumScape Sinks 14%, Solid Power and SES AI Fall as Solid-State Battery Stocks Slide | QuantumScape Q2 Earnings Beat Estimates on Eagle Line Gains | QS Q2 Earnings Call Focuses on Honda and New Markets"
+      "recent_news": "Why Did SPCX, ORCL, QS Stocks Plunge To 52-Week Lows Today? | QuantumScape Sinks 14%, Solid Power and SES AI Fall as Solid-State Battery Stocks Slide | QuantumScape Q2 Earnings Beat Estimates on Eagle Line Gains"
     },
     {
       "ticker": "EQPT",
@@ -164,9 +164,9 @@
       "gap_pct": -4.49,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 35272073216,
-      "float_shares": 2014136680,
-      "cash_debt_ratio": 0.84,
+      "market_cap": 35155218432,
+      "float_shares": 2007463967,
+      "cash_debt_ratio": 0.75,
       "insider_pct": 0.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -174,10 +174,10 @@
     },
     {
       "ticker": "GCL",
-      "score": 56.0,
-      "last_close": 0.486,
-      "rel_volume": 2.21,
-      "price_change_pct": 5.76,
+      "score": 56.5,
+      "last_close": 0.487,
+      "rel_volume": 2.23,
+      "price_change_pct": 5.87,
       "gap_pct": 6.5,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -260,9 +260,9 @@
     {
       "ticker": "CHGG",
       "score": 52.4,
-      "last_close": 0.973,
+      "last_close": 0.97,
       "rel_volume": 1.06,
-      "price_change_pct": 9.33,
+      "price_change_pct": 8.99,
       "gap_pct": 10.54,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -270,8 +270,8 @@
       "float_shares": 102247528,
       "cash_debt_ratio": 1.27,
       "insider_pct": 3.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Stride Stock Falls After Anthropic Announces Claude for Teachers | 3 Small-Cap Stocks with Warning Signs | Chegg, Wayfair, and Angi Shares Are Falling, What You Need To Know"
     },
     {
@@ -311,13 +311,13 @@
     {
       "ticker": "AAL",
       "score": 49.3,
-      "last_close": 13.555,
+      "last_close": 13.56,
       "rel_volume": 0.8,
-      "price_change_pct": -8.35,
+      "price_change_pct": -8.32,
       "gap_pct": -8.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 8965075968,
+      "market_cap": 8973002752,
       "float_shares": 654916790,
       "cash_debt_ratio": 0.23,
       "insider_pct": 1.6,
@@ -340,7 +340,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Nokia Q2 Earnings Call Highlights | Nokia Jumps 6.9% After Q2 Profit Beats Estimates on AI Data Center Demand | Nokia Oyj (NOK) (Q2 2026) Earnings Call Highlights: Strong Sales Growth Amidst Supply Chain ..."
+      "recent_news": "ASTS Stock Eyes Worst Month In Over 2 Years — But 2 Telecom Giants Just Gave Bulls Reasons To Look Past The Selloff | Nokia's Massive AI Orders Overshadow Soft Guidance — BofA Sees 90% Upside | Nokia (NOK) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "GETY",
@@ -378,10 +378,10 @@
     },
     {
       "ticker": "LAB",
-      "score": 42.5,
-      "last_close": 0.875,
+      "score": 44.3,
+      "last_close": 0.88,
       "rel_volume": 0.73,
-      "price_change_pct": 6.74,
+      "price_change_pct": 7.32,
       "gap_pct": 6.9,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -409,6 +409,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "3 Reasons to Sell FTRE and 1 Stock to Buy Instead | Fortrea (FTRE) Stock Still Screens Cheap After Its 248% Run | Is Fortrea Holdings (FTRE) Overvalued After Its Rally To $17.76?"
+    },
+    {
+      "ticker": "VET",
+      "score": 39.4,
+      "last_close": 11.24,
+      "rel_volume": 2.58,
+      "price_change_pct": 1.9,
+      "gap_pct": 1.81,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1721968000,
+      "float_shares": 151758388,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 0.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 30,
+      "recent_news": "Here's Why We're Wary Of Buying Vermilion Energy's (TSE:VET) For Its Upcoming Dividend | Vermilion Energy Inc. (VET) Announces Financial Results for Q1 2026 | Assessing Vermilion Energy (TSX:VET) Valuation After A Strong Year And Recent Share Price Pullback"
     },
     {
       "ticker": "SOUN",
@@ -564,6 +581,23 @@
       "recent_news": "JetBlue (JBLU) Launches Pay Later Partnership And Expands JFK And Fort Lauderdale | Update: Market Chatter: JetBlue Airways Wins Spirit's LaGuardia Slots at Auction | Analysts Estimate JetBlue Airways (JBLU) to Report a Decline in Earnings: What to Look Out for"
     },
     {
+      "ticker": "IVR",
+      "score": 31.0,
+      "last_close": 7.64,
+      "rel_volume": 1.5,
+      "price_change_pct": -2.68,
+      "gap_pct": -2.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 782336000,
+      "float_shares": 92549440,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 0.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "Invesco Mortgage Capital (IVR) Registers a Bigger Fall Than the Market: Important Facts to Note | Here's Why Invesco Mortgage Capital (IVR) Fell More Than Broader Market | Invesco Mortgage Capital (IVR) Rises Higher Than Market: Key Facts"
+    },
+    {
       "ticker": "WTI",
       "score": 29.0,
       "last_close": 3.85,
@@ -575,9 +609,9 @@
     },
     {
       "ticker": "MARA",
-      "score": 28.7,
+      "score": 28.8,
       "last_close": 12.77,
-      "rel_volume": 1.26,
+      "rel_volume": 1.27,
       "price_change_pct": 2.9,
       "gap_pct": 2.62,
       "st_msg_count": null,
@@ -604,16 +638,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TIGR",
-      "score": 25.9,
-      "last_close": 4.87,
-      "rel_volume": 0.81,
-      "price_change_pct": -2.99,
-      "gap_pct": -3.78,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PGEN",
       "score": 25.6,
       "last_close": 5.54,
@@ -635,9 +659,9 @@
     },
     {
       "ticker": "F",
-      "score": 24.6,
+      "score": 24.8,
       "last_close": 14.15,
-      "rel_volume": 1.27,
+      "rel_volume": 1.28,
       "price_change_pct": -1.87,
       "gap_pct": -2.12,
       "st_msg_count": null,
@@ -715,10 +739,10 @@
     },
     {
       "ticker": "OPTU",
-      "score": 18.4,
+      "score": 18.5,
       "last_close": 0.867,
       "rel_volume": 0.35,
-      "price_change_pct": -2.98,
+      "price_change_pct": -3.02,
       "gap_pct": -2.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
@@ -730,16 +754,6 @@
       "rel_volume": 0.52,
       "price_change_pct": -2.41,
       "gap_pct": -2.52,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GOSS",
-      "score": 17.1,
-      "last_close": 0.142,
-      "rel_volume": 0.72,
-      "price_change_pct": -1.72,
-      "gap_pct": -1.79,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -760,6 +774,16 @@
       "rel_volume": 1.25,
       "price_change_pct": 0.38,
       "gap_pct": 0.28,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GOSS",
+      "score": 16.2,
+      "last_close": 0.143,
+      "rel_volume": 0.73,
+      "price_change_pct": -1.38,
+      "gap_pct": -1.79,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -820,16 +844,6 @@
       "rel_volume": 0.9,
       "price_change_pct": -0.49,
       "gap_pct": -0.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TWO",
-      "score": 7.5,
-      "last_close": 12.09,
-      "rel_volume": 0.61,
-      "price_change_pct": -0.08,
-      "gap_pct": -0.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
