@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-07-25T06:06:58.856710+00:00",
+  "last_updated_utc": "2026-07-25T11:04:18.662718+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -12,7 +12,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6806542848,
-      "float_shares": 573863600,
+      "float_shares": 564503733,
       "cash_debt_ratio": 0.01,
       "insider_pct": 0.9,
       "dilution_risk": "높음",
@@ -100,8 +100,8 @@
       "float_shares": 135405224,
       "cash_debt_ratio": 0.25,
       "insider_pct": 2.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "3 Russell 2000 Stocks with Questionable Fundamentals | 8x8, DoubleVerify, and Upstart Shares Are Falling, What You Need To Know | Video Conferencing Q1 Earnings: 8x8 (NASDAQ:EGHT) is the Best in the Biz"
     },
     {
@@ -576,8 +576,8 @@
       "float_shares": 468040721,
       "cash_debt_ratio": 0.05,
       "insider_pct": 18.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Clarivate (CLVT) Deepens French Library Ties But What Does It Reveal About Its Moat? | Clarivate (CLVT) Wins Abes Contract, Is The 45% Undervaluation Case Convincing? | Clarivate (CLVT) to Sell Life Sciences & Healthcare Business to Altaris For $600 Million"
     },
     {
