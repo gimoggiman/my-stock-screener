@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-07-28T20:38:10.723699+00:00",
+  "last_updated_utc": "2026-07-29T00:13:06.141072+00:00",
   "tickers_scanned": 61,
   "results": [
     {
       "ticker": "MPLT",
       "score": 75.0,
       "last_close": 12.31,
-      "rel_volume": 6.53,
+      "rel_volume": 6.6,
       "price_change_pct": 24.28,
       "gap_pct": 21.76,
       "st_msg_count": null,
@@ -34,7 +34,7 @@
       "insider_pct": 49.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "OPKO Health Stock Up as Q2 Earnings & Revenues Beat Estimates | OPKO Health Inc (OPK) Q2 2026 Earnings Call Highlights: Strong Pharmaceutical Growth and ... | OPKO Health Q2 Earnings Call Highlights"
+      "recent_news": "Why Opko Health Stock Surged by 33% on Tuesday | OPKO Health Stock Up as Q2 Earnings & Revenues Beat Estimates | OPKO Health Inc (OPK) Q2 2026 Earnings Call Highlights: Strong Pharmaceutical Growth and ..."
     },
     {
       "ticker": "SEER",
@@ -68,7 +68,7 @@
       "insider_pct": 10.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "JetBlue Advances 9% on Earnings Beat and 2028 Profit Target, Lifting Delta, United, and Southwest | JetBlue Eyes More Aircraft Financing If High Fuel Costs Persist | Boeing Beats on Cash Flow, Books New Charge on Air Force One"
+      "recent_news": "JetBlue Airways Corp (JBLU) Q2 2026 Earnings Call Highlights: Navigating Challenges with ... | JetBlue Advances 9% on Earnings Beat and 2028 Profit Target, Lifting Delta, United, and Southwest | JetBlue Eyes More Aircraft Financing If High Fuel Costs Persist"
     },
     {
       "ticker": "AMBP",
@@ -106,9 +106,9 @@
     },
     {
       "ticker": "LCID",
-      "score": 60.8,
+      "score": 60.9,
       "last_close": 7.9,
-      "rel_volume": 1.78,
+      "rel_volume": 1.79,
       "price_change_pct": 21.54,
       "gap_pct": 21.54,
       "st_msg_count": null,
@@ -119,13 +119,13 @@
       "insider_pct": 10.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Lucid Stock Pops 31%. Thank a Saudi Prince. | Lucid Is Now Up 33% in a Month, Easily Beating Tesla and Rivian. What Will It Take to Get LCID Stock Back to $10? | Why General Motors Stock Could Keep Climbing As A One-Time Bill Fades"
+      "recent_news": "Why Lucid Stock Soared 21.5% Today | Lucid Stock Popped 21%. Thank a Saudi Prince. | Why Is LCID Stock Soaring 23% Today?"
     },
     {
       "ticker": "CLVT",
-      "score": 51.2,
+      "score": 52.6,
       "last_close": 2.4,
-      "rel_volume": 0.96,
+      "rel_volume": 1.08,
       "price_change_pct": 12.68,
       "gap_pct": 12.91,
       "st_msg_count": null,
@@ -151,8 +151,8 @@
       "float_shares": 64498510,
       "cash_debt_ratio": 0.28,
       "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Implied Volatility Surging for VNET Group Stock Options | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Higher in Wednesday Trading"
     },
     {
@@ -174,9 +174,9 @@
     },
     {
       "ticker": "ASAN",
-      "score": 46.1,
+      "score": 47.6,
       "last_close": 8.19,
-      "rel_volume": 1.58,
+      "rel_volume": 1.71,
       "price_change_pct": 5.68,
       "gap_pct": 5.29,
       "st_msg_count": null,
@@ -188,6 +188,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Best Growth Stocks to Buy for July 28th | Asana (ASAN) Upgraded to Buy: Here's What You Should Know | HubSpot, Workday, and Asana Stocks Trade Down, What You Need To Know"
+    },
+    {
+      "ticker": "ATEC",
+      "score": 45.2,
+      "last_close": 9.32,
+      "rel_volume": 0.71,
+      "price_change_pct": 7.5,
+      "gap_pct": 7.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1433316352,
+      "float_shares": 121524309,
+      "cash_debt_ratio": 0.23,
+      "insider_pct": 20.5,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Alphatec vs. Inspire Medical Systems: Which Healthcare Stock Is a Better Buy in 2026? | Here is Why Alphatec (ATEC) is One of the Best Cheap Stocks Under $10 to Buy in June | Alphatec Holdings, Inc. (ATEC): 12 Best Future Stocks to Buy Right Now."
     },
     {
       "ticker": "AMC",
@@ -205,23 +222,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 29,
       "recent_news": "Royal Caribbean Q2 Earnings & Revenues Beat Estimates on Strong Demand | Hilton Q2 Earnings Meet Estimates, Revenues Increase Y/Y | AMC Entertainment (AMC) Soars 10% on Record IMAX Revenue, Thanks to ‘The Odyssey’"
-    },
-    {
-      "ticker": "ATEC",
-      "score": 45.1,
-      "last_close": 9.32,
-      "rel_volume": 0.7,
-      "price_change_pct": 7.5,
-      "gap_pct": 7.21,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1433316352,
-      "float_shares": 121524309,
-      "cash_debt_ratio": 0.23,
-      "insider_pct": 20.5,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Alphatec vs. Inspire Medical Systems: Which Healthcare Stock Is a Better Buy in 2026? | Here is Why Alphatec (ATEC) is One of the Best Cheap Stocks Under $10 to Buy in June | Alphatec Holdings, Inc. (ATEC): 12 Best Future Stocks to Buy Right Now."
     },
     {
       "ticker": "GOSS",
@@ -259,9 +259,9 @@
     },
     {
       "ticker": "PLUG",
-      "score": 43.3,
+      "score": 43.5,
       "last_close": 1.96,
-      "rel_volume": 1.63,
+      "rel_volume": 1.65,
       "price_change_pct": -4.85,
       "gap_pct": -4.85,
       "st_msg_count": null,
@@ -273,6 +273,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 102,
       "recent_news": "Bloom Energy Sinks 13%, FuelCell Drops 7%, Plug Power Falls 4% Ahead of Bloom’s Q2 Report | BE vs. PLUG: Which Alternative Energy Stock Looks More Attractive? | A Moment of Truth, Bankruptcy Fears, or Comeback? Plug Power & Nel ASA Fight for Survival! Will Lahontan Gold See a Technical Breakout?"
+    },
+    {
+      "ticker": "EVH",
+      "score": 41.9,
+      "last_close": 3.74,
+      "rel_volume": 2.61,
+      "price_change_pct": -1.84,
+      "gap_pct": -3.02,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 420679168,
+      "float_shares": 93569625,
+      "cash_debt_ratio": 0.14,
+      "insider_pct": 3.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Why Evolent Health (EVH) Stock Is Nosediving | Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI. | 3 Unprofitable Stocks with Questionable Fundamentals"
     },
     {
       "ticker": "SVV",
@@ -323,7 +340,7 @@
       "insider_pct": 14.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside | 3 energy storage-focused stocks upgraded at Citi | New Strong Buy Stocks for July 21st"
+      "recent_news": "3 Cash-Burning Stocks We Find Risky | FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside | 3 energy storage-focused stocks upgraded at Citi"
     },
     {
       "ticker": "FUN",
@@ -356,7 +373,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 9.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 35,
+      "recent_dilution_filings_90d": 34,
       "recent_news": "Transocean (RIG): Buy, Sell, or Hold Post Q1 Earnings? | RIG: A Cash Gusher At A Marked-Down Price | Transocean and Noble Corporation Shares Are Soaring, What You Need To Know"
     },
     {
@@ -373,7 +390,7 @@
       "cash_debt_ratio": 0.28,
       "insider_pct": 23.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 240,
+      "recent_dilution_filings_90d": 238,
       "recent_news": "TaskUs (TASK) Surges 5.1%: Is This an Indication of Further Gains? | 2 Growth Stocks with All-Star Potential and 1 We Find Risky | TaskUs Top Client Exit Seen Unlikely, Wedbush Says"
     },
     {
@@ -428,6 +445,23 @@
       "recent_news": "Saudi Prince Alwaleed Takes 5% Stake in EV-Maker Lucid | Meta EPS Preview: Can AI Monetization Justify Soaring CAPEX? | The 3 Biggest Reasons to Buy Reddit Stock Before Its July 30 Earnings Report"
     },
     {
+      "ticker": "GTN",
+      "score": 37.6,
+      "last_close": 4.19,
+      "rel_volume": 0.94,
+      "price_change_pct": 5.28,
+      "gap_pct": 5.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 430474144,
+      "float_shares": 82203184,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 7.2,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Gray Media Inc. (GTN) Is a Trending Stock: Facts to Know Before Betting on It | Gray Media (GTN) Rises Higher Than Market: Key Facts | Gray Media (GTN) Declines More Than Market: Some Information for Investors"
+    },
+    {
       "ticker": "TDOC",
       "score": 37.5,
       "last_close": 9.36,
@@ -458,7 +492,7 @@
       "cash_debt_ratio": 1.08,
       "insider_pct": 7.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 185,
+      "recent_dilution_filings_90d": 183,
       "recent_news": "Stocks making big moves yesterday: Kemper, Tenable, Bloom Energy, PagerDuty, and Wix | Why PagerDuty (PD) Stock Is Nosediving | PagerDuty, Asure Software, and Pegasystems Stocks Trade Down, What You Need To Know"
     },
     {
@@ -479,23 +513,6 @@
       "recent_news": "Millionaire Maker or Market Hype? The Honest Truth About TMC The Metals Company. | Here's Why The Metals Company Stock Plunged 28.2% in the First Half of 2026 | Why's Everyone Getting Excited About The Metals Company?"
     },
     {
-      "ticker": "GTN",
-      "score": 36.3,
-      "last_close": 4.19,
-      "rel_volume": 0.83,
-      "price_change_pct": 5.28,
-      "gap_pct": 5.4,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 430474144,
-      "float_shares": 82203184,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 7.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Gray Media Inc. (GTN) Is a Trending Stock: Facts to Know Before Betting on It | Gray Media (GTN) Rises Higher Than Market: Key Facts | Gray Media (GTN) Declines More Than Market: Some Information for Investors"
-    },
-    {
       "ticker": "FOSL",
       "score": 35.2,
       "last_close": 4.44,
@@ -511,23 +528,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Fossil is closing this many more stores in 2026, CEO says | GAP Declines 25% in 3 Months: Time to Buy or Wait for Now? | 44-year-old mall retailer quietly closes 28 stores"
-    },
-    {
-      "ticker": "EVH",
-      "score": 34.2,
-      "last_close": 3.74,
-      "rel_volume": 1.95,
-      "price_change_pct": -1.84,
-      "gap_pct": -3.02,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 420679168,
-      "float_shares": 93569625,
-      "cash_debt_ratio": 0.14,
-      "insider_pct": 3.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Why Evolent Health (EVH) Stock Is Nosediving | Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI. | 3 Unprofitable Stocks with Questionable Fundamentals"
     },
     {
       "ticker": "SMWB",
@@ -578,7 +578,24 @@
       "insider_pct": 11.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Q1 Earnings Highs And Lows: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks | Chegg, Wayfair, and Angi Shares Are Falling, What You Need To Know | Is the Options Market Predicting a Spike in Angi Stock?"
+      "recent_news": "Qorvo (QRVO) Beats Q1 Earnings and Revenue Estimates | Q1 Earnings Highs And Lows: Angi (NASDAQ:ANGI) Vs The Rest Of The Gig Economy Stocks | Chegg, Wayfair, and Angi Shares Are Falling, What You Need To Know"
+    },
+    {
+      "ticker": "NOK",
+      "score": 32.4,
+      "last_close": 8.93,
+      "rel_volume": 1.1,
+      "price_change_pct": -3.77,
+      "gap_pct": -4.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 49852030976,
+      "float_shares": 4443756190,
+      "cash_debt_ratio": 1.53,
+      "insider_pct": 3.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "European Equities Traded in US as ADRs Ease in Tuesday Trading | Why Nokia (HLSE:NOKIA) Is Down 7.1% After AI-RAN Launch and Restructuring-Hit Q2 Profitability – And What's Next | Nokia (HLSE:NOKIA) Stock May Be 24% Undervalued On AI Powered 5G Expansion"
     },
     {
       "ticker": "SABR",
@@ -596,23 +613,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "The Market Thinks Expedia Is Boring. The Cash Flow Says Otherwise | 1 Russell 2000 Stock to Target This Week and 2 Facing Challenges | 3 Small-Cap Stocks We Steer Clear Of"
-    },
-    {
-      "ticker": "NOK",
-      "score": 31.9,
-      "last_close": 8.93,
-      "rel_volume": 1.06,
-      "price_change_pct": -3.77,
-      "gap_pct": -4.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 49852030976,
-      "float_shares": 4443756190,
-      "cash_debt_ratio": 1.53,
-      "insider_pct": 3.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
-      "recent_news": "European Equities Traded in US as ADRs Ease in Tuesday Trading | Why Nokia (HLSE:NOKIA) Is Down 7.1% After AI-RAN Launch and Restructuring-Hit Q2 Profitability – And What's Next | Nokia (HLSE:NOKIA) Stock May Be 24% Undervalued On AI Powered 5G Expansion"
     },
     {
       "ticker": "UAMY",
@@ -646,7 +646,7 @@
       "insider_pct": 1.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Prediction: $1,000 Invested in SoundHound AI Stock Will Be Worth This Much in 1 Year | SoundHound vs. Five9: Which Customer AI Stock Offers Better Growth? | Should You Buy SoundHound AI Stock Before Aug. 5?"
+      "recent_news": "SoundHound AI, Inc. (SOUN) Stock Declines While Market Improves: Some Information for Investors | Prediction: $1,000 Invested in SoundHound AI Stock Will Be Worth This Much in 1 Year | SoundHound vs. Five9: Which Customer AI Stock Offers Better Growth?"
     },
     {
       "ticker": "PATH",
@@ -662,7 +662,7 @@
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 441,
+      "recent_dilution_filings_90d": 438,
       "recent_news": "Marvell Technology vs. UiPath: Which Tech Stock Is a Better Buy in 2026? | UiPath vs. Snowflake: Which Artificial Intelligence Tech Stock Is a Better Buy in 2026? | Top Robotics Stocks Worth Investing Right Now for Solid Returns"
     },
     {
@@ -706,6 +706,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "F",
+      "score": 25.6,
+      "last_close": 14.96,
+      "rel_volume": 1.39,
+      "price_change_pct": 1.91,
+      "gap_pct": 1.84,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CERT",
       "score": 23.6,
       "last_close": 7.91,
@@ -716,12 +726,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "F",
-      "score": 23.5,
-      "last_close": 14.96,
-      "rel_volume": 1.21,
-      "price_change_pct": 1.91,
-      "gap_pct": 1.84,
+      "ticker": "VET",
+      "score": 20.2,
+      "last_close": 10.36,
+      "rel_volume": 0.83,
+      "price_change_pct": -2.08,
+      "gap_pct": -2.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -732,16 +742,6 @@
       "rel_volume": 0.59,
       "price_change_pct": 2.74,
       "gap_pct": 2.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "VET",
-      "score": 19.7,
-      "last_close": 10.36,
-      "rel_volume": 0.79,
-      "price_change_pct": -2.08,
-      "gap_pct": -2.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -776,6 +776,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GENI",
+      "score": 18.5,
+      "last_close": 7.3,
+      "rel_volume": 1.45,
+      "price_change_pct": 0.41,
+      "gap_pct": 0.14,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ONDS",
       "score": 18.4,
       "last_close": 7.86,
@@ -792,16 +802,6 @@
       "rel_volume": 1.06,
       "price_change_pct": 0.91,
       "gap_pct": 1.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GENI",
-      "score": 16.9,
-      "last_close": 7.3,
-      "rel_volume": 1.32,
-      "price_change_pct": 0.41,
-      "gap_pct": 0.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -867,9 +867,9 @@
     },
     {
       "ticker": "GETY",
-      "score": 5.8,
+      "score": 5.9,
       "last_close": 0.408,
-      "rel_volume": 0.22,
+      "rel_volume": 0.23,
       "price_change_pct": -0.87,
       "gap_pct": 0.29,
       "st_msg_count": null,
