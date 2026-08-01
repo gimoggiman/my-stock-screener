@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-01T12:18:09.091970+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-08-01T16:33:23.430091+00:00",
+  "tickers_scanned": 62,
   "results": [
     {
       "ticker": "AMCX",
@@ -54,6 +54,23 @@
       "recent_news": "Santander Brasil (BSBR) Q2 2026 Earnings Call Transcript | Banco Santander (Brasil) SA (BSBR) Q2 2026 Earnings Call Highlights: Navigating Challenges with ... | Banco Santander Brasil Q2 Earnings Call Highlights"
     },
     {
+      "ticker": "CSHR",
+      "score": 75.0,
+      "last_close": 4.9,
+      "rel_volume": 9.33,
+      "price_change_pct": 14.75,
+      "gap_pct": 11.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 645723008,
+      "float_shares": 19425721,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 55.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "DIME Taps Solana’s Role in Prediction Market Boom | Bitcoin ETFs 'Turning a Corner' After Record Bleed Hits $8 Billion | Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts"
+    },
+    {
       "ticker": "NWL",
       "score": 75.0,
       "last_close": 5.6,
@@ -79,7 +96,7 @@
       "gap_pct": 105.64,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 940185792,
+      "market_cap": 941091968,
       "float_shares": 59696762,
       "cash_debt_ratio": 2.41,
       "insider_pct": 2.0,
@@ -173,6 +190,23 @@
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | Why Kingsoft Cloud Holdings Stock Jumped Today | SpaceX initiated, Cloudflare upgraded: Wall Street's top analyst calls"
     },
     {
+      "ticker": "CAPR",
+      "score": 59.8,
+      "last_close": 3.85,
+      "rel_volume": 1.74,
+      "price_change_pct": -8.11,
+      "gap_pct": -7.76,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 222960784,
+      "float_shares": 48549277,
+      "cash_debt_ratio": 18.84,
+      "insider_pct": 9.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CAPR Stock On Track For Worst Week Ever After Regulatory Setback For DMD Therapy | Why did CAPR, LKQ, PSKY Stocks Plunge To 52-Week Lows Today? | Humana upgraded, Las Vegas Sands downgraded: Wall Street's top analyst calls"
+    },
+    {
       "ticker": "TLRY",
       "score": 57.8,
       "last_close": 4.54,
@@ -181,7 +215,7 @@
       "gap_pct": 8.21,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 560493632,
+      "market_cap": 618364288,
       "float_shares": 441345218,
       "cash_debt_ratio": 1.24,
       "insider_pct": 0.8,
@@ -215,13 +249,13 @@
       "gap_pct": 5.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 300206272,
+      "market_cap": 302298048,
       "float_shares": 61656806,
       "cash_debt_ratio": 0.45,
       "insider_pct": 41.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Diana Shipping Q2 Earnings Call Highlights | Diana Shipping Says Genco's Fleet Values Have Declined | Why Genco (GNK) Shares Are Plunging Today"
+      "recent_news": "Genco (GNK) Faces Fresh Valuation Challenge As Diana Escalates Proxy Fight | Diana Shipping Q2 Earnings Call Highlights | Diana Shipping Says Genco's Fleet Values Have Declined"
     },
     {
       "ticker": "QUAD",
@@ -255,7 +289,7 @@
       "insider_pct": 33.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Stronger Q2 Results and R2 Ramp-Up Plans Could Be A Game Changer For Rivian (RIVN) | RIVN Q2 Deep Dive: R2 Launch, Autonomy Investment, and Scaling Challenges | Rivian Automotive Q2 Earnings Call Highlights"
+      "recent_news": "Rivian (RIVN) Stock Sees Modest Fair Value Lift As Analysts Raise Delivery Confidence | Stronger Q2 Results and R2 Ramp-Up Plans Could Be A Game Changer For Rivian (RIVN) | RIVN Q2 Deep Dive: R2 Launch, Autonomy Investment, and Scaling Challenges"
     },
     {
       "ticker": "SEER",
@@ -360,23 +394,6 @@
       "recent_news": "Q1 Earnings Highlights: ProFrac (NASDAQ:ACDC) Vs The Rest Of The Oilfield Services Stocks | Is ProFrac Holding Corp. (ACDC) Stock Outpacing Its Oils-Energy Peers This Year? | 3 Unpopular Stocks with Open Questions"
     },
     {
-      "ticker": "BOOM",
-      "score": 45.6,
-      "last_close": 6.74,
-      "rel_volume": 0.62,
-      "price_change_pct": 7.67,
-      "gap_pct": 7.67,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 138445984,
-      "float_shares": 18068846,
-      "cash_debt_ratio": 0.27,
-      "insider_pct": 7.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 43,
-      "recent_news": "DMC Global Inc (BOOM) (Q2 2026) Earnings Call Highlights: Strong Arcadia Performance Offsets ... | Here's What Key Metrics Tell Us About DMC Global (BOOM) Q2 Earnings | DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates"
-    },
-    {
       "ticker": "AEVA",
       "score": 45.5,
       "last_close": 17.54,
@@ -392,6 +409,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Aeva Technologies, Inc. (AEVA) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Aeva (AEVA) Stock Looks Fully Priced On Sales But Strong On Returns | Gentherm (THRM) Beats Q2 Earnings and Revenue Estimates"
+    },
+    {
+      "ticker": "DDL",
+      "score": 45.0,
+      "last_close": 2.57,
+      "rel_volume": 1.13,
+      "price_change_pct": 6.2,
+      "gap_pct": 6.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 561948800,
+      "float_shares": 119890522,
+      "cash_debt_ratio": 2969.53,
+      "insider_pct": 0.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "3 Promising Penny Stocks With At Least $10M Market Cap | Top Growth Companies With High Insider Ownership May 2026 | Dingdong (Cayman) Ltd. (DDL) Inspires Confidence After Getting Recent Proposals Approved"
     },
     {
       "ticker": "NABL",
@@ -419,7 +453,7 @@
       "gap_pct": 4.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5887965184,
+      "market_cap": null,
       "float_shares": 916709850,
       "cash_debt_ratio": 0.06,
       "insider_pct": 9.3,
@@ -453,7 +487,7 @@
       "gap_pct": 5.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1595679104,
+      "market_cap": null,
       "float_shares": 571021791,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.3,
@@ -607,6 +641,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CWH",
+      "score": 23.4,
+      "last_close": 6.19,
+      "rel_volume": 1.17,
+      "price_change_pct": -1.75,
+      "gap_pct": -2.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AI",
       "score": 22.8,
       "last_close": 9.18,
@@ -727,22 +771,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OPTU",
-      "score": 13.3,
-      "last_close": 0.762,
-      "rel_volume": 0.21,
-      "price_change_pct": 2.97,
-      "gap_pct": 0.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "ONDS",
       "score": 12.4,
       "last_close": 7.49,
       "rel_volume": 0.61,
       "price_change_pct": -1.19,
       "gap_pct": -0.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "IVR",
+      "score": 12.2,
+      "last_close": 7.41,
+      "rel_volume": 1.01,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
