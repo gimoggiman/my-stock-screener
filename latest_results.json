@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-07-31T20:51:46.299646+00:00",
-  "tickers_scanned": 62,
+  "last_updated_utc": "2026-08-01T00:15:25.062954+00:00",
+  "tickers_scanned": 61,
   "results": [
     {
       "ticker": "AMCX",
@@ -68,7 +68,24 @@
       "insider_pct": 1.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Sector Update: Consumer Stocks Mixed Late Afternoon | Update: Equity Markets Rise Intraday Amid Amazon's Post-Earnings Rally | Newell Brands Q2 Earnings Beat on Sales Growth and Tariff Recoveries"
+      "recent_news": "Update: Wall Street Gains Amid Amazon Rally as July Ends Mostly Lower | Sector Update: Consumer Stocks Mixed Late Afternoon | Update: Equity Markets Rise Intraday Amid Amazon's Post-Earnings Rally"
+    },
+    {
+      "ticker": "REPL",
+      "score": 75.0,
+      "last_close": 11.2,
+      "rel_volume": 7.53,
+      "price_change_pct": 107.02,
+      "gap_pct": 105.64,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 941091968,
+      "float_shares": 59696762,
+      "cash_debt_ratio": 2.41,
+      "insider_pct": 2.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment | Top Midday Gainers | Roblox downgraded, Quanta Services upgraded: Wall Street's top analyst calls"
     },
     {
       "ticker": "PWP",
@@ -100,9 +117,9 @@
       "float_shares": null,
       "cash_debt_ratio": 0.27,
       "insider_pct": 6.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Oxford Square Capital Q2 Earnings Call Highlights | Oxford Square’s 21% Yield Masks a Crumbling Portfolio | Oxford Square Capital Q1 Earnings Call Highlights"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Oxford Square Capital Corp. Q2 2026 Earnings Call Summary | Oxford Square Capital Q2 Earnings Call Highlights | Oxford Square’s 21% Yield Masks a Crumbling Portfolio"
     },
     {
       "ticker": "LESL",
@@ -137,23 +154,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | Why Kingsoft Cloud Holdings Stock Jumped Today | SpaceX initiated, Cloudflare upgraded: Wall Street's top analyst calls"
-    },
-    {
-      "ticker": "CAPR",
-      "score": 59.8,
-      "last_close": 3.85,
-      "rel_volume": 1.74,
-      "price_change_pct": -8.11,
-      "gap_pct": -7.76,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 222960784,
-      "float_shares": 48549277,
-      "cash_debt_ratio": 18.84,
-      "insider_pct": 9.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "CAPR Stock On Track For Worst Week Ever After Regulatory Setback For DMD Therapy | Why did CAPR, LKQ, PSKY Stocks Plunge To 52-Week Lows Today? | Humana upgraded, Las Vegas Sands downgraded: Wall Street's top analyst calls"
     },
     {
       "ticker": "TLRY",
@@ -208,9 +208,9 @@
     },
     {
       "ticker": "RIVN",
-      "score": 56.7,
+      "score": 56.8,
       "last_close": 15.22,
-      "rel_volume": 1.43,
+      "rel_volume": 1.44,
       "price_change_pct": -9.57,
       "gap_pct": -8.88,
       "st_msg_count": null,
@@ -221,7 +221,7 @@
       "insider_pct": 33.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Rivian’s turnaround gains traction as R2 demand exceeds expectations | Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off. | What's Going On With Rivian Stock Friday"
+      "recent_news": "Rivian spinoff Also to start delivering e-bikes after months of delays | Stock Market Today, July 31: Rivian Beats Q2 Revenue Estimate as Concerns of Rising Costs Weigh on Stock | Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off."
     },
     {
       "ticker": "DSX",
@@ -275,6 +275,40 @@
       "recent_news": "Sector Update: Healthcare Stocks Gain Late Afternoon | Seer Shares Rally 30% Following Investor Update Ahead of Annual Meeting (SEER) | Seer, Inc. Q1 2026 Earnings Call Summary"
     },
     {
+      "ticker": "AADX",
+      "score": 52.9,
+      "last_close": 18.7,
+      "rel_volume": 1.18,
+      "price_change_pct": 7.72,
+      "gap_pct": 8.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 43889621,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "If You Like SpaceX, You’re Going to Love This SpaceX Supplier | AADX Stock Gains 2% After-Hours — Applied Aerospace & Defense Draws Wave Of Bullish Wall Street Calls | Why Applied Aerospace Stock Is a Buy After the SpaceX Supplier’s Lackluster IPO"
+    },
+    {
+      "ticker": "OIS",
+      "score": 52.8,
+      "last_close": 8.11,
+      "rel_volume": 1.37,
+      "price_change_pct": 6.99,
+      "gap_pct": 7.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 488168576,
+      "float_shares": 53798341,
+      "cash_debt_ratio": 0.55,
+      "insider_pct": 8.0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Oil States International Q2 Earnings Call Highlights | 3 Oilfield Equipment Stocks That Can Thrive Amid Industry Headwinds | Oil States International (OIS) Q2 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "SOC",
       "score": 51.7,
       "last_close": 5.29,
@@ -287,26 +321,9 @@
       "float_shares": 111013174,
       "cash_debt_ratio": 0.05,
       "insider_pct": 11.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction | Why Sable Offshore (SOC) is One of the Best Strong Buy Penny Stocks to Invest in Now | Sable Offshore (SOC) Is Down 42.3% After Convertible Notes And Equity Sale To Rework Exxon Loan"
-    },
-    {
-      "ticker": "AADX",
-      "score": 51.4,
-      "last_close": 18.7,
-      "rel_volume": 1.05,
-      "price_change_pct": 7.72,
-      "gap_pct": 8.41,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 43889621,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": null,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "If You Like SpaceX, You’re Going to Love This SpaceX Supplier | AADX Stock Gains 2% After-Hours — Applied Aerospace & Defense Draws Wave Of Bullish Wall Street Calls | Why Applied Aerospace Stock Is a Buy After the SpaceX Supplier’s Lackluster IPO"
+      "recent_dilution_filings_90d": 147,
+      "recent_news": "Adam Schiff Hits Sable Offshore Over Oil Spill Risk, Then Blasts Trump's Washington Airport Makeover as Gas Prices Climb: 'Cost Is No Object...' | Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction | Why Sable Offshore (SOC) is One of the Best Strong Buy Penny Stocks to Invest in Now"
     },
     {
       "ticker": "ACDC",
@@ -324,23 +341,6 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Q1 Earnings Highlights: ProFrac (NASDAQ:ACDC) Vs The Rest Of The Oilfield Services Stocks | Is ProFrac Holding Corp. (ACDC) Stock Outpacing Its Oils-Energy Peers This Year? | 3 Unpopular Stocks with Open Questions"
-    },
-    {
-      "ticker": "OIS",
-      "score": 49.2,
-      "last_close": 8.11,
-      "rel_volume": 1.06,
-      "price_change_pct": 6.99,
-      "gap_pct": 7.98,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 488168576,
-      "float_shares": 53798341,
-      "cash_debt_ratio": 0.55,
-      "insider_pct": 8.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "3 Oilfield Equipment Stocks That Can Thrive Amid Industry Headwinds | Oil States International (OIS) Q2 2026 Earnings Call Transcript | Oil States International, Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "BETA",
@@ -377,6 +377,23 @@
       "recent_news": "2 Paper and Related Products Stocks Set to Weather Industry Challenges | Mercer International Shareholders Back Board as CEO Flags Tough Markets, Cost-Cut Push | Mercer International (MERC) Loses 22.4% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner"
     },
     {
+      "ticker": "BOOM",
+      "score": 45.6,
+      "last_close": 6.74,
+      "rel_volume": 0.62,
+      "price_change_pct": 7.67,
+      "gap_pct": 7.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 138445984,
+      "float_shares": 18060219,
+      "cash_debt_ratio": 0.27,
+      "insider_pct": 7.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 43,
+      "recent_news": "DMC Global Inc (BOOM) (Q2 2026) Earnings Call Highlights: Strong Arcadia Performance Offsets ... | Here's What Key Metrics Tell Us About DMC Global (BOOM) Q2 Earnings | DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates"
+    },
+    {
       "ticker": "AEVA",
       "score": 45.5,
       "last_close": 17.54,
@@ -392,23 +409,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Aeva Technologies, Inc. (AEVA) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Aeva (AEVA) Stock Looks Fully Priced On Sales But Strong On Returns | Gentherm (THRM) Beats Q2 Earnings and Revenue Estimates"
-    },
-    {
-      "ticker": "DDL",
-      "score": 44.7,
-      "last_close": 2.57,
-      "rel_volume": 1.11,
-      "price_change_pct": 6.2,
-      "gap_pct": 6.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 561948800,
-      "float_shares": 119890522,
-      "cash_debt_ratio": 2969.53,
-      "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "3 Promising Penny Stocks With At Least $10M Market Cap | Top Growth Companies With High Insider Ownership May 2026 | Dingdong (Cayman) Ltd. (DDL) Inspires Confidence After Getting Recent Proposals Approved"
     },
     {
       "ticker": "NABL",
@@ -462,23 +462,6 @@
       "recent_news": "Diamondback Energy, APA Corporation, SM Energy, Kosmos Energy, and CNX Resources Shares Are Soaring, What You Need To Know | Is Calumet, Inc. (CLMT) Stock Outpacing Its Oils-Energy Peers This Year? | 2 Energy Stocks to Own for Decades and 1 That Underwhelm"
     },
     {
-      "ticker": "INR",
-      "score": 33.2,
-      "last_close": 13.16,
-      "rel_volume": 0.77,
-      "price_change_pct": 5.03,
-      "gap_pct": 4.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 246771152,
-      "float_shares": 16283520,
-      "cash_debt_ratio": 0.14,
-      "insider_pct": 12.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "Range Resources (RRC) Beats Q2 Earnings and Revenue Estimates | Texas Capital Initiates Infinity Natural Resources (INR) With a Buy Rating | Infinity Natural’s Ohio Utica Deal Reshapes Growth And Valuation Story"
-    },
-    {
       "ticker": "CERT",
       "score": 32.9,
       "last_close": 8.1,
@@ -496,6 +479,23 @@
       "recent_news": "Bank of America Securities Reiterates Buy Rating on Nvidia (NVDA) | NVIDIA (NVDA): The Best NASDAQ 100 Stock to Buy Other Than SpaceX | AI Chips Today - Certara-NVIDIA Partnership Revolutionizes AI in Drug Development"
     },
     {
+      "ticker": "EVH",
+      "score": 32.5,
+      "last_close": 3.09,
+      "rel_volume": 1.42,
+      "price_change_pct": -2.83,
+      "gap_pct": -3.77,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 347566464,
+      "float_shares": 93569625,
+      "cash_debt_ratio": 0.14,
+      "insider_pct": 3.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "1 Small-Cap Stock for Long-Term Investors and 2 We Brush Off | Tempus AI (TEM) Reports Q2 Loss, Beats Revenue Estimates | Philips Q2 Earnings and Revenues Increase Year over Year, Shares Down"
+    },
+    {
       "ticker": "OPENW",
       "score": 31.2,
       "last_close": 0.328,
@@ -510,7 +510,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Can Opendoor Escape Penny-Stock Limbo? 5 Companies That Could Make the Deal | 3 Cash-Producing Stocks with Questionable Fundamentals | Is Opendoor Technologies (OPEN) Trading At A Premium After Raised Targets?"
+      "recent_news": "3 Stocks Under $10 with Open Questions | Can Opendoor Escape Penny-Stock Limbo? 5 Companies That Could Make the Deal | 3 Cash-Producing Stocks with Questionable Fundamentals"
     },
     {
       "ticker": "GOSS",
@@ -530,21 +530,21 @@
       "recent_news": "Prime Medicine, Inc. (PRME) May Report Negative Earnings: Know the Trend Ahead of Q2 Release | Update: Gossamer Bio Extends Gains Pre-Bell Following New Drug Application Filing Plans for Pulmonary Arterial Hypertension Treatment | Gossamer Bio shares jump after FDA update and seralutinib rights return"
     },
     {
-      "ticker": "EVH",
+      "ticker": "ABEV",
       "score": 30.3,
-      "last_close": 3.09,
-      "rel_volume": 1.23,
-      "price_change_pct": -2.83,
-      "gap_pct": -3.77,
+      "last_close": 3.11,
+      "rel_volume": 2.41,
+      "price_change_pct": -0.32,
+      "gap_pct": -0.64,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 347566464,
-      "float_shares": 93569625,
-      "cash_debt_ratio": 0.14,
-      "insider_pct": 3.2,
+      "market_cap": 48058191872,
+      "float_shares": 4162757639,
+      "cash_debt_ratio": 6.22,
+      "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "1 Small-Cap Stock for Long-Term Investors and 2 We Brush Off | Tempus AI (TEM) Reports Q2 Loss, Beats Revenue Estimates | Philips Q2 Earnings and Revenues Increase Year over Year, Shares Down"
+      "recent_news": "Ambev (ABEV) Q2 2026 Earnings Call Transcript | Ambev SA (ABEV) (Q2 2026) Earnings Call Highlights: Strong Beer Growth and Digital Expansion ... | Ambev Q2 Earnings Call Highlights"
     },
     {
       "ticker": "FLNC",
@@ -553,16 +553,6 @@
       "rel_volume": 0.92,
       "price_change_pct": 3.41,
       "gap_pct": 4.38,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ABEV",
-      "score": 29.2,
-      "last_close": 3.11,
-      "rel_volume": 2.31,
-      "price_change_pct": -0.32,
-      "gap_pct": -0.64,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -587,6 +577,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ULCC",
+      "score": 27.1,
+      "last_close": 6.75,
+      "rel_volume": 0.92,
+      "price_change_pct": -3.3,
+      "gap_pct": -3.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "WTI",
       "score": 27.0,
       "last_close": 3.59,
@@ -597,12 +597,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 26.8,
-      "last_close": 6.75,
-      "rel_volume": 0.9,
-      "price_change_pct": -3.3,
-      "gap_pct": -3.22,
+      "ticker": "UAMY",
+      "score": 24.5,
+      "last_close": 5.07,
+      "rel_volume": 0.76,
+      "price_change_pct": -2.87,
+      "gap_pct": -3.54,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -617,42 +617,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GRAB",
-      "score": 23.4,
-      "last_close": 3.5,
-      "rel_volume": 0.82,
-      "price_change_pct": 2.94,
-      "gap_pct": 2.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "UAMY",
-      "score": 23.2,
-      "last_close": 5.07,
-      "rel_volume": 0.65,
-      "price_change_pct": -2.87,
-      "gap_pct": -3.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PATH",
       "score": 22.1,
       "last_close": 12.76,
       "rel_volume": 0.51,
       "price_change_pct": 3.15,
       "gap_pct": 3.35,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CWH",
-      "score": 20.9,
-      "last_close": 6.19,
-      "rel_volume": 0.95,
-      "price_change_pct": -1.75,
-      "gap_pct": -2.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -667,20 +637,30 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PRGO",
-      "score": 17.2,
-      "last_close": 10.11,
-      "rel_volume": 0.51,
-      "price_change_pct": -1.94,
-      "gap_pct": -2.76,
+      "ticker": "KEEL",
+      "score": 20.2,
+      "last_close": 3.97,
+      "rel_volume": 0.88,
+      "price_change_pct": -1.98,
+      "gap_pct": -1.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "PMT",
+      "score": 17.3,
+      "last_close": 9.43,
+      "rel_volume": 0.97,
+      "price_change_pct": 1.29,
+      "gap_pct": 1.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
       "ticker": "AMC",
-      "score": 16.6,
+      "score": 17.0,
       "last_close": 2.82,
-      "rel_volume": 0.68,
+      "rel_volume": 0.71,
       "price_change_pct": 1.81,
       "gap_pct": 1.62,
       "st_msg_count": null,
@@ -727,12 +707,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PMT",
-      "score": 14.7,
-      "last_close": 9.43,
-      "rel_volume": 0.75,
-      "price_change_pct": 1.29,
-      "gap_pct": 1.02,
+      "ticker": "OPTU",
+      "score": 13.4,
+      "last_close": 0.762,
+      "rel_volume": 0.21,
+      "price_change_pct": 3.0,
+      "gap_pct": 0.86,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -757,12 +737,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OPTU",
-      "score": 12.5,
-      "last_close": 0.762,
-      "rel_volume": 0.13,
-      "price_change_pct": 3.0,
-      "gap_pct": 0.86,
+      "ticker": "DNUT",
+      "score": 13.0,
+      "last_close": 3.18,
+      "rel_volume": 0.74,
+      "price_change_pct": -0.93,
+      "gap_pct": -0.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -787,6 +767,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GTM",
+      "score": 11.1,
+      "last_close": 3.3,
+      "rel_volume": 0.62,
+      "price_change_pct": -0.6,
+      "gap_pct": -1.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NU",
       "score": 11.1,
       "last_close": 14.33,
@@ -797,12 +787,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GTM",
-      "score": 11.0,
-      "last_close": 3.3,
-      "rel_volume": 0.61,
-      "price_change_pct": -0.6,
-      "gap_pct": -1.05,
+      "ticker": "IVR",
+      "score": 10.9,
+      "last_close": 7.41,
+      "rel_volume": 0.9,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
