@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-02T20:16:35.338976+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-08-03T08:52:51.187589+00:00",
+  "tickers_scanned": 60,
   "results": [
     {
       "ticker": "AMCX",
@@ -17,7 +17,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "AMC Networks (AMCX) Shares Skyrocket, What You Need To Know | AMCX Q2 Deep Dive: Netflix Licensing Deal Shapes AMC Networks’ Strategic Shift | Netflix expands 'The Walking Dead' deal, but loses exclusive hold on zombie franchise"
+      "recent_news": "AMC Global Media (AMCX) Stock Gets Fair Value Boost After Netflix Licensing Deal | AMC Networks (AMCX) Shares Skyrocket, What You Need To Know | AMCX Q2 Deep Dive: Netflix Licensing Deal Shapes AMC Networks’ Strategic Shift"
     },
     {
       "ticker": "BHC",
@@ -33,7 +33,7 @@
       "cash_debt_ratio": 0.09,
       "insider_pct": 11.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 163,
+      "recent_dilution_filings_90d": 154,
       "recent_news": "Bausch Health (BHC) Rockets 28% as Q2 Turnaround Fuels Recovery Outlook | Sector Update: Healthcare Stocks Decline Late Afternoon | BHC Q2 Earnings Beat Estimates on Salix and Solta Growth, '26 View Raised"
     },
     {
@@ -54,6 +54,23 @@
       "recent_news": "Santander Brasil (BSBR) Q2 2026 Earnings Call Transcript | Banco Santander (Brasil) SA (BSBR) Q2 2026 Earnings Call Highlights: Navigating Challenges with ... | Banco Santander Brasil Q2 Earnings Call Highlights"
     },
     {
+      "ticker": "CSHR",
+      "score": 75.0,
+      "last_close": 4.9,
+      "rel_volume": 9.33,
+      "price_change_pct": 14.75,
+      "gap_pct": 11.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 645723008,
+      "float_shares": 19425721,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 55.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "DIME Taps Solana’s Role in Prediction Market Boom | Bitcoin ETFs 'Turning a Corner' After Record Bleed Hits $8 Billion | Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts"
+    },
+    {
       "ticker": "NWL",
       "score": 75.0,
       "last_close": 5.6,
@@ -68,7 +85,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why Newell Brands (NWL) Is Up 10.2% After Tariff-Aided Q2 Beat And Higher 2026 Guidance | Newell Brands (NWL) Stock Gets Fair Value Boost As Analysts Weigh Stabilising Demand | Newell Brands (NWL) Secures New Credit Facility On A Narrative That Sees The Stock Undervalued"
+      "recent_news": "Consumer goods giant quietly wows investors after terrible streak | Why Newell Brands (NWL) Is Up 10.2% After Tariff-Aided Q2 Beat And Higher 2026 Guidance | Newell Brands (NWL) Stock Gets Fair Value Boost As Analysts Weigh Stabilising Demand"
     },
     {
       "ticker": "REPL",
@@ -85,7 +102,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why Replimune Group (REPL) Is Up 15.5% After Key FDA Panel Backing For RP1 Data - And What's Next | This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment | Top Midday Gainers"
+      "recent_news": "Why Did REPL, SNOW, NET Stocks Surge To 52-Week Highs Last Week? | Why Replimune Group (REPL) Is Up 15.5% After Key FDA Panel Backing For RP1 Data - And What's Next | This Biotech Stock Soars 107% After Key FDA Panel Vote on Skin Cancer Treatment"
     },
     {
       "ticker": "PWP",
@@ -102,7 +119,7 @@
       "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Perella Weinberg Partners (PWP) Beat Expectations, Is The Valuation Still Too Rich? | Perella Weinberg Partners Q2 2026 Earnings Call Summary | Why Perella Weinberg (PWP) Stock Is Trading Up Today"
+      "recent_news": "Is Perella Weinberg (PWP) Quietly Redefining Its Advisory Franchise With Rising Earnings And New Partners? | Perella Weinberg Partners (PWP) Stock Could Be 20% Undervalued As Earnings Look Pricey | Perella Weinberg Partners (PWP) Beat Expectations, Is The Valuation Still Too Rich?"
     },
     {
       "ticker": "OXSQ",
@@ -173,6 +190,23 @@
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | Why Kingsoft Cloud Holdings Stock Jumped Today | SpaceX initiated, Cloudflare upgraded: Wall Street's top analyst calls"
     },
     {
+      "ticker": "CAPR",
+      "score": 59.8,
+      "last_close": 3.85,
+      "rel_volume": 1.74,
+      "price_change_pct": -8.11,
+      "gap_pct": -7.76,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 222960784,
+      "float_shares": 48549277,
+      "cash_debt_ratio": 18.84,
+      "insider_pct": 9.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CAPR Stock On Track For Worst Week Ever After Regulatory Setback For DMD Therapy | Why did CAPR, LKQ, PSKY Stocks Plunge To 52-Week Lows Today? | Humana upgraded, Las Vegas Sands downgraded: Wall Street's top analyst calls"
+    },
+    {
       "ticker": "TLRY",
       "score": 57.8,
       "last_close": 4.54,
@@ -187,7 +221,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Tilray Brands seen creating long-term value through diversified platform, Jefferies says | Tilray Brands, Inc. Q4 2026 Earnings Call Summary | Tilray Brands Inc (TLRY) Q4 2026 Earnings Call Highlights: Record Revenue and Strategic ..."
+      "recent_news": "Weekly Roundup on the Cannabis Sector & Psychedelic Sector | Tilray Brands seen creating long-term value through diversified platform, Jefferies says | Tilray Brands, Inc. Q4 2026 Earnings Call Summary"
     },
     {
       "ticker": "IRWD",
@@ -288,7 +322,7 @@
       "cash_debt_ratio": 0.05,
       "insider_pct": 11.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 147,
+      "recent_dilution_filings_90d": 145,
       "recent_news": "Adam Schiff Hits Sable Offshore Over Oil Spill Risk, Then Blasts Trump's Washington Airport Makeover as Gas Prices Climb: 'Cost Is No Object...' | Sable Offshore (SOC) Offers Impressive Upside Despite Jefferies’ Target Price Reduction | Why Sable Offshore (SOC) is One of the Best Strong Buy Penny Stocks to Invest in Now"
     },
     {
@@ -321,8 +355,8 @@
       "float_shares": 55494397,
       "cash_debt_ratio": 0.55,
       "insider_pct": 7.9,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Oil States International Q2 Earnings Call Highlights | 3 Oilfield Equipment Stocks That Can Thrive Amid Industry Headwinds | Oil States International (OIS) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -339,7 +373,7 @@
       "cash_debt_ratio": 7.77,
       "insider_pct": 40.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 134,
+      "recent_dilution_filings_90d": 130,
       "recent_news": "Archer Aviation (ACHR) Joins Electric Skyways Push, Is The Stock Trading At A Discount? | Archer Aviation (ACHR) Is Up 8.4% After Electric Skyways, AI Model Anduril VTOL Tie-Up News | BETA's Big Day Out In Farnborough"
     },
     {
@@ -360,23 +394,6 @@
       "recent_news": "Q1 Earnings Highlights: ProFrac (NASDAQ:ACDC) Vs The Rest Of The Oilfield Services Stocks | Is ProFrac Holding Corp. (ACDC) Stock Outpacing Its Oils-Energy Peers This Year? | 3 Unpopular Stocks with Open Questions"
     },
     {
-      "ticker": "BOOM",
-      "score": 45.6,
-      "last_close": 6.74,
-      "rel_volume": 0.62,
-      "price_change_pct": 7.67,
-      "gap_pct": 7.67,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 138445984,
-      "float_shares": 18068846,
-      "cash_debt_ratio": 0.27,
-      "insider_pct": 7.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 43,
-      "recent_news": "DMC Global Inc (BOOM) (Q2 2026) Earnings Call Highlights: Strong Arcadia Performance Offsets ... | Here's What Key Metrics Tell Us About DMC Global (BOOM) Q2 Earnings | DMC Global (BOOM) Q2 Earnings and Revenues Beat Estimates"
-    },
-    {
       "ticker": "AEVA",
       "score": 45.5,
       "last_close": 17.54,
@@ -392,6 +409,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Aeva Technologies, Inc. (AEVA) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Aeva (AEVA) Stock Looks Fully Priced On Sales But Strong On Returns | Gentherm (THRM) Beats Q2 Earnings and Revenue Estimates"
+    },
+    {
+      "ticker": "DDL",
+      "score": 45.0,
+      "last_close": 2.57,
+      "rel_volume": 1.13,
+      "price_change_pct": 6.2,
+      "gap_pct": 6.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 561948800,
+      "float_shares": 119890522,
+      "cash_debt_ratio": 2969.53,
+      "insider_pct": 0.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "3 Promising Penny Stocks With At Least $10M Market Cap | Top Growth Companies With High Insider Ownership May 2026 | Dingdong (Cayman) Ltd. (DDL) Inspires Confidence After Getting Recent Proposals Approved"
     },
     {
       "ticker": "NABL",
@@ -424,7 +458,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 9.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 37,
+      "recent_dilution_filings_90d": 33,
       "recent_news": "4 Energy Stocks That Could Surpass Q2 Earnings Estimates | Transocean (RIG): Buy, Sell, or Hold Post Q1 Earnings? | RIG: A Cash Gusher At A Marked-Down Price"
     },
     {
@@ -441,7 +475,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 0.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 29,
+      "recent_dilution_filings_90d": 28,
       "recent_news": "Vermilion Energy Q2 Earnings Call Highlights | Vermilion Energy Inc (VET) (Q2 2026) Earnings Call Highlights: Record Production and Strong ... | This TSX stock rose 15% this week and analysts see more upside, with the highest price target implying nearly 70%"
     },
     {
@@ -459,7 +493,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings To Watch: Kosmos Energy (KOS) Reports Q2 Results Tomorrow | Diamondback Energy, APA Corporation, SM Energy, Kosmos Energy, and CNX Resources Shares Are Soaring, What You Need To Know | Is Calumet, Inc. (CLMT) Stock Outpacing Its Oils-Energy Peers This Year?"
+      "recent_news": "Kosmos Energy (NYSE:KOS) Beats Expectations in Strong Q2 CY2026 | Earnings To Watch: Kosmos Energy (KOS) Reports Q2 Results Tomorrow | Diamondback Energy, APA Corporation, SM Energy, Kosmos Energy, and CNX Resources Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "CERT",
@@ -494,23 +528,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Small-Cap Stock for Long-Term Investors and 2 We Brush Off | Tempus AI (TEM) Reports Q2 Loss, Beats Revenue Estimates | Philips Q2 Earnings and Revenues Increase Year over Year, Shares Down"
-    },
-    {
-      "ticker": "OPENW",
-      "score": 31.2,
-      "last_close": 0.328,
-      "rel_volume": 0.51,
-      "price_change_pct": 6.15,
-      "gap_pct": 3.24,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 948828125,
-      "cash_debt_ratio": 0.75,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Stocks Under $10 with Open Questions | Can Opendoor Escape Penny-Stock Limbo? 5 Companies That Could Make the Deal | 3 Cash-Producing Stocks with Questionable Fundamentals"
     },
     {
       "ticker": "ABEV",
@@ -617,6 +634,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CWH",
+      "score": 23.4,
+      "last_close": 6.19,
+      "rel_volume": 1.17,
+      "price_change_pct": -1.75,
+      "gap_pct": -2.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AI",
       "score": 22.8,
       "last_close": 9.18,
@@ -713,16 +740,6 @@
       "rel_volume": 0.95,
       "price_change_pct": 0.55,
       "gap_pct": 0.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OPTU",
-      "score": 13.3,
-      "last_close": 0.762,
-      "rel_volume": 0.21,
-      "price_change_pct": 2.97,
-      "gap_pct": 0.86,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
