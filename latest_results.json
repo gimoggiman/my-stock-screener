@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-05T06:15:30.499719+00:00",
+  "last_updated_utc": "2026-08-05T13:20:01.761529+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -12,8 +12,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 580690816,
-      "float_shares": 55804384,
-      "cash_debt_ratio": 73.2,
+      "float_shares": 56477970,
+      "cash_debt_ratio": 70.99,
       "insider_pct": 7.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -28,9 +28,9 @@
       "gap_pct": 24.39,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 591483392,
-      "float_shares": 141261672,
-      "cash_debt_ratio": 0.58,
+      "market_cap": 581492160,
+      "float_shares": 159923159,
+      "cash_debt_ratio": 0.87,
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 47,
@@ -63,7 +63,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 155933888,
-      "float_shares": 84532538,
+      "float_shares": 85133098,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
@@ -96,13 +96,13 @@
       "gap_pct": 14.58,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 9792034816,
-      "float_shares": 1103290348,
+      "market_cap": 9740406784,
+      "float_shares": 1109138195,
       "cash_debt_ratio": 0.63,
       "insider_pct": 22.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "Snap stock jumps 13% on improved advertising, World Cup boost | Tech, Media & Telecom Roundup: Market Talk | Pinterest Earnings And Revenue Beat But Stock Slides Late"
+      "recent_news": "Earnings live updates: Eli Lilly stock pops on upbeat guidance, Uber stock slides | Snap stock jumps 13% on improved advertising, World Cup boost | Who Might Buy Snap If Its Founders Ever Decide to Sell"
     },
     {
       "ticker": "METC",
@@ -187,7 +187,7 @@
       "insider_pct": 14.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 44,
-      "recent_news": "T1 Energy Secures 641MW Solar Module Supply Agreement with Clearway Energy | Nextpower (NXT) Q1 Earnings and Revenues Surpass Estimates | T1 Energy vs. First Solar: Which Solar Stock Has More Upside?"
+      "recent_news": "FTC Solar (FTCI) Reports Q2 Loss, Tops Revenue Estimates | T1 Energy Secures 641MW Solar Module Supply Agreement with Clearway Energy | Nextpower (NXT) Q1 Earnings and Revenues Surpass Estimates"
     },
     {
       "ticker": "GCTS",
@@ -201,7 +201,7 @@
       "market_cap": 202847504,
       "float_shares": 72679543,
       "cash_debt_ratio": 0.12,
-      "insider_pct": 12.3,
+      "insider_pct": 12.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "GCT Semiconductor (GCTS) Shares Strategic Commitment Towards Global AI Infrastructure Buildout | GCT Semiconductor Repositions Connectivity Portfolio to Capture AI Edge Growth (GCTS) | GCT Semiconductor (GCTS): The Best Tech Stock with Huge Upside Potential"
@@ -215,13 +215,13 @@
       "gap_pct": -5.56,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1189802496,
-      "float_shares": 107118678,
-      "cash_debt_ratio": 0.49,
+      "market_cap": 1213404032,
+      "float_shares": 105007777,
+      "cash_debt_ratio": 0.61,
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 28,
-      "recent_news": "Certara (CERT) Q2 2026 Earnings Call Transcript | Certara Q2 Earnings Call Highlights | Certara, Inc. (CERT) Q2 Earnings and Revenues Lag Estimates"
+      "recent_news": "Certara (CERT) Q2 2026 Earnings Call Transcript | Certara, Inc. Q2 2026 Earnings Call Summary | Certara Q2 Earnings Call Highlights"
     },
     {
       "ticker": "SLDP",
@@ -272,7 +272,7 @@
       "insider_pct": 5.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "3 Stocks Under $10 We Think Twice About | EVgo (EVGO): Buy, Sell, or Hold Post Q1 Earnings? | Gentex (GNTX) Tops Q2 Earnings Estimates"
+      "recent_news": "EVgo’s (NASDAQ:EVGO) Q2 CY2026 Sales Beat Estimates But Stock Drops 12.7% | 3 Stocks Under $10 We Think Twice About | EVgo (EVGO): Buy, Sell, or Hold Post Q1 Earnings?"
     },
     {
       "ticker": "TMC",
@@ -356,7 +356,7 @@
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 442,
+      "recent_dilution_filings_90d": 444,
       "recent_news": "Palantir Rockets 16% After Q2 Blowout; C3.ai, UiPath Sit Out the Rally | Tetragon Financial Group Ltd (LSE:TFG) (H1 2026) Earnings Call Highlights: NAV Declines 2. ... | UiPath (PATH) Stock Declines While Market Improves: Some Information for Investors"
     },
     {
@@ -420,12 +420,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1213293824,
-      "float_shares": 112367910,
-      "cash_debt_ratio": 0.11,
+      "float_shares": 134857728,
+      "cash_debt_ratio": 0.14,
       "insider_pct": 1.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "MasterBrand Inc (MBC) (Q2 2026) Earnings Call Highlights: Merger Integration Drives Synergy ... | Spotlight On Undervalued Small Caps With Insider Activity In June 2026 | MasterBrand Director Buys 11,587 Shares Amid Stock's 19% Drop. What It Could Mean"
+      "recent_news": "MasterBrand Q2 Earnings Call Highlights | MasterBrand Inc (MBC) (Q2 2026) Earnings Call Highlights: Merger Integration Drives Synergy ... | Spotlight On Undervalued Small Caps With Insider Activity In June 2026"
     },
     {
       "ticker": "NRGV",
@@ -453,13 +453,13 @@
       "gap_pct": 6.04,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 55378739200,
+      "market_cap": null,
       "float_shares": 4443588231,
       "cash_debt_ratio": 1.53,
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
-      "recent_news": "3 Stocks I'd Build My Portfolio Around if I Were Starting Over Today | Ericsson Earnings Show Strong Margins Despite Slower Revenue Growth | Should You Buy Ericsson or Wait as Value Meets Slower Growth?"
+      "recent_news": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says | 3 Stocks I'd Build My Portfolio Around if I Were Starting Over Today | Ericsson Earnings Show Strong Margins Despite Slower Revenue Growth"
     },
     {
       "ticker": "BW",
@@ -504,7 +504,7 @@
       "gap_pct": -5.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2392180480,
+      "market_cap": null,
       "float_shares": 831630815,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
@@ -572,13 +572,13 @@
       "gap_pct": 0.68,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 15173880832,
-      "float_shares": 2777069100,
-      "cash_debt_ratio": 3.32,
+      "market_cap": 15214799872,
+      "float_shares": 2769600210,
+      "cash_debt_ratio": 3.21,
       "insider_pct": 19.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "Grab Stock Rises 5% on Record Quarter and Buyback | GRAB Q2 Earnings Surpass Estimates, Increase Year Over Year | GRAB Q2 Earnings Call Focuses on Fintech Profitability and Growth"
+      "recent_news": "Grab Holdings Limited Q2 2026 Earnings Call Summary | Grab Stock Rises 5% on Record Quarter and Buyback | GRAB Q2 Earnings Surpass Estimates, Increase Year Over Year"
     },
     {
       "ticker": "OPEN",
@@ -590,11 +590,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3974714880,
-      "float_shares": 948828125,
-      "cash_debt_ratio": 0.75,
+      "float_shares": 955077759,
+      "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3180,
+      "recent_dilution_filings_90d": 3213,
       "recent_news": "Opendoor Technologies Inc (OPEN) (Q2 2026) Earnings Call Highlights: Record Acquisition Growth ... | Opendoor Technologies Inc. (OPEN) Reports Q2 Loss, Misses Revenue Estimates | Opendoor (NASDAQ:OPEN) Reports Sales Below Analyst Estimates In Q2 CY2026 Earnings, Stock Drops"
     },
     {
