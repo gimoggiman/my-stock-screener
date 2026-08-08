@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T11:16:15.163961+00:00",
+  "last_updated_utc": "2026-08-08T14:06:42.657484+00:00",
   "tickers_scanned": 62,
   "results": [
     {
@@ -29,11 +29,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2027261952,
-      "float_shares": 121905813,
-      "cash_debt_ratio": 1.82,
+      "float_shares": 123074167,
+      "cash_debt_ratio": 1.88,
       "insider_pct": 1.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 15,
       "recent_news": "DoubleVerify Stock Jumps 13.1% on $2.15 Billion Nielsen Deal | Nielsen buying DoubleVerify for $2.15 billion | DoubleVerify's Fingerprints Are All Over This Takeover Profile"
     },
     {
@@ -49,8 +49,8 @@
       "float_shares": 55706018,
       "cash_debt_ratio": 0.14,
       "insider_pct": 1.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Embecta Corp (EMBC) (Q3 2026) Earnings Call Highlights: Strong Sequential Recovery and Raised ... | Embecta Q3 Earnings Call Highlights | Embecta (EMBC) Stock Fair Value Moves Lower As Analysts Reset Medtech Expectations"
     },
     {
@@ -80,8 +80,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 328336768,
-      "float_shares": 37233276,
-      "cash_debt_ratio": 0.12,
+      "float_shares": 37354216,
+      "cash_debt_ratio": 0.16,
       "insider_pct": 1.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -131,8 +131,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6487495168,
-      "float_shares": 418025056,
-      "cash_debt_ratio": 3.32,
+      "float_shares": 417653010,
+      "cash_debt_ratio": 3.42,
       "insider_pct": 2.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
@@ -170,7 +170,7 @@
       "insider_pct": 47.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus. | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle"
+      "recent_news": "TMC The Metals (TMC) Could Be 59% Undervalued After Its August 13 Earnings Call Date | Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus."
     },
     {
       "ticker": "IAG",
@@ -187,7 +187,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Iamgold Corp (IAG) (Q2 2026) Earnings Call Highlights: Record Cash Flow and Strategic Expansion ... | Will Iamgold (IAG) Beat Estimates Again in Its Next Earnings Report? | IAMGOLD Corporation (IAG) Strengthens Financial Position with $850M Credit Facility amid 12% Mineral Resource Increase"
+      "recent_news": "Iamgold Q2 Earnings Call Highlights | Iamgold Corp (IAG) (Q2 2026) Earnings Call Highlights: Record Cash Flow and Strategic Expansion ... | Will Iamgold (IAG) Beat Estimates Again in Its Next Earnings Report?"
     },
     {
       "ticker": "TIC",
@@ -386,7 +386,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1039647232,
-      "float_shares": 118807240,
+      "float_shares": 118851956,
       "cash_debt_ratio": 0.06,
       "insider_pct": 25.5,
       "dilution_risk": "낮음",
@@ -454,7 +454,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 508452160,
-      "float_shares": 133232061,
+      "float_shares": 133807983,
       "cash_debt_ratio": 0.29,
       "insider_pct": 5.6,
       "dilution_risk": "주의",
@@ -471,7 +471,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7130227712,
-      "float_shares": 340549309,
+      "float_shares": 341578585,
       "cash_debt_ratio": 0.15,
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
@@ -488,7 +488,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7797709824,
-      "float_shares": 410040379,
+      "float_shares": 410030016,
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.5,
       "dilution_risk": "높음",
@@ -561,7 +561,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Hecla Mining (HL) Could Be 33% Undervalued As Strong Q2 Reframes Fair Value | Hecla Mining (HL) Is Up 16.9% After Strong Q2 Profit And Debt-Free Balance Sheet Update | Hecla Mining Co (HL) (Q2 2026) Earnings Call Highlights: Record Free Cash Flow and Strategic ..."
+      "recent_news": "Hecla Mining Q2 Earnings Call Highlights | Hecla Mining (HL) Could Be 33% Undervalued As Strong Q2 Reframes Fair Value | Hecla Mining (HL) Is Up 16.9% After Strong Q2 Profit And Debt-Free Balance Sheet Update"
     },
     {
       "ticker": "PSEC",
@@ -607,9 +607,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3897760000,
-      "float_shares": 373042686,
-      "cash_debt_ratio": 0.21,
-      "insider_pct": 0.9,
+      "float_shares": 378163834,
+      "cash_debt_ratio": 0.17,
+      "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push | MARA, CIFR, WULF Stocks Drop As Price Target Cuts Outweigh Bitcoin’s $65K Rebound | MARA targets at least two AI/HPC leases by year-end as Needham holds rating"
@@ -624,8 +624,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1674918144,
-      "float_shares": 85576383,
-      "cash_debt_ratio": 0.02,
+      "float_shares": 85670471,
+      "cash_debt_ratio": 0.03,
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
