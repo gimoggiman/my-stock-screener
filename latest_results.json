@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-08T07:38:29.678547+00:00",
-  "tickers_scanned": 63,
+  "last_updated_utc": "2026-08-08T10:00:38.954662+00:00",
+  "tickers_scanned": 62,
   "results": [
     {
       "ticker": "BTG",
@@ -37,21 +37,21 @@
       "recent_news": "DoubleVerify Stock Jumps 13.1% on $2.15 Billion Nielsen Deal | Nielsen buying DoubleVerify for $2.15 billion | DoubleVerify's Fingerprints Are All Over This Takeover Profile"
     },
     {
-      "ticker": "EXFY",
+      "ticker": "EMBC",
       "score": 75.0,
-      "last_close": 2.69,
-      "rel_volume": 4.88,
-      "price_change_pct": 35.86,
-      "gap_pct": 35.61,
+      "last_close": 4.42,
+      "rel_volume": 3.65,
+      "price_change_pct": 26.29,
+      "gap_pct": 27.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 245292128,
-      "float_shares": 59838888,
-      "cash_debt_ratio": 11.97,
-      "insider_pct": 24.0,
+      "market_cap": 262228336,
+      "float_shares": 58329192,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 1.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Expensify Inc (EXFY) (Q2 2026) Earnings Call Highlights: AI-Driven New Expensify Surges 250% as ... | Expensify Q2 Earnings Call Highlights | Expensify Shares Rise Following Launch of Consolidated Travel Billing for U.S. Businesses (EXFY)"
+      "recent_news": "Embecta Corp (EMBC) (Q3 2026) Earnings Call Highlights: Strong Sequential Recovery and Raised ... | Embecta Q3 Earnings Call Highlights | Embecta (EMBC) Stock Fair Value Moves Lower As Analysts Reset Medtech Expectations"
     },
     {
       "ticker": "FIGS",
@@ -68,24 +68,24 @@
       "insider_pct": 4.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why Figs Stock Popped Today | Papa John's Q2 Earnings & Revenues Beat Estimates, Stock Down | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid Strong Tech Results"
+      "recent_news": "FIGS Q2 Earnings Call Highlights | Why Figs Stock Popped Today | Papa John's Q2 Earnings & Revenues Beat Estimates, Stock Down"
     },
     {
-      "ticker": "GTN",
+      "ticker": "FNKO",
       "score": 75.0,
-      "last_close": 5.37,
-      "rel_volume": 3.46,
-      "price_change_pct": 25.47,
-      "gap_pct": 24.88,
+      "last_close": 5.88,
+      "rel_volume": 3.73,
+      "price_change_pct": 11.36,
+      "gap_pct": 12.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 82203184,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 7.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Gray Media Inc (GTN) (Q2 2026) Earnings Call Highlights: Political Revenue Surge and Strategic ... | Gray Media, Inc. Q2 2026 Earnings Call Summary | Gray Media Shares Gain as Political Advertising Fuels Second-Quarter Beat"
+      "market_cap": 328336768,
+      "float_shares": 37233276,
+      "cash_debt_ratio": 0.12,
+      "insider_pct": 1.5,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Funko Inc (FNKO) (Q2 2026) Earnings Call Highlights: Record Margins and Raised Guidance Signal ... | Funko Q2 Earnings Call Highlights | Funko (NASDAQ:FNKO) Delivers Impressive Q2 CY2026, Stock Jumps 15.3%"
     },
     {
       "ticker": "HTZ",
@@ -99,27 +99,27 @@
       "market_cap": 809144640,
       "float_shares": 145938329,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 1.3,
+      "insider_pct": 1.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Hertz Beats Estimates and Squeezes the Shorts | Why Hertz (HTZ) Is Up 22.1% After Returning To Profit Amid Ongoing Securities Litigation | Hertz Jumps 30%, Bears Sweat As Short Squeeze Continues"
     },
     {
-      "ticker": "PEPG",
+      "ticker": "NRGV",
       "score": 75.0,
-      "last_close": 2.85,
-      "rel_volume": 3.01,
-      "price_change_pct": 18.26,
-      "gap_pct": 17.84,
+      "last_close": 3.49,
+      "rel_volume": 3.83,
+      "price_change_pct": 17.91,
+      "gap_pct": 17.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 197132256,
-      "float_shares": 36046153,
-      "cash_debt_ratio": 7.99,
-      "insider_pct": 0.2,
+      "market_cap": 632525056,
+      "float_shares": 144097791,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 15.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "PepGen (PEPG) Loses 14.3% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Is PepGen (PEPG) One of the Best NASDAQ Stocks Under $5 to Buy Right Now? | PepGen (PEPG) Upgraded to Buy: Here's What You Should Know"
+      "recent_news": "Sector Update: Energy Stocks Fall Late Afternoon | BKV (BKV) Surpasses Q2 Earnings and Revenue Estimates | Bloom Energy (BE) Q2 Earnings and Revenues Surpass Estimates"
     },
     {
       "ticker": "TTD",
@@ -139,6 +139,23 @@
       "recent_news": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone | Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35% | S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus"
     },
     {
+      "ticker": "VATE",
+      "score": 75.0,
+      "last_close": 12.11,
+      "rel_volume": 116.1,
+      "price_change_pct": 63.43,
+      "gap_pct": 63.79,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 165202992,
+      "float_shares": 4333612,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 60.3,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... | The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut | Top Research Reports for Applied Materials, Mastercard & AbbVie"
+    },
+    {
       "ticker": "TMC",
       "score": 72.4,
       "last_close": 4.57,
@@ -154,23 +171,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus. | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle"
-    },
-    {
-      "ticker": "DCH",
-      "score": 69.4,
-      "last_close": 6.35,
-      "rel_volume": 2.52,
-      "price_change_pct": 11.99,
-      "gap_pct": 12.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1507278720,
-      "float_shares": 233001558,
-      "cash_debt_ratio": 0.19,
-      "insider_pct": 2.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "American Axle & Manufacturing Q2 Earnings Call Highlights | Dauch Corp (DCH) (Q2 2026) Earnings Call Highlights: Strong Sales and Synergy Progress Drive ... | Dauch (DCH) Reports Q2 Earnings: What Key Metrics Have to Say"
     },
     {
       "ticker": "IAG",
@@ -199,9 +199,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2195296768,
-      "float_shares": 95214522,
+      "float_shares": 95652418,
       "cash_debt_ratio": 0.21,
-      "insider_pct": 11.3,
+      "insider_pct": 11.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
       "recent_news": "TIC Solutions, Inc. Q2 2026 Earnings Call Summary | TIC Solutions Inc (TIC) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic Wins ... | Acuren Corporation (TIC) Surpasses Q2 Earnings and Revenue Estimates"
@@ -250,7 +250,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3245636352,
-      "float_shares": 245290973,
+      "float_shares": 246163025,
       "cash_debt_ratio": 6.17,
       "insider_pct": 1.3,
       "dilution_risk": "주의",
@@ -267,8 +267,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 17875787776,
-      "float_shares": 1018179895,
-      "cash_debt_ratio": 1.49,
+      "float_shares": 1017861235,
+      "cash_debt_ratio": 1.48,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
@@ -284,7 +284,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 446584384,
-      "float_shares": 93739047,
+      "float_shares": 94050669,
       "cash_debt_ratio": 0.12,
       "insider_pct": 3.2,
       "dilution_risk": "낮음",
@@ -354,7 +354,7 @@
       "market_cap": 2068106368,
       "float_shares": 296998641,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 13.4,
+      "insider_pct": 13.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "UWM's 35% Collapse Just Turned Into a Bigger Warning | UWM Holdings Corporation Q2 2026 Earnings Call Summary | 🔎 Under the Radar: United Wholesale Mortgage Shares Plunge After Big Loss"
@@ -388,7 +388,7 @@
       "market_cap": 1039647232,
       "float_shares": 118807240,
       "cash_debt_ratio": 0.06,
-      "insider_pct": 25.6,
+      "insider_pct": 25.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Tronox (TROX) Reports Q2 Loss, Beats Revenue Estimates | Here's What Key Metrics Tell Us About Tronox (TROX) Q2 Earnings | Is Kronos Worldwide Stock Still a Buy After a 36% YTD Rally?"
@@ -411,21 +411,21 @@
       "recent_news": "Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market | Lithium Americas Corp. (LAC) Stock Falls Amid Market Uptick: What Investors Need to Know | Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO."
     },
     {
-      "ticker": "TASK",
-      "score": 50.3,
-      "last_close": 7.3,
-      "rel_volume": 1.46,
-      "price_change_pct": -6.65,
-      "gap_pct": -6.65,
+      "ticker": "METC",
+      "score": 50.2,
+      "last_close": 10.24,
+      "rel_volume": 1.33,
+      "price_change_pct": 6.78,
+      "gap_pct": 7.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 669315264,
-      "float_shares": 28613914,
-      "cash_debt_ratio": 0.33,
-      "insider_pct": 23.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 229,
-      "recent_news": "TaskUs, Inc. Q2 2026 Earnings Call Summary | TaskUs Q2 Earnings Call Highlights | TaskUs (TASK) Surpasses Q2 Earnings and Revenue Estimates"
+      "market_cap": 649095552,
+      "float_shares": 43165374,
+      "cash_debt_ratio": 0.6,
+      "insider_pct": 10.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Ramaco Resources Q2 Earnings Call Highlights | Ramaco Resources (METC) Reports Q2 Loss, Tops Revenue Estimates | Will Ramaco Resources (METC) Report Negative Q2 Earnings? What You Should Know"
     },
     {
       "ticker": "ENVX",
@@ -440,8 +440,8 @@
       "float_shares": 188351407,
       "cash_debt_ratio": 0.97,
       "insider_pct": 11.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Dropbox (DBX) Q2 Earnings and Revenues Top Estimates | Enovix Shares Jump After Former Apple Executive Appointed COO (ENVX) | ENVX Stock Is Soaring Today — What’s The AAPL Connection?"
     },
     {
@@ -456,7 +456,7 @@
       "market_cap": 508452160,
       "float_shares": 133232061,
       "cash_debt_ratio": 0.29,
-      "insider_pct": 5.7,
+      "insider_pct": 5.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "EVgo, Inc. Q2 2026 Earnings Call Summary | EVgo Q2 Earnings Call Highlights | EVgo (EVGO) Reports Q2 Earnings: What Key Metrics Have to Say"
@@ -507,7 +507,7 @@
       "market_cap": 1633737600,
       "float_shares": 194548821,
       "cash_debt_ratio": 0.08,
-      "insider_pct": 14.6,
+      "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 45,
       "recent_news": "Solar Stocks Jump as Trump Tariffs Boost U.S. Manufacturing | Vaalco Energy (EGY) Reports Break-Even Earnings for Q2 | Does T1 Energy’s (TE) Clearway Deal Clarify Its U.S. Solar Advantage or Expose New Risks?"
@@ -522,7 +522,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1295407104,
-      "float_shares": 180510342,
+      "float_shares": 180392248,
       "cash_debt_ratio": 0.75,
       "insider_pct": 0.7,
       "dilution_risk": "낮음",
@@ -545,23 +545,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "What Makes Solid Power (SLDP) a New Buy Stock | Solid Power, Inc. Q2 2026 Earnings Call Summary | Solid Power Q2 Earnings Call Highlights"
-    },
-    {
-      "ticker": "AUTL",
-      "score": 43.0,
-      "last_close": 2.11,
-      "rel_volume": 1.17,
-      "price_change_pct": 5.5,
-      "gap_pct": 6.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 561562304,
-      "float_shares": 33904120,
-      "cash_debt_ratio": null,
-      "insider_pct": 18.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | European Equities Traded in the US as American Depositary Receipts Track Higher in Thursday Trading | European Equities Traded in US as ADRs Advance in Tuesday Trading"
     },
     {
       "ticker": "HL",
@@ -607,7 +590,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1731055488,
-      "float_shares": 142168579,
+      "float_shares": 142213864,
       "cash_debt_ratio": 11.69,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
@@ -646,7 +629,7 @@
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
-      "recent_news": "SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls | Six Flags Entertainment Corporation (FUN) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates | Six Flags Entertainment Corp (FUN) (Q2 2026) Earnings Call Highlights: Attendance Surges 4% and ..."
+      "recent_news": "Six Flags Entertainment Q2 Earnings Call Highlights | SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls | Six Flags Entertainment Corporation (FUN) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates"
     },
     {
       "ticker": "SPCE",
@@ -658,12 +641,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 398465536,
-      "float_shares": 100133706,
+      "float_shares": 100132700,
       "cash_debt_ratio": 0.6,
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks | Intuitive Machines, Inc. (LUNR) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Space Stocks Are Roaring Back In August — Here’s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind"
+    },
+    {
+      "ticker": "FIP",
+      "score": 39.6,
+      "last_close": 4.27,
+      "rel_volume": 1.16,
+      "price_change_pct": 5.3,
+      "gap_pct": 5.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 504558368,
+      "float_shares": 108403380,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 8.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "FTAI Infrastructure Inc (FIP) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic ... | FTAI Infrastructure Q2 Earnings Call Highlights | FTAI Infrastructure Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "PLUG",
@@ -675,7 +675,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3041250560,
-      "float_shares": 1330316295,
+      "float_shares": 1329786544,
       "cash_debt_ratio": 0.23,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
@@ -692,8 +692,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 38850134016,
-      "float_shares": 967806436,
-      "cash_debt_ratio": 0.08,
+      "float_shares": 970115117,
+      "cash_debt_ratio": 0.09,
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -726,16 +726,6 @@
       "rel_volume": 1.1,
       "price_change_pct": -3.06,
       "gap_pct": -3.58,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "WTI",
-      "score": 28.8,
-      "last_close": 3.43,
-      "rel_volume": 1.39,
-      "price_change_pct": 2.69,
-      "gap_pct": 2.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -790,12 +780,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ABEV",
-      "score": 18.3,
-      "last_close": 3.0,
-      "rel_volume": 1.43,
-      "price_change_pct": -0.33,
-      "gap_pct": -0.33,
+      "ticker": "PRGO",
+      "score": 18.7,
+      "last_close": 12.84,
+      "rel_volume": 0.53,
+      "price_change_pct": 2.39,
+      "gap_pct": 2.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -820,16 +810,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OPTU",
-      "score": 17.7,
-      "last_close": 0.769,
-      "rel_volume": 0.25,
-      "price_change_pct": -4.47,
-      "gap_pct": -0.44,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NU",
       "score": 16.6,
       "last_close": 13.84,
@@ -840,22 +820,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OI",
-      "score": 14.2,
-      "last_close": 7.03,
-      "rel_volume": 0.77,
-      "price_change_pct": -0.99,
-      "gap_pct": -1.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SOFI",
       "score": 13.6,
       "last_close": 18.38,
       "rel_volume": 0.62,
       "price_change_pct": 1.55,
       "gap_pct": 0.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "FLNC",
+      "score": 12.0,
+      "last_close": 13.195,
+      "rel_volume": 0.94,
+      "price_change_pct": -0.11,
+      "gap_pct": 0.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -886,6 +866,16 @@
       "rel_volume": 0.78,
       "price_change_pct": -0.07,
       "gap_pct": -0.07,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "KOS",
+      "score": 9.2,
+      "last_close": 2.48,
+      "rel_volume": 0.58,
+      "price_change_pct": 0.4,
+      "gap_pct": 0.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
