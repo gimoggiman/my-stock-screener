@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T20:00:22.493394+00:00",
+  "last_updated_utc": "2026-08-08T21:16:23.085482+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "B2Gold Corp (BTG) (Q2 2026) Earnings Call Highlights: Fekola Regional Permit Secured, Guidance ... | B2Gold Announces Menankoto Exploitation Permit Granted by Mali Government; Shares Jump 23% | BTG Q2 Earnings Miss Estimates, Revenues Rise Y/Y on Metal Prices"
+      "recent_news": "B2Gold (TSX:BTO) Is Up 33.9% After Securing Menankoto Permit for Fekola Regional Expansion | B2Gold Corp (BTG) (Q2 2026) Earnings Call Highlights: Fekola Regional Permit Secured, Guidance ... | B2Gold Announces Menankoto Exploitation Permit Granted by Mali Government; Shares Jump 23%"
     },
     {
       "ticker": "DV",
@@ -79,7 +79,7 @@
       "gap_pct": 24.88,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 551705472,
+      "market_cap": null,
       "float_shares": 82203184,
       "cash_debt_ratio": 0.04,
       "insider_pct": 7.2,
@@ -113,7 +113,7 @@
       "gap_pct": 17.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 197389632,
+      "market_cap": 197132256,
       "float_shares": 36046153,
       "cash_debt_ratio": 7.99,
       "insider_pct": 0.2,
@@ -317,7 +317,7 @@
       "gap_pct": 7.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 231955664,
+      "market_cap": 234512768,
       "float_shares": 72679543,
       "cash_debt_ratio": 0.12,
       "insider_pct": 12.1,
@@ -572,7 +572,7 @@
       "gap_pct": 6.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11301504000,
+      "market_cap": 11319299072,
       "float_shares": 662934676,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
@@ -629,7 +629,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "What Do MARA Holdings (MARA) Board Changes And Losses Mean For Its AI Pivot? | MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push | MARA, CIFR, WULF Stocks Drop As Price Target Cuts Outweigh Bitcoin’s $65K Rebound"
+      "recent_news": "What Do MARA Holdings (MARA) Board Changes And Losses Mean For Its AI Pivot? | MARA executives say they are close to an AI deal: Q2 earnings | MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push"
     },
     {
       "ticker": "FUN",
