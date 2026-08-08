@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-08T21:16:23.085482+00:00",
+  "last_updated_utc": "2026-08-08T23:04:41.197502+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -79,7 +79,7 @@
       "gap_pct": 24.88,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": null,
+      "market_cap": 551705472,
       "float_shares": 82203184,
       "cash_debt_ratio": 0.04,
       "insider_pct": 7.2,
@@ -113,7 +113,7 @@
       "gap_pct": 17.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 197132256,
+      "market_cap": 197389632,
       "float_shares": 36046153,
       "cash_debt_ratio": 7.99,
       "insider_pct": 0.2,
@@ -317,7 +317,7 @@
       "gap_pct": 7.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 234512768,
+      "market_cap": 231955664,
       "float_shares": 72679543,
       "cash_debt_ratio": 0.12,
       "insider_pct": 12.1,
@@ -572,7 +572,7 @@
       "gap_pct": 6.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11319299072,
+      "market_cap": 11301504000,
       "float_shares": 662934676,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
