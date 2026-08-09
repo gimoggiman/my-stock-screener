@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-08T23:04:41.197502+00:00",
-  "tickers_scanned": 63,
+  "last_updated_utc": "2026-08-09T04:47:35.295981+00:00",
+  "tickers_scanned": 61,
   "results": [
     {
       "ticker": "BTG",
@@ -37,21 +37,21 @@
       "recent_news": "DoubleVerify Stock Jumps 13.1% on $2.15 Billion Nielsen Deal | Nielsen buying DoubleVerify for $2.15 billion | DoubleVerify's Fingerprints Are All Over This Takeover Profile"
     },
     {
-      "ticker": "EXFY",
+      "ticker": "EMBC",
       "score": 75.0,
-      "last_close": 2.69,
-      "rel_volume": 4.88,
-      "price_change_pct": 35.86,
-      "gap_pct": 35.61,
+      "last_close": 4.42,
+      "rel_volume": 3.65,
+      "price_change_pct": 26.29,
+      "gap_pct": 27.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 245292128,
-      "float_shares": 59838888,
-      "cash_debt_ratio": 11.97,
-      "insider_pct": 24.0,
+      "market_cap": 262228336,
+      "float_shares": 55706018,
+      "cash_debt_ratio": 0.14,
+      "insider_pct": 1.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Expensify Inc (EXFY) (Q2 2026) Earnings Call Highlights: AI-Driven New Expensify Surges 250% as ... | Expensify Q2 Earnings Call Highlights | Expensify Shares Rise Following Launch of Consolidated Travel Billing for U.S. Businesses (EXFY)"
+      "recent_news": "Embecta Corp (EMBC) (Q3 2026) Earnings Call Highlights: Strong Sequential Recovery and Raised ... | Embecta Q3 Earnings Call Highlights | Embecta (EMBC) Stock Fair Value Moves Lower As Analysts Reset Medtech Expectations"
     },
     {
       "ticker": "FIGS",
@@ -68,24 +68,24 @@
       "insider_pct": 4.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "FIGS Q2 Earnings Call Highlights | Why Figs Stock Popped Today | Papa John's Q2 Earnings & Revenues Beat Estimates, Stock Down"
+      "recent_news": "FIGS (FIGS) Could Be Fully Valued Following Strong Earnings And Higher Outlook | FIGS Q2 Earnings Call Highlights | Why Figs Stock Popped Today"
     },
     {
-      "ticker": "GTN",
+      "ticker": "FNKO",
       "score": 75.0,
-      "last_close": 5.37,
-      "rel_volume": 3.46,
-      "price_change_pct": 25.47,
-      "gap_pct": 24.88,
+      "last_close": 5.88,
+      "rel_volume": 3.73,
+      "price_change_pct": 11.36,
+      "gap_pct": 12.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 551705472,
-      "float_shares": 82203184,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 7.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Gray Media Q2 Earnings Call Highlights | Gray Media Inc (GTN) (Q2 2026) Earnings Call Highlights: Political Revenue Surge and Strategic ... | Gray Media, Inc. Q2 2026 Earnings Call Summary"
+      "market_cap": 328336768,
+      "float_shares": 37354216,
+      "cash_debt_ratio": 0.16,
+      "insider_pct": 1.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Funko Inc (FNKO) (Q2 2026) Earnings Call Highlights: Record Margins and Raised Guidance Signal ... | Funko Q2 Earnings Call Highlights | Funko (NASDAQ:FNKO) Delivers Impressive Q2 CY2026, Stock Jumps 15.3%"
     },
     {
       "ticker": "HTZ",
@@ -105,21 +105,21 @@
       "recent_news": "Hertz Beats Estimates and Squeezes the Shorts | Why Hertz (HTZ) Is Up 22.1% After Returning To Profit Amid Ongoing Securities Litigation | Hertz Jumps 30%, Bears Sweat As Short Squeeze Continues"
     },
     {
-      "ticker": "PEPG",
+      "ticker": "NRGV",
       "score": 75.0,
-      "last_close": 2.85,
-      "rel_volume": 3.01,
-      "price_change_pct": 18.26,
-      "gap_pct": 17.84,
+      "last_close": 3.49,
+      "rel_volume": 3.83,
+      "price_change_pct": 17.91,
+      "gap_pct": 17.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 197389632,
-      "float_shares": 36046153,
-      "cash_debt_ratio": 7.99,
-      "insider_pct": 0.2,
+      "market_cap": 632525056,
+      "float_shares": 144090662,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 15.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "PepGen (PEPG) Loses 14.3% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Is PepGen (PEPG) One of the Best NASDAQ Stocks Under $5 to Buy Right Now? | PepGen (PEPG) Upgraded to Buy: Here's What You Should Know"
+      "recent_news": "Sector Update: Energy Stocks Fall Late Afternoon | BKV (BKV) Surpasses Q2 Earnings and Revenue Estimates | Bloom Energy (BE) Q2 Earnings and Revenues Surpass Estimates"
     },
     {
       "ticker": "TTD",
@@ -139,6 +139,23 @@
       "recent_news": "Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35% | S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus | Stocks to Watch Recap: Trade Desk, Under Armour, Atlassian, Airbnb"
     },
     {
+      "ticker": "VATE",
+      "score": 75.0,
+      "last_close": 12.11,
+      "rel_volume": 116.1,
+      "price_change_pct": 63.43,
+      "gap_pct": 63.79,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 165202992,
+      "float_shares": 4333612,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 60.3,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... | The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut | Top Research Reports for Applied Materials, Mastercard & AbbVie"
+    },
+    {
       "ticker": "TMC",
       "score": 72.4,
       "last_close": 4.57,
@@ -154,23 +171,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "TMC The Metals (TMC) Could Be 59% Undervalued After Its August 13 Earnings Call Date | Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus."
-    },
-    {
-      "ticker": "DCH",
-      "score": 69.4,
-      "last_close": 6.35,
-      "rel_volume": 2.52,
-      "price_change_pct": 11.99,
-      "gap_pct": 12.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1507278720,
-      "float_shares": 211899724,
-      "cash_debt_ratio": 0.17,
-      "insider_pct": 2.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "American Axle & Manufacturing Q2 Earnings Call Highlights | Dauch Corp (DCH) (Q2 2026) Earnings Call Highlights: Strong Sales and Synergy Progress Drive ... | Dauch (DCH) Reports Q2 Earnings: What Key Metrics Have to Say"
     },
     {
       "ticker": "IAG",
@@ -255,7 +255,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why Redwire Stock Keeps Gaining | RDW Stock Gains More Than 55% In Record-Breaking Week – Here’s Everything That Drove The Super Run | Why Redwire Stock Soared After Earnings"
+      "recent_news": "Redwire Q2 Earnings Call Highlights | Why Redwire Stock Keeps Gaining | RDW Stock Gains More Than 55% In Record-Breaking Week – Here’s Everything That Drove The Super Run"
     },
     {
       "ticker": "CDE",
@@ -317,7 +317,7 @@
       "gap_pct": 7.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 231955664,
+      "market_cap": 234512768,
       "float_shares": 72679543,
       "cash_debt_ratio": 0.12,
       "insider_pct": 12.1,
@@ -425,7 +425,24 @@
       "insider_pct": 22.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 229,
-      "recent_news": "TaskUs, Inc. Q2 2026 Earnings Call Summary | TaskUs Q2 Earnings Call Highlights | TaskUs (TASK) Surpasses Q2 Earnings and Revenue Estimates"
+      "recent_news": "TaskUs (TASK) Stock Sees Fair Value Cut As Analysts Weigh Q2 And Multiples | TaskUs, Inc. Q2 2026 Earnings Call Summary | TaskUs Q2 Earnings Call Highlights"
+    },
+    {
+      "ticker": "METC",
+      "score": 50.2,
+      "last_close": 10.24,
+      "rel_volume": 1.33,
+      "price_change_pct": 6.78,
+      "gap_pct": 7.19,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 649095552,
+      "float_shares": 41894555,
+      "cash_debt_ratio": 0.6,
+      "insider_pct": 10.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Ramaco Resources Q2 Earnings Call Highlights | Ramaco Resources (METC) Reports Q2 Loss, Tops Revenue Estimates | Will Ramaco Resources (METC) Report Negative Q2 Earnings? What You Should Know"
     },
     {
       "ticker": "ENVX",
@@ -547,23 +564,6 @@
       "recent_news": "What Makes Solid Power (SLDP) a New Buy Stock | Solid Power, Inc. Q2 2026 Earnings Call Summary | Solid Power Q2 Earnings Call Highlights"
     },
     {
-      "ticker": "AUTL",
-      "score": 43.0,
-      "last_close": 2.11,
-      "rel_volume": 1.17,
-      "price_change_pct": 5.5,
-      "gap_pct": 6.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 561562304,
-      "float_shares": 33904120,
-      "cash_debt_ratio": null,
-      "insider_pct": 18.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | European Equities Traded in the US as American Depositary Receipts Track Higher in Thursday Trading | European Equities Traded in US as ADRs Advance in Tuesday Trading"
-    },
-    {
       "ticker": "HL",
       "score": 42.8,
       "last_close": 16.85,
@@ -572,7 +572,7 @@
       "gap_pct": 6.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11301504000,
+      "market_cap": 11319299072,
       "float_shares": 662934676,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
@@ -697,7 +697,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "RKT Q2 Earnings Match, Revenues Miss Amid Housing Weakness, Stock Dips | Rocket's Profit Hits a Four-Year High, but the Stock Slips | Rocket Companies Inc (RKT) (Q2 2026) Earnings Call Highlights: Record Market Share and ..."
+      "recent_news": "Rocket Companies Q2 Earnings Call Highlights | RKT Q2 Earnings Match, Revenues Miss Amid Housing Weakness, Stock Dips | Rocket's Profit Hits a Four-Year High, but the Stock Slips"
     },
     {
       "ticker": "ACDC",
@@ -770,32 +770,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 20.4,
-      "last_close": 7.38,
-      "rel_volume": 0.64,
-      "price_change_pct": -2.64,
-      "gap_pct": -2.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "ORC",
       "score": 19.9,
       "last_close": 6.56,
       "rel_volume": 0.83,
       "price_change_pct": 2.18,
       "gap_pct": 1.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ABEV",
-      "score": 18.3,
-      "last_close": 3.0,
-      "rel_volume": 1.43,
-      "price_change_pct": -0.33,
-      "gap_pct": -0.33,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
