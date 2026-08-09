@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-09T18:05:21.045173+00:00",
-  "tickers_scanned": 62,
+  "last_updated_utc": "2026-08-09T20:04:14.138546+00:00",
+  "tickers_scanned": 61,
   "results": [
     {
       "ticker": "BTG",
@@ -17,7 +17,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "B2Gold (TSX:BTO) Stock May Still Trade At A Discount On Mali Permit News | B2Gold (TSX:BTO) Could Be 30% Undervalued As Mali Permit Secures Growth | B2Gold (TSX:BTO) Is Up 33.9% After Securing Menankoto Permit for Fekola Regional Expansion"
+      "recent_news": "B2Gold Q2 Earnings Call Highlights | B2Gold (TSX:BTO) Stock May Still Trade At A Discount On Mali Permit News | B2Gold (TSX:BTO) Could Be 30% Undervalued As Mali Permit Secures Growth"
     },
     {
       "ticker": "DV",
@@ -37,21 +37,21 @@
       "recent_news": "DoubleVerify Stock Jumps 13.1% on $2.15 Billion Nielsen Deal | Nielsen buying DoubleVerify for $2.15 billion | DoubleVerify's Fingerprints Are All Over This Takeover Profile"
     },
     {
-      "ticker": "EMBC",
+      "ticker": "EXFY",
       "score": 75.0,
-      "last_close": 4.42,
-      "rel_volume": 3.65,
-      "price_change_pct": 26.29,
-      "gap_pct": 27.29,
+      "last_close": 2.69,
+      "rel_volume": 4.88,
+      "price_change_pct": 35.86,
+      "gap_pct": 35.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 262228336,
-      "float_shares": 55083329,
-      "cash_debt_ratio": 0.14,
-      "insider_pct": 1.8,
+      "market_cap": 245292128,
+      "float_shares": 59838888,
+      "cash_debt_ratio": 11.97,
+      "insider_pct": 24.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Embecta Corp (EMBC) (Q3 2026) Earnings Call Highlights: Strong Sequential Recovery and Raised ... | Embecta Q3 Earnings Call Highlights | Embecta (EMBC) Stock Fair Value Moves Lower As Analysts Reset Medtech Expectations"
+      "recent_news": "Expensify Inc (EXFY) (Q2 2026) Earnings Call Highlights: AI-Driven New Expensify Surges 250% as ... | Expensify Q2 Earnings Call Highlights | Expensify Shares Rise Following Launch of Consolidated Travel Billing for U.S. Businesses (EXFY)"
     },
     {
       "ticker": "FIGS",
@@ -71,21 +71,21 @@
       "recent_news": "FIGS (FIGS) Could Be Fully Valued Following Strong Earnings And Higher Outlook | FIGS Q2 Earnings Call Highlights | Why Figs Stock Popped Today"
     },
     {
-      "ticker": "FNKO",
+      "ticker": "GTN",
       "score": 75.0,
-      "last_close": 5.88,
-      "rel_volume": 3.73,
-      "price_change_pct": 11.36,
-      "gap_pct": 12.22,
+      "last_close": 5.37,
+      "rel_volume": 3.46,
+      "price_change_pct": 25.47,
+      "gap_pct": 24.88,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 328336768,
-      "float_shares": 34633381,
-      "cash_debt_ratio": 0.16,
-      "insider_pct": 1.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Funko Inc (FNKO) (Q2 2026) Earnings Call Highlights: Record Margins and Raised Guidance Signal ... | Funko Q2 Earnings Call Highlights | Funko (NASDAQ:FNKO) Delivers Impressive Q2 CY2026, Stock Jumps 15.3%"
+      "market_cap": 551705472,
+      "float_shares": 82502080,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 7.1,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Gray Media Q2 Earnings Call Highlights | Gray Media Inc (GTN) (Q2 2026) Earnings Call Highlights: Political Revenue Surge and Strategic ... | Gray Media, Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "HTZ",
@@ -105,21 +105,21 @@
       "recent_news": "Hertz Beats Estimates and Squeezes the Shorts | Why Hertz (HTZ) Is Up 22.1% After Returning To Profit Amid Ongoing Securities Litigation | Hertz Jumps 30%, Bears Sweat As Short Squeeze Continues"
     },
     {
-      "ticker": "NRGV",
+      "ticker": "PEPG",
       "score": 75.0,
-      "last_close": 3.49,
-      "rel_volume": 3.83,
-      "price_change_pct": 17.91,
-      "gap_pct": 17.3,
+      "last_close": 2.85,
+      "rel_volume": 3.01,
+      "price_change_pct": 18.26,
+      "gap_pct": 17.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 632525056,
-      "float_shares": 138317267,
-      "cash_debt_ratio": 0.32,
-      "insider_pct": 15.2,
+      "market_cap": 197389632,
+      "float_shares": 36046153,
+      "cash_debt_ratio": 7.99,
+      "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Sector Update: Energy Stocks Fall Late Afternoon | BKV (BKV) Surpasses Q2 Earnings and Revenue Estimates | Bloom Energy (BE) Q2 Earnings and Revenues Surpass Estimates"
+      "recent_news": "PepGen (PEPG) Loses 14.3% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Is PepGen (PEPG) One of the Best NASDAQ Stocks Under $5 to Buy Right Now? | PepGen (PEPG) Upgraded to Buy: Here's What You Should Know"
     },
     {
       "ticker": "TTD",
@@ -139,23 +139,6 @@
       "recent_news": "Stock Market Today, Aug. 7: Markets Rally on Jobs Shock and Atlassian Surges 35% | S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear — SEZL, SPCX, RDW, PLTR, TTD In Focus | Stocks to Watch Recap: Trade Desk, Under Armour, Atlassian, Airbnb"
     },
     {
-      "ticker": "VATE",
-      "score": 75.0,
-      "last_close": 12.11,
-      "rel_volume": 116.1,
-      "price_change_pct": 63.43,
-      "gap_pct": 63.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 165202992,
-      "float_shares": 4333612,
-      "cash_debt_ratio": 0.13,
-      "insider_pct": 60.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "INNOVATE Q2 Earnings Call Highlights | Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... | The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut"
-    },
-    {
       "ticker": "TMC",
       "score": 72.4,
       "last_close": 4.57,
@@ -173,6 +156,23 @@
       "recent_news": "TMC The Metals (TMC) Could Be 59% Undervalued After Its August 13 Earnings Call Date | Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus."
     },
     {
+      "ticker": "DCH",
+      "score": 69.4,
+      "last_close": 6.35,
+      "rel_volume": 2.52,
+      "price_change_pct": 11.99,
+      "gap_pct": 12.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1507278720,
+      "float_shares": 208555904,
+      "cash_debt_ratio": 0.17,
+      "insider_pct": 2.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Dauch (DCH) After Earnings And Loss Guidance Is The Undervalued Case Still Open | American Axle & Manufacturing Q2 Earnings Call Highlights | Dauch Corp (DCH) (Q2 2026) Earnings Call Highlights: Strong Sales and Synergy Progress Drive ..."
+    },
+    {
       "ticker": "IAG",
       "score": 68.9,
       "last_close": 18.32,
@@ -187,7 +187,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "IAMGOLD (TSX:IMG) Could Be 18% Undervalued As Strong Q2 Results Lift Interest | IAMGOLD (TSX:IMG) Is Up 28.8% After Strong Q2, Big Buybacks And Board Refresh – What’s Changed | Iamgold Q2 Earnings Call Highlights"
+      "recent_news": "Is IAMGOLD (TSX:IMG) Still Cheap After Its Strong Q2 Update? | IAMGOLD (TSX:IMG) Could Be 18% Undervalued As Strong Q2 Results Lift Interest | IAMGOLD (TSX:IMG) Is Up 28.8% After Strong Q2, Big Buybacks And Board Refresh – What’s Changed"
     },
     {
       "ticker": "TIC",
@@ -317,7 +317,7 @@
       "gap_pct": 7.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 234512768,
+      "market_cap": 231955664,
       "float_shares": 72679543,
       "cash_debt_ratio": 0.12,
       "insider_pct": 12.1,
@@ -411,21 +411,21 @@
       "recent_news": "Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market | Lithium Americas Corp. (LAC) Stock Falls Amid Market Uptick: What Investors Need to Know | Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO."
     },
     {
-      "ticker": "METC",
-      "score": 50.2,
-      "last_close": 10.24,
-      "rel_volume": 1.33,
-      "price_change_pct": 6.78,
-      "gap_pct": 7.19,
+      "ticker": "TASK",
+      "score": 50.3,
+      "last_close": 7.3,
+      "rel_volume": 1.46,
+      "price_change_pct": -6.65,
+      "gap_pct": -6.65,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 649095552,
-      "float_shares": 41169393,
-      "cash_debt_ratio": 0.6,
-      "insider_pct": 10.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Ramaco Resources Q2 Earnings Call Highlights | Ramaco Resources (METC) Reports Q2 Loss, Tops Revenue Estimates | Will Ramaco Resources (METC) Report Negative Q2 Earnings? What You Should Know"
+      "market_cap": 669315264,
+      "float_shares": 28613914,
+      "cash_debt_ratio": 0.33,
+      "insider_pct": 22.9,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 229,
+      "recent_news": "TaskUs (TASK) Stock Sees Fair Value Cut As Analysts Weigh Q2 And Multiples | TaskUs, Inc. Q2 2026 Earnings Call Summary | TaskUs Q2 Earnings Call Highlights"
     },
     {
       "ticker": "ENVX",
@@ -547,6 +547,23 @@
       "recent_news": "What Makes Solid Power (SLDP) a New Buy Stock | Solid Power, Inc. Q2 2026 Earnings Call Summary | Solid Power Q2 Earnings Call Highlights"
     },
     {
+      "ticker": "AUTL",
+      "score": 43.0,
+      "last_close": 2.11,
+      "rel_volume": 1.17,
+      "price_change_pct": 5.5,
+      "gap_pct": 6.5,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 561562304,
+      "float_shares": 33904120,
+      "cash_debt_ratio": null,
+      "insider_pct": 18.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | European Equities Traded in the US as American Depositary Receipts Track Higher in Thursday Trading | European Equities Traded in US as ADRs Advance in Tuesday Trading"
+    },
+    {
       "ticker": "HL",
       "score": 42.8,
       "last_close": 16.85,
@@ -555,7 +572,7 @@
       "gap_pct": 6.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11319299072,
+      "market_cap": 11301504000,
       "float_shares": 667086205,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
@@ -649,23 +666,6 @@
       "recent_news": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks | Intuitive Machines, Inc. (LUNR) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Space Stocks Are Roaring Back In August — Here’s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind"
     },
     {
-      "ticker": "FIP",
-      "score": 39.6,
-      "last_close": 4.27,
-      "rel_volume": 1.16,
-      "price_change_pct": 5.3,
-      "gap_pct": 5.06,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 504558368,
-      "float_shares": 108373835,
-      "cash_debt_ratio": 0.01,
-      "insider_pct": 8.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "FTAI Infrastructure Inc (FIP) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic ... | FTAI Infrastructure Q2 Earnings Call Highlights | FTAI Infrastructure Inc. Q2 2026 Earnings Call Summary"
-    },
-    {
       "ticker": "PLUG",
       "score": 39.6,
       "last_close": 2.18,
@@ -730,6 +730,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "WTI",
+      "score": 28.8,
+      "last_close": 3.43,
+      "rel_volume": 1.39,
+      "price_change_pct": 2.69,
+      "gap_pct": 2.25,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "COUR",
       "score": 28.3,
       "last_close": 5.81,
@@ -770,32 +780,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 20.4,
-      "last_close": 7.38,
-      "rel_volume": 0.64,
-      "price_change_pct": -2.64,
-      "gap_pct": -2.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "ORC",
       "score": 19.9,
       "last_close": 6.56,
       "rel_volume": 0.83,
       "price_change_pct": 2.18,
       "gap_pct": 1.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "PRGO",
-      "score": 18.7,
-      "last_close": 12.84,
-      "rel_volume": 0.53,
-      "price_change_pct": 2.39,
-      "gap_pct": 2.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -816,6 +806,16 @@
       "rel_volume": 0.89,
       "price_change_pct": 1.49,
       "gap_pct": 1.5,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OPTU",
+      "score": 17.7,
+      "last_close": 0.769,
+      "rel_volume": 0.25,
+      "price_change_pct": -4.47,
+      "gap_pct": -0.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -876,16 +876,6 @@
       "rel_volume": 0.78,
       "price_change_pct": -0.07,
       "gap_pct": -0.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "KOS",
-      "score": 9.2,
-      "last_close": 2.48,
-      "rel_volume": 0.58,
-      "price_change_pct": 0.4,
-      "gap_pct": 0.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
