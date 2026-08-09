@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-09T12:02:13.211798+00:00",
-  "tickers_scanned": 61,
+  "last_updated_utc": "2026-08-09T14:57:19.233081+00:00",
+  "tickers_scanned": 62,
   "results": [
     {
       "ticker": "BTG",
@@ -29,7 +29,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2027261952,
-      "float_shares": 123074167,
+      "float_shares": 122490062,
       "cash_debt_ratio": 1.88,
       "insider_pct": 1.2,
       "dilution_risk": "높음",
@@ -153,7 +153,7 @@
       "insider_pct": 60.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... | The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut | Top Research Reports for Applied Materials, Mastercard & AbbVie"
+      "recent_news": "INNOVATE Q2 Earnings Call Highlights | Innovate Corp (VATE) (Q2 2026) Earnings Call Highlights: Record Infrastructure Performance and ... | The Zacks Analyst Blog Highlights Applied Materials, Mastercard, AbbVie, INNOVATE and BranchOut"
     },
     {
       "ticker": "TMC",
@@ -168,8 +168,8 @@
       "float_shares": 240186463,
       "cash_debt_ratio": null,
       "insider_pct": 47.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
       "recent_news": "TMC The Metals (TMC) Could Be 59% Undervalued After Its August 13 Earnings Call Date | Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now | Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus."
     },
     {
@@ -202,8 +202,8 @@
       "float_shares": 93990728,
       "cash_debt_ratio": 0.21,
       "insider_pct": 11.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 12,
       "recent_news": "TIC Solutions Q2 Earnings Call Highlights | TIC Solutions, Inc. Q2 2026 Earnings Call Summary | TIC Solutions Inc (TIC) (Q2 2026) Earnings Call Highlights: Record Backlog and Strategic Wins ..."
     },
     {
@@ -357,7 +357,7 @@
       "insider_pct": 13.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "UWM's 35% Collapse Just Turned Into a Bigger Warning | UWM Holdings Corporation Q2 2026 Earnings Call Summary | 🔎 Under the Radar: United Wholesale Mortgage Shares Plunge After Big Loss"
+      "recent_news": "UWM Q2 Earnings Call Highlights | UWM's 35% Collapse Just Turned Into a Bigger Warning | UWM Holdings Corporation Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "UAMY",
@@ -372,8 +372,8 @@
       "float_shares": 130088566,
       "cash_debt_ratio": 39.23,
       "insider_pct": 8.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "United States Antimony Could Be 48% Below Fair Value As Q2 Earnings Near | United States Antimony (UAMY) Stock Looks Fully Valued Following Its 14x Run | Why United States Antimony Stock Popped Today"
     },
     {
@@ -409,23 +409,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market | Lithium Americas Corp. (LAC) Stock Falls Amid Market Uptick: What Investors Need to Know | Will Trump Nationalize SpaceX? Here's What Betting Markets Are Predicting Post-IPO."
-    },
-    {
-      "ticker": "TASK",
-      "score": 50.3,
-      "last_close": 7.3,
-      "rel_volume": 1.46,
-      "price_change_pct": -6.65,
-      "gap_pct": -6.65,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 669315264,
-      "float_shares": 28613914,
-      "cash_debt_ratio": 0.33,
-      "insider_pct": 22.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "TaskUs (TASK) Stock Sees Fair Value Cut As Analysts Weigh Q2 And Multiples | TaskUs, Inc. Q2 2026 Earnings Call Summary | TaskUs Q2 Earnings Call Highlights"
     },
     {
       "ticker": "METC",
@@ -471,7 +454,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 508452160,
-      "float_shares": 133807983,
+      "float_shares": 128129434,
       "cash_debt_ratio": 0.29,
       "insider_pct": 5.6,
       "dilution_risk": "주의",
@@ -493,7 +476,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cipher Digital Inc. (CIFR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Cipher Digital Delivers AI Data Center Early, So Why Is CIFR Stock Down? - TradingView"
+      "recent_news": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push | Cipher Digital IFR Q2 Earnings Call Highlights Early HPC Delivery | MARA, CIFR, WULF Stocks Drop As Price Target Cuts Outweigh Bitcoin’s $65K Rebound"
     },
     {
       "ticker": "PATH",
@@ -646,7 +629,7 @@
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
-      "recent_news": "Six Flags Entertainment Q2 Earnings Call Highlights | SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls | Six Flags Entertainment Corporation (FUN) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates"
+      "recent_news": "Six Flags Entertainment (FUN) Is Down 5.5% After Wider Q2 Loss But Stronger Park Attendance | Six Flags Entertainment Q2 Earnings Call Highlights | SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls"
     },
     {
       "ticker": "SPCE",
@@ -664,6 +647,23 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "SpaceX Rises 11%, Intuitive Machines Gains 9%, Rocket Lab Jumps 8% as Wall Street Gives the All-Clear on Space Stocks | Intuitive Machines, Inc. (LUNR) May Report Negative Earnings: Know the Trend Ahead of Next Week's Release | Space Stocks Are Roaring Back In August — Here’s Why ASTS, RKLB, RDW And Their Peers Are Leaving SpaceX Behind"
+    },
+    {
+      "ticker": "FIP",
+      "score": 39.6,
+      "last_close": 4.27,
+      "rel_volume": 1.16,
+      "price_change_pct": 5.3,
+      "gap_pct": 5.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 504558368,
+      "float_shares": 108373835,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 8.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "FTAI Infrastructure Inc (FIP) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic ... | FTAI Infrastructure Q2 Earnings Call Highlights | FTAI Infrastructure Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "PLUG",
@@ -730,16 +730,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "WTI",
-      "score": 28.8,
-      "last_close": 3.43,
-      "rel_volume": 1.39,
-      "price_change_pct": 2.69,
-      "gap_pct": 2.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "COUR",
       "score": 28.3,
       "last_close": 5.81,
@@ -770,12 +760,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ULCC",
+      "score": 20.4,
+      "last_close": 7.38,
+      "rel_volume": 0.64,
+      "price_change_pct": -2.64,
+      "gap_pct": -2.51,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ORC",
       "score": 19.9,
       "last_close": 6.56,
       "rel_volume": 0.83,
       "price_change_pct": 2.18,
       "gap_pct": 1.79,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "PRGO",
+      "score": 18.7,
+      "last_close": 12.84,
+      "rel_volume": 0.53,
+      "price_change_pct": 2.39,
+      "gap_pct": 2.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -796,16 +806,6 @@
       "rel_volume": 0.89,
       "price_change_pct": 1.49,
       "gap_pct": 1.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OPTU",
-      "score": 17.7,
-      "last_close": 0.769,
-      "rel_volume": 0.25,
-      "price_change_pct": -4.47,
-      "gap_pct": -0.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -866,6 +866,16 @@
       "rel_volume": 0.78,
       "price_change_pct": -0.07,
       "gap_pct": -0.07,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "KOS",
+      "score": 9.2,
+      "last_close": 2.48,
+      "rel_volume": 0.58,
+      "price_change_pct": 0.4,
+      "gap_pct": 0.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
