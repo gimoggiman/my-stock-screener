@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-08-13T06:16:04.547479+00:00",
+  "last_updated_utc": "2026-08-13T08:20:25.966084+00:00",
   "tickers_scanned": 60,
   "results": [
     {
       "ticker": "EROC",
       "score": 75.0,
       "last_close": 13.82,
-      "rel_volume": 3.81,
+      "rel_volume": 3.82,
       "price_change_pct": 22.84,
       "gap_pct": 22.31,
       "st_msg_count": null,
@@ -40,7 +40,7 @@
       "ticker": "RSKD",
       "score": 75.0,
       "last_close": 6.32,
-      "rel_volume": 8.77,
+      "rel_volume": 8.97,
       "price_change_pct": 19.92,
       "gap_pct": 19.45,
       "st_msg_count": null,
@@ -68,7 +68,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Wendy's stock surges on potential takeover bid: AlphaSpace breakdown | Wendy's (WEN) Faces Take Private Bid As Consortium Offer Nears | Why Wendy's Stock Blasted Almost 15% Higher Today"
+      "recent_news": "Wendy's stock surges on potential takeover bid: AlphaSpace breakdown | WEN Stock On Track For Best Week Since June: Wendy’s Peltz's Take-Private Buzz Has Retail Eyeing Buyout Premium | Wendy's (WEN) Faces Take Private Bid As Consortium Offer Nears"
     },
     {
       "ticker": "GPRO",
@@ -91,7 +91,7 @@
       "ticker": "GMRS",
       "score": 70.2,
       "last_close": 12.86,
-      "rel_volume": 6.51,
+      "rel_volume": 6.92,
       "price_change_pct": 8.07,
       "gap_pct": 5.46,
       "st_msg_count": null,
@@ -134,8 +134,8 @@
       "float_shares": 161910916,
       "cash_debt_ratio": 0.03,
       "insider_pct": 1.1,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Social Buzz: Wallstreetbets Stocks Advance Premarket Wednesday; CoreWeave, Super Micro Computer to Open Higher | Hertz Spikes Tuesday Morning. Post-Earnings Rally Continues As Retail Enthusiasm Grows. | Why Is Hertz (HTZ) Stock Soaring Today"
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "ticker": "PYXS",
-      "score": 55.6,
+      "score": 55.9,
       "last_close": 3.18,
-      "rel_volume": 1.34,
+      "rel_volume": 1.36,
       "price_change_pct": 12.37,
       "gap_pct": 13.07,
       "st_msg_count": null,
@@ -222,6 +222,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Pyxis Oncology Secures Up to $114 Million Private Placement | Analysts See Nearly 3X Upside in Pyxis Oncology (PYXS) | Creative Global Technology Holdings And 2 Other Promising Penny Stocks"
+    },
+    {
+      "ticker": "REPL",
+      "score": 55.5,
+      "last_close": 15.24,
+      "rel_volume": 1.33,
+      "price_change_pct": 11.65,
+      "gap_pct": 11.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1428407936,
+      "float_shares": 57292572,
+      "cash_debt_ratio": 2.41,
+      "insider_pct": 1.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Why Did ABCL, REPL, ABNB Stocks Hit 52-Week Highs Today? | REPL Stock Hits Near 18-Month High On Pricing Of $150M Offering – But, Retail Sees Share Price ‘Unwinding Over Time’ | This Biotech’s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News."
     },
     {
       "ticker": "NOK",
@@ -258,40 +275,6 @@
       "recent_news": "Can Keel Infrastructure (KEEL) Trade At A Premium As AI Plans Progress? | Keel Infrastructure (KEEL) Could Be 67% Below Fair Value On Its AI Pivot | Keel Infrastructure (KEEL) Shifts From Bitcoin Mining To AI And HPC Data Centers"
     },
     {
-      "ticker": "REPL",
-      "score": 54.8,
-      "last_close": 15.24,
-      "rel_volume": 1.27,
-      "price_change_pct": 11.65,
-      "gap_pct": 11.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1428407936,
-      "float_shares": 57292572,
-      "cash_debt_ratio": 2.41,
-      "insider_pct": 1.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Why Did ABCL, REPL, ABNB Stocks Hit 52-Week Highs Today? | REPL Stock Hits Near 18-Month High On Pricing Of $150M Offering – But, Retail Sees Share Price ‘Unwinding Over Time’ | This Biotech’s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News."
-    },
-    {
-      "ticker": "DNUT",
-      "score": 54.5,
-      "last_close": 3.3,
-      "rel_volume": 1.76,
-      "price_change_pct": 6.8,
-      "gap_pct": 6.8,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 572550016,
-      "float_shares": 83323375,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 45.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Krispy Kreme’s Turnaround Sees Many Wins | 1 Stock Under $10 to Target This Week and 2 We Ignore | Amazon.com and Krispy Kreme have been highlighted as Zacks Bull and Bear of the Day"
-    },
-    {
       "ticker": "ACHR",
       "score": 54.3,
       "last_close": 6.29,
@@ -326,6 +309,23 @@
       "recent_news": "Securitize Posts Loss in First Earnings Report After NYSE Debut | Securitize (SECZ) Stock Looks Rich Following Its 31% YTD Fall | Securitize (SECZ) On Its Shelf Registration Closure And The Case For A Pricey Valuation"
     },
     {
+      "ticker": "DNUT",
+      "score": 54.2,
+      "last_close": 3.3,
+      "rel_volume": 1.76,
+      "price_change_pct": 6.8,
+      "gap_pct": 6.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 572550016,
+      "float_shares": 83323375,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 45.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Krispy Kreme’s Turnaround Sees Many Wins | 1 Stock Under $10 to Target This Week and 2 We Ignore | Amazon.com and Krispy Kreme have been highlighted as Zacks Bull and Bear of the Day"
+    },
+    {
       "ticker": "SG",
       "score": 53.9,
       "last_close": 5.82,
@@ -344,9 +344,9 @@
     },
     {
       "ticker": "PHAT",
-      "score": 53.7,
+      "score": 53.2,
       "last_close": 9.17,
-      "rel_volume": 1.37,
+      "rel_volume": 1.33,
       "price_change_pct": 7.76,
       "gap_pct": 7.17,
       "st_msg_count": null,
@@ -361,9 +361,9 @@
     },
     {
       "ticker": "OXSQ",
-      "score": 48.9,
+      "score": 49.2,
       "last_close": 1.54,
-      "rel_volume": 1.27,
+      "rel_volume": 1.3,
       "price_change_pct": 6.94,
       "gap_pct": 6.6,
       "st_msg_count": null,
@@ -446,11 +446,11 @@
     },
     {
       "ticker": "RXT",
-      "score": 41.7,
+      "score": 42.1,
       "last_close": 4.64,
       "rel_volume": 0.75,
       "price_change_pct": 6.67,
-      "gap_pct": 6.44,
+      "gap_pct": 6.67,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1182609920,
@@ -474,8 +474,8 @@
       "float_shares": 104138724,
       "cash_debt_ratio": 7.93,
       "insider_pct": 7.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript | Compass Pathways Targets 2027 COMP360 Launch as FDA Filing Advances | Weekly Roundup on the Cannabis Sector & Psychedelic Sector"
     },
     {
@@ -514,11 +514,11 @@
     },
     {
       "ticker": "CAPR",
-      "score": 36.4,
+      "score": 36.3,
       "last_close": 4.19,
-      "rel_volume": 0.57,
+      "rel_volume": 0.58,
       "price_change_pct": 6.62,
-      "gap_pct": 4.83,
+      "gap_pct": 4.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 242650832,
@@ -722,22 +722,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ACDC",
+      "score": 21.3,
+      "last_close": 5.14,
+      "rel_volume": 0.77,
+      "price_change_pct": -2.47,
+      "gap_pct": -2.47,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "RIG",
       "score": 21.3,
       "last_close": 5.7,
       "rel_volume": 1.07,
       "price_change_pct": -1.89,
       "gap_pct": -1.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ACDC",
-      "score": 21.0,
-      "last_close": 5.14,
-      "rel_volume": 0.74,
-      "price_change_pct": -2.47,
-      "gap_pct": -2.47,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -787,7 +787,7 @@
       "last_close": 14.93,
       "rel_volume": 0.38,
       "price_change_pct": -2.35,
-      "gap_pct": -1.83,
+      "gap_pct": -1.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -813,11 +813,11 @@
     },
     {
       "ticker": "MARA",
-      "score": 12.2,
+      "score": 12.3,
       "last_close": 9.64,
       "rel_volume": 0.87,
       "price_change_pct": -0.41,
-      "gap_pct": -0.41,
+      "gap_pct": -0.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
