@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-13T04:11:24.229113+00:00",
+  "last_updated_utc": "2026-08-13T06:16:04.547479+00:00",
   "tickers_scanned": 60,
   "results": [
     {
@@ -40,7 +40,7 @@
       "ticker": "RSKD",
       "score": 75.0,
       "last_close": 6.32,
-      "rel_volume": 8.97,
+      "rel_volume": 8.77,
       "price_change_pct": 19.92,
       "gap_pct": 19.45,
       "st_msg_count": null,
@@ -85,13 +85,13 @@
       "insider_pct": 4.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "GoPro Facing Fundamental Headwinds Amid Strategic Review, Morgan Stanley Says | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For' | GoPro Inc (GPRO) (Q2 2026) Earnings Call Highlights: Record Subscriber Growth Amid Strategic Review"
+      "recent_news": "Why Did FVRR, APP, GPRO Stocks Plunge To 52-Week Lows On Wednesday? | GoPro Facing Fundamental Headwinds Amid Strategic Review, Morgan Stanley Says | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For'"
     },
     {
       "ticker": "GMRS",
       "score": 70.2,
       "last_close": 12.86,
-      "rel_volume": 6.92,
+      "rel_volume": 6.51,
       "price_change_pct": 8.07,
       "gap_pct": 5.46,
       "st_msg_count": null,
@@ -108,7 +108,7 @@
       "ticker": "KLXE",
       "score": 66.6,
       "last_close": 1.65,
-      "rel_volume": 5.53,
+      "rel_volume": 5.7,
       "price_change_pct": 6.45,
       "gap_pct": 6.13,
       "st_msg_count": null,
@@ -174,9 +174,9 @@
     },
     {
       "ticker": "BW",
-      "score": 61.2,
+      "score": 60.2,
       "last_close": 9.77,
-      "rel_volume": 2.42,
+      "rel_volume": 2.33,
       "price_change_pct": 6.31,
       "gap_pct": 7.07,
       "st_msg_count": null,
@@ -224,23 +224,6 @@
       "recent_news": "Pyxis Oncology Secures Up to $114 Million Private Placement | Analysts See Nearly 3X Upside in Pyxis Oncology (PYXS) | Creative Global Technology Holdings And 2 Other Promising Penny Stocks"
     },
     {
-      "ticker": "REPL",
-      "score": 55.5,
-      "last_close": 15.24,
-      "rel_volume": 1.33,
-      "price_change_pct": 11.65,
-      "gap_pct": 11.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1428407936,
-      "float_shares": 57292572,
-      "cash_debt_ratio": 2.41,
-      "insider_pct": 1.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Why Did ABCL, REPL, ABNB Stocks Hit 52-Week Highs Today? | REPL Stock Hits Near 18-Month High On Pricing Of $150M Offering – But, Retail Sees Share Price ‘Unwinding Over Time’ | This Biotech’s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News."
-    },
-    {
       "ticker": "NOK",
       "score": 55.4,
       "last_close": 10.32,
@@ -273,6 +256,40 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "Can Keel Infrastructure (KEEL) Trade At A Premium As AI Plans Progress? | Keel Infrastructure (KEEL) Could Be 67% Below Fair Value On Its AI Pivot | Keel Infrastructure (KEEL) Shifts From Bitcoin Mining To AI And HPC Data Centers"
+    },
+    {
+      "ticker": "REPL",
+      "score": 54.8,
+      "last_close": 15.24,
+      "rel_volume": 1.27,
+      "price_change_pct": 11.65,
+      "gap_pct": 11.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1428407936,
+      "float_shares": 57292572,
+      "cash_debt_ratio": 2.41,
+      "insider_pct": 1.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Why Did ABCL, REPL, ABNB Stocks Hit 52-Week Highs Today? | REPL Stock Hits Near 18-Month High On Pricing Of $150M Offering – But, Retail Sees Share Price ‘Unwinding Over Time’ | This Biotech’s Drug Could Treat Hot Flashes. The Stock Is Up 34% on Good News."
+    },
+    {
+      "ticker": "DNUT",
+      "score": 54.5,
+      "last_close": 3.3,
+      "rel_volume": 1.76,
+      "price_change_pct": 6.8,
+      "gap_pct": 6.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 572550016,
+      "float_shares": 83323375,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 45.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Krispy Kreme’s Turnaround Sees Many Wins | 1 Stock Under $10 to Target This Week and 2 We Ignore | Amazon.com and Krispy Kreme have been highlighted as Zacks Bull and Bear of the Day"
     },
     {
       "ticker": "ACHR",
@@ -309,23 +326,6 @@
       "recent_news": "Securitize Posts Loss in First Earnings Report After NYSE Debut | Securitize (SECZ) Stock Looks Rich Following Its 31% YTD Fall | Securitize (SECZ) On Its Shelf Registration Closure And The Case For A Pricey Valuation"
     },
     {
-      "ticker": "DNUT",
-      "score": 54.2,
-      "last_close": 3.3,
-      "rel_volume": 1.76,
-      "price_change_pct": 6.8,
-      "gap_pct": 6.63,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 572550016,
-      "float_shares": 83323375,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 45.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Krispy Kreme’s Turnaround Sees Many Wins | 1 Stock Under $10 to Target This Week and 2 We Ignore | Amazon.com and Krispy Kreme have been highlighted as Zacks Bull and Bear of the Day"
-    },
-    {
       "ticker": "SG",
       "score": 53.9,
       "last_close": 5.82,
@@ -344,9 +344,9 @@
     },
     {
       "ticker": "PHAT",
-      "score": 53.2,
+      "score": 53.7,
       "last_close": 9.17,
-      "rel_volume": 1.33,
+      "rel_volume": 1.37,
       "price_change_pct": 7.76,
       "gap_pct": 7.17,
       "st_msg_count": null,
@@ -411,6 +411,23 @@
       "recent_news": "Organigram Global Inc (OGI) (Q3 2026) Earnings Call Highlights: Record Revenue and EBITDA ... | OrganiGram (OGI) Reports Q3 Loss, Beats Revenue Estimates | Organigram Global Q3 Earnings Call Highlights"
     },
     {
+      "ticker": "PTLO",
+      "score": 45.2,
+      "last_close": 4.76,
+      "rel_volume": 1.66,
+      "price_change_pct": 5.54,
+      "gap_pct": 4.55,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 345188928,
+      "float_shares": 65715701,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 7.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "3 Restaurant Stocks That Concern Us | Portillo's Inc. Q2 2026 Earnings Call Summary | Portillo's Q2 Earnings Call Highlights"
+    },
+    {
       "ticker": "CLBK",
       "score": 45.1,
       "last_close": 11.65,
@@ -428,29 +445,12 @@
       "recent_news": "1 Momentum  Stock for Long-Term Investors and 2 Facing Challenges | 5 Stocks to Buy This Week If You Want Dividend Income in August | Will Earnings Beat, Dividend, and Governance Shifts Recast Columbia Financial’s (CLBK) Narrative"
     },
     {
-      "ticker": "PTLO",
-      "score": 44.6,
-      "last_close": 4.76,
-      "rel_volume": 1.61,
-      "price_change_pct": 5.54,
-      "gap_pct": 4.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 345188928,
-      "float_shares": 65715701,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 7.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Restaurant Stocks That Concern Us | Portillo's Inc. Q2 2026 Earnings Call Summary | Portillo's Q2 Earnings Call Highlights"
-    },
-    {
       "ticker": "RXT",
-      "score": 42.1,
+      "score": 41.7,
       "last_close": 4.64,
       "rel_volume": 0.75,
       "price_change_pct": 6.67,
-      "gap_pct": 6.67,
+      "gap_pct": 6.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1182609920,
@@ -474,8 +474,8 @@
       "float_shares": 104138724,
       "cash_debt_ratio": 7.93,
       "insider_pct": 7.6,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript | Compass Pathways Targets 2027 COMP360 Launch as FDA Filing Advances | Weekly Roundup on the Cannabis Sector & Psychedelic Sector"
     },
     {
@@ -531,9 +531,9 @@
     },
     {
       "ticker": "ADTN",
-      "score": 35.6,
+      "score": 36.1,
       "last_close": 8.16,
-      "rel_volume": 0.93,
+      "rel_volume": 0.97,
       "price_change_pct": 5.15,
       "gap_pct": 4.64,
       "st_msg_count": null,
@@ -561,7 +561,7 @@
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 95,
-      "recent_news": "These Are the Stocks Wall Street Is Betting Against the Most | Plug Power Beat Estimates and Lifted Its 2026 Outlook. Here's What Comes Next for PLUG Stock. | Plug Power (PLUG) Stock Looks Above Fair Value Despite Better Sales Trends"
+      "recent_news": "PLUG Q2 Deep Dive: Margin Gains and Cost Discipline, Guidance Raised | These Are the Stocks Wall Street Is Betting Against the Most | Plug Power Beat Estimates and Lifted Its 2026 Outlook. Here's What Comes Next for PLUG Stock."
     },
     {
       "ticker": "AI",
@@ -578,7 +578,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 915,
-      "recent_news": "BigBear.ai Doubles Down on Applied AI: Can It Win More Defense Deals? | Can C3.ai (AI) Justify A Rich Valuation After Forrester Recognition? | Automatic Data Processing vs. C3.ai: Which Tech Stock Is a Better Buy in 2026?"
+      "recent_news": "C3.ai vs. CrowdStrike: Which Tech Stock Is a Better Buy in 2026? | BigBear.ai Doubles Down on Applied AI: Can It Win More Defense Deals? | Can C3.ai (AI) Justify A Rich Valuation After Forrester Recognition?"
     },
     {
       "ticker": "TROX",
@@ -722,22 +722,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ACDC",
-      "score": 21.3,
-      "last_close": 5.14,
-      "rel_volume": 0.77,
-      "price_change_pct": -2.47,
-      "gap_pct": -2.47,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "RIG",
       "score": 21.3,
       "last_close": 5.7,
       "rel_volume": 1.07,
       "price_change_pct": -1.89,
       "gap_pct": -1.55,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ACDC",
+      "score": 21.0,
+      "last_close": 5.14,
+      "rel_volume": 0.74,
+      "price_change_pct": -2.47,
+      "gap_pct": -2.47,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -753,9 +753,9 @@
     },
     {
       "ticker": "ULCC",
-      "score": 20.8,
+      "score": 20.7,
       "last_close": 6.7,
-      "rel_volume": 0.59,
+      "rel_volume": 0.58,
       "price_change_pct": -3.11,
       "gap_pct": -2.24,
       "st_msg_count": null,
@@ -787,7 +787,7 @@
       "last_close": 14.93,
       "rel_volume": 0.38,
       "price_change_pct": -2.35,
-      "gap_pct": -1.8,
+      "gap_pct": -1.83,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -813,11 +813,11 @@
     },
     {
       "ticker": "MARA",
-      "score": 12.3,
+      "score": 12.2,
       "last_close": 9.64,
       "rel_volume": 0.87,
       "price_change_pct": -0.41,
-      "gap_pct": -0.46,
+      "gap_pct": -0.41,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
