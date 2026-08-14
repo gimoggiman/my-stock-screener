@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-14T22:21:32.265083+00:00",
+  "last_updated_utc": "2026-08-14T23:20:29.670417+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -106,9 +106,9 @@
     },
     {
       "ticker": "BORR",
-      "score": 67.2,
+      "score": 67.6,
       "last_close": 4.43,
-      "rel_volume": 2.33,
+      "rel_volume": 2.37,
       "price_change_pct": 9.65,
       "gap_pct": 8.29,
       "st_msg_count": null,
@@ -140,9 +140,9 @@
     },
     {
       "ticker": "EROC",
-      "score": 62.8,
+      "score": 62.6,
       "last_close": 16.72,
-      "rel_volume": 2.37,
+      "rel_volume": 2.35,
       "price_change_pct": 6.77,
       "gap_pct": 7.47,
       "st_msg_count": null,
@@ -174,9 +174,9 @@
     },
     {
       "ticker": "METC",
-      "score": 61.2,
+      "score": 61.4,
       "last_close": 12.25,
-      "rel_volume": 1.82,
+      "rel_volume": 1.83,
       "price_change_pct": 16.33,
       "gap_pct": 16.62,
       "st_msg_count": null,
@@ -582,9 +582,9 @@
     },
     {
       "ticker": "HCAT",
-      "score": 41.0,
+      "score": 40.2,
       "last_close": 1.85,
-      "rel_volume": 1.02,
+      "rel_volume": 0.95,
       "price_change_pct": 5.71,
       "gap_pct": 6.0,
       "st_msg_count": null,
@@ -599,9 +599,9 @@
     },
     {
       "ticker": "IRWD",
-      "score": 39.2,
+      "score": 39.3,
       "last_close": 4.31,
-      "rel_volume": 0.96,
+      "rel_volume": 0.97,
       "price_change_pct": 5.64,
       "gap_pct": 5.51,
       "st_msg_count": null,
@@ -616,9 +616,9 @@
     },
     {
       "ticker": "AESI",
-      "score": 39.1,
+      "score": 38.9,
       "last_close": 12.45,
-      "rel_volume": 0.89,
+      "rel_volume": 0.87,
       "price_change_pct": 5.6,
       "gap_pct": 5.98,
       "st_msg_count": null,
@@ -667,9 +667,9 @@
     },
     {
       "ticker": "TMCI",
-      "score": 36.6,
+      "score": 36.4,
       "last_close": 4.79,
-      "rel_volume": 0.53,
+      "rel_volume": 0.51,
       "price_change_pct": 6.21,
       "gap_pct": 5.88,
       "st_msg_count": null,
