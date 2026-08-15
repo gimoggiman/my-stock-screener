@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-08-15T02:50:44.025995+00:00",
-  "tickers_scanned": 68,
+  "last_updated_utc": "2026-08-15T03:38:14.847730+00:00",
+  "tickers_scanned": 65,
   "results": [
     {
       "ticker": "AVAH",
       "score": 75.0,
       "last_close": 12.32,
-      "rel_volume": 3.14,
+      "rel_volume": 3.12,
       "price_change_pct": 9.12,
       "gap_pct": 9.7,
       "st_msg_count": null,
@@ -45,7 +45,7 @@
       "gap_pct": 10.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 168012288,
+      "market_cap": 163077152,
       "float_shares": 205956293,
       "cash_debt_ratio": 1.24,
       "insider_pct": 7.3,
@@ -63,12 +63,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1403976192,
-      "float_shares": 30870686,
+      "float_shares": 30944307,
       "cash_debt_ratio": 15.51,
       "insider_pct": 21.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Why Newsmax Stock Is Skyrocketing Today | Newsmax Q2 Earnings Call Highlights | Newsmax Inc (NMAX) (Q2 2026) Earnings Call Highlights: First Profitable Quarter, Record ..."
+    },
+    {
+      "ticker": "NPWR",
+      "score": 75.0,
+      "last_close": 1.95,
+      "rel_volume": 6.04,
+      "price_change_pct": 20.37,
+      "gap_pct": 20.99,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 172537328,
+      "float_shares": 46154021,
+      "cash_debt_ratio": 86.76,
+      "insider_pct": 48.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "NET Power Q2 Earnings Call Highlights | NET Power Inc. Q2 2026 Earnings Call Summary | NET Power (NPWR) Among Barclays Key Gas Power Generation Picks"
     },
     {
       "ticker": "NNBR",
@@ -86,6 +103,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "5 Must-Read Analyst Questions From NN’s Q2 Earnings Call | NN (NNBR) Q2 2026 Earnings Call Transcript | NNBR Q2 Deep Dive: Data Center and Defense Growth Drive Guidance Increase"
+    },
+    {
+      "ticker": "BYND",
+      "score": 68.1,
+      "last_close": 13.47,
+      "rel_volume": 2.41,
+      "price_change_pct": 10.32,
+      "gap_pct": 10.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 231602720,
+      "float_shares": 16659045,
+      "cash_debt_ratio": 0.42,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "5 Revealing Analyst Questions From Beyond Meat’s Q2 Earnings Call | Beyond Meat’s Reverse Split: What History Says Usually Happens Next | Beyond Meat (BYND) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "BORR",
@@ -114,7 +148,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2269006336,
-      "float_shares": 239618944,
+      "float_shares": 242681817,
       "cash_debt_ratio": null,
       "insider_pct": 47.1,
       "dilution_risk": "높음",
@@ -153,7 +187,7 @@
       "insider_pct": 5.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Why Intuitive Machines Stock Is Soaring Today | LUNR Q2 Earnings Call Highlights Record Backlog and Expansion | Intuitive Machines Stock Surges After Earnings Miss. Wall Street Is Focused on This Number."
+      "recent_news": "What Does Intuitive Machines (LUNR) Winning A Missile Defense Contract Mean? | Why Intuitive Machines Stock Is Soaring Today | LUNR Q2 Earnings Call Highlights Record Backlog and Expansion"
     },
     {
       "ticker": "METC",
@@ -182,7 +216,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 73571385344,
-      "float_shares": 3596813412,
+      "float_shares": 3747430156,
       "cash_debt_ratio": 2.59,
       "insider_pct": 2.0,
       "dilution_risk": "높음",
@@ -241,27 +275,10 @@
       "recent_news": "Cogent Communications (CCOI) Q2 2026 Earnings Call Transcript | Cogent Communications Sees AI Traffic Upside, but Infrastructure Bottlenecks Loom | Cogent Communications Targets Debt Refinance as Sprint Revenue Drag Nears End"
     },
     {
-      "ticker": "ABX",
-      "score": 56.9,
-      "last_close": 9.27,
-      "rel_volume": 1.45,
-      "price_change_pct": 8.8,
-      "gap_pct": 8.69,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 906534208,
-      "float_shares": 45753082,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 69.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Abacus (ABX) Q2 2026 Earnings Call Transcript | Abacus Global Management, Inc. (ABX) Loses 21.6% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Abacus Global Management, Inc. (ABX) Tops Q2 Earnings and Revenue Estimates"
-    },
-    {
       "ticker": "PSQH",
-      "score": 56.9,
+      "score": 57.5,
       "last_close": 4.62,
-      "rel_volume": 1.45,
+      "rel_volume": 1.5,
       "price_change_pct": 10.26,
       "gap_pct": 11.22,
       "st_msg_count": null,
@@ -275,23 +292,6 @@
       "recent_news": "Sector Update: Financial Stocks Rise Late Afternoon | Sector Update: Financial Stocks Advance Thursday Afternoon | PSQ Holdings Inc (PSQH) Q2 2026 Earnings Call Highlights: Revenue Surge and Strategic Streamlining"
     },
     {
-      "ticker": "LUNG",
-      "score": 55.5,
-      "last_close": 2.42,
-      "rel_volume": 1.33,
-      "price_change_pct": 12.04,
-      "gap_pct": 14.81,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 102214040,
-      "float_shares": 37699991,
-      "cash_debt_ratio": 0.99,
-      "insider_pct": 4.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 114,
-      "recent_news": "What Makes Pulmonx Corporation (LUNG) a Strong Momentum Stock: Buy Now? | Pulmonx (LUNG) Q2 2026 Earnings Call Transcript | Pulmonx (LUNG) Upgraded to Buy: What Does It Mean for the Stock?"
-    },
-    {
       "ticker": "USAR",
       "score": 54.9,
       "last_close": 20.0,
@@ -300,7 +300,7 @@
       "gap_pct": 7.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4893422592,
+      "market_cap": 4894402048,
       "float_shares": 212319158,
       "cash_debt_ratio": 478.77,
       "insider_pct": 14.2,
@@ -327,9 +327,9 @@
     },
     {
       "ticker": "NCMI",
-      "score": 54.1,
+      "score": 52.7,
       "last_close": 2.86,
-      "rel_volume": 1.76,
+      "rel_volume": 1.64,
       "price_change_pct": 6.72,
       "gap_pct": 6.72,
       "st_msg_count": null,
@@ -341,6 +341,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "National CineMedia Inc (NCMI) (Q2 2026) Earnings Call Highlights: Strategic Captivate ... | National CineMedia Q2 Earnings Call Highlights | National CineMedia (NCMI) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
+    },
+    {
+      "ticker": "ERII",
+      "score": 52.4,
+      "last_close": 8.35,
+      "rel_volume": 1.58,
+      "price_change_pct": 6.78,
+      "gap_pct": 6.84,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 426224736,
+      "float_shares": 49141412,
+      "cash_debt_ratio": 11.3,
+      "insider_pct": 2.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "5 Revealing Analyst Questions From Energy Recovery’s Q2 Earnings Call | Energy Recovery (ERII) Q2 2026 Earnings Call Transcript | ERII Q2 Deep Dive: Order Delays and Geopolitical Pressures Weigh on Revenue"
     },
     {
       "ticker": "CIFR",
@@ -368,7 +385,7 @@
       "gap_pct": 8.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4281664768,
+      "market_cap": 4353174528,
       "float_shares": 219049203,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
@@ -457,8 +474,8 @@
       "float_shares": 394352399,
       "cash_debt_ratio": 6.47,
       "insider_pct": 0.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Iovance (IOVA) Q2 2026 Earnings Call Transcript | Iovance Biotherapeutics Stock Soars After the Company Posts Strong Q2 Earnings. Is It Heading Even Higher? | Replimune Wins FDA Skin Cancer Drug Approval on Third Try. Why the Stock Is Tumbling."
     },
     {
@@ -488,7 +505,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 75380168,
-      "float_shares": 128737951,
+      "float_shares": 143148303,
       "cash_debt_ratio": 0.49,
       "insider_pct": 1.5,
       "dilution_risk": "높음",
@@ -547,21 +564,21 @@
       "recent_news": "SEALSQ (LAES) Stock Looks Weak On Price But Rich On Sales | What Is SEALSQ (LAES) Building With Trusted AI Identity And Post Quantum Security? | SEALSQ (LAES) Names A Quantum Chief, Where Does Fair Value Sit Now?"
     },
     {
-      "ticker": "HCAT",
-      "score": 41.5,
-      "last_close": 1.85,
-      "rel_volume": 1.06,
-      "price_change_pct": 5.71,
-      "gap_pct": 6.0,
+      "ticker": "WULF",
+      "score": 41.6,
+      "last_close": 17.38,
+      "rel_volume": 0.85,
+      "price_change_pct": 6.56,
+      "gap_pct": 5.95,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 139224320,
-      "float_shares": 60016211,
-      "cash_debt_ratio": 0.61,
-      "insider_pct": 5.4,
+      "market_cap": 8672074752,
+      "float_shares": 383841634,
+      "cash_debt_ratio": 0.5,
+      "insider_pct": 22.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Health Catalyst (HCAT) Q2 2026 Earnings Call Transcript | HCAT Q2 Deep Dive: Vitalware Divestiture Reshapes Strategy Amid Revenue Decline | Why Health Catalyst (HCAT) Shares Are Trading Lower Today"
+      "recent_news": "TeraWulf (WULF) Shares Dropped, So What Is Driving Attention Now? | TeraWulf (WULF) Stock Looks Stretched With Cash Flow And Sales In Focus | IREN Rallies 6% as Microsoft Signs Off on Horizon 1, NVIDIA Grants Exemplar Cloud Status"
     },
     {
       "ticker": "TE",
@@ -581,6 +598,23 @@
       "recent_news": "AXT, T1 Energy and Babcock & Wilcox Soaring Higher On Friday | T1 Energy Q2 Earnings Call Centers on G2 Funding and U.S. Solar Buildout | Bernhard closes acquisition of natural gas utility NMGC from Emera"
     },
     {
+      "ticker": "HCAT",
+      "score": 41.0,
+      "last_close": 1.85,
+      "rel_volume": 1.02,
+      "price_change_pct": 5.71,
+      "gap_pct": 6.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 139224320,
+      "float_shares": 60016211,
+      "cash_debt_ratio": 0.61,
+      "insider_pct": 5.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Health Catalyst (HCAT) Q2 2026 Earnings Call Transcript | HCAT Q2 Deep Dive: Vitalware Divestiture Reshapes Strategy Amid Revenue Decline | Why Health Catalyst (HCAT) Shares Are Trading Lower Today"
+    },
+    {
       "ticker": "IRWD",
       "score": 39.3,
       "last_close": 4.31,
@@ -593,8 +627,8 @@
       "float_shares": 135671911,
       "cash_debt_ratio": 0.2,
       "insider_pct": 3.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Ironwood (IRWD) Q2 2026 Earnings Call Transcript | Ironwood Pharmaceuticals, Inc. Q2 2026 Earnings Call Summary | Ironwood Pharmaceuticals (IRWD) Is Up 14.2% After Raising 2026 Revenue Guidance – Has The Bull Case Changed?"
     },
     {
@@ -606,30 +640,13 @@
       "gap_pct": 5.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1556292864,
+      "market_cap": 1555074560,
       "float_shares": 85726117,
       "cash_debt_ratio": 0.16,
       "insider_pct": 34.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Calumet, Atlas Energy Solutions, HighPeak Energy, Borr Drilling, and ProFrac Shares Are Soaring, What You Need To Know | 5 Must-Read Analyst Questions From Atlas Energy Solutions’s Q2 Earnings Call | Autonomous Logistics Push Amid Widened Losses Might Change The Case For Investing In Atlas Energy Solutions (AESI)"
-    },
-    {
-      "ticker": "OXSQ",
-      "score": 38.7,
-      "last_close": 1.46,
-      "rel_volume": 2.4,
-      "price_change_pct": -2.01,
-      "gap_pct": -2.35,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 157253360,
-      "float_shares": null,
-      "cash_debt_ratio": 0.23,
-      "insider_pct": 6.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Oxford Square Capital Corp. Q2 2026 Earnings Call Summary | Oxford Square Capital Q2 Earnings Call Highlights | Oxford Square’s 21% Yield Masks a Crumbling Portfolio"
     },
     {
       "ticker": "ACHR",
@@ -664,6 +681,40 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 30,
       "recent_news": "The AI build-out has a problem that $1 trillion in cash can't fix | Can OKLO's Groves Milestone Validate Its Nuclear Strategy? | The Last U.S. Nuclear Boom Applied to Build 26 Reactors and Finished 2. NuScale Carries a $4 Billion Market Value on $10.7 Million of Sales."
+    },
+    {
+      "ticker": "AMPY",
+      "score": 35.9,
+      "last_close": 4.78,
+      "rel_volume": 2.7,
+      "price_change_pct": -1.04,
+      "gap_pct": -0.62,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 198161824,
+      "float_shares": 30761930,
+      "cash_debt_ratio": 6.85,
+      "insider_pct": 9.5,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "3 Undiscovered Gems In The US Market With Strong Potential | Amplify Energy (AMPY) Reports Operational Progress Despite Lower-than-Expected Q4 Results | Amplify Energy: Q4 Earnings Snapshot"
+    },
+    {
+      "ticker": "DFH",
+      "score": 33.5,
+      "last_close": 15.6,
+      "rel_volume": 0.73,
+      "price_change_pct": 5.12,
+      "gap_pct": 4.78,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1415292544,
+      "float_shares": 27226236,
+      "cash_debt_ratio": 0.11,
+      "insider_pct": 20.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Dream Finders to Acquire Rival Homebuilder Beazer in $2.2 Billion Deal | Dream Finders Strikes Deal to Buy Beazer. Home Builders Continue to Consolidate. | Dream Finders to Buy Beazer for $915 Million"
     },
     {
       "ticker": "ONDS",
@@ -706,26 +757,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TTEC",
-      "score": 25.4,
-      "last_close": 1.58,
-      "rel_volume": 1.8,
-      "price_change_pct": 0.64,
-      "gap_pct": 1.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TBLA",
-      "score": 24.8,
-      "last_close": 4.05,
-      "rel_volume": 0.83,
-      "price_change_pct": 2.79,
-      "gap_pct": 3.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "UAMY",
       "score": 24.8,
       "last_close": 5.51,
@@ -742,16 +773,6 @@
       "rel_volume": 1.35,
       "price_change_pct": -1.41,
       "gap_pct": -1.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TIGR",
-      "score": 23.2,
-      "last_close": 4.6,
-      "rel_volume": 1.45,
-      "price_change_pct": -1.29,
-      "gap_pct": -1.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -786,26 +807,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NOK",
-      "score": 18.2,
-      "last_close": 10.76,
-      "rel_volume": 0.71,
-      "price_change_pct": 1.89,
-      "gap_pct": 2.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "LAR",
-      "score": 18.1,
-      "last_close": 6.82,
-      "rel_volume": 1.01,
-      "price_change_pct": 1.04,
-      "gap_pct": 1.63,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "GETY",
       "score": 17.3,
       "last_close": 0.308,
@@ -822,16 +823,6 @@
       "rel_volume": 1.08,
       "price_change_pct": 0.7,
       "gap_pct": 1.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "NAT",
-      "score": 16.2,
-      "last_close": 6.71,
-      "rel_volume": 0.74,
-      "price_change_pct": 1.51,
-      "gap_pct": 1.51,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -856,22 +847,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OI",
-      "score": 9.8,
-      "last_close": 6.79,
-      "rel_volume": 0.56,
-      "price_change_pct": -0.73,
-      "gap_pct": -0.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TROX",
-      "score": 9.7,
-      "last_close": 5.96,
-      "rel_volume": 0.64,
-      "price_change_pct": -0.67,
-      "gap_pct": -0.08,
+      "ticker": "AEO",
+      "score": 11.5,
+      "last_close": 16.17,
+      "rel_volume": 0.66,
+      "price_change_pct": -0.8,
+      "gap_pct": -0.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -882,16 +863,6 @@
       "rel_volume": 0.75,
       "price_change_pct": -0.11,
       "gap_pct": -0.11,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CMPS",
-      "score": 9.1,
-      "last_close": 13.45,
-      "rel_volume": 0.31,
-      "price_change_pct": 1.2,
-      "gap_pct": 0.9,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -932,6 +903,26 @@
       "rel_volume": 0.49,
       "price_change_pct": 0.68,
       "gap_pct": 0.26,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TAL",
+      "score": 7.2,
+      "last_close": 11.65,
+      "rel_volume": 0.48,
+      "price_change_pct": 0.43,
+      "gap_pct": 0.13,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "KOS",
+      "score": 7.0,
+      "last_close": 2.54,
+      "rel_volume": 0.43,
+      "price_change_pct": 0.4,
+      "gap_pct": 0.4,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
