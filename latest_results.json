@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-16T02:58:37.371476+00:00",
+  "last_updated_utc": "2026-08-16T03:53:04.639271+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -67,7 +67,7 @@
       "ticker": "NMAX",
       "score": 75.0,
       "last_close": 10.87,
-      "rel_volume": 8.35,
+      "rel_volume": 8.43,
       "price_change_pct": 14.54,
       "gap_pct": 14.01,
       "st_msg_count": null,
@@ -84,7 +84,7 @@
       "ticker": "NPWR",
       "score": 75.0,
       "last_close": 1.95,
-      "rel_volume": 6.32,
+      "rel_volume": 6.26,
       "price_change_pct": 20.37,
       "gap_pct": 20.99,
       "st_msg_count": null,
@@ -99,9 +99,9 @@
     },
     {
       "ticker": "NNBR",
-      "score": 72.3,
+      "score": 71.6,
       "last_close": 3.9,
-      "rel_volume": 2.79,
+      "rel_volume": 2.73,
       "price_change_pct": 8.03,
       "gap_pct": 7.89,
       "st_msg_count": null,
@@ -150,9 +150,9 @@
     },
     {
       "ticker": "EROC",
-      "score": 62.9,
+      "score": 62.7,
       "last_close": 16.72,
-      "rel_volume": 2.38,
+      "rel_volume": 2.36,
       "price_change_pct": 6.77,
       "gap_pct": 7.47,
       "st_msg_count": null,
@@ -184,11 +184,11 @@
     },
     {
       "ticker": "METC",
-      "score": 61.2,
+      "score": 61.4,
       "last_close": 12.25,
-      "rel_volume": 1.82,
+      "rel_volume": 1.83,
       "price_change_pct": 16.33,
-      "gap_pct": 16.62,
+      "gap_pct": 16.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 776505920,
@@ -265,7 +265,7 @@
       "insider_pct": 4.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UBS Group Has Lowered Expectations for Cogent Communications (NASDAQ:CCOI) Stock Price - marketbeat.com | CCOI Stock Drop – If You Lost Money Investing in Cogent Communications Holdings, Inc. Contact ... - Caledonian Record"
+      "recent_news": "5 Must-Read Analyst Questions From Cogent’s Q2 Earnings Call | Cogent Communications (CCOI) Q2 2026 Earnings Call Transcript | Cogent Communications Sees AI Traffic Upside, but Infrastructure Bottlenecks Loom"
     },
     {
       "ticker": "PSQH",
@@ -319,23 +319,6 @@
       "recent_news": "Kura Oncology, Inc. Q2 2026 Earnings Call Summary | Kura Oncology Q2 Earnings Call Highlights | Kura Oncology (KURA) Reports Q2 Loss, Beats Revenue Estimates"
     },
     {
-      "ticker": "NCMI",
-      "score": 54.1,
-      "last_close": 2.86,
-      "rel_volume": 1.76,
-      "price_change_pct": 6.72,
-      "gap_pct": 6.72,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 269041440,
-      "float_shares": 65502190,
-      "cash_debt_ratio": 1.97,
-      "insider_pct": 1.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "National CineMedia Inc (NCMI) (Q2 2026) Earnings Call Highlights: Strategic Captivate ... | National CineMedia Q2 Earnings Call Highlights | National CineMedia (NCMI) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
-    },
-    {
       "ticker": "ERII",
       "score": 52.8,
       "last_close": 8.35,
@@ -351,6 +334,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Cash-Heavy Stock Worth Investigating and 2 We Turn Down | 5 Revealing Analyst Questions From Energy Recovery’s Q2 Earnings Call | Energy Recovery (ERII) Q2 2026 Earnings Call Transcript"
+    },
+    {
+      "ticker": "NCMI",
+      "score": 52.7,
+      "last_close": 2.86,
+      "rel_volume": 1.64,
+      "price_change_pct": 6.72,
+      "gap_pct": 6.72,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 269041440,
+      "float_shares": 65502190,
+      "cash_debt_ratio": 1.97,
+      "insider_pct": 1.3,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "National CineMedia Inc (NCMI) (Q2 2026) Earnings Call Highlights: Strategic Captivate ... | National CineMedia Q2 Earnings Call Highlights | National CineMedia (NCMI) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates"
     },
     {
       "ticker": "CIFR",
@@ -592,9 +592,9 @@
     },
     {
       "ticker": "IRWD",
-      "score": 39.2,
+      "score": 39.4,
       "last_close": 4.31,
-      "rel_volume": 0.96,
+      "rel_volume": 0.98,
       "price_change_pct": 5.64,
       "gap_pct": 5.51,
       "st_msg_count": null,
@@ -727,9 +727,9 @@
     },
     {
       "ticker": "TBLA",
-      "score": 24.8,
+      "score": 25.1,
       "last_close": 4.05,
-      "rel_volume": 0.83,
+      "rel_volume": 0.85,
       "price_change_pct": 2.79,
       "gap_pct": 3.43,
       "st_msg_count": null,
@@ -737,9 +737,9 @@
     },
     {
       "ticker": "ABEV",
-      "score": 24.7,
+      "score": 24.4,
       "last_close": 2.8,
-      "rel_volume": 1.43,
+      "rel_volume": 1.4,
       "price_change_pct": -1.41,
       "gap_pct": -1.94,
       "st_msg_count": null,
