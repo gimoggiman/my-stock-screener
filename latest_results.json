@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-17T22:23:39.863159+00:00",
+  "last_updated_utc": "2026-08-17T23:21:43.427497+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -69,6 +69,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom | Capricor Therapeutics (CAPR) Faces Class Action Scrutiny, Is The 88% Undervalued Case Credible? | Capricor Therapeutics (CAPR) Is Up 62.6% After Mounting Deramiocel FDA Scrutiny And Lawsuits - What's Changed"
+    },
+    {
+      "ticker": "ACH",
+      "score": 67.6,
+      "last_close": 1.07,
+      "rel_volume": 2.37,
+      "price_change_pct": 12.63,
+      "gap_pct": 11.58,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 82288040,
+      "float_shares": 56518805,
+      "cash_debt_ratio": 0.0,
+      "insider_pct": 7.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 126,
+      "recent_news": "Accendra Health drops equity issuance plan as CEO succession process advances | ICU Medical (ICUI) Tops Q2 Earnings and Revenue Estimates | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds"
     },
     {
       "ticker": "OCUL",
