@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-18T01:08:30.821304+00:00",
-  "tickers_scanned": 64,
+  "last_updated_utc": "2026-08-18T02:54:56.256695+00:00",
+  "tickers_scanned": 58,
   "results": [
     {
       "ticker": "FDMT",
@@ -17,13 +17,13 @@
       "insider_pct": 3.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "4D Molecular Therapeutics, Inc. (FDMT) Reports Q2 Loss, Tops Revenue Estimates | MediWound (MDWD) Reports Q2 Loss, Beats Revenue Estimates | Collegium Pharmaceutical (COLL) Beats Q2 Earnings and Revenue Estimates"
+      "recent_news": "OCUL, FDMT Stock Clock Best Day In Weeks After EyePoint’s Trial Setback — Here’s Why | 4D Molecular Therapeutics, Inc. (FDMT) Reports Q2 Loss, Tops Revenue Estimates | MediWound (MDWD) Reports Q2 Loss, Beats Revenue Estimates"
     },
     {
       "ticker": "ADCT",
       "score": 74.8,
       "last_close": 1.1,
-      "rel_volume": 3.67,
+      "rel_volume": 3.71,
       "price_change_pct": 8.91,
       "gap_pct": 7.92,
       "st_msg_count": null,
@@ -40,7 +40,7 @@
       "ticker": "DSX",
       "score": 70.9,
       "last_close": 2.66,
-      "rel_volume": 3.32,
+      "rel_volume": 3.31,
       "price_change_pct": 7.26,
       "gap_pct": 7.06,
       "st_msg_count": null,
@@ -55,14 +55,14 @@
     },
     {
       "ticker": "CAPR",
-      "score": 69.9,
+      "score": 69.8,
       "last_close": 7.45,
-      "rel_volume": 2.56,
+      "rel_volume": 2.55,
       "price_change_pct": 12.03,
       "gap_pct": 12.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 432911936,
+      "market_cap": 433135456,
       "float_shares": 45539107,
       "cash_debt_ratio": 2.61,
       "insider_pct": 9.4,
@@ -102,7 +102,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "EYPT Stock On Track To Hit 16-Month Lows After Wet AMD Trial Setback – Retail Sees Ocular Therapeutics As A Better Buyout Candidate | Ocular Therapeutix's NDA Plans for Axpaxli in Wet AMD Remain on Track, RBC Says | 3 Healthcare Stocks with Questionable Fundamentals"
+      "recent_news": "OCUL, FDMT Stock Clock Best Day In Weeks After EyePoint’s Trial Setback — Here’s Why | EYPT Stock On Track To Hit 16-Month Lows After Wet AMD Trial Setback – Retail Sees Ocular Therapeutics As A Better Buyout Candidate | Ocular Therapeutix's NDA Plans for Axpaxli in Wet AMD Remain on Track, RBC Says"
     },
     {
       "ticker": "RUM",
@@ -120,23 +120,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Rum Group (RUM) Jumps 10.5% as $1.4T Meta Trial Boosts Platform Outlook | Trump Media Slides 4% as It Abandons Its Bitcoin Treasury Bet, Rumble Gains 4% | 5 Revealing Analyst Questions From Rumble’s Q2 Earnings Call"
-    },
-    {
-      "ticker": "DHX",
-      "score": 61.6,
-      "last_close": 4.25,
-      "rel_volume": 1.92,
-      "price_change_pct": 7.87,
-      "gap_pct": 7.8,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 184552816,
-      "float_shares": 40517426,
-      "cash_debt_ratio": 0.28,
-      "insider_pct": 18.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "DHI Group (DHX) Upgraded to Buy: What Does It Mean for the Stock? | CFOs On the Move: Week ending Aug. 14 | DHI Group (DHX) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "MESO",
@@ -181,13 +164,30 @@
       "gap_pct": 8.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4642016768,
+      "market_cap": 4719544832,
       "float_shares": 218956889,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock | Earnings Calendar and Analysis for This Week (August 17-21) | Almonty Industries: The $800 Million Bet on Tungsten"
+      "recent_news": "Almonty Industries (ALM) Could Be 59% Below Fair Value On Buyback News | Shortage Of Tungsten, Key For AI, Defense, Is Fueling This Stock | Earnings Calendar and Analysis for This Week (August 17-21)"
+    },
+    {
+      "ticker": "NPWR",
+      "score": 58.6,
+      "last_close": 1.73,
+      "rel_volume": 1.59,
+      "price_change_pct": -11.28,
+      "gap_pct": -11.18,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 153071584,
+      "float_shares": 46250622,
+      "cash_debt_ratio": 93.33,
+      "insider_pct": 48.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "NET Power Inc (NPWR) (Q2 2026) Earnings Call Highlights: Strategic Pivot to Unabated Gas Power ... | NET Power Q2 Earnings Call Highlights | NET Power Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "ANGX",
@@ -224,23 +224,6 @@
       "recent_news": "TMC The Metals Co Inc (TMC) (Q2 2026) Earnings Call Highlights: Advancing U.S. ... | The Metals Company’s Big Bet Now Comes Down to a License | TMC the metals company Inc. Q2 2026 Earnings Call Summary"
     },
     {
-      "ticker": "TTEC",
-      "score": 54.9,
-      "last_close": 1.45,
-      "rel_volume": 1.29,
-      "price_change_pct": -8.23,
-      "gap_pct": -7.91,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 71479112,
-      "float_shares": 20352458,
-      "cash_debt_ratio": 0.1,
-      "insider_pct": 58.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "TeleTech Q2 Earnings Call Highlights | TTEC Holdings, Inc. Q2 2026 Earnings Call Summary | TTEC Holdings (TTEC) Q2 Earnings and Revenues Miss Estimates"
-    },
-    {
       "ticker": "CABA",
       "score": 54.3,
       "last_close": 2.89,
@@ -253,15 +236,15 @@
       "float_shares": 141483978,
       "cash_debt_ratio": 8.75,
       "insider_pct": 1.0,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Kyverna Therapeutics Sinks 13%: Here’s Why | How Cabaletta Bio (CABA) Is Turning Rese-cel Enrollment and New Financing Into a Clearer Autoimmune Cell Therapy Setup | FDA Clears Imviva’s Dual-Target CAR-T for Autoimmune Diseases"
     },
     {
       "ticker": "KYTX",
-      "score": 53.5,
+      "score": 53.8,
       "last_close": 8.95,
-      "rel_volume": 1.16,
+      "rel_volume": 1.18,
       "price_change_pct": 9.55,
       "gap_pct": 8.81,
       "st_msg_count": null,
@@ -283,7 +266,7 @@
       "gap_pct": 8.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2335147008,
+      "market_cap": 2345130752,
       "float_shares": 194495487,
       "cash_debt_ratio": 0.39,
       "insider_pct": 12.7,
@@ -293,9 +276,9 @@
     },
     {
       "ticker": "KEEL",
-      "score": 52.5,
+      "score": 52.4,
       "last_close": 3.77,
-      "rel_volume": 1.3,
+      "rel_volume": 1.29,
       "price_change_pct": 7.41,
       "gap_pct": 7.55,
       "st_msg_count": null,
@@ -317,13 +300,13 @@
       "gap_pct": 7.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4637029888,
+      "market_cap": 4658616320,
       "float_shares": 373520718,
       "cash_debt_ratio": 0.16,
       "insider_pct": 2.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "3 High-Flying Stocks We Approach with Caution | Valaris, Kodiak Gas Services, SM Energy, Patterson-UTI, and Solaris Energy Infrastructure Shares Are Soaring, What You Need To Know | Patterson-UTI Energy (PTEN) Files ESOP Shelf Registration, Is The Stock Still Undervalued?"
+      "recent_news": "ProPetro, Patterson-UTI, and HighPeak Energy Stocks Trade Up, What You Need To Know | 3 High-Flying Stocks We Approach with Caution | Valaris, Kodiak Gas Services, SM Energy, Patterson-UTI, and Solaris Energy Infrastructure Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "LAC",
@@ -385,7 +368,7 @@
       "gap_pct": 6.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 606806656,
+      "market_cap": 606850624,
       "float_shares": 33904120,
       "cash_debt_ratio": null,
       "insider_pct": 18.1,
@@ -493,7 +476,7 @@
       "insider_pct": 22.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces | Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B | Snap Drops 3% After Ninth Circuit Strips Away Its Immunity Shield, Reddit Eases"
+      "recent_news": "Meta Stares Down Trillion-Dollar Threat as Landmark Social Media Trial Begins | Meta Platforms Drops 4%, Pinterest Falls 4% as Social Media Legal Risk Resurfaces | Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B"
     },
     {
       "ticker": "GCTS",
@@ -531,9 +514,9 @@
     },
     {
       "ticker": "PUMP",
-      "score": 36.7,
+      "score": 36.9,
       "last_close": 12.79,
-      "rel_volume": 0.76,
+      "rel_volume": 0.77,
       "price_change_pct": 5.7,
       "gap_pct": 5.37,
       "st_msg_count": null,
@@ -544,7 +527,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 78,
-      "recent_news": "ProPetro Holding (PUMP) Stock Trades At A Premium After A 139% Run | NESR, Murphy Oil, ProPetro, Occidental Petroleum, and Diamondback Energy Stocks Trade Up, What You Need To Know | ProPetro (PUMP) Q2 2026 Earnings Call Transcript"
+      "recent_news": "ProPetro, Patterson-UTI, and HighPeak Energy Stocks Trade Up, What You Need To Know | ProPetro Holding (PUMP) Stock Trades At A Premium After A 139% Run | NESR, Murphy Oil, ProPetro, Occidental Petroleum, and Diamondback Energy Stocks Trade Up, What You Need To Know"
     },
     {
       "ticker": "EVH",
@@ -562,23 +545,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Healthcare Stock Worth Your Attention and 2 We Brush Off | 5 Must-Read Analyst Questions From Evolent Health’s Q2 Earnings Call | Evolent Health (EVH) Q2 2026 Earnings Call Transcript"
-    },
-    {
-      "ticker": "KURA",
-      "score": 36.3,
-      "last_close": 11.28,
-      "rel_volume": 1.41,
-      "price_change_pct": 3.87,
-      "gap_pct": 4.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1003475712,
-      "float_shares": 70601816,
-      "cash_debt_ratio": 21.22,
-      "insider_pct": 1.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Why Is KURA Stock Rallying 8% After-Hours? | Kura Oncology, Inc. Q2 2026 Earnings Call Summary | Kura Oncology Q2 Earnings Call Highlights"
     },
     {
       "ticker": "PACB",
@@ -616,9 +582,9 @@
     },
     {
       "ticker": "RGNX",
-      "score": 31.6,
+      "score": 31.7,
       "last_close": 11.33,
-      "rel_volume": 0.59,
+      "rel_volume": 0.6,
       "price_change_pct": 5.25,
       "gap_pct": 4.41,
       "st_msg_count": null,
@@ -630,43 +596,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "REGENXBIO Q2 Earnings Call Highlights | Regenxbio Inc (RGNX) (Q2 2026) Earnings Call Highlights: Cash Runway Extended into Q4 2027 on ... | Regenxbio (RGNX) Beats Q2 Earnings and Revenue Estimates"
-    },
-    {
-      "ticker": "TBLA",
-      "score": 30.4,
-      "last_close": 3.89,
-      "rel_volume": 0.89,
-      "price_change_pct": -3.95,
-      "gap_pct": -4.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1050904512,
-      "float_shares": 160607384,
-      "cash_debt_ratio": 0.85,
-      "insider_pct": 19.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "5 Revealing Analyst Questions From Taboola’s Q2 Earnings Call | 2 Cash-Producing Stocks with Promising Prospects and 1 We Turn Down | Taboola.com (TBLA) Following Q2 Profit And Guidance, Is The Bull Case Already Priced In?"
-    },
-    {
-      "ticker": "OXSQ",
-      "score": 28.6,
-      "last_close": 1.42,
-      "rel_volume": 1.18,
-      "price_change_pct": -2.74,
-      "gap_pct": -3.35,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "LAR",
-      "score": 27.5,
-      "last_close": 6.6,
-      "rel_volume": 0.93,
-      "price_change_pct": -3.23,
-      "gap_pct": -3.52,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
     },
     {
       "ticker": "COUR",
@@ -729,12 +658,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TROX",
-      "score": 22.4,
-      "last_close": 5.78,
-      "rel_volume": 0.69,
-      "price_change_pct": -3.02,
-      "gap_pct": -2.6,
+      "ticker": "DNN",
+      "score": 21.1,
+      "last_close": 3.19,
+      "rel_volume": 1.25,
+      "price_change_pct": -1.24,
+      "gap_pct": -1.39,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -779,12 +708,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OI",
-      "score": 17.6,
-      "last_close": 6.62,
-      "rel_volume": 0.52,
-      "price_change_pct": -2.5,
-      "gap_pct": -1.99,
+      "ticker": "AMPY",
+      "score": 18.4,
+      "last_close": 4.82,
+      "rel_volume": 1.12,
+      "price_change_pct": 0.84,
+      "gap_pct": 1.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "KOS",
+      "score": 17.8,
+      "last_close": 2.6,
+      "rel_volume": 0.42,
+      "price_change_pct": 2.36,
+      "gap_pct": 2.95,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -799,22 +738,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "METC",
-      "score": 16.7,
-      "last_close": 12.23,
-      "rel_volume": 1.18,
-      "price_change_pct": -0.16,
-      "gap_pct": -1.31,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "UAMY",
       "score": 15.7,
       "last_close": 5.62,
       "rel_volume": 0.55,
       "price_change_pct": 2.0,
       "gap_pct": 1.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "AEO",
+      "score": 15.4,
+      "last_close": 16.35,
+      "rel_volume": 0.83,
+      "price_change_pct": 1.11,
+      "gap_pct": 1.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -829,42 +768,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NAT",
-      "score": 15.2,
-      "last_close": 6.82,
-      "rel_volume": 0.65,
-      "price_change_pct": 1.64,
-      "gap_pct": 1.34,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CMPS",
-      "score": 15.1,
-      "last_close": 13.72,
-      "rel_volume": 0.43,
-      "price_change_pct": 2.01,
-      "gap_pct": 2.01,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "LESL",
       "score": 15.1,
       "last_close": 0.656,
       "rel_volume": 0.8,
       "price_change_pct": 1.67,
       "gap_pct": 0.31,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "NOK",
-      "score": 12.7,
-      "last_close": 10.78,
-      "rel_volume": 0.97,
-      "price_change_pct": 0.19,
-      "gap_pct": 0.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -905,6 +814,16 @@
       "rel_volume": 0.55,
       "price_change_pct": 0.3,
       "gap_pct": 0.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TAL",
+      "score": 4.9,
+      "last_close": 11.68,
+      "rel_volume": 0.33,
+      "price_change_pct": 0.26,
+      "gap_pct": -0.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
