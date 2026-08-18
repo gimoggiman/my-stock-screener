@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-18T07:36:29.587307+00:00",
-  "tickers_scanned": 58,
+  "last_updated_utc": "2026-08-18T08:35:04.979566+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "AAL",
@@ -16,7 +16,7 @@
       "ticker": "ACH",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 2.21,
+      "rel_volume": 2.37,
       "price_change_pct": NaN,
       "gap_pct": 11.58,
       "st_msg_count": null,
@@ -26,19 +26,9 @@
       "ticker": "ADCT",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 3.71,
+      "rel_volume": 3.67,
       "price_change_pct": NaN,
       "gap_pct": 7.92,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "AEO",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 0.82,
-      "price_change_pct": NaN,
-      "gap_pct": 1.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -59,16 +49,6 @@
       "rel_volume": 1.62,
       "price_change_pct": NaN,
       "gap_pct": 8.35,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "AMPY",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 1.09,
-      "price_change_pct": NaN,
-      "gap_pct": 1.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -146,9 +126,19 @@
       "ticker": "CLBK",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.63,
+      "rel_volume": 0.64,
       "price_change_pct": NaN,
       "gap_pct": -0.89,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CMPS",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 0.43,
+      "price_change_pct": NaN,
+      "gap_pct": 2.01,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -163,12 +153,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "DNN",
+      "ticker": "DHX",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.25,
+      "rel_volume": 1.92,
       "price_change_pct": NaN,
-      "gap_pct": -1.39,
+      "gap_pct": 7.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -186,7 +176,7 @@
       "ticker": "EVH",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.96,
+      "rel_volume": 0.98,
       "price_change_pct": NaN,
       "gap_pct": -3.63,
       "st_msg_count": null,
@@ -196,7 +186,7 @@
       "ticker": "FDMT",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 5.45,
+      "rel_volume": 5.4,
       "price_change_pct": NaN,
       "gap_pct": 17.15,
       "st_msg_count": null,
@@ -256,7 +246,7 @@
       "ticker": "JBLU",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.66,
+      "rel_volume": 0.69,
       "price_change_pct": NaN,
       "gap_pct": -6.64,
       "st_msg_count": null,
@@ -268,17 +258,17 @@
       "last_close": NaN,
       "rel_volume": 1.29,
       "price_change_pct": NaN,
-      "gap_pct": 7.69,
+      "gap_pct": 7.55,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "KOS",
+      "ticker": "KURA",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.42,
+      "rel_volume": 1.41,
       "price_change_pct": NaN,
-      "gap_pct": 2.95,
+      "gap_pct": 4.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -286,7 +276,7 @@
       "ticker": "KYTX",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.18,
+      "rel_volume": 1.16,
       "price_change_pct": NaN,
       "gap_pct": 8.81,
       "st_msg_count": null,
@@ -299,6 +289,16 @@
       "rel_volume": 1.24,
       "price_change_pct": NaN,
       "gap_pct": -7.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "LAR",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 0.93,
+      "price_change_pct": NaN,
+      "gap_pct": -3.52,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -318,7 +318,7 @@
       "last_close": NaN,
       "rel_volume": 1.18,
       "price_change_pct": NaN,
-      "gap_pct": 5.54,
+      "gap_pct": 5.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -326,7 +326,7 @@
       "ticker": "MEI",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.16,
+      "rel_volume": 1.18,
       "price_change_pct": NaN,
       "gap_pct": 4.73,
       "st_msg_count": null,
@@ -343,6 +343,26 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "METC",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 1.18,
+      "price_change_pct": NaN,
+      "gap_pct": -1.31,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NAT",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 0.65,
+      "price_change_pct": NaN,
+      "gap_pct": 1.34,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NNBR",
       "score": NaN,
       "last_close": NaN,
@@ -353,12 +373,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NPWR",
+      "ticker": "NOK",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.62,
+      "rel_volume": 0.97,
       "price_change_pct": NaN,
-      "gap_pct": -11.18,
+      "gap_pct": 0.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -376,7 +396,7 @@
       "ticker": "OCUL",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 5.25,
+      "rel_volume": 5.27,
       "price_change_pct": NaN,
       "gap_pct": 5.93,
       "st_msg_count": null,
@@ -409,6 +429,16 @@
       "rel_volume": 0.55,
       "price_change_pct": NaN,
       "gap_pct": 0.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OXSQ",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 1.18,
+      "price_change_pct": NaN,
+      "gap_pct": -0.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -446,7 +476,7 @@
       "ticker": "PGEN",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.24,
+      "rel_volume": 1.26,
       "price_change_pct": NaN,
       "gap_pct": 8.11,
       "st_msg_count": null,
@@ -476,7 +506,7 @@
       "ticker": "PUMP",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.77,
+      "rel_volume": 0.76,
       "price_change_pct": NaN,
       "gap_pct": 5.37,
       "st_msg_count": null,
@@ -516,7 +546,7 @@
       "ticker": "RUM",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 1.94,
+      "rel_volume": 1.96,
       "price_change_pct": NaN,
       "gap_pct": 11.6,
       "st_msg_count": null,
@@ -543,12 +573,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TAL",
+      "ticker": "TBLA",
       "score": NaN,
       "last_close": NaN,
-      "rel_volume": 0.33,
+      "rel_volume": 0.89,
       "price_change_pct": NaN,
-      "gap_pct": -0.13,
+      "gap_pct": -4.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -573,12 +603,42 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TROX",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 0.69,
+      "price_change_pct": NaN,
+      "gap_pct": -2.6,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TTEC",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 1.29,
+      "price_change_pct": NaN,
+      "gap_pct": -7.91,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "UAMY",
       "score": NaN,
       "last_close": NaN,
       "rel_volume": 0.55,
       "price_change_pct": NaN,
       "gap_pct": 1.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "VALN",
+      "score": NaN,
+      "last_close": NaN,
+      "rel_volume": 1.21,
+      "price_change_pct": NaN,
+      "gap_pct": 0.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
