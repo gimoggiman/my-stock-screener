@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-08-19T11:24:12.946298+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-08-19T12:43:02.458329+00:00",
+  "tickers_scanned": 68,
   "results": [
+    {
+      "ticker": "RNWWW",
+      "score": 84.7,
+      "last_close": 0.002,
+      "rel_volume": 3.11,
+      "price_change_pct": -71.43,
+      "gap_pct": -65.71,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": 48.4,
+      "market_cap": null,
+      "float_shares": 66876534,
+      "cash_debt_ratio": 0.11,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "ReNew Energy Global Plc Q1 2027 Earnings Call Summary | ReNew Energy Global PLC (RNW) (Q1 2027) Earnings Call Highlights: Strong Growth and Strategic ... | ReNew Energy Global Q1 Earnings Call Highlights"
+    },
     {
       "ticker": "AUR",
       "score": 75.0,
@@ -17,7 +34,7 @@
       "insider_pct": 16.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Aurora (AUR) Q2 2026 Earnings Call Transcript | Aurora Innovation (AUR) Deepens Racing Ties: Branding Move or Strategic Shift for Self‑Driving Freight? | What Is Aurora Innovation (AUR) Signaling With Its New Deals And Branding Push?"
+      "recent_news": "5 Strategic Buyers That Could Transform Aurora Innovation Into an Industry Powerhouse | Aurora (AUR) Q2 2026 Earnings Call Transcript | Aurora Innovation (AUR) Deepens Racing Ties: Branding Move or Strategic Shift for Self‑Driving Freight?"
     },
     {
       "ticker": "KLAR",
@@ -34,13 +51,13 @@
       "insider_pct": 21.8,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings live updates: La-Z-Boy stock plunges as 'uneven consumer' leads to earnings miss | KLAR Stock Recovers Overnight As Management Touts Strong US Growth: Retail Turns Extremely Bullish, Says Klarna Is ‘Undervalued’ | Klarna Investors Just Got a Brutal Wake-Up Call"
+      "recent_news": "Klarna stock plunges 22% on trimmed guidance as German retail sales slow | Home Depot, Klarna Q2 earnings shed light on strength of the consumer | Klarna Group (KLAR) Cuts Growth View As CFO And CMO Head For Exit"
     },
     {
       "ticker": "WEAV",
       "score": 75.0,
       "last_close": 7.28,
-      "rel_volume": 38.6,
+      "rel_volume": 40.11,
       "price_change_pct": 31.65,
       "gap_pct": 31.74,
       "st_msg_count": null,
@@ -106,9 +123,9 @@
     },
     {
       "ticker": "CCC",
-      "score": 69.7,
+      "score": 69.3,
       "last_close": 7.14,
-      "rel_volume": 2.98,
+      "rel_volume": 2.95,
       "price_change_pct": 6.73,
       "gap_pct": 7.4,
       "st_msg_count": null,
@@ -140,9 +157,9 @@
     },
     {
       "ticker": "SENS",
-      "score": 62.3,
+      "score": 62.8,
       "last_close": 8.69,
-      "rel_volume": 1.91,
+      "rel_volume": 1.95,
       "price_change_pct": 8.22,
       "gap_pct": 8.59,
       "st_msg_count": null,
@@ -170,13 +187,13 @@
       "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Could Cipher Digital (CIFR) Be 51% Undervalued After Its Latest Selloff? | Cipher Digital (CIFR) Is Down 6.5% After Q2 Loss And Rising Interest Costs – Has The Bull Case Changed? | MARA Holdings Falls 5%, Riot Platforms Sinks 4% as Rates Outweigh a 35,577 Bitcoin Treasury"
+      "recent_news": "Cipher Digital (CIFR) Stock Looks Fully Priced Despite Strong Sales Growth | Could Cipher Digital (CIFR) Be 51% Undervalued After Its Latest Selloff? | Cipher Digital (CIFR) Is Down 6.5% After Q2 Loss And Rising Interest Costs – Has The Bull Case Changed?"
     },
     {
       "ticker": "KLC",
-      "score": 59.1,
+      "score": 59.6,
       "last_close": 2.72,
-      "rel_volume": 2.39,
+      "rel_volume": 2.43,
       "price_change_pct": 6.25,
       "gap_pct": 6.25,
       "st_msg_count": null,
@@ -229,7 +246,7 @@
       "last_close": 15.62,
       "rel_volume": 1.42,
       "price_change_pct": -11.25,
-      "gap_pct": -11.14,
+      "gap_pct": -11.59,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7793890816,
@@ -239,6 +256,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Neocloud Stocks Plummet on Rising Overspend Fears. CoreWeave Down 7%, Nebius Down 5%, Terawulf Down 6% | Cipher Mining Falls 9%, TeraWulf Sinks 7% as Rising Yields Hit the AI Miner Pivot | TeraWulf (WULF) Shares Dropped, So What Is Driving Attention Now?"
+    },
+    {
+      "ticker": "BVC",
+      "score": 50.6,
+      "last_close": 15.08,
+      "rel_volume": 2.78,
+      "price_change_pct": 3.29,
+      "gap_pct": 4.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2533440000,
+      "float_shares": 723156,
+      "cash_debt_ratio": null,
+      "insider_pct": 71.3,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "UK Penny Stocks: 3 Picks With Market Caps Over £50M | Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple | Sector Update: Financial Stocks Rise Late Afternoon"
     },
     {
       "ticker": "MARA",
@@ -275,33 +309,16 @@
       "recent_news": "Archer Daniels' Stock Surges 20.6% in Six Months: Is It Time to Buy or Wait? | Adecoagro SA (AGRO) (Q2 2026) Earnings Call Highlights: Record EBITDA and Strategic Expansion ... | What Adecoagro (AGRO)'s Record Fertilizer and Ethanol-Driven EBITDA Surge Means For Shareholders"
     },
     {
-      "ticker": "BVC",
-      "score": 49.8,
-      "last_close": 15.08,
-      "rel_volume": 2.71,
-      "price_change_pct": 3.29,
-      "gap_pct": 4.21,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2533440000,
-      "float_shares": 723156,
-      "cash_debt_ratio": null,
-      "insider_pct": 71.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "UK Penny Stocks: 3 Picks With Market Caps Over £50M | Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple | Sector Update: Financial Stocks Rise Late Afternoon"
-    },
-    {
       "ticker": "NMRA",
-      "score": 49.7,
+      "score": 49.5,
       "last_close": 1.64,
-      "rel_volume": 1.04,
+      "rel_volume": 1.02,
       "price_change_pct": 7.89,
       "gap_pct": 6.91,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 308149280,
-      "float_shares": 116457886,
+      "float_shares": 116378970,
       "cash_debt_ratio": 2.19,
       "insider_pct": 23.3,
       "dilution_risk": "높음",
@@ -361,9 +378,9 @@
     },
     {
       "ticker": "NUVB",
-      "score": 47.7,
+      "score": 47.8,
       "last_close": 6.96,
-      "rel_volume": 1.11,
+      "rel_volume": 1.12,
       "price_change_pct": 7.41,
       "gap_pct": 6.17,
       "st_msg_count": null,
@@ -375,6 +392,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Wall Street Analysts Predict a 105.71% Upside in Nuvation Bio (NUVB): Here's  What You Should Know | Nuvation Bio (NUVB) Q2 2026 Earnings Call Transcript | Nuvation Bio Q2 Earnings Call Highlights"
+    },
+    {
+      "ticker": "LU",
+      "score": 47.6,
+      "last_close": 1.53,
+      "rel_volume": 1.77,
+      "price_change_pct": 5.52,
+      "gap_pct": 5.17,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1326034048,
+      "float_shares": 227765841,
+      "cash_debt_ratio": 0.82,
+      "insider_pct": 3.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 55,
+      "recent_news": "Lufax H1 Earnings Call Highlights | Lufax Holding (LU) Is Down 6.3% After Cluster Of Senior Director Exits And Board Reshuffle | This Hedge Fund Just Dumped Its Entire Stake in XPeng Stock. Should You Too?"
     },
     {
       "ticker": "SAN",
@@ -394,23 +428,6 @@
       "recent_news": "European Stocks Close Mostly Lower as Trump Ends Iran Talks | Reddit Stock Jumps On S&P 500 News | How Sun Communities’ S&P MidCap 400 Inclusion Will Impact Sun Communities (SUI) Investors"
     },
     {
-      "ticker": "LU",
-      "score": 46.3,
-      "last_close": 1.53,
-      "rel_volume": 1.66,
-      "price_change_pct": 5.52,
-      "gap_pct": 5.17,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1326034048,
-      "float_shares": 227765841,
-      "cash_debt_ratio": 0.82,
-      "insider_pct": 3.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 55,
-      "recent_news": "Lufax H1 Earnings Call Highlights | Lufax Holding (LU) Is Down 6.3% After Cluster Of Senior Director Exits And Board Reshuffle | This Hedge Fund Just Dumped Its Entire Stake in XPeng Stock. Should You Too?"
-    },
-    {
       "ticker": "ARHS",
       "score": 44.4,
       "last_close": 10.03,
@@ -419,7 +436,7 @@
       "gap_pct": 5.93,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1419646848,
+      "market_cap": 1421769856,
       "float_shares": 52184483,
       "cash_debt_ratio": 0.37,
       "insider_pct": 4.7,
@@ -445,21 +462,21 @@
       "recent_news": "Wall Street Analysts Believe Aclaris (ACRS) Could Rally 69.2%: Here's is How to Trade | Aclaris Therapeutics (ACRS) Reports Q2 Loss, Tops Revenue Estimates | Strength Seen in Aclaris (ACRS): Can Its 5.4% Jump Turn into More Strength?"
     },
     {
-      "ticker": "RMAX",
-      "score": 41.9,
-      "last_close": 13.61,
-      "rel_volume": 0.79,
-      "price_change_pct": 6.33,
-      "gap_pct": 6.88,
+      "ticker": "BHC",
+      "score": 41.6,
+      "last_close": 6.93,
+      "rel_volume": 1.14,
+      "price_change_pct": 5.32,
+      "gap_pct": 6.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 750049216,
-      "float_shares": 18065081,
-      "cash_debt_ratio": 0.25,
-      "insider_pct": 7.0,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds | RE/MAX Holdings Inc (RMAX) (Q2 2026) Earnings Call Highlights: Strategic Mergers Advance with ... | Real Brokerage Eyes RE/MAX Deal as Agent Count Tops 36,000"
+      "market_cap": 2591754496,
+      "float_shares": 260529305,
+      "cash_debt_ratio": 0.09,
+      "insider_pct": 11.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 150,
+      "recent_news": "Why Bausch Health Companies Stock Skyrocketed by Almost 40% Last Month | Bausch Health (BHC) Rockets 28% as Q2 Turnaround Fuels Recovery Outlook | Sector Update: Healthcare Stocks Decline Late Afternoon"
     },
     {
       "ticker": "LAC",
@@ -479,21 +496,21 @@
       "recent_news": "Basic Materials Roundup: Market Talk | MP Materials (MP) Stock Is Rising Today: What’s Behind the Rally in Rare Earth Stocks? | Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market"
     },
     {
-      "ticker": "BHC",
-      "score": 41.3,
-      "last_close": 6.93,
-      "rel_volume": 1.11,
-      "price_change_pct": 5.32,
-      "gap_pct": 6.23,
+      "ticker": "METC",
+      "score": 40.8,
+      "last_close": 11.6,
+      "rel_volume": 1.14,
+      "price_change_pct": -5.15,
+      "gap_pct": -6.09,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2591754496,
-      "float_shares": 260529305,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 11.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 150,
-      "recent_news": "Why Bausch Health Companies Stock Skyrocketed by Almost 40% Last Month | Bausch Health (BHC) Rockets 28% as Q2 Turnaround Fuels Recovery Outlook | Sector Update: Healthcare Stocks Decline Late Afternoon"
+      "market_cap": 735303616,
+      "float_shares": 41742423,
+      "cash_debt_ratio": 0.6,
+      "insider_pct": 10.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Ramaco Resources (METC) Q2 2026 Earnings Call Transcript | Ramaco Resources Q2 Earnings Call Highlights | Ramaco Resources (METC) Reports Q2 Loss, Tops Revenue Estimates"
     },
     {
       "ticker": "LVWR",
@@ -504,7 +521,7 @@
       "gap_pct": 8.7,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 253904656,
+      "market_cap": 254711456,
       "float_shares": 13604467,
       "cash_debt_ratio": 0.68,
       "insider_pct": 94.0,
@@ -521,7 +538,7 @@
       "gap_pct": -4.65,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 12058244096,
+      "market_cap": 12039287808,
       "float_shares": 668261800,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
@@ -548,9 +565,9 @@
     },
     {
       "ticker": "KPTI",
-      "score": 38.8,
+      "score": 39.0,
       "last_close": 1.93,
-      "rel_volume": 0.53,
+      "rel_volume": 0.55,
       "price_change_pct": 6.63,
       "gap_pct": 6.35,
       "st_msg_count": null,
@@ -650,9 +667,9 @@
     },
     {
       "ticker": "ALXO",
-      "score": 36.4,
+      "score": 36.2,
       "last_close": 2.08,
-      "rel_volume": 0.89,
+      "rel_volume": 0.87,
       "price_change_pct": 5.58,
       "gap_pct": 4.57,
       "st_msg_count": null,
@@ -701,9 +718,9 @@
     },
     {
       "ticker": "IFRX",
-      "score": 32.8,
+      "score": 32.6,
       "last_close": 2.18,
-      "rel_volume": 0.57,
+      "rel_volume": 0.56,
       "price_change_pct": 5.31,
       "gap_pct": 5.07,
       "st_msg_count": null,
@@ -717,6 +734,23 @@
       "recent_news": "Certara, Inc. (CERT) Q2 Earnings and Revenues Lag Estimates | Strength Seen in Kymera Therapeutics (KYMR): Can Its 16.6% Jump Turn into More Strength? | What Do Analysts Say About InflaRx N.V. (IFRX)?"
     },
     {
+      "ticker": "NOK",
+      "score": 32.2,
+      "last_close": 10.39,
+      "rel_volume": 1.21,
+      "price_change_pct": -3.62,
+      "gap_pct": -3.62,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 58002530304,
+      "float_shares": 4445547757,
+      "cash_debt_ratio": 1.53,
+      "insider_pct": 3.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 19,
+      "recent_news": "Forget the Mag 7: The phase 2 AI trade is here | Nvidia Holds More Than 122 Million Shares of SPCX Stock After Q2. Barchart Data Shows It’s Making a High-Upside Bet. | European Equities Traded in the US as American Depositary Receipts Head Lower in Tuesday Trading"
+    },
+    {
       "ticker": "OPEN",
       "score": 32.2,
       "last_close": 3.36,
@@ -725,19 +759,19 @@
       "gap_pct": -5.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 3262865920,
+      "market_cap": 3241515008,
       "float_shares": 953572567,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3075,
+      "recent_dilution_filings_90d": 3077,
       "recent_news": "Opendoor Is Down 86% From Its High. Is the Housing Recovery Story Still Intact? | Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass? | Opendoor's Weekly Contracts Top 700: Can the Momentum Last?"
     },
     {
       "ticker": "MPLT",
-      "score": 32.0,
+      "score": 31.9,
       "last_close": 11.82,
-      "rel_volume": 0.44,
+      "rel_volume": 0.43,
       "price_change_pct": 5.11,
       "gap_pct": 5.82,
       "st_msg_count": null,
@@ -749,6 +783,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "AstraZeneca scores in lung cancer; Sandoz inks a China deal | MapLight Therapeutics Launching $150 Million Private Placement Financing | MapLight CEO on what investors missed in the biotech’s schizophrenia data"
+    },
+    {
+      "ticker": "TROX",
+      "score": 31.7,
+      "last_close": 5.54,
+      "rel_volume": 0.9,
+      "price_change_pct": -4.15,
+      "gap_pct": -4.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 884738176,
+      "float_shares": 118851956,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 25.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "KRO vs. TROX: Which TiO2 Stock Deserves a Spot in Your Portfolio? | Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks | Tronox (TROX) Stock Looks Below Fair Value Even After A 65% Gain"
     },
     {
       "ticker": "EVH",
@@ -785,22 +836,29 @@
       "recent_news": "Why Did FVRR, APP, GPRO Stocks Plunge To 52-Week Lows On Wednesday? | GoPro Facing Fundamental Headwinds Amid Strategic Review, Morgan Stanley Says | GoPro, Inc. Q2 2026 Earnings Call Summary"
     },
     {
+      "ticker": "TBLA",
+      "score": 30.6,
+      "last_close": 3.83,
+      "rel_volume": 2.02,
+      "price_change_pct": -1.54,
+      "gap_pct": -1.16,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1034695104,
+      "float_shares": 160607384,
+      "cash_debt_ratio": 0.85,
+      "insider_pct": 19.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "5 Revealing Analyst Questions From Taboola’s Q2 Earnings Call | 2 Cash-Producing Stocks with Promising Prospects and 1 We Turn Down | Taboola.com (TBLA) Following Q2 Profit And Guidance, Is The Bull Case Already Priced In?"
+    },
+    {
       "ticker": "GRAB",
       "score": 28.5,
       "last_close": 3.45,
       "rel_volume": 0.91,
       "price_change_pct": -3.63,
       "gap_pct": -3.49,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "KSS",
-      "score": 26.5,
-      "last_close": 18.7,
-      "rel_volume": 1.0,
-      "price_change_pct": -3.01,
-      "gap_pct": -2.9,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -815,6 +873,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "OI",
+      "score": 26.3,
+      "last_close": 6.36,
+      "rel_volume": 0.67,
+      "price_change_pct": -3.93,
+      "gap_pct": -3.32,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "PATH",
       "score": 25.4,
       "last_close": 15.58,
@@ -825,22 +893,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TAL",
-      "score": 24.9,
-      "last_close": 12.03,
-      "rel_volume": 0.88,
-      "price_change_pct": 3.0,
-      "gap_pct": 2.78,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NU",
       "score": 23.8,
       "last_close": 14.35,
       "rel_volume": 0.94,
       "price_change_pct": -2.65,
       "gap_pct": -2.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ULCC",
+      "score": 22.5,
+      "last_close": 6.15,
+      "rel_volume": 0.55,
+      "price_change_pct": -3.15,
+      "gap_pct": -3.31,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -875,12 +943,62 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "WTI",
+      "score": 18.3,
+      "last_close": 3.83,
+      "rel_volume": 0.63,
+      "price_change_pct": 2.13,
+      "gap_pct": 2.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CMPS",
+      "score": 16.5,
+      "last_close": 13.9,
+      "rel_volume": 0.91,
+      "price_change_pct": 1.31,
+      "gap_pct": 0.95,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NAT",
+      "score": 16.4,
+      "last_close": 6.93,
+      "rel_volume": 0.77,
+      "price_change_pct": 1.61,
+      "gap_pct": 1.25,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OXSQ",
+      "score": 16.1,
+      "last_close": 1.44,
+      "rel_volume": 0.83,
+      "price_change_pct": 1.41,
+      "gap_pct": 1.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "RIG",
       "score": 15.1,
       "last_close": 5.82,
       "rel_volume": 0.89,
       "price_change_pct": -0.85,
       "gap_pct": -1.11,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "PRGO",
+      "score": 15.0,
+      "last_close": 12.97,
+      "rel_volume": 0.75,
+      "price_change_pct": 1.17,
+      "gap_pct": 1.37,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -905,12 +1023,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "AEO",
-      "score": 8.7,
-      "last_close": 16.35,
-      "rel_volume": 0.74,
+      "ticker": "ORC",
+      "score": 6.0,
+      "last_close": 6.67,
+      "rel_volume": 0.5,
       "price_change_pct": 0.0,
-      "gap_pct": -0.06,
+      "gap_pct": -0.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
