@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-19T06:41:08.170954+00:00",
+  "last_updated_utc": "2026-08-19T07:37:49.626124+00:00",
   "tickers_scanned": 68,
   "results": [
     {
@@ -184,7 +184,7 @@
       "market_cap": 6679919104,
       "float_shares": 341624238,
       "cash_debt_ratio": 0.15,
-      "insider_pct": 3.6,
+      "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Could Cipher Digital (CIFR) Be 51% Undervalued After Its Latest Selloff? | Cipher Digital (CIFR) Is Down 6.5% After Q2 Loss And Rising Interest Costs – Has The Bull Case Changed? | MARA Holdings Falls 5%, Riot Platforms Sinks 4% as Rates Outweigh a 35,577 Bitcoin Treasury"
@@ -371,7 +371,7 @@
       "market_cap": 905768128,
       "float_shares": 105339902,
       "cash_debt_ratio": 0.62,
-      "insider_pct": 3.5,
+      "insider_pct": 3.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
@@ -785,6 +785,23 @@
       "recent_news": "AstraZeneca scores in lung cancer; Sandoz inks a China deal | MapLight Therapeutics Launching $150 Million Private Placement Financing | MapLight CEO on what investors missed in the biotech’s schizophrenia data"
     },
     {
+      "ticker": "TROX",
+      "score": 31.7,
+      "last_close": 5.54,
+      "rel_volume": 0.9,
+      "price_change_pct": -4.15,
+      "gap_pct": -4.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 884738176,
+      "float_shares": 118851956,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 25.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "KRO vs. TROX: Which TiO2 Stock Deserves a Spot in Your Portfolio? | Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks | Tronox (TROX) Stock Looks Below Fair Value Even After A 65% Gain"
+    },
+    {
       "ticker": "EVH",
       "score": 31.5,
       "last_close": 4.58,
@@ -926,16 +943,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TTEC",
-      "score": 18.6,
-      "last_close": 1.42,
-      "rel_volume": 0.82,
-      "price_change_pct": -2.07,
-      "gap_pct": -1.38,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "WTI",
       "score": 18.3,
       "last_close": 3.83,
@@ -966,6 +973,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "OXSQ",
+      "score": 16.1,
+      "last_close": 1.44,
+      "rel_volume": 0.83,
+      "price_change_pct": 1.41,
+      "gap_pct": 1.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "RIG",
       "score": 15.1,
       "last_close": 5.82,
@@ -976,22 +993,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GETY",
-      "score": 14.2,
-      "last_close": 0.271,
-      "rel_volume": 0.42,
-      "price_change_pct": -1.81,
-      "gap_pct": -1.96,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TIGR",
-      "score": 13.0,
-      "last_close": 4.78,
-      "rel_volume": 0.63,
-      "price_change_pct": -1.24,
-      "gap_pct": -0.93,
+      "ticker": "PRGO",
+      "score": 15.0,
+      "last_close": 12.97,
+      "rel_volume": 0.75,
+      "price_change_pct": 1.17,
+      "gap_pct": 1.37,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
