@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-19T10:27:31.257377+00:00",
+  "last_updated_utc": "2026-08-19T11:24:12.946298+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -190,27 +190,27 @@
       "recent_news": "KinderCare Learning Companies Inc (KLC) (Q2 2026) Earnings Call Highlights: Strategic ... | KinderCare Learning Companies, Inc. Q2 2026 Earnings Call Summary | KinderCare Learning Companies Q2 Earnings Call Highlights"
     },
     {
-      "ticker": "WULF",
-      "score": 56.6,
-      "last_close": 15.62,
-      "rel_volume": 1.42,
-      "price_change_pct": -11.25,
-      "gap_pct": -11.59,
+      "ticker": "ACH",
+      "score": 57.8,
+      "last_close": 1.13,
+      "rel_volume": 3.0,
+      "price_change_pct": 5.61,
+      "gap_pct": 2.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 7793890816,
-      "float_shares": 383746830,
-      "cash_debt_ratio": 0.5,
-      "insider_pct": 22.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Neocloud Stocks Plummet on Rising Overspend Fears. CoreWeave Down 7%, Nebius Down 5%, Terawulf Down 6% | Cipher Mining Falls 9%, TeraWulf Sinks 7% as Rising Yields Hit the AI Miner Pivot | TeraWulf (WULF) Shares Dropped, So What Is Driving Attention Now?"
+      "market_cap": 86902312,
+      "float_shares": 56518805,
+      "cash_debt_ratio": 0.0,
+      "insider_pct": 7.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 124,
+      "recent_news": "Accendra Health drops equity issuance plan as CEO succession process advances | ICU Medical (ICUI) Tops Q2 Earnings and Revenue Estimates | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds"
     },
     {
       "ticker": "CLBT",
-      "score": 56.2,
+      "score": 57.4,
       "last_close": 11.0,
-      "rel_volume": 2.5,
+      "rel_volume": 2.61,
       "price_change_pct": 5.36,
       "gap_pct": 5.46,
       "st_msg_count": null,
@@ -224,21 +224,21 @@
       "recent_news": "Cellebrite’s (CLBT) Compounding Track Record Demands Enterprise Software Re-Rating | Cellebrite DI (CLBT) Cuts Guidance And Changes CEO, Is The Stock Now Cheap? | Does Cellebrite DI’s Lowered 2026 Outlook and New CEO Reset Its AI Narrative (CLBT)?"
     },
     {
-      "ticker": "ACH",
-      "score": 55.4,
-      "last_close": 1.13,
-      "rel_volume": 2.8,
-      "price_change_pct": 5.61,
-      "gap_pct": 2.8,
+      "ticker": "WULF",
+      "score": 56.6,
+      "last_close": 15.62,
+      "rel_volume": 1.42,
+      "price_change_pct": -11.25,
+      "gap_pct": -11.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 86902312,
-      "float_shares": 56518805,
-      "cash_debt_ratio": 0.0,
-      "insider_pct": 7.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 124,
-      "recent_news": "Accendra Health drops equity issuance plan as CEO succession process advances | ICU Medical (ICUI) Tops Q2 Earnings and Revenue Estimates | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds"
+      "market_cap": 7793890816,
+      "float_shares": 383746830,
+      "cash_debt_ratio": 0.5,
+      "insider_pct": 22.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Neocloud Stocks Plummet on Rising Overspend Fears. CoreWeave Down 7%, Nebius Down 5%, Terawulf Down 6% | Cipher Mining Falls 9%, TeraWulf Sinks 7% as Rising Yields Hit the AI Miner Pivot | TeraWulf (WULF) Shares Dropped, So What Is Driving Attention Now?"
     },
     {
       "ticker": "MARA",
@@ -255,7 +255,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "MARA Holdings Falls 5%, Riot Platforms Sinks 4% as Rates Outweigh a 35,577 Bitcoin Treasury | Is It Worth Investing in Marathon Digital (MARA) Based on Wall Street's Bullish Views? | HIVE Digital Technologies to Report Q1 Earnings: What to Expect?"
+      "recent_news": "MARA Holdings (MARA) Earnings Miss Puts Its Valuation Narrative Back In Focus | MARA Holdings Falls 5%, Riot Platforms Sinks 4% as Rates Outweigh a 35,577 Bitcoin Treasury | Is It Worth Investing in Marathon Digital (MARA) Based on Wall Street's Bullish Views?"
     },
     {
       "ticker": "AGRO",
@@ -293,9 +293,9 @@
     },
     {
       "ticker": "NMRA",
-      "score": 49.6,
+      "score": 49.7,
       "last_close": 1.64,
-      "rel_volume": 1.03,
+      "rel_volume": 1.04,
       "price_change_pct": 7.89,
       "gap_pct": 6.91,
       "st_msg_count": null,
@@ -318,7 +318,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 21865720,
-      "float_shares": 28429063,
+      "float_shares": 28922295,
       "cash_debt_ratio": 0.62,
       "insider_pct": 9.4,
       "dilution_risk": "높음",
@@ -361,9 +361,9 @@
     },
     {
       "ticker": "NUVB",
-      "score": 47.8,
+      "score": 47.7,
       "last_close": 6.96,
-      "rel_volume": 1.12,
+      "rel_volume": 1.11,
       "price_change_pct": 7.41,
       "gap_pct": 6.17,
       "st_msg_count": null,
@@ -380,7 +380,7 @@
       "ticker": "SAN",
       "score": 46.9,
       "last_close": 14.24,
-      "rel_volume": 4.43,
+      "rel_volume": 4.37,
       "price_change_pct": -2.4,
       "gap_pct": -2.33,
       "st_msg_count": null,
@@ -390,14 +390,14 @@
       "cash_debt_ratio": 0.78,
       "insider_pct": 0.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 973,
+      "recent_dilution_filings_90d": 974,
       "recent_news": "European Stocks Close Mostly Lower as Trump Ends Iran Talks | Reddit Stock Jumps On S&P 500 News | How Sun Communities’ S&P MidCap 400 Inclusion Will Impact Sun Communities (SUI) Investors"
     },
     {
       "ticker": "LU",
-      "score": 45.4,
+      "score": 46.3,
       "last_close": 1.53,
-      "rel_volume": 1.58,
+      "rel_volume": 1.66,
       "price_change_pct": 5.52,
       "gap_pct": 5.17,
       "st_msg_count": null,
@@ -408,7 +408,7 @@
       "insider_pct": 3.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 55,
-      "recent_news": "Lufax Holding (LU) Is Down 6.3% After Cluster Of Senior Director Exits And Board Reshuffle | This Hedge Fund Just Dumped Its Entire Stake in XPeng Stock. Should You Too? | Assessing Lufax Holding (NYSE:LU) Valuation As Weak Earnings Contrast With Low Price To Sales Ratio"
+      "recent_news": "Lufax H1 Earnings Call Highlights | Lufax Holding (LU) Is Down 6.3% After Cluster Of Senior Director Exits And Board Reshuffle | This Hedge Fund Just Dumped Its Entire Stake in XPeng Stock. Should You Too?"
     },
     {
       "ticker": "ARHS",
@@ -429,9 +429,9 @@
     },
     {
       "ticker": "ACRS",
-      "score": 44.0,
+      "score": 44.3,
       "last_close": 6.305,
-      "rel_volume": 1.05,
+      "rel_volume": 1.08,
       "price_change_pct": 6.5,
       "gap_pct": 6.08,
       "st_msg_count": null,
@@ -462,23 +462,6 @@
       "recent_news": "1 Unpopular Stock That Deserves Some Love and 2 Facing Headwinds | RE/MAX Holdings Inc (RMAX) (Q2 2026) Earnings Call Highlights: Strategic Mergers Advance with ... | Real Brokerage Eyes RE/MAX Deal as Agent Count Tops 36,000"
     },
     {
-      "ticker": "BHC",
-      "score": 41.6,
-      "last_close": 6.93,
-      "rel_volume": 1.14,
-      "price_change_pct": 5.32,
-      "gap_pct": 6.23,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2591754496,
-      "float_shares": 260529305,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 11.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 150,
-      "recent_news": "Why Bausch Health Companies Stock Skyrocketed by Almost 40% Last Month | Bausch Health (BHC) Rockets 28% as Q2 Turnaround Fuels Recovery Outlook | Sector Update: Healthcare Stocks Decline Late Afternoon"
-    },
-    {
       "ticker": "LAC",
       "score": 41.5,
       "last_close": 2.96,
@@ -494,6 +477,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Basic Materials Roundup: Market Talk | MP Materials (MP) Stock Is Rising Today: What’s Behind the Rally in Rare Earth Stocks? | Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market"
+    },
+    {
+      "ticker": "BHC",
+      "score": 41.3,
+      "last_close": 6.93,
+      "rel_volume": 1.11,
+      "price_change_pct": 5.32,
+      "gap_pct": 6.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2591754496,
+      "float_shares": 260529305,
+      "cash_debt_ratio": 0.09,
+      "insider_pct": 11.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 150,
+      "recent_news": "Why Bausch Health Companies Stock Skyrocketed by Almost 40% Last Month | Bausch Health (BHC) Rockets 28% as Q2 Turnaround Fuels Recovery Outlook | Sector Update: Healthcare Stocks Decline Late Afternoon"
     },
     {
       "ticker": "LVWR",
@@ -610,8 +610,8 @@
       "float_shares": 247115274,
       "cash_debt_ratio": null,
       "insider_pct": 46.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
       "recent_news": "What's Going On With The Metals Company Stock? | TMC The Metals Co Inc (TMC) (Q2 2026) Earnings Call Highlights: Advancing U.S. ... | The Metals Company’s Big Bet Now Comes Down to a License"
     },
     {
@@ -633,9 +633,9 @@
     },
     {
       "ticker": "CAPR",
-      "score": 36.2,
+      "score": 36.6,
       "last_close": 7.08,
-      "rel_volume": 1.02,
+      "rel_volume": 1.05,
       "price_change_pct": -4.97,
       "gap_pct": -4.7,
       "st_msg_count": null,
@@ -646,13 +646,13 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom | Capricor Therapeutics (CAPR) Faces Class Action Scrutiny, Is The 88% Undervalued Case Credible? | Capricor Therapeutics (CAPR) Is Up 62.6% After Mounting Deramiocel FDA Scrutiny And Lawsuits - What's Changed"
+      "recent_news": "Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom | Capricor Therapeutics (CAPR) Faces Class Action Scrutiny, Is The 88% Undervalued Case Credible? | Capricor Therapeutics, Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "ALXO",
-      "score": 36.0,
+      "score": 36.4,
       "last_close": 2.08,
-      "rel_volume": 0.86,
+      "rel_volume": 0.89,
       "price_change_pct": 5.58,
       "gap_pct": 4.57,
       "st_msg_count": null,
@@ -730,8 +730,8 @@
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3073,
-      "recent_news": "Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass? | Opendoor's Weekly Contracts Top 700: Can the Momentum Last? | Opendoor's CEO Buys 27,625 Shares for $100,000. Here's What That Means for Investors."
+      "recent_dilution_filings_90d": 3075,
+      "recent_news": "Opendoor Is Down 86% From Its High. Is the Housing Recovery Story Still Intact? | Opendoor Is Down 42% in 2026: How Does It Compare to Housing Competitors Like Offerpad and Compass? | Opendoor's Weekly Contracts Top 700: Can the Momentum Last?"
     },
     {
       "ticker": "MPLT",
@@ -826,9 +826,9 @@
     },
     {
       "ticker": "TAL",
-      "score": 24.6,
+      "score": 24.9,
       "last_close": 12.03,
-      "rel_volume": 0.86,
+      "rel_volume": 0.88,
       "price_change_pct": 3.0,
       "gap_pct": 2.78,
       "st_msg_count": null,
@@ -846,9 +846,9 @@
     },
     {
       "ticker": "COUR",
-      "score": 22.1,
+      "score": 22.2,
       "last_close": 5.69,
-      "rel_volume": 0.73,
+      "rel_volume": 0.74,
       "price_change_pct": 2.71,
       "gap_pct": 2.71,
       "st_msg_count": null,
