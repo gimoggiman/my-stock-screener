@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T11:25:35.750922+00:00",
+  "last_updated_utc": "2026-08-20T12:46:00.343305+00:00",
   "tickers_scanned": 57,
   "results": [
     {
@@ -55,9 +55,9 @@
     },
     {
       "ticker": "ACH",
-      "score": 71.0,
+      "score": 73.4,
       "last_close": 1.32,
-      "rel_volume": 2.66,
+      "rel_volume": 2.86,
       "price_change_pct": 16.81,
       "gap_pct": 14.6,
       "st_msg_count": null,
@@ -69,6 +69,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 122,
       "recent_news": "Accendra Health drops equity issuance plan as CEO succession process advances | ICU Medical (ICUI) Tops Q2 Earnings and Revenue Estimates | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds"
+    },
+    {
+      "ticker": "KC",
+      "score": 67.0,
+      "last_close": 12.37,
+      "rel_volume": 2.31,
+      "price_change_pct": 14.11,
+      "gap_pct": 13.19,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 3703202816,
+      "float_shares": 171258353,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 16,
+      "recent_news": "Kingsoft Cloud Holdings (KC) Jumped, But What Is Catching Investors’ Attention? | Kingsoft Cloud Holdings Ltd (KC) (Q2 2026) Earnings Call Highlights: AI Cloud Surge Drives ... | Why Kingsoft Cloud Stock Is Soaring Today"
     },
     {
       "ticker": "GEMI",
@@ -85,24 +102,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote | Billionaire who once sued Zuckerberg has major Bitcoin prediction | Gemini’s Cameron Winklevoss Says Bitcoin Is Trading At 50% Discount"
-    },
-    {
-      "ticker": "KC",
-      "score": 66.4,
-      "last_close": 12.37,
-      "rel_volume": 2.26,
-      "price_change_pct": 14.11,
-      "gap_pct": 13.19,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 3703202816,
-      "float_shares": 171258353,
-      "cash_debt_ratio": 0.46,
-      "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 16,
-      "recent_news": "Kingsoft Cloud Holdings (KC) Jumped, But What Is Catching Investors’ Attention? | Kingsoft Cloud Holdings Ltd (KC) (Q2 2026) Earnings Call Highlights: AI Cloud Surge Drives ... | Why Kingsoft Cloud Stock Is Soaring Today"
+      "recent_news": "Trump pushes Clarity Act at White House crypto meeting | Trump Ends War (On Crypto) At White House Summit, Pushes Clarity Act Vote | Billionaire who once sued Zuckerberg has major Bitcoin prediction"
     },
     {
       "ticker": "CABA",
@@ -187,7 +187,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "United States Antimony Jumps 8% on $100M Buyback, USA Rare Earth Slips, MP Materials Holds Flat | Why United States Antimony Stock Is Rocketing Higher Today | United States Antimony Launches $100M Buyback Program – Here’s What Triggered The Move"
+      "recent_news": "United States Antimony (UAMY) Starts Smelter Commissioning And Unveils $100 Million Repurchase Program | United States Antimony Jumps 8% on $100M Buyback, USA Rare Earth Slips, MP Materials Holds Flat | Why United States Antimony Stock Is Rocketing Higher Today"
     },
     {
       "ticker": "ABSI",
@@ -374,7 +374,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "MARA Holdings (MARA) Stock Still Looks Expensive As AI Lease Plans Grow | MARA Holdings (MARA) Earnings Miss Puts Its Valuation Narrative Back In Focus | MARA Holdings Falls 5%, Riot Platforms Sinks 4% as Rates Outweigh a 35,577 Bitcoin Treasury"
+      "recent_news": "Circle, Strategy Lead Crypto Stocks Rally as Bitcoin Surges Above $71,000 | MARA Holdings (MARA) Stock Still Looks Expensive As AI Lease Plans Grow | MARA Holdings (MARA) Earnings Miss Puts Its Valuation Narrative Back In Focus"
     },
     {
       "ticker": "ALLO",
@@ -395,11 +395,11 @@
     },
     {
       "ticker": "CAPR",
-      "score": 51.6,
+      "score": 51.8,
       "last_close": 7.98,
-      "rel_volume": 0.99,
+      "rel_volume": 1.01,
       "price_change_pct": 12.71,
-      "gap_pct": 11.44,
+      "gap_pct": 11.58,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 463949120,
@@ -429,9 +429,9 @@
     },
     {
       "ticker": "ABR",
-      "score": 46.5,
+      "score": 46.8,
       "last_close": 5.17,
-      "rel_volume": 1.76,
+      "rel_volume": 1.78,
       "price_change_pct": 5.51,
       "gap_pct": 4.69,
       "st_msg_count": null,
@@ -611,7 +611,7 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4297,
+      "recent_dilution_filings_90d": 4298,
       "recent_news": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today? | Elon Musk Says Tesla Is ‘Most Made in America’ Car Brand as Trump Tariffs Shake Up Auto Industry | GM Sprinted Past Ford After Its $6 Billion Buyback. This Year The Hare Is Napping."
     },
     {
@@ -786,9 +786,9 @@
     },
     {
       "ticker": "TAL",
-      "score": 12.9,
+      "score": 13.1,
       "last_close": 12.12,
-      "rel_volume": 0.79,
+      "rel_volume": 0.81,
       "price_change_pct": 0.75,
       "gap_pct": 0.71,
       "st_msg_count": null,
@@ -816,9 +816,9 @@
     },
     {
       "ticker": "EVH",
-      "score": 7.9,
+      "score": 8.1,
       "last_close": 4.58,
-      "rel_volume": 0.66,
+      "rel_volume": 0.68,
       "price_change_pct": 0.0,
       "gap_pct": 0.11,
       "st_msg_count": null,
