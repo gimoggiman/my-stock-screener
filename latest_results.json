@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T10:29:09.400651+00:00",
+  "last_updated_utc": "2026-08-20T11:25:35.750922+00:00",
   "tickers_scanned": 57,
   "results": [
     {
@@ -97,8 +97,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3703202816,
-      "float_shares": 170988133,
-      "cash_debt_ratio": 0.45,
+      "float_shares": 171258353,
+      "cash_debt_ratio": 0.46,
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
@@ -237,7 +237,7 @@
       "cash_debt_ratio": 2.62,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
+      "recent_dilution_filings_90d": 7,
       "recent_news": "FSM- An Undervalued Miner to Buy After its Smart Acquisition | What Does Fortuna Mining (TSX:FVI) Gain From Its Bambadji Deal And Leadership Reset? | Fortuna Mining (TSX:FVI) Stock Trades Below Fair Value On Its 285% Run"
     },
     {
@@ -611,7 +611,7 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4295,
+      "recent_dilution_filings_90d": 4297,
       "recent_news": "Tesla Climbs 3%, Rivian Jumps 4%: Why Are These EV Stocks Outperforming Ford and General Motors Today? | Elon Musk Says Tesla Is ‘Most Made in America’ Car Brand as Trump Tariffs Shake Up Auto Industry | GM Sprinted Past Ford After Its $6 Billion Buyback. This Year The Hare Is Napping."
     },
     {
