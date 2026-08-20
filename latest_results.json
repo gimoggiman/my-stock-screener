@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-20T22:26:35.503159+00:00",
+  "last_updated_utc": "2026-08-20T23:24:47.314019+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -102,7 +102,7 @@
       "insider_pct": 0.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Here's Why Iovance Biotherapeutics (IOVA) is a Great Momentum Stock to Buy | IOVA Stock Hits New 52-Week High As Shares Jump 14% — What Drove The Rally? | Why Did AMLX, IOVA, OKE Stocks Hit 52-Week Highs Today?"
+      "recent_news": "IOVA Stock Hits Fresh 52-Week Peak On UBS Target Hike, Melanoma Sector Optimism | Here's Why Iovance Biotherapeutics (IOVA) is a Great Momentum Stock to Buy | IOVA Stock Hits New 52-Week High As Shares Jump 14% — What Drove The Rally?"
     },
     {
       "ticker": "BALY",
@@ -425,7 +425,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Capricor (CAPR) Closed 58% Higher on an FDA Lifeline. Is Approval Really Back on Track? | Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom | Capricor Therapeutics (CAPR) Faces Class Action Scrutiny, Is The 88% Undervalued Case Credible?"
+      "recent_news": "Capricor (CAPR) Q2 2026 Earnings Call Transcript | Capricor (CAPR) Closed 58% Higher on an FDA Lifeline. Is Approval Really Back on Track? | Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom"
     },
     {
       "ticker": "BIOX",
@@ -729,8 +729,8 @@
       "float_shares": 8470928,
       "cash_debt_ratio": 1.24,
       "insider_pct": 48.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Firy Inc (FIRY) (Q2 2026) Earnings Call Highlights: Razer Crosses $10M Revenue, Papaya Judgment ..."
     },
     {
