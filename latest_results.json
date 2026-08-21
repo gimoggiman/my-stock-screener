@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-21T21:23:50.570654+00:00",
+  "last_updated_utc": "2026-08-21T22:24:20.904777+00:00",
   "tickers_scanned": 71,
   "results": [
     {
@@ -51,7 +51,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Is SELLAS (SLS) Turning Sector Hype Into a Durable Cancer Vaccine Story Despite Ongoing Losses? | SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention? | SELLAS Life Sciences Group (SLS) Stock Looks Stretched Despite Key AML Trial Progress"
+      "recent_news": "SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation | Is SELLAS (SLS) Turning Sector Hype Into a Durable Cancer Vaccine Story Despite Ongoing Losses? | SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention?"
     },
     {
       "ticker": "NVAX",
@@ -288,7 +288,7 @@
       "cash_debt_ratio": 0.4,
       "insider_pct": 15.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
+      "recent_dilution_filings_90d": 19,
       "recent_news": "Lithium Argentina (LAR) Q2 2026 Earnings Call Transcript | Lithium Argentina AG Q2 2026 Earnings Call Summary | Is Lithium Argentina AG (LAR) among the Best Steel and Metal Stocks to Buy for Energy Infrastructure?"
     },
     {
@@ -525,8 +525,8 @@
       "float_shares": 346263098,
       "cash_debt_ratio": 0.71,
       "insider_pct": 7.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit | All You Need to Know About Lithium Americas Corp. (LAC) Rating Upgrade to Buy | Here's Why You Should Add Reliance Stock to Your Portfolio Now"
     },
     {
@@ -560,7 +560,7 @@
       "cash_debt_ratio": 13.64,
       "insider_pct": 0.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 40,
+      "recent_dilution_filings_90d": 41,
       "recent_news": "Moderna’s Newfound War Chest Opens Door for 4 Strategic Acquisition Targets | Is Editas Medicine (EDIT) Outperforming Other Medical Stocks This Year? | EDIT Q2 Earnings Beat Estimates, Revenues Rise, Pipeline in Focus"
     },
     {
@@ -747,7 +747,7 @@
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 93,
+      "recent_dilution_filings_90d": 94,
       "recent_news": "FuelCell Energy Jumps 5%, Plug Power Climbs 4%, Bloom Energy Slips as the Hydrogen Trade Splits | How Investors May Respond To Plug Power (PLUG) Raising 2026 Revenue Guidance Amid Ongoing Losses | Fluence Energy, Plug Power, Shoals, EVgo, and SolarEdge Stocks Trade Down, What You Need To Know"
     },
     {
