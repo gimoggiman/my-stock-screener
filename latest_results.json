@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-21T06:43:19.165854+00:00",
-  "tickers_scanned": 62,
+  "last_updated_utc": "2026-08-21T07:42:00.580657+00:00",
+  "tickers_scanned": 61,
   "results": [
     {
       "ticker": "MRVI",
@@ -37,6 +37,23 @@
       "recent_news": "Sellas’ Experimental Drug SLS009 Appears To Be Leading The CDK9 Race, Says Alliance Global – Analyst Sees About 200% Upside Potential | Wall Street Analysts See a 58.42% Upside in Prelude Therapeutics (PRLD): Can the Stock Really Move This High? | Prelude Therapeutics (PRLD) Upgraded to Buy: Here's Why"
     },
     {
+      "ticker": "OPENZ",
+      "score": 70.6,
+      "last_close": 0.125,
+      "rel_volume": 2.62,
+      "price_change_pct": -34.21,
+      "gap_pct": -33.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 953572567,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Opendoor Is Repurchasing 5% of Its Outstanding Shares. Here's What That Means for the Company. | Opendoor Technologies (OPEN) Could Be 55% Undervalued After Its $650 Million Note Offering | Opendoor Technologies (OPEN) Wraps Up $650 Million Convertible Note Offering"
+    },
+    {
       "ticker": "PURR",
       "score": 69.6,
       "last_close": 10.08,
@@ -52,6 +69,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Crypto Stocks Continue to Surge After Upbeat White House Meeting | HYPE Nears Record High, PURR Stock Adds To Its Biggest Single-Day Gain After Trump Signals US Path For Hyperliquid Exchange | The Better Hyperliquid Trade Wednesday Was on the Nasdaq, Not Onchain"
+    },
+    {
+      "ticker": "BALY",
+      "score": 68.4,
+      "last_close": 9.82,
+      "rel_volume": 2.43,
+      "price_change_pct": 11.09,
+      "gap_pct": 10.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 495610656,
+      "float_shares": 11674105,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 12.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Bally's (BALY) Stock Trades Up, Here Is Why | Major casino operator discloses ‘substantial doubt’ over future as debt pressures mount | 1 Growth Stock to Add to Your Roster and 2 We Ignore"
     },
     {
       "ticker": "IOVA",
@@ -88,23 +122,6 @@
       "recent_news": "Twenty One Capital CEO Raphael Zagury Unveils 5-Step Plan to Expand Beyond Bitcoin Treasury | Why Twenty One Capital Stock is Worth Less Than the Bitcoin It Owns | Twenty One Capital (XXI) Names Raphael Zagury CEO After Jack Mallers Resigns"
     },
     {
-      "ticker": "KSS",
-      "score": 62.2,
-      "last_close": 17.33,
-      "rel_volume": 1.9,
-      "price_change_pct": -8.01,
-      "gap_pct": -8.31,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 111645695,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 3.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Kohl's, Ollie's, and Warby Parker Shares Plummet, What You Need To Know | TJX cut at Citi as disappointing Marmaxx comp shows off-price isn’t immune | Target Raises Full-Year Outlook as Tariff Refunds Boost Second-Quarter Earnings"
-    },
-    {
       "ticker": "AUPH",
       "score": 61.6,
       "last_close": 17.27,
@@ -134,8 +151,8 @@
       "float_shares": 1233307276,
       "cash_debt_ratio": 0.05,
       "insider_pct": 29.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Deere Shares Rise as Farm Equipment Maker Lifts Fiscal 2026 Guidance | DE Q3 Earnings Beat Estimates on Construction & Turf Strength | Deere Narrows Profit Outlook as Farm Recovery Seen in 2027"
     },
     {
@@ -171,6 +188,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Dow, S&P 500, Nasdaq Futures Climb After Sharp Selloff On Rising Treasury Yields: MSTR, MARA, COIN, WMT Stocks In Focus | MARA Holdings (MARA) Soars Double Digits — Here’s The Catalyst to Watch Now | Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs"
+    },
+    {
+      "ticker": "CARL",
+      "score": 59.7,
+      "last_close": 16.5,
+      "rel_volume": 2.88,
+      "price_change_pct": 6.31,
+      "gap_pct": 3.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 450495264,
+      "float_shares": 15669044,
+      "cash_debt_ratio": 4.07,
+      "insider_pct": 44.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 79,
+      "recent_news": "Carlsmed Eyes Growth as Cervical Launch, Medicare Shift Boost Spine Platform | Carlsmed Inc (CARL) (Q2 2026) Earnings Call Highlights: Revenue Surges 57% to $18. ... | Carlsmed Q2 Earnings Call Highlights"
     },
     {
       "ticker": "GEMI",
@@ -309,23 +343,6 @@
       "recent_news": "Has INPLAY OIL CP (IPOOF) Outpaced Other Oils-Energy Stocks This Year? | Is Kosmos Energy (KOS) a Great Value Stock Right Now? | The 5 Most Interesting Analyst Questions From Kosmos Energy’s Q2 Earnings Call"
     },
     {
-      "ticker": "TUSK",
-      "score": 53.5,
-      "last_close": 3.23,
-      "rel_volume": 1.94,
-      "price_change_pct": 5.56,
-      "gap_pct": 7.19,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 155452096,
-      "float_shares": 36010503,
-      "cash_debt_ratio": 15.37,
-      "insider_pct": 15.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Mammoth Energy Services, Inc. Q2 2026 Earnings Call Summary | Mammoth Energy Services Inc (TUSK) (Q2 2026) Earnings Call Highlights: Revenue Surges 110% as ... | Mammoth Energy Services Q2 Earnings Call Highlights"
-    },
-    {
       "ticker": "CIFR",
       "score": 52.7,
       "last_close": 17.21,
@@ -358,23 +375,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
       "recent_news": "Enhanced Games Reinforce Audience & Sponsorship, Focus Shifts to Live Enhanced Conversion – Quarterly Update Report | Enhanced Group Q2 Earnings Call Highlights | Enhanced Group (ENHA) Secures $50M in Strategic Equity Financing"
-    },
-    {
-      "ticker": "BIOX",
-      "score": 51.0,
-      "last_close": 0.45,
-      "rel_volume": 0.94,
-      "price_change_pct": 8.43,
-      "gap_pct": 8.41,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 28710770,
-      "float_shares": 44331108,
-      "cash_debt_ratio": 0.06,
-      "insider_pct": 17.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Cibus Inc’s Precision-Breeding Platform and BioFragrance Scale-Up Support Commercial Inflection | Cibus Inc’s Precision-Breeding Platform and BioFragrance Scale-Up Support Commercial Inflection – Downloadable Initiation Report | Bioceres Crop Solutions Corp. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "CAPR",
@@ -547,6 +547,23 @@
       "recent_news": "2 Microcap Energy Stocks to Watch That Have Soared More Than 100% YTD | Zacks Initiates Coverage of DWSN With Neutral Recommendation | The Zacks Analyst Blog Highlights Johnson & Johnson, Lam Research, Seagate, KVH Industries and Dawson Geophysical"
     },
     {
+      "ticker": "CSTE",
+      "score": 44.5,
+      "last_close": 3.56,
+      "rel_volume": 1.72,
+      "price_change_pct": 5.01,
+      "gap_pct": 4.69,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 123094392,
+      "float_shares": 20386047,
+      "cash_debt_ratio": 0.54,
+      "insider_pct": 34.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Caesarstone Ltd (CSTE) (Q2 2026) Earnings Call Highlights: Margins Surge, Tariffs Cloud ... | Caesarstone Q2 Earnings Call Highlights | 3 Promising Penny Stocks With Market Caps Under $200M"
+    },
+    {
       "ticker": "SOC",
       "score": 44.5,
       "last_close": 5.07,
@@ -579,23 +596,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report | $230B Fixed-Income Giant Enters Aave Collateral Debate With Tokenized Fund | We Have A Lot of 'Runway' For Growth: Securitize CEO"
-    },
-    {
-      "ticker": "PSQH",
-      "score": 43.3,
-      "last_close": 4.68,
-      "rel_volume": 0.28,
-      "price_change_pct": 9.35,
-      "gap_pct": 9.11,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 15751864,
-      "float_shares": 2429422,
-      "cash_debt_ratio": 0.19,
-      "insider_pct": 22.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Sector Update: Financial Stocks Rise Late Afternoon | Sector Update: Financial Stocks Advance Thursday Afternoon | PSQ Holdings Inc (PSQH) Q2 2026 Earnings Call Highlights: Revenue Surge and Strategic Streamlining"
     },
     {
       "ticker": "STDN",
@@ -666,23 +666,6 @@
       "recent_news": "Ondas (ONDS) Is Down 5.9% After Raising 2026 Guidance On Record Backlog And Q2 Results – Has The Bull Case Changed? | Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds | Ondas (ONDS) Q2 2026 Earnings Call Transcript"
     },
     {
-      "ticker": "LESL",
-      "score": 35.3,
-      "last_close": 0.61,
-      "rel_volume": 0.25,
-      "price_change_pct": -6.58,
-      "gap_pct": -6.28,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 5710130,
-      "float_shares": 9128903,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Monro, America's Car-Mart, Camping World, Leslie's, and Boot Barn Stocks Trade Down, What You Need To Know | Why Leslie's (LESL) Stock Is Falling Today | Leslie's (LESL) Reports Q2: Everything You Need To Know Ahead Of Earnings"
-    },
-    {
       "ticker": "PCG",
       "score": 34.7,
       "last_close": 17.96,
@@ -751,21 +734,38 @@
       "recent_news": "KinderCare Learning Companies Inc (KLC) (Q2 2026) Earnings Call Highlights: Strategic ... | KinderCare Learning Companies, Inc. Q2 2026 Earnings Call Summary | KinderCare Learning Companies Q2 Earnings Call Highlights"
     },
     {
-      "ticker": "FIRY",
-      "score": 31.3,
-      "last_close": 10.24,
-      "rel_volume": 0.25,
-      "price_change_pct": 5.68,
-      "gap_pct": 5.68,
+      "ticker": "TBLA",
+      "score": 31.7,
+      "last_close": 3.68,
+      "rel_volume": 0.78,
+      "price_change_pct": -4.66,
+      "gap_pct": -4.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 167936000,
-      "float_shares": 8470928,
-      "cash_debt_ratio": 1.24,
-      "insider_pct": 48.4,
+      "market_cap": 994171840,
+      "float_shares": 160607384,
+      "cash_debt_ratio": 0.85,
+      "insider_pct": 19.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Firy Inc (FIRY) (Q2 2026) Earnings Call Highlights: Razer Crosses $10M Revenue, Papaya Judgment ..."
+      "recent_news": "5 Revealing Analyst Questions From Taboola’s Q2 Earnings Call | 2 Cash-Producing Stocks with Promising Prospects and 1 We Turn Down | Taboola.com (TBLA) Following Q2 Profit And Guidance, Is The Bull Case Already Priced In?"
+    },
+    {
+      "ticker": "ANGX",
+      "score": 31.4,
+      "last_close": 4.37,
+      "rel_volume": 0.72,
+      "price_change_pct": -5.0,
+      "gap_pct": -3.91,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 816125120,
+      "float_shares": 105253994,
+      "cash_debt_ratio": 0.62,
+      "insider_pct": 3.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
     },
     {
       "ticker": "AEO",
@@ -791,6 +791,16 @@
       "rel_volume": 0.82,
       "price_change_pct": -3.52,
       "gap_pct": -3.9,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "VNET",
+      "score": 27.2,
+      "last_close": 6.65,
+      "rel_volume": 1.35,
+      "price_change_pct": -2.21,
+      "gap_pct": -2.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -865,32 +875,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "EVH",
-      "score": 20.0,
-      "last_close": 4.7,
-      "rel_volume": 0.73,
-      "price_change_pct": 2.62,
-      "gap_pct": 1.75,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "AI",
       "score": 14.4,
       "last_close": 10.31,
       "rel_volume": 0.83,
       "price_change_pct": -0.67,
       "gap_pct": -1.4,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "NPWR",
-      "score": 13.6,
-      "last_close": 1.66,
-      "rel_volume": 0.79,
-      "price_change_pct": -0.6,
-      "gap_pct": -1.32,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
