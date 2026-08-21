@@ -1,24 +1,7 @@
 {
-  "last_updated_utc": "2026-08-20T23:24:47.314019+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-08-21T01:12:36.243708+00:00",
+  "tickers_scanned": 60,
   "results": [
-    {
-      "ticker": "BRCC",
-      "score": 75.0,
-      "last_close": 0.864,
-      "rel_volume": 5.17,
-      "price_change_pct": -24.19,
-      "gap_pct": -27.98,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 216298416,
-      "float_shares": 84202291,
-      "cash_debt_ratio": 0.21,
-      "insider_pct": 24.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "BRC Q2 Earnings Call Highlights | BRC Inc (BRCC) (Q2 2026) Earnings Call Highlights: Packaged Coffee Surges 28. ... | BRC Q1 Earnings Call Highlights"
-    },
     {
       "ticker": "MRVI",
       "score": 75.0,
@@ -84,7 +67,7 @@
       "cash_debt_ratio": null,
       "insider_pct": 6.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
+      "recent_dilution_filings_90d": 5,
       "recent_news": "Crypto Stocks Continue to Surge After Upbeat White House Meeting | HYPE Nears Record High, PURR Stock Adds To Its Biggest Single-Day Gain After Trump Signals US Path For Hyperliquid Exchange | The Better Hyperliquid Trade Wednesday Was on the Nasdaq, Not Onchain"
     },
     {
@@ -119,7 +102,7 @@
       "insider_pct": 12.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Major casino operator discloses ‘substantial doubt’ over future as debt pressures mount | 1 Growth Stock to Add to Your Roster and 2 We Ignore | 3 Unpopular Stocks That Fall Short"
+      "recent_news": "Bally's (BALY) Stock Trades Up, Here Is Why | Major casino operator discloses ‘substantial doubt’ over future as debt pressures mount | 1 Growth Stock to Add to Your Roster and 2 We Ignore"
     },
     {
       "ticker": "XXI",
@@ -135,7 +118,7 @@
       "cash_debt_ratio": 0.22,
       "insider_pct": 63.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 142,
+      "recent_dilution_filings_90d": 140,
       "recent_news": "Twenty One Capital CEO Raphael Zagury Unveils 5-Step Plan to Expand Beyond Bitcoin Treasury | Why Twenty One Capital Stock is Worth Less Than the Bitcoin It Owns | Twenty One Capital (XXI) Names Raphael Zagury CEO After Jack Mallers Resigns"
     },
     {
@@ -153,7 +136,7 @@
       "insider_pct": 3.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "TJX cut at Citi as disappointing Marmaxx comp shows off-price isn’t immune | Target Raises Full-Year Outlook as Tariff Refunds Boost Second-Quarter Earnings | Kohl’s navigates choppy back-to-school season with another round of deals"
+      "recent_news": "Kohl's, Ollie's, and Warby Parker Shares Plummet, What You Need To Know | TJX cut at Citi as disappointing Marmaxx comp shows off-price isn’t immune | Target Raises Full-Year Outlook as Tariff Refunds Boost Second-Quarter Earnings"
     },
     {
       "ticker": "AUPH",
@@ -202,9 +185,9 @@
       "float_shares": 378217916,
       "cash_debt_ratio": 0.17,
       "insider_pct": 0.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal | Circle, Strategy Lead Crypto Stocks Rally as Bitcoin Surges Above $71,000 | MARA Holdings (MARA) Stock Still Looks Expensive As AI Lease Plans Grow"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "MARA Holdings (MARA) Soars Double Digits — Here’s The Catalyst to Watch Now | Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs | Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal"
     },
     {
       "ticker": "CNH",
@@ -340,7 +323,7 @@
       "insider_pct": 21.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "DAQO New Energy Q2 Earnings Call Highlights | Pre-Markets Down Despite Strong Claims, Philly Fed | Philly Fed Hits 5-Year High"
+      "recent_news": "Daqo New Energy Corp (DQ) (Q2 2026) Earnings Call Highlights: Navigating Polysilicon Price ... | DAQO New Energy Q2 Earnings Call Highlights | Pre-Markets Down Despite Strong Claims, Philly Fed"
     },
     {
       "ticker": "KOS",
@@ -408,7 +391,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "CleanSpark (CLSK) Swung To A Third Quarter Loss, Is The Stock Still Trading At A Discount? | How to close the AI skills gap in finance teams: Dear CFO | Big Digital Energy Inc (BGDE) (Q2 2026) Earnings Call Highlights: Strategic Pivot to AI ..."
+      "recent_news": "Top stocks today, Aug. 20: 5 biggest gainers as Bitcoin climbs | CleanSpark (CLSK) Swung To A Third Quarter Loss, Is The Stock Still Trading At A Discount? | How to close the AI skills gap in finance teams: Dear CFO"
     },
     {
       "ticker": "CAPR",
@@ -577,8 +560,25 @@
       "cash_debt_ratio": 0.02,
       "insider_pct": 11.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 130,
+      "recent_dilution_filings_90d": 126,
       "recent_news": "SOC Stock Eyes Best Day In 1.5 Months As Federal Judge Clears California Pipeline | Sector Update: Energy Stocks Mixed Late Afternoon | CRC Down 14.1% in 3 Months: Can Cost Gains Turn It Around?"
+    },
+    {
+      "ticker": "CSTE",
+      "score": 44.3,
+      "last_close": 3.56,
+      "rel_volume": 1.7,
+      "price_change_pct": 5.01,
+      "gap_pct": 4.69,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 123094392,
+      "float_shares": 20386047,
+      "cash_debt_ratio": 0.54,
+      "insider_pct": 34.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Caesarstone Ltd (CSTE) (Q2 2026) Earnings Call Highlights: Margins Surge, Tariffs Cloud ... | Caesarstone Q2 Earnings Call Highlights | 3 Promising Penny Stocks With Market Caps Under $200M"
     },
     {
       "ticker": "SECZ",
@@ -649,6 +649,23 @@
       "recent_news": "TAL vs. LAUR: Which Stock Is the Better Value Option? | H&R Block Stock Gains 22% in a Month: Here's What You Should Know | Is TAL Education Group (TAL) a Great Value Stock Right Now?"
     },
     {
+      "ticker": "LEG",
+      "score": 37.4,
+      "last_close": 9.34,
+      "rel_volume": 1.76,
+      "price_change_pct": -3.51,
+      "gap_pct": -3.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1275741184,
+      "float_shares": 133220710,
+      "cash_debt_ratio": 0.33,
+      "insider_pct": 2.3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "New Strong Buy Stocks for August 20th | Best Value Stocks to Buy for August 20th | Best Income Stocks to Buy for August 20th"
+    },
+    {
       "ticker": "ONDS",
       "score": 37.2,
       "last_close": 8.38,
@@ -663,7 +680,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds | Ondas (ONDS) Q2 2026 Earnings Call Transcript | Can Aran Defense Buyout Bolster Ondas' Sovereign Defense Strategy?"
+      "recent_news": "Ondas (ONDS) Is Down 5.9% After Raising 2026 Guidance On Record Backlog And Q2 Results – Has The Bull Case Changed? | Ondas Drops 7%, Unusual Machines Sinks 8%, Kratos Falls 5% as the Drone Trade Unwinds | Ondas (ONDS) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "PCG",
@@ -746,8 +763,8 @@
       "float_shares": 155809685,
       "cash_debt_ratio": 0.06,
       "insider_pct": 8.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "What Americans want from clothing brands is starting to change | American Eagle Outfitters (AEO) Rises As Market Takes a Dip: Key Facts | American Eagle (AEO) Stock Trades At A Discount On Earnings While Cash Flow Points To Fair Value"
     },
     {
