@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-08-22T01:08:37.660682+00:00",
-  "tickers_scanned": 58,
+  "last_updated_utc": "2026-08-22T02:53:46.860734+00:00",
+  "tickers_scanned": 60,
   "results": [
+    {
+      "ticker": "CANG",
+      "score": 75.0,
+      "last_close": 2.14,
+      "rel_volume": 31.85,
+      "price_change_pct": 32.1,
+      "gap_pct": 29.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 87787016,
+      "float_shares": 20523005,
+      "cash_debt_ratio": 0.22,
+      "insider_pct": 14.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Another crypto company to sell its Bitcoin stash | Cango sets July 20 effective date for 10-for-1 share consolidation amid NYSE price deficiency | Cango Sets July 20 Date for 1-for-10 Reverse Stock Split"
+    },
     {
       "ticker": "IQMX",
       "score": 75.0,
@@ -32,8 +49,8 @@
       "float_shares": 65489040,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Largo Q2 Earnings Call Highlights | Wall Street Set to Open Lower in Wednesday Trading; Key Employment Data Falls Short of Forecasts | How Tariff Disruption Hit Largo’s (LGO) Vanadium Sales in Late 2025"
     },
     {
@@ -258,6 +275,23 @@
       "recent_news": "IREN Heads Into FY2026 Results: Can Growth Momentum Continue? | IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5% | Cipher Digital Stock Is Valued On Revenue It Is Shutting Down"
     },
     {
+      "ticker": "JELD",
+      "score": 56.6,
+      "last_close": 2.3,
+      "rel_volume": 1.43,
+      "price_change_pct": 10.58,
+      "gap_pct": 7.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 199555776,
+      "float_shares": 80352436,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 3.4,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "JELD-WEN (JELD) Q2 2026 Earnings Call Transcript | Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know | JELD-WEN Holding Inc (JELD) (Q2 2026) Earnings Call Highlights: First EBITDA Growth in 10 ..."
+    },
+    {
       "ticker": "LAR",
       "score": 54.5,
       "last_close": 6.83,
@@ -462,23 +496,6 @@
       "recent_news": "Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit | All You Need to Know About Lithium Americas Corp. (LAC) Rating Upgrade to Buy | Here's Why You Should Add Reliance Stock to Your Portfolio Now"
     },
     {
-      "ticker": "METC",
-      "score": 42.7,
-      "last_close": 11.9,
-      "rel_volume": 0.75,
-      "price_change_pct": 6.73,
-      "gap_pct": 6.91,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 754320000,
-      "float_shares": 41742423,
-      "cash_debt_ratio": 0.6,
-      "insider_pct": 10.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "‘The Odyssey’ Isn’t a One-Off for IMAX, Analyst Says. Plus, Dell and 3 More Stocks. | Ramaco Resources (METC) Q2 2026 Earnings Call Transcript | Ramaco Resources Q2 Earnings Call Highlights"
-    },
-    {
       "ticker": "EDIT",
       "score": 41.9,
       "last_close": 3.11,
@@ -528,23 +545,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Hut 8 Craters 11% Despite a $19.6B Beacon Point Backlog, TeraWulf Falls 5%, IREN Drops 3%: What’s Pressuring These AI Miner Stocks? | IREN Jumps 6% but Then Gives Up Gains as Microsoft Accepts Horizon 1; TeraWulf Ticks Up, Cipher Digital Drops 5% | Bitdeer Shares Surge as AI Arm Lands $400M Malaysia Deal"
-    },
-    {
-      "ticker": "EBS",
-      "score": 39.6,
-      "last_close": 5.08,
-      "rel_volume": 1.1,
-      "price_change_pct": 5.39,
-      "gap_pct": 5.29,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 260468544,
-      "float_shares": 49061404,
-      "cash_debt_ratio": 0.24,
-      "insider_pct": 4.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
-      "recent_news": "Emergent BioSolutions (EBS) Q2 2026 Earnings Call Transcript | Why Did TTD, PZZA, EBS Stocks Plummet To 52 Week Lows? | Emergent Biosolutions Q2 Earnings Call Highlights"
     },
     {
       "ticker": "SG",
@@ -627,8 +627,8 @@
       "float_shares": 138076786,
       "cash_debt_ratio": 0.11,
       "insider_pct": 0.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Perrigo (PRGO) Q2 2026 Earnings Call Transcript | PRGO vs. NEOG: Which Stock Is the Better Value Option? | Are Investors Undervaluing Perrigo (PRGO) Right Now?"
     },
     {
@@ -709,6 +709,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "RERE",
+      "score": 24.5,
+      "last_close": 4.16,
+      "rel_volume": 1.26,
+      "price_change_pct": 1.96,
+      "gap_pct": 1.96,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OPENZ",
       "score": 23.7,
       "last_close": 0.12,
@@ -779,6 +789,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "LEG",
+      "score": 18.6,
+      "last_close": 9.41,
+      "rel_volume": 1.17,
+      "price_change_pct": 0.75,
+      "gap_pct": 1.39,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AI",
       "score": 16.9,
       "last_close": 10.3,
@@ -829,22 +849,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "NOK",
+      "score": 7.7,
+      "last_close": 10.21,
+      "rel_volume": 0.47,
+      "price_change_pct": 0.59,
+      "gap_pct": 0.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ORC",
       "score": 5.9,
       "last_close": 6.7,
       "rel_volume": 0.43,
       "price_change_pct": -0.15,
       "gap_pct": -0.22,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CLBK",
-      "score": 5.3,
-      "last_close": 11.79,
-      "rel_volume": 0.34,
-      "price_change_pct": 0.26,
-      "gap_pct": 0.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
