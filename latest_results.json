@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-22T15:19:25.469920+00:00",
-  "tickers_scanned": 58,
+  "last_updated_utc": "2026-08-22T16:22:40.909623+00:00",
+  "tickers_scanned": 59,
   "results": [
     {
       "ticker": "CANG",
@@ -835,6 +835,16 @@
       "rel_volume": 0.65,
       "price_change_pct": -0.44,
       "gap_pct": -0.79,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NOK",
+      "score": 9.5,
+      "last_close": 10.21,
+      "rel_volume": 0.62,
+      "price_change_pct": 0.59,
+      "gap_pct": 0.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
