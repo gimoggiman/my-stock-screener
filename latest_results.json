@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-22T13:31:26.724845+00:00",
-  "tickers_scanned": 60,
+  "last_updated_utc": "2026-08-22T14:20:27.491342+00:00",
+  "tickers_scanned": 58,
   "results": [
     {
       "ticker": "CANG",
@@ -789,16 +789,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "LEG",
-      "score": 18.6,
-      "last_close": 9.41,
-      "rel_volume": 1.17,
-      "price_change_pct": 0.75,
-      "gap_pct": 1.39,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NAT",
       "score": 17.6,
       "last_close": 6.97,
@@ -845,16 +835,6 @@
       "rel_volume": 0.65,
       "price_change_pct": -0.44,
       "gap_pct": -0.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "NOK",
-      "score": 9.5,
-      "last_close": 10.21,
-      "rel_volume": 0.62,
-      "price_change_pct": 0.59,
-      "gap_pct": 0.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
