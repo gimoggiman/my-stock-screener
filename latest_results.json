@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T09:26:08.820093+00:00",
+  "last_updated_utc": "2026-08-22T10:22:39.400259+00:00",
   "tickers_scanned": 60,
   "results": [
     {
@@ -403,7 +403,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 419621536,
-      "float_shares": 304060865,
+      "float_shares": 304011132,
       "cash_debt_ratio": 0.33,
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
