@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-22T05:26:03.907845+00:00",
+  "last_updated_utc": "2026-08-22T06:37:32.436425+00:00",
   "tickers_scanned": 60,
   "results": [
     {
@@ -151,8 +151,8 @@
       "float_shares": 902210809,
       "cash_debt_ratio": 0.8,
       "insider_pct": 0.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Denison Mine (DNN) Reports Q2 Loss, Misses Revenue Estimates | Avino Silver (ASM) Meets Q2 Earnings Estimates | Integra Resources Corp. (ITRG) Misses Q2 Earnings and Revenue Estimates"
     },
     {
