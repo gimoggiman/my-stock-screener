@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-23T06:38:44.168739+00:00",
-  "tickers_scanned": 58,
+  "last_updated_utc": "2026-08-23T07:33:20.283736+00:00",
+  "tickers_scanned": 65,
   "results": [
     {
       "ticker": "CANG",
@@ -411,6 +411,23 @@
       "recent_news": "PacBio Cuts Outlook as SPRQ-Nx Transition Slows, Targets 2028 Cash-Flow Positivity | 5 Must-Read Analyst Questions From PacBio’s Q2 Earnings Call | PacBio Q2 Earnings Meet Estimates, Revenues Miss, 2026 Sales View Cut"
     },
     {
+      "ticker": "CAPR",
+      "score": 51.0,
+      "last_close": 6.29,
+      "rel_volume": 0.94,
+      "price_change_pct": -8.04,
+      "gap_pct": -8.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 365694240,
+      "float_shares": 45545503,
+      "cash_debt_ratio": 2.61,
+      "insider_pct": 9.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CAPR Stock Sinks As Investors Brace For Imminent FDA Call On Deramiocel | Capricor Draws Investor Attention As Shareholder Kaos Capital Pushes For Board Shakeup Ahead Of Key FDA Decision On DMD Therapy | Shareholder pressures Capricor; Lilly dives deeper into vaccines"
+    },
+    {
       "ticker": "ONT",
       "score": 50.5,
       "last_close": 15.87,
@@ -749,12 +766,32 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "KOS",
+      "ticker": "WTI",
       "score": 21.5,
-      "last_close": 2.96,
-      "rel_volume": 0.99,
-      "price_change_pct": -1.99,
-      "gap_pct": -1.99,
+      "last_close": 3.92,
+      "rel_volume": 0.82,
+      "price_change_pct": -2.24,
+      "gap_pct": -2.62,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "COUR",
+      "score": 21.2,
+      "last_close": 6.0,
+      "rel_volume": 0.6,
+      "price_change_pct": 2.56,
+      "gap_pct": 3.33,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OPTU",
+      "score": 21.1,
+      "last_close": 0.848,
+      "rel_volume": 0.65,
+      "price_change_pct": -2.86,
+      "gap_pct": -2.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -789,6 +826,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "SRPT",
+      "score": 17.7,
+      "last_close": 18.79,
+      "rel_volume": 0.55,
+      "price_change_pct": -2.24,
+      "gap_pct": -2.29,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NAT",
       "score": 17.6,
       "last_close": 6.97,
@@ -809,22 +856,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TAL",
-      "score": 15.4,
-      "last_close": 11.32,
-      "rel_volume": 0.77,
-      "price_change_pct": -1.31,
-      "gap_pct": -1.26,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "VNET",
       "score": 15.0,
       "last_close": 6.72,
       "rel_volume": 0.8,
       "price_change_pct": 1.05,
       "gap_pct": 1.28,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TROX",
+      "score": 12.8,
+      "last_close": 5.56,
+      "rel_volume": 0.76,
+      "price_change_pct": -0.89,
+      "gap_pct": -0.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -839,12 +886,42 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 8.8,
+      "last_close": 4.74,
+      "rel_volume": 0.51,
+      "price_change_pct": 0.85,
+      "gap_pct": 0.11,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TCPC",
+      "score": 7.9,
+      "last_close": 4.03,
+      "rel_volume": 0.66,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.12,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ORC",
       "score": 6.5,
       "last_close": 6.7,
       "rel_volume": 0.48,
       "price_change_pct": -0.15,
       "gap_pct": -0.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CLBK",
+      "score": 5.3,
+      "last_close": 11.79,
+      "rel_volume": 0.34,
+      "price_change_pct": 0.26,
+      "gap_pct": 0.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
