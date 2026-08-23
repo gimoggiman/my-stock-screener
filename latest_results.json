@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T04:36:02.461133+00:00",
+  "last_updated_utc": "2026-08-23T05:28:24.260418+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -374,7 +374,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "One quantum stock just posted a 9,000% revenue jump | Reddit vs. Rigetti Computing: Which High-Growth Stock Is a Better Buy in 2026, the Social Media Giant or Rising Quantum Computing Company? | Why Did Rigetti Quantum Stock Pop Today?"
+      "recent_news": "Rigetti Computing's COO Sells Over 9,000 Company Shares. What Does That Mean for Investors? | One quantum stock just posted a 9,000% revenue jump | Reddit vs. Rigetti Computing: Which High-Growth Stock Is a Better Buy in 2026, the Social Media Giant or Rising Quantum Computing Company?"
     },
     {
       "ticker": "EROC",
@@ -408,7 +408,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "PacBio Cuts Outlook as SPRQ-Nx Transition Slows, Targets 2028 Cash-Flow Positivity | 5 Must-Read Analyst Questions From PacBio’s Q2 Earnings Call | PacBio Q2 Earnings Meet Estimates, Revenues Miss, 2026 Sales View Cut"
+      "recent_news": "Google News | Pacific Biosciences: It's Only Getting Worse (NASDAQ:PACB) - Seeking Alpha | PacBio CEO Steps Down After Six Years, Remains on Board - Stock Titan"
     },
     {
       "ticker": "ONT",
@@ -476,7 +476,7 @@
       "insider_pct": 7.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit | All You Need to Know About Lithium Americas Corp. (LAC) Rating Upgrade to Buy | Here's Why You Should Add Reliance Stock to Your Portfolio Now"
+      "recent_news": "Google News | Lithium Americas Corp (LAC-T) Stock Price and News - The Globe and Mail | Lithium Americas Corp. (LAC) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance"
     },
     {
       "ticker": "VIR",
