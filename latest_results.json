@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T03:02:15.901803+00:00",
+  "last_updated_utc": "2026-08-23T04:36:02.461133+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -355,8 +355,8 @@
       "float_shares": 34590576,
       "cash_debt_ratio": 0.02,
       "insider_pct": 84.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "5 Revealing Analyst Questions From ProFrac’s Q2 Earnings Call | ProFrac (ACDC) Q2 2026 Earnings Call Transcript | Calumet, Atlas Energy Solutions, HighPeak Energy, Borr Drilling, and ProFrac Shares Are Soaring, What You Need To Know"
     },
     {
@@ -440,8 +440,8 @@
       "float_shares": 143445631,
       "cash_debt_ratio": 67.91,
       "insider_pct": 18.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading | Insiders Made $100 Million on China Brokerage Crackdown, Trading Firm Alleges | UP Fintech Holding (TIGR) Stock Sees Modest Fair Value Cut After Analyst Target Revisions"
     },
     {
@@ -593,8 +593,8 @@
       "float_shares": 286819517,
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 15,
       "recent_news": "SES AI (SES) Q2 2026 Earnings Call Transcript | SES AI Corporation Q2 2026 Earnings Call Summary | SES AI Q2 Earnings Call Highlights"
     },
     {
