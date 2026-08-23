@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-23T11:20:12.634908+00:00",
+  "last_updated_utc": "2026-08-23T12:37:10.533841+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -369,7 +369,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5977798144,
-      "float_shares": 329032568,
+      "float_shares": 327994548,
       "cash_debt_ratio": 51.12,
       "insider_pct": 2.0,
       "dilution_risk": "주의",
@@ -573,7 +573,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 24423593984,
-      "float_shares": 1271731804,
+      "float_shares": 1271718888,
       "cash_debt_ratio": 0.99,
       "insider_pct": 1.4,
       "dilution_risk": "높음",
