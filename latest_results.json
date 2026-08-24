@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-24T03:02:54.651149+00:00",
+  "last_updated_utc": "2026-08-24T04:43:17.917449+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -32,8 +32,8 @@
       "float_shares": 35931175,
       "cash_debt_ratio": 823.05,
       "insider_pct": 39.5,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without | Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line | Bakkt (BKKT) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -85,7 +85,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation | Is SELLAS (SLS) Turning Sector Hype Into a Durable Cancer Vaccine Story Despite Ongoing Losses? | SELLAS Life Sciences Group (SLS) Shares Just Moved, So What Is Drawing Attention?"
+      "recent_news": "SLS Stock Charges Ahead As AML Trial Buzz Builds: Report Claims Regal Hit 80th Event — Retail Isn’t Convinced | SLS Stock Clocks Three Straight Weeks Of Gains On Cancer Vaccine Spillover, REGAL Trial Data Anticipation | Is SELLAS (SLS) Turning Sector Hype Into a Durable Cancer Vaccine Story Despite Ongoing Losses?"
     },
     {
       "ticker": "NVAX",
