@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-24T21:27:57.474310+00:00",
+  "last_updated_utc": "2026-08-24T22:24:47.213631+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -136,7 +136,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Sector Update: Healthcare Stocks Softer Late Afternoon | Sector Update: Healthcare Stocks Decline in Afternoon Trading | Why Is CAPR Stock Rising Today?"
+      "recent_news": "CAPR Stock Climbs On FDA’s Three-Month Deramiocel Extension — HC Wainwright Sticks To Neutral, Flags High Rejection Risk | Sector Update: Healthcare Stocks Softer Late Afternoon | Sector Update: Healthcare Stocks Decline in Afternoon Trading"
     },
     {
       "ticker": "ZIP",
@@ -219,8 +219,8 @@
       "float_shares": 310204731,
       "cash_debt_ratio": 2.13,
       "insider_pct": 1.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 96,
       "recent_news": "Zacks Industry Outlook Franco-Nevada, Centerra, Novagold, Northern Dynasty and Dakota | 5 Gold Mining Stocks to Watch Amid Ongoing Industry Pressures | Another Canadian company to redomicile to the U.S."
     },
     {
@@ -321,8 +321,8 @@
       "float_shares": 41938432,
       "cash_debt_ratio": 1.62,
       "insider_pct": 16.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Similarweb (SMWB) Q2 2026 Earnings Call Transcript | Similarweb Ltd (SMWB) (Q2 2026) Earnings Call Highlights: Record Net New ARR and First-Ever ... | Similarweb Ltd. Q2 2026 Earnings Call Summary"
     },
     {
@@ -372,8 +372,8 @@
       "float_shares": 100878135,
       "cash_debt_ratio": 5.6,
       "insider_pct": 17.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 765,
       "recent_news": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes | TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
     },
     {
@@ -440,8 +440,8 @@
       "float_shares": 89402427,
       "cash_debt_ratio": 0.07,
       "insider_pct": 5.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Aveanna Healthcare's Growth Trajectory Supported by Secular Tailwinds, RBC Says | Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000"
     },
     {
@@ -457,8 +457,8 @@
       "float_shares": 1117408152,
       "cash_debt_ratio": 0.63,
       "insider_pct": 22.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
       "recent_news": "Is Pinterest Worth Buying as AI Growth Meets Valuation and Cost Risks? | Snap Rises 4%, Meta Platforms and Alphabet Tick Up, Reddit Slips as the Social Media Trade Splits | PINS Gains 21.7% in 3 Months as AI-Led Growth Builds: Can Rally Last?"
     },
     {
@@ -508,8 +508,8 @@
       "float_shares": 52985125,
       "cash_debt_ratio": 1.08,
       "insider_pct": null,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Banco BBVA Argentina SA's Dividend Analysis | Banco BBVA Argentina SA (BBAR) Q1 2026 Earnings Call Highlights: Strong Net Income Growth ... | BBVA Banco Frances Q1 Earnings Call Highlights"
     },
     {
@@ -627,8 +627,8 @@
       "float_shares": 104788971,
       "cash_debt_ratio": 0.62,
       "insider_pct": 3.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
     },
     {
@@ -729,8 +729,8 @@
       "float_shares": 533415089,
       "cash_debt_ratio": 33.69,
       "insider_pct": 1.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
       "recent_news": "High Growth, High Cash Burn: Decoding the Split Narrative on Ondas (ONDS) | Ondas vs. Red Cat: Which Drone Stock Is the Better Pick Now? | Ondas (ONDS) Is Down 5.9% After Raising 2026 Guidance On Record Backlog And Q2 Results – Has The Bull Case Changed?"
     },
     {
