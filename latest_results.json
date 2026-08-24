@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-24T05:37:51.196418+00:00",
+  "last_updated_utc": "2026-08-24T06:55:16.746330+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -440,8 +440,8 @@
       "float_shares": 143445631,
       "cash_debt_ratio": 67.91,
       "insider_pct": 18.5,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading | Insiders Made $100 Million on China Brokerage Crackdown, Trading Firm Alleges | UP Fintech Holding (TIGR) Stock Sees Modest Fair Value Cut After Analyst Target Revisions"
     },
     {
