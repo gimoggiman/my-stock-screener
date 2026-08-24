@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-24T22:24:47.213631+00:00",
+  "last_updated_utc": "2026-08-24T23:21:23.444651+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -152,7 +152,7 @@
       "cash_debt_ratio": 0.66,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 1545,
+      "recent_dilution_filings_90d": 1546,
       "recent_news": "ZipRecruiter Q2 Earnings Call Highlights | ZipRecruiter Inc (ZIP) (Q2 2026) Earnings Call Highlights: AI-Driven Matching and Debt ... | ZipRecruiter, Inc. (ZIP) Reports Q2 Loss, Beats Revenue Estimates"
     },
     {
@@ -440,8 +440,8 @@
       "float_shares": 89402427,
       "cash_debt_ratio": 0.07,
       "insider_pct": 5.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Aveanna Healthcare's Growth Trajectory Supported by Secular Tailwinds, RBC Says | Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000"
     },
     {
@@ -508,8 +508,8 @@
       "float_shares": 52985125,
       "cash_debt_ratio": 1.08,
       "insider_pct": null,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Banco BBVA Argentina SA's Dividend Analysis | Banco BBVA Argentina SA (BBAR) Q1 2026 Earnings Call Highlights: Strong Net Income Growth ... | BBVA Banco Frances Q1 Earnings Call Highlights"
     },
     {
@@ -595,7 +595,7 @@
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 94,
-      "recent_news": "Bloom Energy vs. Plug Power: 1 Stock Clearly Wins the AI Revenue Race | Plug Power Falls 4%, Bloom Energy Moves Up as the Hydrogen Trade Divides | 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround"
+      "recent_news": "This Hydrogen Stock's Turnaround Is Further Away Than Wall Street Thinks | Bloom Energy vs. Plug Power: 1 Stock Clearly Wins the AI Revenue Race | Plug Power Falls 4%, Bloom Energy Moves Up as the Hydrogen Trade Divides"
     },
     {
       "ticker": "KSS",
@@ -627,8 +627,8 @@
       "float_shares": 104788971,
       "cash_debt_ratio": 0.62,
       "insider_pct": 3.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
     },
     {
