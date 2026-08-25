@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-25T02:57:44.703333+00:00",
+  "last_updated_utc": "2026-08-25T03:51:33.474965+00:00",
   "tickers_scanned": 62,
   "results": [
     {
@@ -394,21 +394,21 @@
       "recent_news": "CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003 | COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript"
     },
     {
-      "ticker": "AVAH",
-      "score": 41.8,
-      "last_close": 13.7,
-      "rel_volume": 1.86,
-      "price_change_pct": 4.1,
-      "gap_pct": 3.88,
+      "ticker": "EGIEY",
+      "score": 42.7,
+      "last_close": 6.0,
+      "rel_volume": 0.71,
+      "price_change_pct": 6.88,
+      "gap_pct": 6.88,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2990582272,
-      "float_shares": 89402427,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 5.8,
+      "market_cap": 8498289664,
+      "float_shares": 357402460,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Aveanna Healthcare's Growth Trajectory Supported by Secular Tailwinds, RBC Says | Aveanna Healthcare (AVAH) Just Ended A Four-Year Rate Fight | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000"
+      "recent_news": "How The Engie Brasil Energia (BOVESPA:EGIE3) Narrative Is Evolving Around The New R$34 Target | How The Engie Brasil Energia (BOVESPA:EGIE3) Narrative Is Shifting With The Updated Fair Value | How The Engie Brasil Energia (BOVESPA:EGIE3) Story Evolves With A Steady Analyst Outlook"
     },
     {
       "ticker": "SNAP",
