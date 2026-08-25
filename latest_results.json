@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-25T07:43:24.096377+00:00",
+  "last_updated_utc": "2026-08-25T08:41:34.143892+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -576,8 +576,8 @@
       "float_shares": 153340106,
       "cash_debt_ratio": 0.02,
       "insider_pct": 37.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Why Did APP, ARRY, NFE Stocks Slump To 52-Week Lows Today? | New Fortress Energy vs. ONEOK: Which Energy Stock Is a Better Buy in 2026? | Sector Update: Energy Stocks Fall Late Afternoon"
     },
     {
@@ -731,7 +731,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Fluence Energy, Plug Power, Shoals, EVgo, and SolarEdge Stocks Trade Down, What You Need To Know | Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know | Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs"
+      "recent_news": "1 High-Flying Stock to Own for Decades and 2 Facing Challenges | Fluence Energy, Plug Power, Shoals, EVgo, and SolarEdge Stocks Trade Down, What You Need To Know | Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know"
     },
     {
       "ticker": "VNET",
