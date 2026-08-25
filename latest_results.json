@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-08-25T21:27:17.303195+00:00",
-  "tickers_scanned": 60,
+  "last_updated_utc": "2026-08-25T22:26:19.822433+00:00",
+  "tickers_scanned": 67,
   "results": [
     {
       "ticker": "BMEA",
@@ -11,7 +11,7 @@
       "gap_pct": 9.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 125078032,
+      "market_cap": 125397072,
       "float_shares": 67628884,
       "cash_debt_ratio": 39.71,
       "insider_pct": 7.1,
@@ -139,6 +139,23 @@
       "recent_news": "Why Is Gemini Space Station Stock Up Today? | ZEC Soars Over 60% In One Week: Tyler Winklevoss Says There Are More Millionaires In The World Than Whole Units Of Zcash | Apex Adds Gemini to Prediction Markets Platform"
     },
     {
+      "ticker": "VIR",
+      "score": 62.2,
+      "last_close": 10.71,
+      "rel_volume": 1.94,
+      "price_change_pct": 8.07,
+      "gap_pct": 7.77,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1812302848,
+      "float_shares": 129793716,
+      "cash_debt_ratio": 5.71,
+      "insider_pct": 6.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Vir Biotechnology (VIR) Q2 2026 Earnings Call Transcript | Vir Biotechnology, Inc. Q2 2026 Earnings Call Summary | Vir Biotechnology Q2 Earnings Call Highlights"
+    },
+    {
       "ticker": "CAPR",
       "score": 61.1,
       "last_close": 8.29,
@@ -170,7 +187,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "Sector Update: Energy Stocks Fall Tuesday | Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5% | Can X-Energy's Xe-100 Capture the Growing Demand for Reliable AI Power?"
+      "recent_news": "Sector Update: Energy Stocks Fall Tuesday | NuScale Power Short Seller Profits Send Stark Warning to Investors | Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%"
     },
     {
       "ticker": "IBRX",
@@ -292,38 +309,21 @@
       "recent_news": "Sector Update: Healthcare Stocks Fall Late Afternoon | Maravai (MRVI) Q2 2026 Earnings Call Transcript | Maravai LifeSciences Holdings, Inc. Q2 2026 Earnings Call Summary"
     },
     {
-      "ticker": "SANA",
-      "score": 53.6,
-      "last_close": 4.1,
-      "rel_volume": 1.17,
-      "price_change_pct": 8.47,
-      "gap_pct": 8.33,
+      "ticker": "RGNX",
+      "score": 53.0,
+      "last_close": 8.91,
+      "rel_volume": 1.11,
+      "price_change_pct": 10.61,
+      "gap_pct": 9.87,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1227378560,
-      "float_shares": 190980112,
-      "cash_debt_ratio": 1.98,
-      "insider_pct": 6.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "3 Promising Genomics Stocks to Add to Your Portfolio in 2026 | Sana Biotechnology (SANA) Publishes 14 Month Diabetes Cell Therapy Results In NEJM | Sana (SANA) Upgraded to Buy: Here's What You Should Know"
-    },
-    {
-      "ticker": "MIST",
-      "score": 52.8,
-      "last_close": 1.16,
-      "rel_volume": 1.1,
-      "price_change_pct": 11.54,
-      "gap_pct": 12.02,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 144417664,
-      "float_shares": 106470871,
-      "cash_debt_ratio": 1.2,
-      "insider_pct": 0.7,
+      "market_cap": 588177536,
+      "float_shares": 57343019,
+      "cash_debt_ratio": 0.42,
+      "insider_pct": 6.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Milestone Pharmaceuticals shares rise as first patient enters Phase 3 AFib trial | Milestone Pharmaceuticals Inc. Q2 2026 Earnings Call Summary | Milestone Pharmaceuticals Q2 Earnings Call Highlights"
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Regenxbio’s RGX-121 Setback Carries A Potential Cash Risk, Warns Clear Street | FDA places clinical hold on REGENXBIO’s RGX-121 in MPS II trial | Sector Update: Healthcare Stocks Softer Late Afternoon"
     },
     {
       "ticker": "RXT",
@@ -338,8 +338,8 @@
       "float_shares": 107716913,
       "cash_debt_ratio": 0.03,
       "insider_pct": 3.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Broadcom (AVGO) Debuts VMware Cloud Foundation 9.1 In Managed Multitenant Cloud | Rackspace Technology Inc (RXT) (Q2 2026) Earnings Call Highlights: Strategic AI Pivot Drives ... | Rackspace Technology Q2 Earnings Call Highlights"
     },
     {
@@ -389,8 +389,8 @@
       "float_shares": 248195248,
       "cash_debt_ratio": 1.38,
       "insider_pct": 1.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "MP's Operating Cash Flow Turns Positive in Q2: More Upside Ahead? | Uranium Energy Stock Is Priced On Pounds It Has Not Sold Yet | MP Materials Stock Moved On The Theme, Not On Mountain Pass"
     },
     {
@@ -428,6 +428,23 @@
       "recent_news": "Gogo (GOGO) Stock Sees Fair Value Cut As Analysts Weigh Growth Against Execution Risks | Gogo Inc (GOGO) (Q2 2026) Earnings Call Highlights: Military Strength and 5G Momentum Offset by ... | Gogo Q2 Earnings Call Highlights"
     },
     {
+      "ticker": "OPTU",
+      "score": 47.6,
+      "last_close": 1.0,
+      "rel_volume": 0.65,
+      "price_change_pct": 16.28,
+      "gap_pct": 15.44,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 381431552,
+      "float_shares": 277642261,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 10.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Optimum Communications (NYSE:OPTU) Stock Gets Fair Value Trim As Analysts Split On Risk | 5 Insightful Analyst Questions From Optimum Communications’s Q2 Earnings Call | 3 Unprofitable Stocks We Keep Off Our Radar"
+    },
+    {
       "ticker": "NRGV",
       "score": 46.8,
       "last_close": 3.93,
@@ -460,23 +477,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Allogene (ALLO) Q2 2026 Earnings Call Transcript | Is Allogene Therapeutics (ALLO) Stock Outpacing Its Medical Peers This Year? | Allogene Therapeutics' Q2 Earnings Beat Estimates on Lower R&D Costs"
-    },
-    {
-      "ticker": "KSS",
-      "score": 46.6,
-      "last_close": 17.68,
-      "rel_volume": 2.52,
-      "price_change_pct": -3.39,
-      "gap_pct": -3.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 111636623,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 3.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30% | Is Kohl's (KSS) DoorDash Push And Martha Stewart Tie-Up Reframing Its Retail Investment Story? | Kohl's reverses extra charges for online shoppers"
     },
     {
       "ticker": "DNN",
@@ -544,7 +544,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Stocks Supported by Slumping Crude Prices and Lower Bond Yields | Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5% | Morgan Stanley expects powered-shell deal wave by October"
+      "recent_news": "Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5% | Morgan Stanley expects powered-shell deal wave by October | Strategy Remains Down 20% in 2026: A Prominent Analyst Still Sees 265% Upside After Downward Adjustment"
     },
     {
       "ticker": "REPL",
@@ -576,8 +576,8 @@
       "float_shares": 8668676,
       "cash_debt_ratio": 0.46,
       "insider_pct": 12.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report | $230B Fixed-Income Giant Enters Aave Collateral Debate With Tokenized Fund | We Have A Lot of 'Runway' For Growth: Securitize CEO"
     },
     {
@@ -632,6 +632,23 @@
       "recent_news": "The Peer-Group Mispricing Sitting On BE Stock | AI Data Centers Need More Power and Bloom Energy Could Be a Big Winner | Bloom Energy Climbs 5% on Nancy Pelosi Disclosure, FuelCell Rises 4%, Plug Power Advances 2%"
     },
     {
+      "ticker": "WTI",
+      "score": 32.7,
+      "last_close": 3.6,
+      "rel_volume": 0.63,
+      "price_change_pct": -5.26,
+      "gap_pct": -4.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 543394560,
+      "float_shares": 99290274,
+      "cash_debt_ratio": 0.43,
+      "insider_pct": 36.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 20,
+      "recent_news": "Is WTI Worth Buying Now as Relative Value Meets Balance-Sheet Risk? | W&T Offshore Q2 Earnings Call Highlights | WTI Q2 Earnings Beat Estimates on Strong Oil Pricing & Cost Control"
+    },
+    {
       "ticker": "BTG",
       "score": 32.4,
       "last_close": 5.87,
@@ -647,6 +664,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
       "recent_news": "AEM vs. BTG: Which Gold Mining Stock Should You Invest in Now? | Stop Buying Gold Miners Until You Check This Metric | B2Gold (BTG) Q2 2026 Earnings Call Transcript"
+    },
+    {
+      "ticker": "RERE",
+      "score": 32.4,
+      "last_close": 3.94,
+      "rel_volume": 1.26,
+      "price_change_pct": -3.67,
+      "gap_pct": -3.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 872674048,
+      "float_shares": 131711508,
+      "cash_debt_ratio": 3.33,
+      "insider_pct": 9.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "ATRenew (RERE) Following Strong Earnings And Buyback Still Looks Undervalued | ATRenew (RERE) Q2 2026 Earnings Call Transcript | ATRenew Inc (RERE) (Q2 2026) Earnings Call Highlights: Revenue Surges 32.4% to RMB6. ..."
     },
     {
       "ticker": "LAC",
@@ -666,56 +700,32 @@
       "recent_news": "Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit | All You Need to Know About Lithium Americas Corp. (LAC) Rating Upgrade to Buy | Here's Why You Should Add Reliance Stock to Your Portfolio Now"
     },
     {
-      "ticker": "KOS",
-      "score": 30.8,
-      "last_close": 2.73,
-      "rel_volume": 0.69,
-      "price_change_pct": -4.55,
-      "gap_pct": -4.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1625681408,
-      "float_shares": 574228742,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "3 International E&P Stocks Offering Bright Spots for Investors | Calumet, Atlas Energy Solutions, Kosmos Energy, TETRA Technologies, and ProPetro Stocks Trade Down, What You Need To Know | Has INPLAY OIL CP (IPOOF) Outpaced Other Oils-Energy Stocks This Year?"
-    },
-    {
-      "ticker": "TAL",
-      "score": 30.1,
-      "last_close": 11.59,
-      "rel_volume": 2.3,
-      "price_change_pct": 0.96,
-      "gap_pct": 0.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 361030538,
-      "cash_debt_ratio": 7.09,
-      "insider_pct": 0.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 14,
-      "recent_news": "TAL vs. LAUR: Which Stock Is the Better Value Option? | H&R Block Stock Gains 22% in a Month: Here's What You Should Know | Is TAL Education Group (TAL) a Great Value Stock Right Now?"
-    },
-    {
-      "ticker": "OPEN",
-      "score": 29.7,
-      "last_close": 3.6,
-      "rel_volume": 0.54,
-      "price_change_pct": 4.96,
-      "gap_pct": 4.23,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "FLNC",
       "score": 28.6,
       "last_close": 11.24,
       "rel_volume": 0.97,
       "price_change_pct": 3.5,
       "gap_pct": 3.36,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OI",
+      "score": 27.5,
+      "last_close": 7.51,
+      "rel_volume": 0.86,
+      "price_change_pct": 3.59,
+      "gap_pct": 3.31,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NFE",
+      "score": 27.2,
+      "last_close": 0.287,
+      "rel_volume": 0.73,
+      "price_change_pct": 4.29,
+      "gap_pct": 2.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -730,6 +740,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TCPC",
+      "score": 26.7,
+      "last_close": 4.18,
+      "rel_volume": 1.3,
+      "price_change_pct": 2.45,
+      "gap_pct": 2.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AI",
       "score": 25.9,
       "last_close": 9.79,
@@ -740,12 +760,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ACDC",
+      "score": 25.2,
+      "last_close": 4.67,
+      "rel_volume": 0.69,
+      "price_change_pct": -3.11,
+      "gap_pct": -3.94,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GETY",
       "score": 23.5,
       "last_close": 0.266,
       "rel_volume": 0.37,
       "price_change_pct": 4.39,
       "gap_pct": 2.94,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NOK",
+      "score": 23.5,
+      "last_close": 10.35,
+      "rel_volume": 0.37,
+      "price_change_pct": 3.92,
+      "gap_pct": 3.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -780,12 +820,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "AUR",
-      "score": 21.0,
-      "last_close": 5.77,
-      "rel_volume": 1.15,
-      "price_change_pct": 1.41,
-      "gap_pct": 1.67,
+      "ticker": "COUR",
+      "score": 21.1,
+      "last_close": 6.19,
+      "rel_volume": 0.69,
+      "price_change_pct": 2.82,
+      "gap_pct": 2.24,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -830,22 +870,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "AEO",
-      "score": 17.6,
-      "last_close": 16.73,
-      "rel_volume": 1.1,
-      "price_change_pct": -0.83,
-      "gap_pct": -1.16,
+      "ticker": "TROX",
+      "score": 17.9,
+      "last_close": 5.51,
+      "rel_volume": 0.62,
+      "price_change_pct": 2.23,
+      "gap_pct": 1.95,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OLN",
-      "score": 16.6,
-      "last_close": 17.37,
-      "rel_volume": 0.93,
-      "price_change_pct": -1.14,
-      "gap_pct": -1.14,
+      "ticker": "ORC",
+      "score": 14.8,
+      "last_close": 6.72,
+      "rel_volume": 1.04,
+      "price_change_pct": -0.44,
+      "gap_pct": -0.67,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -866,6 +906,36 @@
       "rel_volume": 0.91,
       "price_change_pct": 0.54,
       "gap_pct": 0.75,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "LAR",
+      "score": 9.6,
+      "last_close": 6.72,
+      "rel_volume": 0.71,
+      "price_change_pct": 0.3,
+      "gap_pct": 0.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "PMT",
+      "score": 9.5,
+      "last_close": 9.29,
+      "rel_volume": 0.81,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "F",
+      "score": 9.3,
+      "last_close": 13.95,
+      "rel_volume": 0.67,
+      "price_change_pct": 0.14,
+      "gap_pct": 0.57,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
