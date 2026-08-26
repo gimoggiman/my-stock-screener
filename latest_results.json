@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-26T07:44:54.137859+00:00",
+  "last_updated_utc": "2026-08-26T08:42:17.085436+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -168,8 +168,8 @@
       "float_shares": 45682953,
       "cash_debt_ratio": 0.38,
       "insider_pct": 3.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Why Is Gemini Space Station Stock Up Today? | ZEC Soars Over 60% In One Week: Tyler Winklevoss Says There Are More Millionaires In The World Than Whole Units Of Zcash | Apex Adds Gemini to Prediction Markets Platform"
     },
     {
@@ -221,7 +221,7 @@
       "insider_pct": 62.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "SLS, IBRX Stocks In Focus: Analyst Says Moderna-Merck Cancer Vaccine Success ‘Bodes Well’ For Oncology | Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom | SLS And IBRX Eye Green Weekly Close: Vanguard’s Major Stakes In Cancer Drugmakers Steal The Spotlight"
+      "recent_news": "SLS, IBRX Catch The Eye Of A Major US Pension Fund — And Big Clinical Catalysts Are On The Horizon | SLS, IBRX Stocks In Focus: Analyst Says Moderna-Merck Cancer Vaccine Success ‘Bodes Well’ For Oncology | Goldman Sachs Builds $75M Bet Across CAPR, SLS And IBRX As Major Catalysts Loom"
     },
     {
       "ticker": "NVAX",
