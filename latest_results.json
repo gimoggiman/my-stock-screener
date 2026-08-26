@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-25T23:24:17.984795+00:00",
+  "last_updated_utc": "2026-08-26T01:13:06.529211+00:00",
   "tickers_scanned": 60,
   "results": [
     {
@@ -118,7 +118,7 @@
       "cash_debt_ratio": 13.64,
       "insider_pct": 0.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 38,
+      "recent_dilution_filings_90d": 37,
       "recent_news": "4 Gene-Editing Biotech Stocks Worth Watching for Long-Term Gains | Moderna’s Newfound War Chest Opens Door for 4 Strategic Acquisition Targets | Is Editas Medicine (EDIT) Outperforming Other Medical Stocks This Year?"
     },
     {
@@ -134,8 +134,8 @@
       "float_shares": 45682953,
       "cash_debt_ratio": 0.38,
       "insider_pct": 3.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Why Is Gemini Space Station Stock Up Today? | ZEC Soars Over 60% In One Week: Tyler Winklevoss Says There Are More Millionaires In The World Than Whole Units Of Zcash | Apex Adds Gemini to Prediction Markets Platform"
     },
     {
@@ -476,7 +476,7 @@
       "insider_pct": 3.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30% | Is Kohl's (KSS) DoorDash Push And Martha Stewart Tie-Up Reframing Its Retail Investment Story? | Kohl's reverses extra charges for online shoppers"
+      "recent_news": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30% | Kohl's (KSS) Stock Still Looks Undervalued Despite a 58% Five Year Fall | Is Kohl's (KSS) DoorDash Push And Martha Stewart Tie-Up Reframing Its Retail Investment Story?"
     },
     {
       "ticker": "DNN",
@@ -593,8 +593,8 @@
       "float_shares": 35931175,
       "cash_debt_ratio": 823.05,
       "insider_pct": 39.5,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without | Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line | Bakkt (BKKT) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -628,7 +628,7 @@
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 85,
+      "recent_dilution_filings_90d": 83,
       "recent_news": "The Peer-Group Mispricing Sitting On BE Stock | AI Data Centers Need More Power and Bloom Energy Could Be a Big Winner | Bloom Energy Climbs 5% on Nancy Pelosi Disclosure, FuelCell Rises 4%, Plug Power Advances 2%"
     },
     {
@@ -645,7 +645,7 @@
       "cash_debt_ratio": 0.64,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 12,
+      "recent_dilution_filings_90d": 11,
       "recent_news": "AEM vs. BTG: Which Gold Mining Stock Should You Invest in Now? | Stop Buying Gold Miners Until You Check This Metric | B2Gold (BTG) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -696,7 +696,7 @@
       "cash_debt_ratio": 7.09,
       "insider_pct": 0.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 14,
+      "recent_dilution_filings_90d": 13,
       "recent_news": "TAL vs. LAUR: Which Stock Is the Better Value Option? | H&R Block Stock Gains 22% in a Month: Here's What You Should Know | Is TAL Education Group (TAL) a Great Value Stock Right Now?"
     },
     {
