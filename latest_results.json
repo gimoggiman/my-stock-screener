@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-26T11:28:32.516077+00:00",
+  "last_updated_utc": "2026-08-26T12:49:15.467384+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -204,7 +204,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "Sector Update: Energy Stocks Fall Tuesday | NuScale Power Short Seller Profits Send Stark Warning to Investors | Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%"
+      "recent_news": "Forget NuScale's Quarterly Numbers: Its TVA Deal Could Be the Biggest Nuclear Contract in U.S. History. | NuScale Stock Ticks Higher as AI Integration Promises 80% Efficiency Gain | Sector Update: Energy Stocks Fall Tuesday"
     },
     {
       "ticker": "IBRX",
@@ -510,7 +510,7 @@
       "insider_pct": 3.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30% | Kohl's (KSS) Stock Still Looks Undervalued Despite a 58% Five Year Fall | Is Kohl's (KSS) DoorDash Push And Martha Stewart Tie-Up Reframing Its Retail Investment Story?"
+      "recent_news": "Kohl's (KSS) Q2 Earnings Beat Estimates | Equity Futures Mixed Pre-Bell Ahead of Key Inflation Report, Nvidia Earnings | Kohl's (NYSE:KSS) Posts Q2 CY2026 Sales In Line With Estimates"
     },
     {
       "ticker": "DNN",
@@ -543,7 +543,7 @@
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 43,
+      "recent_dilution_filings_90d": 44,
       "recent_news": "Can T1 Energy's U.S. Solar Supply Chain Drive Its Next Phase of Growth? | T1 Energy (TE) Q2 2026 Earnings Call Transcript | Zacks Industry Outlook Highlights First Solar, Enphase Energy and T1 Energy"
     },
     {
