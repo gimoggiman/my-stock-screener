@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-26T05:34:32.686201+00:00",
+  "last_updated_utc": "2026-08-26T06:46:26.934887+00:00",
   "tickers_scanned": 68,
   "results": [
     {
@@ -440,8 +440,8 @@
       "float_shares": 94618019,
       "cash_debt_ratio": 3.47,
       "insider_pct": 11.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Jumia de-risks profitability path with $50M IFC deal, CEO says | Jumia Technologies AG (JMIA) (Q2 2026) Earnings Call Highlights: Navigating Supply Chain ... | Jumia Technologies Q2 Earnings Call Highlights"
     },
     {
