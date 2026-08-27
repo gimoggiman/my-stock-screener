@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-26T21:46:16.559864+00:00",
+  "last_updated_utc": "2026-08-27T02:56:34.344444+00:00",
   "tickers_scanned": 52,
   "results": [
     {
@@ -68,7 +68,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Bath & Body Works, Inc. Q2 2027 Earnings Call Summary | Sector Update: Consumer Stocks Softer Late Afternoon | Why Are Bath and Body Works (BBWI) Shares Soaring Today"
+      "recent_news": "Bath & Body Works Inc (BBWI) (Q2 2026) Earnings Call Highlights: Beats Guidance, Raises ... | BBWI Q2 2027 Earnings Call Transcript | Here's What Key Metrics Tell Us About Bath & Body Works (BBWI) Q2 Earnings"
     },
     {
       "ticker": "ERAS",
@@ -119,7 +119,7 @@
       "insider_pct": 22.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Meta's social media payout sets precedent for Snap, Google, Roblox — and could be a 'negative' | Does Snap (SNAP) Need A Saudi Communications Chief To Grow Its Middle East Story? | Stock Market Today, Aug. 26: Snap Sued by Pennsylvania Over Addictive Features and Child Safety"
+      "recent_news": "Meta's social media payout sets precedent for Snap, Google, Roblox — and could be a 'negative' | Youth Engagement Lawsuit Could Be A Game Changer For Snap’s (SNAP) Core Monetization Model | Stock Market Today, Aug. 26: Stocks Edge Lower As Market Digests Meta Ruling and Awaits Nvidia's Earnings"
     },
     {
       "ticker": "VYX",
@@ -137,6 +137,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Do Options Traders Know Something About NCR Voyix Stock We Don't? | How AS Watson’s Expanded Commerce Deal Could Shape NCR Voyix’s (VYX) Retail Tech Narrative | NCR Voyix (VYX) Stock Looks Stretched As It Lands A Retail Platform Deal"
+    },
+    {
+      "ticker": "MERC",
+      "score": 54.6,
+      "last_close": 0.413,
+      "rel_volume": 24.5,
+      "price_change_pct": -3.95,
+      "gap_pct": -3.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 27678446,
+      "float_shares": 48276519,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 41.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Mercer International (MERC) Q2 2026 Earnings Call Transcript | Mercer International Inc. Q2 2026 Earnings Call Summary | 2 Paper and Related Products Stocks Set to Weather Industry Challenges"
     },
     {
       "ticker": "CAPR",
@@ -219,8 +236,8 @@
       "float_shares": 277642261,
       "cash_debt_ratio": 0.05,
       "insider_pct": 10.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Optimum Communications (NYSE:OPTU) Stock Gets Fair Value Trim As Analysts Split On Risk | 5 Insightful Analyst Questions From Optimum Communications’s Q2 Earnings Call | 3 Unprofitable Stocks We Keep Off Our Radar"
     },
     {
@@ -306,7 +323,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips | NuScale Power Deploys AI to Accelerate Next-Generation Nuclear SMRs | OKLO's Aurora Reactor: New Design, Proven Nuclear Principles"
+      "recent_news": "Prediction: NuScale Hits a New High Before 2027 | NuScale Power Tumbles 7% Despite Deploying AI Tools, Oklo Slides 6%, Uranium Energy Dips | NuScale Power Deploys AI to Accelerate Next-Generation Nuclear SMRs"
     },
     {
       "ticker": "MEI",
@@ -341,23 +358,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "LiveWire Group Inc (LVWR) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amidst ... | LiveWire (LVWR) Acquires Dust Moto Assets | LiveWire Group, Inc. Q1 2026 Earnings Call Summary"
-    },
-    {
-      "ticker": "KSS",
-      "score": 41.1,
-      "last_close": 17.94,
-      "rel_volume": 3.66,
-      "price_change_pct": 1.47,
-      "gap_pct": 0.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 111636623,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 3.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results | TJX Just Dropped 11% in a Month. Is It Time to Sell? | Why Abercrombie & Fitch Stock Is Soaring Despite It Being The Year 2026"
     },
     {
       "ticker": "EBS",
@@ -406,26 +406,26 @@
       "float_shares": 197482926,
       "cash_debt_ratio": 0.03,
       "insider_pct": 77.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "The Top 5 Analyst Questions From Getty Images’s Q2 Earnings Call | GETY Q2 Deep Dive: Balance Sheet Strains and AI Disruption Shape Outlook | What To Expect From Getty Images’s (GETY) Q2 Earnings"
     },
     {
-      "ticker": "KURA",
-      "score": 36.4,
-      "last_close": 13.06,
-      "rel_volume": 1.53,
-      "price_change_pct": -3.9,
-      "gap_pct": -3.38,
+      "ticker": "RELL",
+      "score": 36.6,
+      "last_close": 17.78,
+      "rel_volume": 0.79,
+      "price_change_pct": 5.39,
+      "gap_pct": 5.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1161825664,
-      "float_shares": 70533316,
-      "cash_debt_ratio": 21.22,
-      "insider_pct": 1.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Company News for Aug 26, 2026 | KURA Stock Hits Fresh 52-Week High As CEO Buys More Shares — Retail Wonders If Wilson Is Following Moderna CEO’s Playbook | The $1.24 Billion Reason Why Kura Oncology Stock Is Up Today"
+      "market_cap": 264285808,
+      "float_shares": 12220040,
+      "cash_debt_ratio": 22.88,
+      "insider_pct": 3.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Bears are Losing Control Over Richardson Electronics (RELL), Here's Why It's a 'Buy' Now | Richardson Electronics (RELL) Stock Fair Value Rises After Analysts Back Growth Inflection | Richardson Electronics, Generac, Columbus McKinnon, Astronics, and Mercury Systems Shares Plummet, What You Need To Know"
     },
     {
       "ticker": "MARA",
@@ -526,18 +526,8 @@
       "cash_debt_ratio": 0.0,
       "insider_pct": 7.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 118,
+      "recent_dilution_filings_90d": 117,
       "recent_news": "Accendra Health drops equity issuance plan as CEO succession process advances | ICU Medical (ICUI) Tops Q2 Earnings and Revenue Estimates | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds"
-    },
-    {
-      "ticker": "TIGR",
-      "score": 26.8,
-      "last_close": 5.46,
-      "rel_volume": 2.14,
-      "price_change_pct": -0.09,
-      "gap_pct": -0.82,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
     },
     {
       "ticker": "GPRO",
@@ -566,6 +556,16 @@
       "rel_volume": 0.94,
       "price_change_pct": 1.83,
       "gap_pct": 2.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "COUR",
+      "score": 19.8,
+      "last_close": 6.06,
+      "rel_volume": 0.8,
+      "price_change_pct": -2.1,
+      "gap_pct": -2.1,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -680,16 +680,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "SOUN",
-      "score": 11.9,
-      "last_close": 7.01,
-      "rel_volume": 0.8,
-      "price_change_pct": -0.57,
-      "gap_pct": -0.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SOFI",
       "score": 10.9,
       "last_close": 18.84,
@@ -736,6 +726,16 @@
       "rel_volume": 0.54,
       "price_change_pct": 0.2,
       "gap_pct": 0.1,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NOK",
+      "score": 6.6,
+      "last_close": 10.41,
+      "rel_volume": 0.41,
+      "price_change_pct": 0.58,
+      "gap_pct": 0.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
