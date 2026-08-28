@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-27T23:37:37.710465+00:00",
+  "last_updated_utc": "2026-08-28T09:39:02.353614+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -20,11 +20,28 @@
       "recent_news": "Sector Update: Energy Stocks Decline Monday | Top Midday Stories: Treasury Reportedly Could Use General Account to Fund Buybacks; Trump Raises Tariffs on Canadian Cars and Steel to 50% on Jan. 1 | Sector Update: Energy Stocks Higher Tuesday Afternoon"
     },
     {
+      "ticker": "BIRD",
+      "score": 75.0,
+      "last_close": 2.77,
+      "rel_volume": 21.21,
+      "price_change_pct": 16.39,
+      "gap_pct": 13.03,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 24392762,
+      "float_shares": 7474274,
+      "cash_debt_ratio": 2.58,
+      "insider_pct": 10.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 50,
+      "recent_news": "Allbirds’ New IP Owner Reveals First Details About the Brand’s Future in Footwear — Not AI | More Footwear M&A Activity Could Be on the Way | Allbirds officially changes name, appoints new CEO"
+    },
+    {
       "ticker": "LDI",
       "score": 75.0,
       "last_close": 0.973,
       "rel_volume": 3.58,
-      "price_change_pct": 10.34,
+      "price_change_pct": 10.32,
       "gap_pct": 11.24,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -33,14 +50,14 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 3.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
+      "recent_dilution_filings_90d": 4,
       "recent_news": "The Fed Held Rates Flat for 231 Days, Your Mortgage Rates Went Up Anyway | loanDepot Q2 Earnings Call Highlights | loanDepot Inc (LDI) (Q2 2026) Earnings Call Highlights: Narrowing Losses and Strategic Pivot to ..."
     },
     {
       "ticker": "PURR",
       "score": 75.0,
       "last_close": 12.83,
-      "rel_volume": 3.12,
+      "rel_volume": 3.15,
       "price_change_pct": 10.99,
       "gap_pct": 12.46,
       "st_msg_count": null,
@@ -51,7 +68,7 @@
       "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 22,
-      "recent_news": "Popular crypto stock rallies on blockbuster earnings | PURR Stock Price Rips To New Record As HYPE Hits All-Time High – CEO Calls Balance Sheet A ‘Fortress’ | Why Hyperliquid Still Has Room to Run After 220% Surge"
+      "recent_news": "PURR Stock Jumps 11% After Hyperliquid Treasury Firm Reports Annual Results | Hyperliquid Strategies Shares Rise After Reporting $1.9B HYPE Position | Popular crypto stock rallies on blockbuster earnings"
     },
     {
       "ticker": "SLS",
@@ -74,7 +91,7 @@
       "ticker": "LOT",
       "score": 58.8,
       "last_close": 1.25,
-      "rel_volume": 5.02,
+      "rel_volume": 5.03,
       "price_change_pct": 5.04,
       "gap_pct": 4.29,
       "st_msg_count": null,
@@ -84,14 +101,14 @@
       "cash_debt_ratio": 0.04,
       "insider_pct": 86.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 724,
+      "recent_dilution_filings_90d": 711,
       "recent_news": "Lotus Technology Inc (LOT) (Q2 2026) Earnings Call Highlights: Deliveries Surge 39% as Losses ... | Lotus Technology Q2 Earnings Call Highlights | Lotus Technology completes acquisition of Lotus UK"
     },
     {
       "ticker": "MERC",
       "score": 57.7,
       "last_close": 0.39,
-      "rel_volume": 42.75,
+      "rel_volume": 43.38,
       "price_change_pct": -4.88,
       "gap_pct": -3.98,
       "st_msg_count": null,
@@ -106,9 +123,9 @@
     },
     {
       "ticker": "KVYO",
-      "score": 55.4,
+      "score": 56.8,
       "last_close": 19.61,
-      "rel_volume": 1.32,
+      "rel_volume": 1.44,
       "price_change_pct": 10.23,
       "gap_pct": 10.51,
       "st_msg_count": null,
@@ -140,9 +157,9 @@
     },
     {
       "ticker": "BB",
-      "score": 53.4,
+      "score": 53.6,
       "last_close": 8.65,
-      "rel_volume": 1.15,
+      "rel_volume": 1.17,
       "price_change_pct": 11.04,
       "gap_pct": 10.78,
       "st_msg_count": null,
@@ -152,8 +169,8 @@
       "cash_debt_ratio": 1.59,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 325,
-      "recent_news": "BlackBerry Is Done With Smartphones And Cars — Now It Wants To Own The Software Inside Your AI Robot | BB Stock Alert: What to Know as Blackberry Doubles Down on Robotics | BlackBerry CEO says robotics is fastest-growing QNX segment"
+      "recent_dilution_filings_90d": 319,
+      "recent_news": "BB Stock Looks To Reverse 2 Weeks Of Loss: Retail Cheers BlackBerry QNX-Hailo Tie-Up As 'Inflection Point' Ahead Of Earnings | BlackBerry Is Done With Smartphones And Cars — Now It Wants To Own The Software Inside Your AI Robot | BB Stock Alert: What to Know as Blackberry Doubles Down on Robotics"
     },
     {
       "ticker": "REF",
@@ -173,6 +190,23 @@
       "recent_news": "Chipotle downgraded, Darden upgraded: Wall Street's top analyst calls | Reformation Just Went Public. Here Are Four Secrets to Its Success. | Reformation Stock Rises in Opening Trades"
     },
     {
+      "ticker": "CXM",
+      "score": 52.9,
+      "last_close": 7.94,
+      "rel_volume": 1.76,
+      "price_change_pct": 6.29,
+      "gap_pct": 6.76,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1859776384,
+      "float_shares": 112748357,
+      "cash_debt_ratio": 10.1,
+      "insider_pct": 7.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Amplitude, GitLab, Doximity, Freshworks, and Sprinklr Shares Skyrocket, What You Need To Know | Everpure (P) Beats Q2 Earnings and Revenue Estimates | Sprinklr (CXM) Stock Looks Fully Valued Despite Its 62% Five Year Fall"
+    },
+    {
       "ticker": "ACDC",
       "score": 52.1,
       "last_close": 5.26,
@@ -185,26 +219,9 @@
       "float_shares": 34590576,
       "cash_debt_ratio": 0.02,
       "insider_pct": 84.2,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "5 Revealing Analyst Questions From ProFrac’s Q2 Earnings Call | ProFrac (ACDC) Q2 2026 Earnings Call Transcript | Calumet, Atlas Energy Solutions, HighPeak Energy, Borr Drilling, and ProFrac Shares Are Soaring, What You Need To Know"
-    },
-    {
-      "ticker": "CXM",
-      "score": 51.9,
-      "last_close": 7.94,
-      "rel_volume": 1.68,
-      "price_change_pct": 6.29,
-      "gap_pct": 6.76,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1859776384,
-      "float_shares": 112748357,
-      "cash_debt_ratio": 10.1,
-      "insider_pct": 7.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Everpure (P) Beats Q2 Earnings and Revenue Estimates | Sprinklr (CXM) Stock Looks Fully Valued Despite Its 62% Five Year Fall | 1 Profitable Stock with Impressive Fundamentals and 2 That Underwhelm"
+      "recent_news": "5 Revealing Analyst Questions From ProFrac’s Q2 Earnings Call | ProFrac (ACDC) Q2 2026 Earnings Call Transcript | Calumet, Atlas Energy Solutions, HighPeak Energy, Borr Drilling, and ProFrac Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "PATH",
@@ -220,8 +237,8 @@
       "cash_debt_ratio": 15.75,
       "insider_pct": 9.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 472,
-      "recent_news": "Workday (WDAY) Surpasses Q2 Earnings and Revenue Estimates | UiPath Rallies 9% as the Software Bid Broadens Beyond the Earnings Winners, Pegasystems Gains 4% | Rezolve AI Slides 4% on Profit-Taking After a 22% Google Cloud Rally, Alphabet Holds Flat"
+      "recent_dilution_filings_90d": 460,
+      "recent_news": "UiPath (PATH) Is Orchestrating More Than 8,800 Business Processes For A Major Customer | RingCentral, ZoomInfo, UiPath, 8x8, and BlackLine Shares Are Soaring, What You Need To Know | Why UiPath Stock Was Winning This Week"
     },
     {
       "ticker": "MAAS",
@@ -254,7 +271,7 @@
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 46,
+      "recent_dilution_filings_90d": 44,
       "recent_news": "Sector Update: Energy Stocks Lower in Afternoon Trading | TE Stock Pops 9% After Norway Backs Data Center Plans For Idle Battery Factory | Can T1 Energy's U.S. Solar Supply Chain Drive Its Next Phase of Growth?"
     },
     {
@@ -272,13 +289,13 @@
       "insider_pct": 5.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "Oil Tanker Stocks Set Up Amid Trump's Flip-Flop On Hormuz Toll | 5 Dividend Stocks Flashing Warning Signs | Crude Tanker Market Strength Bodes Well for ECO: More Upside Ahead?"
+      "recent_news": "Nordic American Tankers (NAT) Stock Could Look Stretched Despite Strait Blockade Relief | Does Strong Q2 Profit and Freed Gulf Tankers Change The Bull Case For Nordic American Tankers (NAT)? | Can Nordic American Tankers (NAT) Justify Its Valuation After Its Profit Rebound?"
     },
     {
       "ticker": "JELD",
-      "score": 48.2,
+      "score": 48.3,
       "last_close": 2.18,
-      "rel_volume": 0.7,
+      "rel_volume": 0.71,
       "price_change_pct": -9.92,
       "gap_pct": -9.3,
       "st_msg_count": null,
@@ -293,9 +310,9 @@
     },
     {
       "ticker": "GTM",
-      "score": 46.9,
+      "score": 47.0,
       "last_close": 4.08,
-      "rel_volume": 0.86,
+      "rel_volume": 0.87,
       "price_change_pct": 7.37,
       "gap_pct": 7.37,
       "st_msg_count": null,
@@ -305,8 +322,8 @@
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 9,
-      "recent_news": "1 Unprofitable Stock for Long-Term Investors and 2 Facing Headwinds | What Is Drawing Fresh Attention To ZoomInfo Technologies (GTM)? | 1 Momentum  Stock for Long-Term Investors and 2 We Find Risky"
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "RingCentral, ZoomInfo, UiPath, 8x8, and BlackLine Shares Are Soaring, What You Need To Know | 1 Unprofitable Stock for Long-Term Investors and 2 Facing Headwinds | What Is Drawing Fresh Attention To ZoomInfo Technologies (GTM)?"
     },
     {
       "ticker": "CAPR",
@@ -357,7 +374,7 @@
       "insider_pct": 2.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "1 Stock Under $10 with Exciting Potential and 2 We Turn Down | Rapid7, 8x8, Doximity, Marqeta, and Tenable Shares Are Soaring, What You Need To Know | EGHT vs. TMSNY: Which Stock Is the Better Value Option?"
+      "recent_news": "RingCentral, ZoomInfo, UiPath, 8x8, and BlackLine Shares Are Soaring, What You Need To Know | 1 Stock Under $10 with Exciting Potential and 2 We Turn Down | Rapid7, 8x8, Doximity, Marqeta, and Tenable Shares Are Soaring, What You Need To Know"
     },
     {
       "ticker": "AI",
@@ -373,8 +390,8 @@
       "cash_debt_ratio": 9.81,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 913,
-      "recent_news": "UiPath Rallies 9% as the Software Bid Broadens Beyond the Earnings Winners, Pegasystems Gains 4% | Rezolve AI Slides 4% on Profit-Taking After a 22% Google Cloud Rally, Alphabet Holds Flat | 3 Reasons to Avoid AI and 1 Stock to Buy Instead"
+      "recent_dilution_filings_90d": 891,
+      "recent_news": "Appian, Atlassian, Bandwidth, C3.ai, and Dynatrace Shares Are Soaring, What You Need To Know | C3.ai vs. Oracle: Which Artificial Intelligence Stock Is a Better Investment in 2026? | UiPath Rallies 9% as the Software Bid Broadens Beyond the Earnings Winners, Pegasystems Gains 4%"
     },
     {
       "ticker": "ONDS",
@@ -395,9 +412,9 @@
     },
     {
       "ticker": "MARA",
-      "score": 43.1,
+      "score": 43.2,
       "last_close": 11.87,
-      "rel_volume": 1.18,
+      "rel_volume": 1.19,
       "price_change_pct": 5.79,
       "gap_pct": 5.97,
       "st_msg_count": null,
@@ -408,7 +425,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Coinbase Just Rallied 14% in a Month: Take Profits, or Buy More? | Strategy Spikes 10% as Bitcoin’s Rebound Reaches the Treasury Trade, MARA Surges 9% | Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5%"
+      "recent_news": "Applied Digital Stock Is Down, But Its AI Data Center Business Is Powering Up. What Gives? | Coinbase Just Rallied 14% in a Month: Take Profits, or Buy More? | Strategy Spikes 10% as Bitcoin’s Rebound Reaches the Treasury Trade, MARA Surges 9%"
     },
     {
       "ticker": "ADCT",
@@ -445,6 +462,23 @@
       "recent_news": "Why Did APP, ARRY, NFE Stocks Slump To 52-Week Lows Today? | New Fortress Energy vs. ONEOK: Which Energy Stock Is a Better Buy in 2026? | Sector Update: Energy Stocks Fall Late Afternoon"
     },
     {
+      "ticker": "EVH",
+      "score": 41.5,
+      "last_close": 4.59,
+      "rel_volume": 0.76,
+      "price_change_pct": -6.71,
+      "gap_pct": -6.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 518942368,
+      "float_shares": 94147900,
+      "cash_debt_ratio": 0.12,
+      "insider_pct": 3.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "1 Healthcare Stock Worth Your Attention and 2 We Brush Off | 5 Must-Read Analyst Questions From Evolent Health’s Q2 Earnings Call | Evolent Health (EVH) Q2 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "ANNX",
       "score": 40.2,
       "last_close": 5.25,
@@ -473,7 +507,7 @@
       "market_cap": 377411456,
       "float_shares": 37399012,
       "cash_debt_ratio": 0.16,
-      "insider_pct": 1.4,
+      "insider_pct": 1.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "3 Consumer Stocks Walking a Fine Line | Figs, Funko, Caleres, Nike, and Genesco Stocks Trade Down, What You Need To Know | Stocks making big moves yesterday: Funko, Hims & Hers Health, Azenta, Strategy, and RUM Group"
@@ -497,9 +531,9 @@
     },
     {
       "ticker": "KEEL",
-      "score": 38.0,
+      "score": 38.1,
       "last_close": 3.51,
-      "rel_volume": 1.32,
+      "rel_volume": 1.33,
       "price_change_pct": 4.46,
       "gap_pct": 4.61,
       "st_msg_count": null,
@@ -527,7 +561,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up | Can NuScale Power (SMR) Cut SMR Timelines With Nuclear Specific AI Tools? | Prediction: NuScale Hits a New High Before 2027"
+      "recent_news": "Oklo and NuScale Power Have Shed a Combined 85.3% This Year. Why Are Nuclear Stocks Falling? | NuScale Power Is Launching AI Tools for Nuclear Power. How to Play SMR Stock Here. | NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up"
     },
     {
       "ticker": "PUMP",
@@ -543,7 +577,7 @@
       "cash_debt_ratio": 0.91,
       "insider_pct": 2.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 78,
+      "recent_dilution_filings_90d": 76,
       "recent_news": "3 Small-Cap Stocks We Approach with Caution | Calumet, Atlas Energy Solutions, Kosmos Energy, TETRA Technologies, and ProPetro Stocks Trade Down, What You Need To Know | 1 Russell 2000 Stock to Target This Week and 2 We Brush Off"
     },
     {
@@ -561,7 +595,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Strategy Spikes 10% as Bitcoin’s Rebound Reaches the Treasury Trade, MARA Surges 9% | Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4% | Morgan Stanley expects powered-shell deal wave by October"
+      "recent_news": "Zacks Investment Ideas feature highlights: QQQ, NVIDIA, CoreWeave, Nebius, TeraWulf, Cipher and IREN | Strategy Spikes 10% as Bitcoin’s Rebound Reaches the Treasury Trade, MARA Surges 9% | Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%"
     },
     {
       "ticker": "ENVX",
@@ -611,7 +645,7 @@
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 84,
+      "recent_dilution_filings_90d": 82,
       "recent_news": "Bloom Energy vs. FuelCell Energy: Which Fuel Cell Stock Has an Edge? | Plug Power Gains 4% as Risk Appetite Returns; FuelCell Inches Higher, Bloom Energy Holds Flat | Plug Power Sinks 5%, Bloom and FuelCell Slip: Is the Hydrogen Trade Narrowing to One Name?"
     },
     {
@@ -628,7 +662,7 @@
       "cash_debt_ratio": 0.33,
       "insider_pct": 22.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 221,
+      "recent_dilution_filings_90d": 216,
       "recent_news": "Innodata vs. TaskUs: Which AI Services Stock Has Better Upside? | The 5 Most Interesting Analyst Questions From TaskUs’s Q2 Earnings Call | TaskUs (TASK) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -642,12 +676,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "SFL",
+      "score": 25.8,
+      "last_close": 12.35,
+      "rel_volume": 1.05,
+      "price_change_pct": 2.66,
+      "gap_pct": 2.78,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "RIG",
       "score": 24.9,
       "last_close": 5.74,
       "rel_volume": 1.03,
       "price_change_pct": 2.5,
       "gap_pct": 2.68,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "KOS",
+      "score": 24.8,
+      "last_close": 2.87,
+      "rel_volume": 0.71,
+      "price_change_pct": 3.24,
+      "gap_pct": 3.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -672,16 +726,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "WTI",
-      "score": 22.6,
-      "last_close": 3.66,
-      "rel_volume": 0.72,
-      "price_change_pct": 2.52,
-      "gap_pct": 3.36,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "OI",
       "score": 21.8,
       "last_close": 7.21,
@@ -693,10 +737,10 @@
     },
     {
       "ticker": "GPRO",
-      "score": 20.1,
+      "score": 20.3,
       "last_close": 0.605,
-      "rel_volume": 1.19,
-      "price_change_pct": 1.36,
+      "rel_volume": 1.21,
+      "price_change_pct": 1.34,
       "gap_pct": 1.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
@@ -712,16 +756,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "QDEL",
-      "score": 19.9,
-      "last_close": 15.32,
-      "rel_volume": 0.55,
-      "price_change_pct": 2.75,
-      "gap_pct": 2.62,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "JBLU",
       "score": 18.3,
       "last_close": 4.89,
@@ -733,10 +767,10 @@
     },
     {
       "ticker": "GETY",
-      "score": 18.2,
+      "score": 18.0,
       "last_close": 0.278,
       "rel_volume": 0.89,
-      "price_change_pct": -0.79,
+      "price_change_pct": -0.71,
       "gap_pct": -2.86,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
@@ -753,9 +787,9 @@
     },
     {
       "ticker": "NOK",
-      "score": 17.1,
+      "score": 17.3,
       "last_close": 10.59,
-      "rel_volume": 0.81,
+      "rel_volume": 0.83,
       "price_change_pct": 1.73,
       "gap_pct": 1.2,
       "st_msg_count": null,
@@ -808,26 +842,6 @@
       "rel_volume": 0.69,
       "price_change_pct": -1.25,
       "gap_pct": -1.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TBLA",
-      "score": 14.0,
-      "last_close": 3.77,
-      "rel_volume": 0.76,
-      "price_change_pct": 1.07,
-      "gap_pct": 0.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "PMT",
-      "score": 12.8,
-      "last_close": 9.33,
-      "rel_volume": 0.63,
-      "price_change_pct": 1.08,
-      "gap_pct": 1.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
