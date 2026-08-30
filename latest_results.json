@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-29T22:22:49.450346+00:00",
+  "last_updated_utc": "2026-08-30T01:05:43.120418+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -18,23 +18,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
       "recent_news": "Google News | Barings Corporate Investors made 9 new private investments in Q2 - Stock Titan | Barings Corporate Investors (MCI) Shareholding Pattern – Promoters, FIIs &amp; DIIs - Value Research"
-    },
-    {
-      "ticker": "VIOT",
-      "score": 75.0,
-      "last_close": 0.87,
-      "rel_volume": 3.47,
-      "price_change_pct": 6.1,
-      "gap_pct": 5.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": 53.1,
-      "market_cap": 57645640,
-      "float_shares": 31641213,
-      "cash_debt_ratio": 9.68,
-      "insider_pct": 2.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Viomi Technology Highlights FY2025 Growth, Dividend and Global Expansion at Deutsche Bank Conference | Viomi Technology Highlights FY2025 Revenue Growth, Dividend and Overseas Push at Deutsche Bank Conference | Viomi Technology Co Ltd (VIOT) Full Year 2025 Earnings Call Highlights: Navigating Growth and ..."
     },
     {
       "ticker": "VISN",
@@ -83,8 +66,8 @@
       "float_shares": 2195165166,
       "cash_debt_ratio": 0.02,
       "insider_pct": 0.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Stock Market Today, Aug. 28: PG&E Falls 8% on Wildfire-Liability Uncertainty Ahead of Aug. 31 Deadline | Why Is OGE Energy (OGE) Down 2.6% Since Last Earnings Report? | Why Is FirstEnergy (FE) Down 4.9% Since Last Earnings Report?"
     },
     {
@@ -122,6 +105,23 @@
       "recent_news": "PURR Stock Jumps 11% After Hyperliquid Treasury Firm Reports Annual Results | Hyperliquid Strategies Shares Rise After Reporting $1.9B HYPE Position | Popular crypto stock rallies on blockbuster earnings"
     },
     {
+      "ticker": "TOP",
+      "score": 67.2,
+      "last_close": 16.73,
+      "rel_volume": 2.33,
+      "price_change_pct": 8.5,
+      "gap_pct": 8.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2069593216,
+      "float_shares": 100878135,
+      "cash_debt_ratio": 5.6,
+      "insider_pct": 17.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 748,
+      "recent_news": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes | TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
+    },
+    {
       "ticker": "CMCM",
       "score": 66.8,
       "last_close": 3.3,
@@ -137,6 +137,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Lower in Tuesday Trading"
+    },
+    {
+      "ticker": "VIOT",
+      "score": 65.0,
+      "last_close": 0.87,
+      "rel_volume": 3.47,
+      "price_change_pct": 6.1,
+      "gap_pct": 5.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 57645640,
+      "float_shares": 31641213,
+      "cash_debt_ratio": 9.68,
+      "insider_pct": 2.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Viomi Technology Highlights FY2025 Growth, Dividend and Global Expansion at Deutsche Bank Conference | Viomi Technology Highlights FY2025 Revenue Growth, Dividend and Overseas Push at Deutsche Bank Conference | Viomi Technology Co Ltd (VIOT) Full Year 2025 Earnings Call Highlights: Navigating Growth and ..."
     },
     {
       "ticker": "TRVG",
@@ -164,30 +181,13 @@
       "gap_pct": 16.74,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 219511360,
+      "market_cap": 217962832,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Unpopular Stock That Deserves a Second Chance and 2 We Turn Down | JELD-WEN (JELD) Q2 2026 Earnings Call Transcript | Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know"
-    },
-    {
-      "ticker": "TOP",
-      "score": 56.6,
-      "last_close": 16.73,
-      "rel_volume": 1.42,
-      "price_change_pct": 8.5,
-      "gap_pct": 8.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2069593216,
-      "float_shares": 100878135,
-      "cash_debt_ratio": 5.6,
-      "insider_pct": 17.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 748,
-      "recent_news": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes | TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
     },
     {
       "ticker": "CHA",
@@ -232,13 +232,30 @@
       "gap_pct": 8.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 204403504,
+      "market_cap": 203858000,
       "float_shares": 29131150,
       "cash_debt_ratio": 0.45,
       "insider_pct": 11.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Q2 Earnings Roundup: Angi (NASDAQ:ANGI) And The Rest Of The Gig Economy Segment | Angi (ANGI) Stock Fair Value Moves Lower As Analysts Weigh Execution Risks | Angi Inc (ANGI) (Q2 2026) Earnings Call Highlights: AI Agents and Large Pro Growth Signal Path ..."
+    },
+    {
+      "ticker": "CSIQ",
+      "score": 51.8,
+      "last_close": 13.14,
+      "rel_volume": 1.68,
+      "price_change_pct": -6.01,
+      "gap_pct": -7.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 892163328,
+      "float_shares": 43620387,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": 29.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Canadian Solar Inc. Q2 2026 Earnings Call Summary | Sector Update: Energy Stocks Mixed Late Afternoon | Canadian Solar Inc (CSIQ) (Q2 2026) Earnings Call Highlights: Strategic U.S. ..."
     },
     {
       "ticker": "NABL",
@@ -256,23 +273,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "This Cybersecurity Stock Surged 11% Today And Is On Track To Surpass The 100-DMA — What’s Driving The Rally? | Software Companies' Second-Quarter Beat Rate Accelerates Sequentially, RBC Says | N-able (NABL) Q2 2026 Earnings Call Transcript"
-    },
-    {
-      "ticker": "GCLWW",
-      "score": 51.5,
-      "last_close": 0.025,
-      "rel_volume": 0.13,
-      "price_change_pct": -27.14,
-      "gap_pct": -27.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": 100.0,
-      "market_cap": null,
-      "float_shares": 38800718,
-      "cash_debt_ratio": 0.62,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "GCL Global Q4 Earnings Call Highlights"
     },
     {
       "ticker": "SSTK",
@@ -391,7 +391,41 @@
       "insider_pct": 34.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "General Electric (GE) Names Claire McDonough As GE Vernova CFO | Why Rivian (RIVN) Shares Are Sliding Today | Rivian Automotive CFO Departure Not Seen as a Concern, UBS Says"
+      "recent_news": "Top EV executive joins the AI boom. Now what? | General Electric (GE) Names Claire McDonough As GE Vernova CFO | Why Rivian (RIVN) Shares Are Sliding Today"
+    },
+    {
+      "ticker": "GCLWW",
+      "score": 41.5,
+      "last_close": 0.025,
+      "rel_volume": 0.13,
+      "price_change_pct": -27.14,
+      "gap_pct": -27.14,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 38800718,
+      "cash_debt_ratio": 0.62,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "GCL Global Q4 Earnings Call Highlights"
+    },
+    {
+      "ticker": "CMPS",
+      "score": 41.3,
+      "last_close": 13.73,
+      "rel_volume": 0.96,
+      "price_change_pct": -6.22,
+      "gap_pct": -5.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1901286656,
+      "float_shares": 106969191,
+      "cash_debt_ratio": 7.93,
+      "insider_pct": 7.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003 | COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "MNRO",
@@ -402,7 +436,7 @@
       "gap_pct": 7.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 405182208,
+      "market_cap": 404959520,
       "float_shares": 29419793,
       "cash_debt_ratio": 0.02,
       "insider_pct": 5.6,
@@ -504,7 +538,7 @@
       "gap_pct": 4.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 38089224,
+      "market_cap": 38439188,
       "float_shares": 25517853,
       "cash_debt_ratio": 0.76,
       "insider_pct": 7.4,
@@ -686,16 +720,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NFE",
-      "score": 27.2,
-      "last_close": 0.293,
-      "rel_volume": 0.72,
-      "price_change_pct": -3.93,
-      "gap_pct": -3.48,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NOK",
       "score": 26.8,
       "last_close": 10.21,
@@ -742,6 +766,16 @@
       "rel_volume": 0.84,
       "price_change_pct": -3.15,
       "gap_pct": -3.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OI",
+      "score": 24.3,
+      "last_close": 7.39,
+      "rel_volume": 1.02,
+      "price_change_pct": 2.5,
+      "gap_pct": 2.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -816,22 +850,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "VNET",
+      "score": 13.7,
+      "last_close": 6.55,
+      "rel_volume": 0.53,
+      "price_change_pct": -1.36,
+      "gap_pct": -1.73,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AAL",
       "score": 13.6,
       "last_close": 13.64,
       "rel_volume": 0.93,
       "price_change_pct": -0.58,
       "gap_pct": -0.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "VNET",
-      "score": 13.5,
-      "last_close": 6.55,
-      "rel_volume": 0.53,
-      "price_change_pct": -1.36,
-      "gap_pct": -1.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -876,32 +910,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 9.9,
-      "last_close": 5.84,
-      "rel_volume": 0.53,
-      "price_change_pct": -1.18,
-      "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "EVH",
       "score": 8.4,
       "last_close": 4.6,
       "rel_volume": 0.57,
       "price_change_pct": 0.22,
       "gap_pct": -0.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OPTU",
-      "score": 6.1,
-      "last_close": 1.02,
-      "rel_volume": 0.52,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.01,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
