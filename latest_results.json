@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T20:36:42.131310+00:00",
+  "last_updated_utc": "2026-08-30T23:12:47.134157+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -122,6 +122,23 @@
       "recent_news": "Why Is Hyperliquid Strategies (PURR) Doubling Down On HYPE And Buybacks? | Why Hyperliquid Strategies Stock Surged This Week | PURR Stock Jumps 11% After Hyperliquid Treasury Firm Reports Annual Results"
     },
     {
+      "ticker": "TOP",
+      "score": 67.2,
+      "last_close": 16.73,
+      "rel_volume": 2.33,
+      "price_change_pct": 8.5,
+      "gap_pct": 8.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2069593216,
+      "float_shares": 100878135,
+      "cash_debt_ratio": 5.6,
+      "insider_pct": 17.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 748,
+      "recent_news": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes | TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
+    },
+    {
       "ticker": "CMCM",
       "score": 66.8,
       "last_close": 3.3,
@@ -181,30 +198,13 @@
       "gap_pct": 16.74,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 219511360,
+      "market_cap": 217962832,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Unpopular Stock That Deserves a Second Chance and 2 We Turn Down | JELD-WEN (JELD) Q2 2026 Earnings Call Transcript | Byrna, Lucid, Park-Ohio, JELD-WEN, and Tesla Shares Skyrocket, What You Need To Know"
-    },
-    {
-      "ticker": "TOP",
-      "score": 56.6,
-      "last_close": 16.73,
-      "rel_volume": 1.42,
-      "price_change_pct": 8.5,
-      "gap_pct": 8.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2069593216,
-      "float_shares": 100878135,
-      "cash_debt_ratio": 5.6,
-      "insider_pct": 17.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 748,
-      "recent_news": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Amid Strait of Hormuz Re-Opening Hopes | TOP Financial Group (TOP) Looks Pricey As A 39x P B Ratio Meets Rising Losses"
     },
     {
       "ticker": "CHA",
@@ -249,13 +249,30 @@
       "gap_pct": 8.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 204403504,
+      "market_cap": 203858000,
       "float_shares": 29131150,
       "cash_debt_ratio": 0.45,
       "insider_pct": 11.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Q2 Earnings Roundup: Angi (NASDAQ:ANGI) And The Rest Of The Gig Economy Segment | Angi (ANGI) Stock Fair Value Moves Lower As Analysts Weigh Execution Risks | Angi Inc (ANGI) (Q2 2026) Earnings Call Highlights: AI Agents and Large Pro Growth Signal Path ..."
+    },
+    {
+      "ticker": "CSIQ",
+      "score": 51.8,
+      "last_close": 13.14,
+      "rel_volume": 1.68,
+      "price_change_pct": -6.01,
+      "gap_pct": -7.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 892163328,
+      "float_shares": 43620387,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": 29.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Canadian Solar Inc. Q2 2026 Earnings Call Summary | Sector Update: Energy Stocks Mixed Late Afternoon | Canadian Solar Inc (CSIQ) (Q2 2026) Earnings Call Highlights: Strategic U.S. ..."
     },
     {
       "ticker": "NABL",
@@ -369,7 +386,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 107443912,
-      "float_shares": 197482926,
+      "float_shares": 197019806,
       "cash_debt_ratio": 0.03,
       "insider_pct": 78.0,
       "dilution_risk": "낮음",
@@ -411,6 +428,23 @@
       "recent_news": "GCL Global Q4 Earnings Call Highlights"
     },
     {
+      "ticker": "CMPS",
+      "score": 41.3,
+      "last_close": 13.73,
+      "rel_volume": 0.96,
+      "price_change_pct": -6.22,
+      "gap_pct": -5.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1901286656,
+      "float_shares": 106969191,
+      "cash_debt_ratio": 7.93,
+      "insider_pct": 7.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003 | COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "MNRO",
       "score": 40.7,
       "last_close": 12.96,
@@ -419,7 +453,7 @@
       "gap_pct": 7.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 405182208,
+      "market_cap": 404959520,
       "float_shares": 29419793,
       "cash_debt_ratio": 0.02,
       "insider_pct": 5.6,
@@ -521,7 +555,7 @@
       "gap_pct": 4.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 38089224,
+      "market_cap": 38439188,
       "float_shares": 25517853,
       "cash_debt_ratio": 0.76,
       "insider_pct": 7.4,
@@ -624,7 +658,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 69078851584,
-      "float_shares": 3726296618,
+      "float_shares": 3726393232,
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.0,
       "dilution_risk": "높음",
@@ -703,16 +737,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NFE",
-      "score": 27.2,
-      "last_close": 0.293,
-      "rel_volume": 0.72,
-      "price_change_pct": -3.93,
-      "gap_pct": -3.48,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NOK",
       "score": 26.8,
       "last_close": 10.21,
@@ -759,6 +783,16 @@
       "rel_volume": 0.84,
       "price_change_pct": -3.15,
       "gap_pct": -3.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OI",
+      "score": 24.3,
+      "last_close": 7.39,
+      "rel_volume": 1.02,
+      "price_change_pct": 2.5,
+      "gap_pct": 2.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -833,22 +867,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "VNET",
+      "score": 13.7,
+      "last_close": 6.55,
+      "rel_volume": 0.53,
+      "price_change_pct": -1.36,
+      "gap_pct": -1.73,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AAL",
       "score": 13.6,
       "last_close": 13.64,
       "rel_volume": 0.93,
       "price_change_pct": -0.58,
       "gap_pct": -0.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "VNET",
-      "score": 13.5,
-      "last_close": 6.55,
-      "rel_volume": 0.53,
-      "price_change_pct": -1.36,
-      "gap_pct": -1.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -893,32 +927,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 9.9,
-      "last_close": 5.84,
-      "rel_volume": 0.53,
-      "price_change_pct": -1.18,
-      "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "EVH",
       "score": 8.4,
       "last_close": 4.6,
       "rel_volume": 0.57,
       "price_change_pct": 0.22,
       "gap_pct": -0.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OPTU",
-      "score": 6.1,
-      "last_close": 1.02,
-      "rel_volume": 0.52,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.01,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
