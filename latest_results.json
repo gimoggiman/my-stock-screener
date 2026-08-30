@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-30T01:05:43.120418+00:00",
+  "last_updated_utc": "2026-08-30T07:54:53.024824+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -51,7 +51,7 @@
       "insider_pct": 7.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 179,
-      "recent_news": "PagerDuty (PD) Is Up 12.3% After Mixed Q2 Earnings And Updated 2027 Revenue Guidance - What's Changed | Why Is PagerDuty (PD) Stock Rocketing Higher Today | How to Play PD Stock as PagerDuty Lays Off 15% of Its Staff"
+      "recent_news": "PagerDuty CEO Sells 28,847 Shares as the Stock Edges Up | PagerDuty (PD) Is Up 12.3% After Mixed Q2 Earnings And Updated 2027 Revenue Guidance - What's Changed | Why Is PagerDuty (PD) Stock Rocketing Higher Today"
     },
     {
       "ticker": "PCG",
@@ -66,8 +66,8 @@
       "float_shares": 2195165166,
       "cash_debt_ratio": 0.02,
       "insider_pct": 0.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
       "recent_news": "Stock Market Today, Aug. 28: PG&E Falls 8% on Wildfire-Liability Uncertainty Ahead of Aug. 31 Deadline | Why Is OGE Energy (OGE) Down 2.6% Since Last Earnings Report? | Why Is FirstEnergy (FE) Down 4.9% Since Last Earnings Report?"
     },
     {
@@ -561,7 +561,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "NuScale Power May Sign a Deal That Will Change Everything for SMRs -- Here's Why | Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026? | NNE or SMR: Which Nuclear Energy Stock Gets the Buy Call?"
+      "recent_news": "Are Oklo and NuScale Power Still a Buy After Data Center Backlash? | NuScale Power May Sign a Deal That Will Change Everything for SMRs -- Here's Why | Bloom Energy vs. NuScale Power: Which Energy Innovator Stock Is a Better Buy in 2026?"
     },
     {
       "ticker": "UEIC",
