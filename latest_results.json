@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-08-31T03:46:43.929978+00:00",
+  "last_updated_utc": "2026-08-31T10:34:15.095441+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -168,8 +168,8 @@
       "float_shares": 9502813,
       "cash_debt_ratio": 4.38,
       "insider_pct": 39.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Earnings Estimates Moving Higher for Trivago (TRVG): Time to Buy? | Are You Looking for a Top Momentum Pick? Why Trivago N.V. ADS (TRVG) is a Great Choice | European Equities Traded in the US as American Depositary Receipts Edge Higher in Friday Trading"
     },
     {
@@ -236,8 +236,8 @@
       "float_shares": 167889996,
       "cash_debt_ratio": 0.56,
       "insider_pct": 1.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Trulieve Cannabis Q2 Earnings Call Highlights | Trulieve Cannabis (TRLV) Reports Steeper Losses And Lower Sales, Is The Valuation Discount Justified? | Trulieve Shares Advance After Earnings Beat Despite Revenue Miss"
     },
     {
@@ -544,7 +544,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "NuScale Reported Just $75,000 in Quarterly Revenue and Announced a $750 Million Share Sale. Is The Dilution Worth the Dream? | Are Oklo and NuScale Power Still a Buy After Data Center Backlash? | NuScale Power May Sign a Deal That Will Change Everything for SMRs -- Here's Why"
+      "recent_news": "NuScale Power's CFO Sells Nearly 30,000 Company Shares as the Stock Remains Near a 52-Week Low | NuScale Reported Just $75,000 in Quarterly Revenue and Announced a $750 Million Share Sale. Is The Dilution Worth the Dream? | Are Oklo and NuScale Power Still a Buy After Data Center Backlash?"
     },
     {
       "ticker": "UEIC",
@@ -629,7 +629,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
-      "recent_news": "1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Avoid | Nubank (NU): Buy, Sell, or Hold Post Q1 Earnings? | Nubank’s (NU) First Billion-Dollar Quarter Comes With New Questions"
+      "recent_news": "Astera Labs Stock And 2 AI Data Center Picks From Founder Led Companies | 1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Avoid | Nubank (NU): Buy, Sell, or Hold Post Q1 Earnings?"
     },
     {
       "ticker": "KSS",
@@ -663,7 +663,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "3 Small-Cap Stocks We Keep Off Our Radar | Stocks making big moves yesterday: Fluence Energy, Paymentus, RLI, Dick's, and Robinhood | 3 Unprofitable Stocks We Find Risky"
+      "recent_news": "Bear of the Day: Fluence Energy, Inc. (FLNC) | 3 Small-Cap Stocks We Keep Off Our Radar | Stocks making big moves yesterday: Fluence Energy, Paymentus, RLI, Dick's, and Robinhood"
     },
     {
       "ticker": "KURA",
