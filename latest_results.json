@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-01T20:35:49.874323+00:00",
+  "last_updated_utc": "2026-09-01T23:02:32.430656+00:00",
   "tickers_scanned": 67,
   "results": [
     {
@@ -57,7 +57,7 @@
       "ticker": "FRVO",
       "score": 75.0,
       "last_close": 19.75,
-      "rel_volume": 10.03,
+      "rel_volume": 10.04,
       "price_change_pct": 28.41,
       "gap_pct": 29.45,
       "st_msg_count": null,
@@ -68,13 +68,13 @@
       "insider_pct": 22.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google's Fervo Deal Could Reach a Gigawatt by 2030 | Sector Update: Energy Stocks Rise Late Afternoon | Alphabet Drops as Google Signs 396-Megawatt Geothermal Deal"
+      "recent_news": "Stock Market Today, Sept. 1: Fervo Energy Surges 28% on 396-Megawatt Google Power Deal | FRVO Stock Clocks Best Day In A Month After Google Deal: Analyst Says Agreement Arrived Earlier Than Expected | Google Just Locked In Nearly 1 Gigawatt of Geothermal Power"
     },
     {
       "ticker": "GOTU",
       "score": 75.0,
       "last_close": 2.16,
-      "rel_volume": 3.16,
+      "rel_volume": 3.17,
       "price_change_pct": 13.09,
       "gap_pct": 11.52,
       "st_msg_count": null,
@@ -91,7 +91,7 @@
       "ticker": "GPRO",
       "score": 75.0,
       "last_close": 1.23,
-      "rel_volume": 36.5,
+      "rel_volume": 36.7,
       "price_change_pct": 40.41,
       "gap_pct": 42.69,
       "st_msg_count": null,
@@ -101,14 +101,14 @@
       "cash_debt_ratio": 0.32,
       "insider_pct": 4.6,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 12,
+      "recent_dilution_filings_90d": 14,
       "recent_news": "GoPro price up 50% after agreeing to takeover: AlphaSpace breakdown | GoPro Just Surged 128% After Markiplier Became Its Biggest Individual Shareholder | This Tech Stock Just Surged 85% on Surprise AI Deal"
     },
     {
       "ticker": "SST",
       "score": 75.0,
       "last_close": 2.84,
-      "rel_volume": 3.99,
+      "rel_volume": 4.05,
       "price_change_pct": 26.79,
       "gap_pct": 23.46,
       "st_msg_count": null,
@@ -142,7 +142,7 @@
       "ticker": "PCG",
       "score": 65.0,
       "last_close": 14.06,
-      "rel_volume": 4.3,
+      "rel_volume": 4.31,
       "price_change_pct": 5.95,
       "gap_pct": 6.07,
       "st_msg_count": null,
@@ -153,13 +153,13 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "California Wildfire Legislation Postponed, Utility Stocks Bounce | PG&E Stock, Edison International Rise as California Lawmakers Kill Wildfire Bill | Sector Update: Energy Stocks Rise Tuesday Afternoon"
+      "recent_news": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill | BofA cuts PG&E to Neutral as California wildfire reforms fall short | California Wildfire Legislation Postponed, Utility Stocks Bounce"
     },
     {
       "ticker": "PMVP",
       "score": 64.2,
       "last_close": 1.29,
-      "rel_volume": 21.39,
+      "rel_volume": 21.43,
       "price_change_pct": 6.61,
       "gap_pct": 4.55,
       "st_msg_count": null,
@@ -174,9 +174,9 @@
     },
     {
       "ticker": "BMEA",
-      "score": 58.1,
+      "score": 58.2,
       "last_close": 1.8,
-      "rel_volume": 1.87,
+      "rel_volume": 1.88,
       "price_change_pct": 7.14,
       "gap_pct": 7.44,
       "st_msg_count": null,
@@ -221,7 +221,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "NIO Inc (NIO) (Q2 2026) Earnings Call Highlights: Record Revenue and Margins Amid Cost Pressures | Update: Equity Markets Fall Intraday as Oil, Yields Surge | Nio Falls 4% as Memory Chip Costs and Revenue Miss Overshadow Doubled Vehicle Margin, XPeng Holds Steady"
+      "recent_news": "Stock Market Today, Sept. 1: Nio Falls on Q2 Revenue Miss Despite August Delivery Strength | Update: Wall Street's Pullback Deepens as Oil, Yields Surge | NIO Inc (NIO) (Q2 2026) Earnings Call Highlights: Record Revenue and Margins Amid Cost Pressures"
     },
     {
       "ticker": "SID",
@@ -259,9 +259,9 @@
     },
     {
       "ticker": "ONDS",
-      "score": 50.4,
+      "score": 50.5,
       "last_close": 7.04,
-      "rel_volume": 0.89,
+      "rel_volume": 0.9,
       "price_change_pct": -8.03,
       "gap_pct": -8.3,
       "st_msg_count": null,
@@ -321,8 +321,8 @@
       "float_shares": 1233307276,
       "cash_debt_ratio": 0.05,
       "insider_pct": 29.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "How Deere Stock Can Hit $800. A Farming Recovery Is Coming. | Is CNH Industrial (NYSE:CNH) Above Fair Value After Its 22% Rise? | Is CNH Industrial (CNH) Cheap After Its India Expansion Plan?"
     },
     {
@@ -378,9 +378,9 @@
     },
     {
       "ticker": "TMC",
-      "score": 45.2,
+      "score": 45.3,
       "last_close": 4.455,
-      "rel_volume": 0.96,
+      "rel_volume": 0.97,
       "price_change_pct": -6.6,
       "gap_pct": -7.13,
       "st_msg_count": null,
@@ -526,14 +526,14 @@
       "cash_debt_ratio": 0.04,
       "insider_pct": 86.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 708,
+      "recent_dilution_filings_90d": 710,
       "recent_news": "Lotus cuts YoY losses by 63% in H1 2026 | Lotus Technology Inc (LOT) (Q2 2026) Earnings Call Highlights: Deliveries Surge 39% as Losses ... | Lotus Technology Q2 Earnings Call Highlights"
     },
     {
       "ticker": "ALEC",
-      "score": 35.4,
+      "score": 35.5,
       "last_close": 2.4,
-      "rel_volume": 0.38,
+      "rel_volume": 0.39,
       "price_change_pct": 6.19,
       "gap_pct": 6.19,
       "st_msg_count": null,
@@ -594,8 +594,8 @@
       "cash_debt_ratio": 9.81,
       "insider_pct": 8.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 875,
-      "recent_news": "Can Palantir's Customer Surge Sustain Its AI-Driven Growth Momentum? | European Equities Largely Lower Though AI Stocks Gain | C3.ai (AI) Reports Q2: Everything You Need To Know Ahead Of Earnings"
+      "recent_dilution_filings_90d": 878,
+      "recent_news": "Appian, C3.ai, Palo Alto Networks, Rapid7, and Shopify Shares Are Falling, What You Need To Know | Can Palantir's Customer Surge Sustain Its AI-Driven Growth Momentum? | European Equities Largely Lower Though AI Stocks Gain"
     },
     {
       "ticker": "ADCT",
@@ -646,7 +646,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Best student loan refinance companies of September 2026 | The best personal loans for September 2026 | SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady"
+      "recent_news": "SoFi Drops 4%, Affirm Falls 5% as Yields Hit Balance-Sheet Lenders, Robinhood Holds Steady | 3 Crypto Stocks To Watch With Up To 47% Revenue Growth | PayPal Stock's Real Risk Is Not How Far It Falls"
     },
     {
       "ticker": "LAC",
@@ -730,9 +730,9 @@
     },
     {
       "ticker": "PATH",
-      "score": 25.2,
+      "score": 25.3,
       "last_close": 18.14,
-      "rel_volume": 0.97,
+      "rel_volume": 0.98,
       "price_change_pct": -2.84,
       "gap_pct": -2.65,
       "st_msg_count": null,
@@ -750,9 +750,9 @@
     },
     {
       "ticker": "GETY",
-      "score": 23.9,
+      "score": 24.0,
       "last_close": 0.235,
-      "rel_volume": 0.79,
+      "rel_volume": 0.8,
       "price_change_pct": -3.13,
       "gap_pct": -2.63,
       "st_msg_count": null,
@@ -800,9 +800,9 @@
     },
     {
       "ticker": "GRAB",
-      "score": 20.7,
+      "score": 20.8,
       "last_close": 3.46,
-      "rel_volume": 0.9,
+      "rel_volume": 0.91,
       "price_change_pct": -2.26,
       "gap_pct": -1.69,
       "st_msg_count": null,
@@ -870,9 +870,9 @@
     },
     {
       "ticker": "OLN",
-      "score": 15.9,
+      "score": 16.1,
       "last_close": 17.13,
-      "rel_volume": 0.66,
+      "rel_volume": 0.68,
       "price_change_pct": -1.55,
       "gap_pct": -1.78,
       "st_msg_count": null,
