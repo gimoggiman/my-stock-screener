@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-08-31T22:30:02.027492+00:00",
-  "tickers_scanned": 61,
+  "last_updated_utc": "2026-09-01T01:40:19.531929+00:00",
+  "tickers_scanned": 65,
   "results": [
+    {
+      "ticker": "DH",
+      "score": 75.0,
+      "last_close": 0.95,
+      "rel_volume": 5.64,
+      "price_change_pct": 18.45,
+      "gap_pct": 23.84,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 101407472,
+      "float_shares": 37233623,
+      "cash_debt_ratio": 1.1,
+      "insider_pct": 3.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Definitive Healthcare (DH) Q2 2026 Earnings Call | Definitive Healthcare Corp. Q2 2026 Earnings Call Summary | Definitive Healthcare Corp (DH) (Q2 2026) Earnings Call Highlights: AI Platform Launch and ..."
+    },
     {
       "ticker": "GPRK",
       "score": 75.0,
@@ -17,7 +34,7 @@
       "insider_pct": 55.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "GeoPark (GPRK) Q2 2026 Earnings Call Transcript | Geopark Q2 Earnings Call Highlights | GeoPark Ltd (GPRK) (Q2 2026) Earnings Call Highlights: Strong Cash Flow and Strategic Expansion ..."
+      "recent_news": "Firms including Chevron, ONGC, GE Vernova on track to sign final pacts in Venezuela, sources say | Venezuela’s Energy Reopening Could Benefit Chevron (CVX) and GE Vernova (GEV), But Risks Remain | GeoPark (GPRK) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "GPRO",
@@ -51,7 +68,24 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck | Stocks to Watch Recap: Amazon, PG&E, Nvidia, Chevron | Update: US Equity Indexes Fall Amid Gains in Crude Oil, Benchmark Treasury Yield as Iran War Hostilities Resurge"
+      "recent_news": "Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck | Who Pays for Wildfire Damage? California Can’t Agree | PG&E, Edison Suffer Biggest Stock Drops in Years on California Wildfire Legislation"
+    },
+    {
+      "ticker": "SST",
+      "score": 75.0,
+      "last_close": 2.24,
+      "rel_volume": 45.97,
+      "price_change_pct": 18.52,
+      "gap_pct": 17.99,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 19507986,
+      "float_shares": 5703647,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 68.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "System1 (SST) Q2 2026 Earnings Call Transcript | System1, Inc. Q2 2026 Earnings Call Summary | Favourable Signals For System1: Numerous Insiders Acquired Stock"
     },
     {
       "ticker": "FINV",
@@ -72,11 +106,11 @@
     },
     {
       "ticker": "CHA",
-      "score": 72.7,
+      "score": 72.6,
       "last_close": 11.63,
       "rel_volume": 7.52,
       "price_change_pct": 7.69,
-      "gap_pct": 7.31,
+      "gap_pct": 7.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2218577408,
@@ -84,7 +118,7 @@
       "cash_debt_ratio": 5.13,
       "insider_pct": 21.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 92,
+      "recent_dilution_filings_90d": 76,
       "recent_news": "Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary | Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ... | Chagee Q2 Earnings Call Highlights"
     },
     {
@@ -97,12 +131,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 98880960,
-      "float_shares": 152898919,
-      "cash_debt_ratio": 0.05,
+      "float_shares": 142203172,
+      "cash_debt_ratio": 0.04,
       "insider_pct": 12.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "SLQT Q4 Earnings Call Puts Cash Flow Ahead of MA Growth | SelectQuote, Inc. Q4 2026 Earnings Call Summary | SelectQuote Q4 Earnings Call Highlights"
+    },
+    {
+      "ticker": "BIOX",
+      "score": 65.2,
+      "last_close": 0.43,
+      "rel_volume": 33.41,
+      "price_change_pct": 4.88,
+      "gap_pct": 10.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 27440834,
+      "float_shares": 44331108,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 17.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Cibus Inc’s Precision-Breeding Platform and BioFragrance Scale-Up Support Commercial Inflection | Cibus Inc’s Precision-Breeding Platform and BioFragrance Scale-Up Support Commercial Inflection – Downloadable Initiation Report | Bioceres Crop Solutions Corp. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "STDN",
@@ -114,12 +165,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2588450816,
-      "float_shares": 90169074,
+      "float_shares": 93683103,
       "cash_debt_ratio": null,
       "insider_pct": 63.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "This Nuclear IPO Stock Just Landed a Multiyear Fuel Deal. Is it a Buy? | Standard Nuclear (STDN) Stock Climbed, So What Is Driving Attention Today? | What Does Standard Nuclear (STDN) Gain From A TRISO Fuel Deal Through 2035?"
+    },
+    {
+      "ticker": "LPSN",
+      "score": 63.3,
+      "last_close": 3.1,
+      "rel_volume": 2.0,
+      "price_change_pct": 9.93,
+      "gap_pct": 8.51,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 38245620,
+      "float_shares": 10805375,
+      "cash_debt_ratio": 0.24,
+      "insider_pct": 2.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "SoundHound AI (SOUN) Shareholders Are About To Vote On Its Merger Deal | SoundHound AI vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026? | AppLovin vs. SoundHound AI: Comparing Recent Revenue Growth Trajectories for These Tech Companies"
     },
     {
       "ticker": "CANG",
@@ -148,12 +216,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2423510528,
-      "float_shares": 197422138,
+      "float_shares": 197554689,
       "cash_debt_ratio": null,
       "insider_pct": 4.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 22,
       "recent_news": "Why Is Hyperliquid Strategies (PURR) Doubling Down On HYPE And Buybacks? | Why Hyperliquid Strategies Stock Surged This Week | PURR Stock Jumps 11% After Hyperliquid Treasury Firm Reports Annual Results"
+    },
+    {
+      "ticker": "XE",
+      "score": 54.0,
+      "last_close": 18.45,
+      "rel_volume": 1.51,
+      "price_change_pct": 7.14,
+      "gap_pct": 7.49,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 5303613440,
+      "float_shares": 174671425,
+      "cash_debt_ratio": 60.98,
+      "insider_pct": 74.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up? | This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy? | Oklo vs. X-Energy: Which One Actually Produces Nuclear Power First?"
     },
     {
       "ticker": "EMPD",
@@ -165,29 +250,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 90514560,
-      "float_shares": 12092126,
+      "float_shares": 13924062,
       "cash_debt_ratio": 0.06,
       "insider_pct": 32.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "The bitcoin-per-share dilution trap explained | This oil and gas dynasty is pouring money into AI | Empery Digital trims BTC holdings, invests $65M in Midwest AI data center"
-    },
-    {
-      "ticker": "XE",
-      "score": 53.5,
-      "last_close": 18.45,
-      "rel_volume": 1.51,
-      "price_change_pct": 7.14,
-      "gap_pct": 7.23,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 5303613440,
-      "float_shares": 174671425,
-      "cash_debt_ratio": 60.98,
-      "insider_pct": 74.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up? | This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy? | Oklo vs. X-Energy: Which One Actually Produces Nuclear Power First?"
     },
     {
       "ticker": "METC",
@@ -219,8 +287,8 @@
       "float_shares": 43620387,
       "cash_debt_ratio": 0.2,
       "insider_pct": 29.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Canadian Solar (CSIQ) Q2 2026 Earnings Call Transcript | Canadian Solar Inc. Q2 2026 Earnings Call Summary | Sector Update: Energy Stocks Mixed Late Afternoon"
     },
     {
@@ -236,8 +304,8 @@
       "float_shares": 17065531,
       "cash_debt_ratio": 0.2,
       "insider_pct": 4.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Karyopharm’s (KPTI) Big Cancer Bet Faces A Ticking Clock | Karyopharm (KPTI) Q2 2026 Earnings Call Transcript | Karyopharm Therapeutics Inc. Q2 2026 Earnings Call Summary"
     },
     {
@@ -259,20 +327,37 @@
     },
     {
       "ticker": "SUJA",
-      "score": 48.5,
+      "score": 49.2,
       "last_close": 10.07,
       "rel_volume": 0.96,
       "price_change_pct": 7.47,
-      "gap_pct": 7.42,
+      "gap_pct": 7.79,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 388953856,
-      "float_shares": 8996648,
+      "float_shares": 6421997,
       "cash_debt_ratio": 0.11,
       "insider_pct": 21.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "Suja Life (SUJA) Q2 2026 Earnings Call Transcript | Suja Life Inc (SUJA) (Q2 2026) Earnings Call Highlights: Strong Profit Growth Amid Grocery Softness | Suja Life Q2 Earnings Call Highlights"
+    },
+    {
+      "ticker": "BBAR",
+      "score": 48.7,
+      "last_close": 15.14,
+      "rel_volume": 2.11,
+      "price_change_pct": 4.63,
+      "gap_pct": 5.11,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 3092143616,
+      "float_shares": 52985125,
+      "cash_debt_ratio": 3.02,
+      "insider_pct": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Banco BBVA Argentina SA (BBAR) (Q2 2026) Earnings Call Highlights: Net Income Surges 44. ... | BBVA Banco Frances Q2 Earnings Call Highlights | Banco BBVA Argentina SA's Dividend Analysis"
     },
     {
       "ticker": "PICS",
@@ -326,23 +411,6 @@
       "recent_news": "Codexis (CDXS) Q2 2026 Earnings Call Transcript | Codexis (CDXS) Upgraded to Buy: What Does It Mean for the Stock? | Codexis Inc (CDXS) (Q2 2026) Earnings Call Highlights: Biocatalysis Growth and ECO Synthesis ..."
     },
     {
-      "ticker": "NGL",
-      "score": 45.8,
-      "last_close": 18.97,
-      "rel_volume": 1.71,
-      "price_change_pct": 5.27,
-      "gap_pct": 5.02,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2348756992,
-      "float_shares": 111349324,
-      "cash_debt_ratio": 0.0,
-      "insider_pct": 11.9,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 37,
-      "recent_news": "NGL Energy Partners LP (NGL) is a Great Momentum Stock: Should You Buy? | NGL Energy Partners (NGL) Is Up 6.5% After EPS Turns Positive On Strong Q1 2026 Results | Surging Earnings Estimates Signal Upside for NGL Energy Partners (NGL) Stock"
-    },
-    {
       "ticker": "SOC",
       "score": 45.0,
       "last_close": 4.83,
@@ -356,7 +424,7 @@
       "cash_debt_ratio": 0.02,
       "insider_pct": 11.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 137,
+      "recent_dilution_filings_90d": 134,
       "recent_news": "SOC Stock Eyes Best Day In 1.5 Months As Federal Judge Clears California Pipeline | Sector Update: Energy Stocks Mixed Late Afternoon | CRC Down 14.1% in 3 Months: Can Cost Gains Turn It Around?"
     },
     {
@@ -377,23 +445,6 @@
       "recent_news": "Vistance Networks (VISN) Expands Buyback As Valuation Debate Turns To Aurora Networks | Why Is Vistance Networks (VISN) Expanding Its $150 Million Share Repurchase Program? | Alluvial Fund’s Views on Vistance Networks (VISN)"
     },
     {
-      "ticker": "TEAD",
-      "score": 44.5,
-      "last_close": 0.502,
-      "rel_volume": 1.66,
-      "price_change_pct": 5.02,
-      "gap_pct": 5.02,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 49228708,
-      "float_shares": 26269696,
-      "cash_debt_ratio": 0.14,
-      "insider_pct": 55.8,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Teads Q2 Earnings Call Highlights | Teads Holding Co (TEAD) (Q2 2026) Earnings Call Highlights: CTV Surge Offsets Enterprise ... | Alphabet (GOOGL) Could Be 14% Undervalued On Ad Tech Lawsuit Scrutiny"
-    },
-    {
       "ticker": "GENI",
       "score": 44.3,
       "last_close": 7.42,
@@ -409,23 +460,6 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Genius Sports (GENI) After Q2 Earnings And New Deals Looks Cheap By The Narrative | Genius Sports Q2 Earnings Call Highlights | Why Genius Sports Popped by Almost 10% This Week"
-    },
-    {
-      "ticker": "LZM",
-      "score": 44.0,
-      "last_close": 4.63,
-      "rel_volume": 1.02,
-      "price_change_pct": 6.68,
-      "gap_pct": 5.99,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 416304416,
-      "float_shares": 29138610,
-      "cash_debt_ratio": 0.53,
-      "insider_pct": 57.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Lifezone Metals Limited Q2 2026 Earnings Call Summary | Lifezone Metals H1 Earnings Call Highlights | All You Need to Know About Lifezone Metals Limited (LZM) Rating Upgrade to Buy"
     },
     {
       "ticker": "MXCT",
@@ -471,7 +505,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 424145888,
-      "float_shares": 119626206,
+      "float_shares": 118168615,
       "cash_debt_ratio": 0.11,
       "insider_pct": 16.0,
       "dilution_risk": "주의",
@@ -548,11 +582,11 @@
     },
     {
       "ticker": "BTDR",
-      "score": 36.1,
+      "score": 36.2,
       "last_close": 10.85,
       "rel_volume": 0.81,
       "price_change_pct": 5.14,
-      "gap_pct": 5.67,
+      "gap_pct": 5.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2948837376,
@@ -562,6 +596,23 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Bitdeer says “demand is strong” as Bitcoin miner signs 9.5 MW Malaysia AI cloud site for $800M potential revenue | Is Bitdeer Technologies Group (BTDR) Undervalued Following Its New 28 MW Mining Deal? | Can Bitdeer (BTDR) Turn Wind-Powered Bitcoin Co-Mining into a Scalable AI Infrastructure Edge?"
+    },
+    {
+      "ticker": "STNE",
+      "score": 36.1,
+      "last_close": 9.7,
+      "rel_volume": 7.67,
+      "price_change_pct": -0.1,
+      "gap_pct": -0.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2236777472,
+      "float_shares": 203300027,
+      "cash_debt_ratio": 0.48,
+      "insider_pct": 3.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "StoneCo’s (STNE) Credit Boom Comes With A Costly Catch | StoneCo (STNE) Q2 2026 Earnings Call Transcript | StoneCo Ltd (STNE) (Q2 2026) Earnings Call Highlights: Credit Portfolio Doubles, EPS Grows 9% ..."
     },
     {
       "ticker": "HTZ",
@@ -581,6 +632,23 @@
       "recent_news": "Why Is Hertz (HTZ) Stock Rocketing Higher Today | Is Avis Budget Stock A Rare Bargain Or A Value Trap After Its 80% Drop? | Dov Hertz Sells Staten Island Industrial Site for $167M"
     },
     {
+      "ticker": "OPTU",
+      "score": 34.3,
+      "last_close": 0.973,
+      "rel_volume": 1.18,
+      "price_change_pct": -4.65,
+      "gap_pct": -3.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 370980320,
+      "float_shares": 277642261,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 10.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Why Optimum Communications (OPTU) Stock Is Up Today | Optimum Communications (NYSE:OPTU) Stock Gets Fair Value Trim As Analysts Split On Risk | 5 Insightful Analyst Questions From Optimum Communications’s Q2 Earnings Call"
+    },
+    {
       "ticker": "NIO",
       "score": 32.7,
       "last_close": 4.23,
@@ -593,9 +661,26 @@
       "float_shares": 1887781222,
       "cash_debt_ratio": 1.2,
       "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "NIO Q2 Earnings Preview: What To Expect From Upcoming Report | NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. | What Does NIO (NIO) New NT3.0 SUV Push Mean For Its EV Growth?"
+    },
+    {
+      "ticker": "BTG",
+      "score": 31.5,
+      "last_close": 5.48,
+      "rel_volume": 1.32,
+      "price_change_pct": -3.18,
+      "gap_pct": -3.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 7239467520,
+      "float_shares": 1313511500,
+      "cash_debt_ratio": 0.64,
+      "insider_pct": 0.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "Can Menankoto Permit Accelerate B2Gold's Fekola Regional Growth? | AEM vs. BTG: Which Gold Mining Stock Should You Invest in Now? | Stop Buying Gold Miners Until You Check This Metric"
     },
     {
       "ticker": "AI",
@@ -607,11 +692,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1681961216,
-      "float_shares": 138937455,
+      "float_shares": 138935900,
       "cash_debt_ratio": 9.81,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 890,
+      "recent_dilution_filings_90d": 869,
       "recent_news": "C3.ai (AI) Stock Still Looks Fully Priced As Shares Fell 79% | SAIC (SAIC) Tops Q2 Earnings and Revenue Estimates | C3.ai (AI) Adds A New Director, Is The Stock Too Expensive?"
     },
     {
@@ -636,11 +721,11 @@
     },
     {
       "ticker": "KOS",
-      "score": 27.5,
+      "score": 27.2,
       "last_close": 2.86,
       "rel_volume": 0.78,
       "price_change_pct": 3.62,
-      "gap_pct": 3.8,
+      "gap_pct": 3.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -665,6 +750,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TROX",
+      "score": 24.6,
+      "last_close": 5.29,
+      "rel_volume": 1.29,
+      "price_change_pct": -2.04,
+      "gap_pct": -1.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "PATH",
       "score": 24.4,
       "last_close": 18.67,
@@ -675,22 +770,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CAPR",
+      "score": 23.2,
+      "last_close": 9.91,
+      "rel_volume": 0.41,
+      "price_change_pct": 3.34,
+      "gap_pct": 4.28,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OLN",
       "score": 23.1,
       "last_close": 17.4,
       "rel_volume": 1.36,
       "price_change_pct": 1.46,
       "gap_pct": 1.4,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CAPR",
-      "score": 22.9,
-      "last_close": 9.91,
-      "rel_volume": 0.41,
-      "price_change_pct": 3.34,
-      "gap_pct": 4.12,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -711,16 +806,6 @@
       "rel_volume": 1.42,
       "price_change_pct": 0.41,
       "gap_pct": 1.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 19.9,
-      "last_close": 4.5,
-      "rel_volume": 0.64,
-      "price_change_pct": -2.17,
-      "gap_pct": -3.04,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -755,6 +840,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TBLA",
+      "score": 17.8,
+      "last_close": 3.73,
+      "rel_volume": 0.92,
+      "price_change_pct": -1.32,
+      "gap_pct": -1.59,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OI",
       "score": 17.7,
       "last_close": 7.27,
@@ -775,32 +870,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CMPS",
-      "score": 14.4,
-      "last_close": 13.51,
-      "rel_volume": 0.67,
-      "price_change_pct": -1.6,
-      "gap_pct": -0.87,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "F",
-      "score": 12.4,
-      "last_close": 13.94,
-      "rel_volume": 0.84,
-      "price_change_pct": 0.43,
-      "gap_pct": 0.65,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "KURA",
-      "score": 12.3,
-      "last_close": 12.65,
-      "rel_volume": 1.03,
-      "price_change_pct": -0.08,
-      "gap_pct": 0.0,
+      "ticker": "PLUG",
+      "score": 14.0,
+      "last_close": 2.16,
+      "rel_volume": 0.58,
+      "price_change_pct": -1.37,
+      "gap_pct": -1.6,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -846,11 +921,11 @@
     },
     {
       "ticker": "CLBK",
-      "score": 7.3,
+      "score": 7.4,
       "last_close": 11.62,
       "rel_volume": 0.44,
       "price_change_pct": 0.52,
-      "gap_pct": 0.3,
+      "gap_pct": 0.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
