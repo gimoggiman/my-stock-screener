@@ -1,24 +1,7 @@
 {
-  "last_updated_utc": "2026-09-04T07:55:49.619292+00:00",
-  "tickers_scanned": 74,
+  "last_updated_utc": "2026-09-04T12:31:55.547282+00:00",
+  "tickers_scanned": 73,
   "results": [
-    {
-      "ticker": "CHGG",
-      "score": 75.0,
-      "last_close": 0.98,
-      "rel_volume": 7.9,
-      "price_change_pct": 18.07,
-      "gap_pct": 17.73,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 108673696,
-      "float_shares": 101370312,
-      "cash_debt_ratio": 1.43,
-      "insider_pct": 3.8,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "The Top 5 Analyst Questions From Chegg’s Q2 Earnings Call | Chegg (CHGG) Q2 2026 Earnings Call Transcript | 1 Internet Stock Worth Your Attention and 2 Facing Challenges"
-    },
     {
       "ticker": "CHPT",
       "score": 75.0,
@@ -29,12 +12,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 245160000,
-      "float_shares": 23746833,
-      "cash_debt_ratio": 0.38,
-      "insider_pct": 3.6,
+      "float_shares": 24757650,
+      "cash_debt_ratio": 0.39,
+      "insider_pct": 3.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "ChargePoint (CHPT)’s 70% Surge: Is the EV Charging Turnaround Finally Taking Hold? | EVgo (EVGO) Stock Trades Up, Here Is Why | Why Blink Charging (BLNK) Stock Is Up Today"
+    },
+    {
+      "ticker": "DLTH",
+      "score": 75.0,
+      "last_close": 4.46,
+      "rel_volume": 70.45,
+      "price_change_pct": 23.2,
+      "gap_pct": 22.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 169489248,
+      "float_shares": 9732603,
+      "cash_debt_ratio": 0.19,
+      "insider_pct": 60.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Duluth Holdings Inc (DLTH) (Q2 2026) Earnings Call Highlights: Profitability Surges on Tariff ... | Duluth Holdings Inc. Q2 2026 Earnings Call Summary | Duluth Q2 Earnings Call Highlights"
     },
     {
       "ticker": "GPRO",
@@ -48,7 +48,7 @@
       "market_cap": 286835360,
       "float_shares": 137647669,
       "cash_debt_ratio": 0.32,
-      "insider_pct": 4.6,
+      "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
       "recent_news": "A Start-Up Called Nothing Has Raised $450 Million. It’s Coming for the iPhone. | GoPro merges with Starman Optical in $285 million deal | GoPro’s Next Opportunity Could Lie Beyond the Action-Camera Market"
@@ -100,9 +100,9 @@
       "float_shares": 11930424,
       "cash_debt_ratio": 0.23,
       "insider_pct": 4.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Tilly’s Shares Rise After Q2 Earnings and Revenue Exceed Estimates | Tilly's Inc (TLYS) (Q2 2026) Earnings Call Highlights: Third Consecutive Quarter of ... | Tilly's Q2 Earnings Call Highlights"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Tilly's, Inc. Q2 2026 Earnings Call Summary | Tilly’s Shares Rise After Q2 Earnings and Revenue Exceed Estimates | Tilly's Inc (TLYS) (Q2 2026) Earnings Call Highlights: Third Consecutive Quarter of ..."
     },
     {
       "ticker": "ALMS",
@@ -181,7 +181,7 @@
       "gap_pct": 10.89,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5297644032,
+      "market_cap": 5396204032,
       "float_shares": 313366244,
       "cash_debt_ratio": 24.46,
       "insider_pct": 19.0,
@@ -208,11 +208,11 @@
     },
     {
       "ticker": "AUR",
-      "score": 61.2,
+      "score": 61.4,
       "last_close": 6.32,
       "rel_volume": 1.91,
       "price_change_pct": 8.03,
-      "gap_pct": 7.44,
+      "gap_pct": 7.52,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 12666261504,
@@ -246,7 +246,7 @@
       "last_close": 4.84,
       "rel_volume": 1.56,
       "price_change_pct": 12.82,
-      "gap_pct": 11.42,
+      "gap_pct": 11.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 627516672,
@@ -301,29 +301,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 782844800,
-      "float_shares": 42696416,
+      "float_shares": 42705290,
       "cash_debt_ratio": 0.6,
       "insider_pct": 9.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "USA Rare Earth Stock Stays Perfect With New Call to Buy | MP Materials Stock Moved On The Theme, Not On Mountain Pass | ‘The Odyssey’ Isn’t a One-Off for IMAX, Analyst Says. Plus, Dell and 3 More Stocks."
-    },
-    {
-      "ticker": "BBBYW",
-      "score": 55.6,
-      "last_close": 0.75,
-      "rel_volume": 1.34,
-      "price_change_pct": 20.97,
-      "gap_pct": 25.79,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 86845022,
-      "cash_debt_ratio": 0.65,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Basic earnings per share (basic EPS) of Neighborhood Intelligence, Inc. – NASDAQ:BBBYW - TradingView | Neighborhood Intelligence, Inc. Revenue Breakdown – NASDAQ:BBBYW - TradingView"
     },
     {
       "ticker": "CLSK",
@@ -348,11 +331,11 @@
       "last_close": 16.23,
       "rel_volume": 1.18,
       "price_change_pct": 9.51,
-      "gap_pct": 8.74,
+      "gap_pct": 8.77,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 8098261504,
-      "float_shares": 383871572,
+      "float_shares": 384001304,
       "cash_debt_ratio": 0.5,
       "insider_pct": 22.9,
       "dilution_risk": "낮음",
@@ -408,7 +391,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model? | Sam Altman Sees “Unsustainable Silliness” in AI Compute Spending. These Are the Stocks Traders Are Watching. | Cipher starts gas laterals to support 2.5 GW HPC power expansion"
+      "recent_news": "Why Cipher Digital Stock Plummeted 30.6% Last Month But Is Rebounding in September | Applied Digital and Cipher Just Sank Together. Did Rising Yields Expose AI’s Weakest Business Model? | Sam Altman Sees “Unsustainable Silliness” in AI Compute Spending. These Are the Stocks Traders Are Watching."
     },
     {
       "ticker": "SECZ",
@@ -425,7 +408,7 @@
       "insider_pct": 12.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Securitize is trying to tokenize equity ownership in sports teams. Here's how. | New bull signal could send bitcoin higher | Securitize (SECZ) Ties Sports Team Tokens To Dubai Push In Digital Assets"
+      "recent_news": "Securitize is trying to tokenize equity ownership in sports teams. Here's how. | New bull signal could send bitcoin higher | Securitize (SECZ) Looks Pricey After Dubai MoU And An 18x P S Multiple"
     },
     {
       "ticker": "RXT",
@@ -437,7 +420,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 838531648,
-      "float_shares": 107716913,
+      "float_shares": 107706718,
       "cash_debt_ratio": 0.03,
       "insider_pct": 3.0,
       "dilution_risk": "높음",
@@ -462,23 +445,6 @@
       "recent_news": "UP Fintech’s (TIGR) Record Quarter Comes With A Bigger Bill | UP Fintech Holding Ltd (TIGR) (Q2 2026) Earnings Call Highlights: Record Revenue and Return to ... | UP Fintech Q2 Earnings Call Highlights"
     },
     {
-      "ticker": "CANG",
-      "score": 48.3,
-      "last_close": 2.14,
-      "rel_volume": 0.71,
-      "price_change_pct": 14.44,
-      "gap_pct": 11.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 87787016,
-      "float_shares": null,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 14.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Cango Inc. Q2 2026 Earnings Call Summary | Cango Inc (CANG) (Q2 2026) Earnings Call Highlights: Strategic Shift to AI and Cost Cuts Amid ... | Another crypto company to sell its Bitcoin stash"
-    },
-    {
       "ticker": "BTG",
       "score": 47.5,
       "last_close": 5.69,
@@ -488,7 +454,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7516892672,
-      "float_shares": 1313511500,
+      "float_shares": 1313537927,
       "cash_debt_ratio": 0.64,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
@@ -513,6 +479,23 @@
       "recent_news": "Aptos-powered Decibel gains institutional access through BitGo | Implied Volatility Surging for BitGo Holdings Stock Options | Trump Family's New Crypto Bank Is 49% Owned by Group Behind $500 Million World Liberty Bet: WSJ"
     },
     {
+      "ticker": "EMPD",
+      "score": 45.9,
+      "last_close": 3.41,
+      "rel_volume": 1.01,
+      "price_change_pct": 7.23,
+      "gap_pct": 6.13,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 95855488,
+      "float_shares": 13413864,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 31.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "The bitcoin-per-share dilution trap explained | This oil and gas dynasty is pouring money into AI | Empery Digital trims BTC holdings, invests $65M in Midwest AI data center"
+    },
+    {
       "ticker": "GCL",
       "score": 45.8,
       "last_close": 0.599,
@@ -528,23 +511,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "GCL Global Q4 Earnings Call Highlights | GCL Global Q2 Earnings Call Highlights | GCL Global Holdings Ltd (NASDAQ:GCL) Has A ROE Of 14%"
-    },
-    {
-      "ticker": "HAIN",
-      "score": 44.3,
-      "last_close": 0.75,
-      "rel_volume": 0.37,
-      "price_change_pct": 8.7,
-      "gap_pct": 8.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 67247872,
-      "float_shares": 65894970,
-      "cash_debt_ratio": 0.08,
-      "insider_pct": 2.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "1 Cash-Producing Stock to Target This Week and 2 That Underwhelm | 3 Stocks Under $10 with Warning Signs | 3 Reasons to Avoid HAIN and 1 Stock to Buy Instead"
     },
     {
       "ticker": "NRGV",
@@ -581,23 +547,6 @@
       "recent_news": "EXCLUSIVE: Bear Cave Founder Says Private Equity Daycare Scrutiny Is 'Long Overdue' | Is Private Equity to Blame for the Childcare Crisis? New Study Finds PE-Owned Daycares Target Loose Rules | KinderCare (KLC) Trims Its Footprint While Enrollment Keeps Slipping"
     },
     {
-      "ticker": "DSX",
-      "score": 42.9,
-      "last_close": 2.97,
-      "rel_volume": 3.51,
-      "price_change_pct": -1.33,
-      "gap_pct": -1.99,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 369508736,
-      "float_shares": 57454792,
-      "cash_debt_ratio": 0.34,
-      "insider_pct": 40.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
-      "recent_news": "Diana Shipping (DSX) & Genco Shipping (GNK): A Nearly Year-Long Shipping Takeover Fight Just Ended. Here’s Who Blinked | Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP | Diana Shipping Drops Bid to Acquire Genco Shipping & Trading"
-    },
-    {
       "ticker": "PCG",
       "score": 42.8,
       "last_close": 13.96,
@@ -612,7 +561,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "PG&E, Google, Rewiring America Launch VPP in California | Tesla and Google Just Joined a New Bet on the Electric Grid | Broadcom upgraded, Ultragenyx downgraded: Wall Street's top analyst calls"
+      "recent_news": "PG&E (PCG) Stock Sees Fair Value Cut As Analysts Split Over California Risks | PG&E, Google, Rewiring America Launch VPP in California | Tesla and Google Just Joined a New Bet on the Electric Grid"
     },
     {
       "ticker": "CMTG",
@@ -640,13 +589,30 @@
       "gap_pct": 5.97,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1336923392,
+      "market_cap": 1337152896,
       "float_shares": 193533735,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 57,
       "recent_news": "Sector Update: Energy Stocks Lower in Afternoon Trading | TE Stock Pops 9% After Norway Backs Data Center Plans For Idle Battery Factory | Can T1 Energy's U.S. Solar Supply Chain Drive Its Next Phase of Growth?"
+    },
+    {
+      "ticker": "TROX",
+      "score": 36.7,
+      "last_close": 4.88,
+      "rel_volume": 1.25,
+      "price_change_pct": -4.69,
+      "gap_pct": -4.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 779336192,
+      "float_shares": 118851956,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 25.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Will Weaker TiO2 Prices Weigh on Kronos Worldwide's Performance? | KRO vs. TROX: Which TiO2 Stock Deserves a Spot in Your Portfolio? | Tronox Holdings Plc (TROX) Pressured by Softer Guidance and Leverage Risks"
     },
     {
       "ticker": "ALIT",
@@ -664,6 +630,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Value Stock with Competitive Advantages and 2 Facing Challenges | 3 of Wall Street’s Favorite Stocks That Fall Short | Professional Staffing & HR Solutions Stocks Q2 Teardown: Alight (NYSE:ALIT) Vs The Rest"
+    },
+    {
+      "ticker": "CSHR",
+      "score": 35.4,
+      "last_close": 5.89,
+      "rel_volume": 0.76,
+      "price_change_pct": 5.18,
+      "gap_pct": 5.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 776185408,
+      "float_shares": 44601012,
+      "cash_debt_ratio": 0.32,
+      "insider_pct": 55.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Quantum Computers Could Wipe Out 30% of Bitcoin. XRP Says Only 0.03% of Its Supply Is at Risk | What Crypto Market Slowdown? This Sector of the Crypto Market Has Tripled In Value Since 2025. | Tokenized Asset Deposits Tripled to $7.4B as DeFi Shrank: CoinShares"
     },
     {
       "ticker": "HLLY",
@@ -838,16 +821,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OPTU",
-      "score": 22.5,
-      "last_close": 1.04,
-      "rel_volume": 0.62,
-      "price_change_pct": 1.96,
-      "gap_pct": 4.89,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NU",
       "score": 22.4,
       "last_close": 15.68,
@@ -864,6 +837,16 @@
       "rel_volume": 0.76,
       "price_change_pct": 2.82,
       "gap_pct": 2.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "F",
+      "score": 19.2,
+      "last_close": 14.41,
+      "rel_volume": 0.85,
+      "price_change_pct": 1.91,
+      "gap_pct": 1.77,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -958,22 +941,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PRGO",
-      "score": 14.9,
-      "last_close": 14.27,
-      "rel_volume": 0.65,
-      "price_change_pct": -1.52,
-      "gap_pct": -1.38,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TBLA",
-      "score": 14.2,
-      "last_close": 3.87,
-      "rel_volume": 0.55,
-      "price_change_pct": 1.31,
-      "gap_pct": 1.96,
+      "ticker": "NFE",
+      "score": 14.0,
+      "last_close": 0.279,
+      "rel_volume": 0.79,
+      "price_change_pct": 1.09,
+      "gap_pct": 0.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1004,6 +977,26 @@
       "rel_volume": 0.69,
       "price_change_pct": 0.96,
       "gap_pct": 0.72,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ULCC",
+      "score": 11.8,
+      "last_close": 5.74,
+      "rel_volume": 0.6,
+      "price_change_pct": 0.7,
+      "gap_pct": 1.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OI",
+      "score": 10.8,
+      "last_close": 7.03,
+      "rel_volume": 0.74,
+      "price_change_pct": -0.57,
+      "gap_pct": -0.21,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1044,16 +1037,6 @@
       "rel_volume": 0.53,
       "price_change_pct": -0.65,
       "gap_pct": -0.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "MERC",
-      "score": 3.2,
-      "last_close": 0.36,
-      "rel_volume": 0.21,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.39,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
