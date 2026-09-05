@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-05T05:16:55.894362+00:00",
-  "tickers_scanned": 56,
+  "last_updated_utc": "2026-09-05T09:59:19.947983+00:00",
+  "tickers_scanned": 55,
   "results": [
     {
       "ticker": "CHPT",
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 772175104,
-      "float_shares": 90733500,
+      "float_shares": 91022360,
       "cash_debt_ratio": 0.1,
       "insider_pct": 3.4,
       "dilution_risk": "주의",
@@ -150,7 +150,7 @@
       "market_cap": 7870246400,
       "float_shares": 391346231,
       "cash_debt_ratio": 18.49,
-      "insider_pct": 9.2,
+      "insider_pct": 9.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 454,
       "recent_news": "Why UiPath Stock Plunged Today | Has UiPath (PATH) Fallen Far Enough To Look Cheap? | Why UiPath (PATH) Stock Is Falling Today"
@@ -284,9 +284,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 4953500160,
-      "float_shares": 116271696,
+      "float_shares": 116246358,
       "cash_debt_ratio": 0.09,
-      "insider_pct": 37.5,
+      "insider_pct": 37.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "EquipmentShare.com Inc (EQPT) (Q2 2026) Earnings Call Highlights: Rental Revenue Surges 39% as ... | EquipmentShare.com Q2 Earnings Call Highlights | EquipmentShare.com (EQPT) Stock Still Trades At A Discount Despite Legal Probe"
@@ -307,23 +307,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Mattress chain files Chapter 11 bankruptcy after 24 years | Bob's Discount Furniture (BOBS) Q2 Results Put Fair Value Back In Focus | Bob’s Discount Furniture is winning over higher-income shoppers"
-    },
-    {
-      "ticker": "PL",
-      "score": 41.0,
-      "last_close": 18.12,
-      "rel_volume": 4.95,
-      "price_change_pct": -1.25,
-      "gap_pct": -1.12,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 6592926208,
-      "float_shares": 300942310,
-      "cash_debt_ratio": 1.74,
-      "insider_pct": 1.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 55,
-      "recent_news": "Planet Labs lifts revenue guidance on strong military demand: AlphaSpace | PL Q2 Deep Dive: Strong Revenue Driven by Defense, Guidance Falls Short of Expectations | Stock Market Today, Sept. 4: Planet Labs Dips 1% Despite Earnings Beat, Full-Year Guidance Raise"
     },
     {
       "ticker": "VSTS",
@@ -403,7 +386,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3369796352,
-      "float_shares": 19014769,
+      "float_shares": 9453670,
       "cash_debt_ratio": 20.77,
       "insider_pct": 20.2,
       "dilution_risk": "낮음",
@@ -423,8 +406,8 @@
       "float_shares": 4521936,
       "cash_debt_ratio": 26.35,
       "insider_pct": 12.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading"
     },
     {
