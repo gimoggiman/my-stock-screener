@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-05T20:57:17.850478+00:00",
+  "last_updated_utc": "2026-09-05T22:41:45.724022+00:00",
   "tickers_scanned": 56,
   "results": [
     {
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 772175104,
-      "float_shares": 90733500,
+      "float_shares": 91022360,
       "cash_debt_ratio": 0.1,
       "insider_pct": 3.4,
       "dilution_risk": "주의",
@@ -132,7 +132,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 577983488,
       "float_shares": 43837513,
-      "cash_debt_ratio": 0.36,
+      "cash_debt_ratio": 0.35,
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -148,7 +148,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7870246400,
-      "float_shares": 391346231,
+      "float_shares": 391356624,
       "cash_debt_ratio": 18.49,
       "insider_pct": 9.7,
       "dilution_risk": "높음",
@@ -250,7 +250,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 836724736,
-      "float_shares": 42705290,
+      "float_shares": 43570540,
       "cash_debt_ratio": 0.6,
       "insider_pct": 9.6,
       "dilution_risk": "낮음",
@@ -272,7 +272,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3? | AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution | AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading"
+      "recent_news": "Cathie Wood buys surging crypto stock despite latest controversy | Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3? | AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution"
     },
     {
       "ticker": "EQPT",
@@ -284,9 +284,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 4953500160,
-      "float_shares": 116271696,
+      "float_shares": 116246358,
       "cash_debt_ratio": 0.09,
-      "insider_pct": 37.5,
+      "insider_pct": 37.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "EquipmentShare.com Inc (EQPT) (Q2 2026) Earnings Call Highlights: Rental Revenue Surges 39% as ... | EquipmentShare.com Q2 Earnings Call Highlights | EquipmentShare.com (EQPT) Stock Still Trades At A Discount Despite Legal Probe"
@@ -386,7 +386,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3369796352,
-      "float_shares": 19014769,
+      "float_shares": 9453670,
       "cash_debt_ratio": 20.77,
       "insider_pct": 20.2,
       "dilution_risk": "낮음",
