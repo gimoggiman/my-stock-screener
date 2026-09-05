@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-05T13:22:48.650538+00:00",
+  "last_updated_utc": "2026-09-05T16:33:44.275615+00:00",
   "tickers_scanned": 56,
   "results": [
     {
@@ -168,8 +168,8 @@
       "float_shares": 67628884,
       "cash_debt_ratio": 39.71,
       "insider_pct": 7.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "After Golden Cross, Biomea Fusion, Inc. (BMEA)'s Technical Outlook is Bright | Sector Update: Healthcare Stocks Softer Late Afternoon | Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks"
     },
     {
@@ -272,7 +272,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings | Bitcoin ETFs just had their best day of 2026 | AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution"
+      "recent_news": "AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution | AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading | AMC CEO Blasts Robinhood Stock Tokens as AMC Shares Rally"
     },
     {
       "ticker": "EQPT",
