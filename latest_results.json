@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-05T09:59:19.947983+00:00",
-  "tickers_scanned": 55,
+  "last_updated_utc": "2026-09-05T13:22:48.650538+00:00",
+  "tickers_scanned": 56,
   "results": [
     {
       "ticker": "CHPT",
@@ -29,12 +29,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 243252544,
-      "float_shares": 25849424,
+      "float_shares": 25894431,
       "cash_debt_ratio": 0.05,
       "insider_pct": 5.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Torrid Holdings Inc (CURV) (Q2 2026) Earnings Call Highlights: Sub-Brand Growth and Tariff ... | Torrid Q2 Earnings Call Highlights | Torrid Holdings (CURV) Reports Q2 Loss, Lags Revenue Estimates"
+      "recent_news": "Torrid Holdings Inc. Q2 2026 Earnings Call Summary | Torrid Holdings Inc (CURV) (Q2 2026) Earnings Call Highlights: Sub-Brand Growth and Tariff ... | Torrid Q2 Earnings Call Highlights"
     },
     {
       "ticker": "EPRX",
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 772175104,
-      "float_shares": 91022360,
+      "float_shares": 90733500,
       "cash_debt_ratio": 0.1,
       "insider_pct": 3.4,
       "dilution_risk": "주의",
@@ -136,7 +136,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Why Is Smith & Wesson (SWBI) Stock Rocketing Higher Today | American Outdoor Soars After Turning Profitable; This Gun Maker Rides The Updraft | Smith & Wesson Brands Inc (SWBI) (Q1 2027) Earnings Call Highlights: Strong Sales Growth ..."
+      "recent_news": "Why Is Smith & Wesson (SWBI) Stock Rocketing Higher Today | American Outdoor Soars After Turning Profitable; This Gun Maker Rides The Updraft | Smith & Wesson Brands, Inc. Q1 2027 Earnings Call Summary"
     },
     {
       "ticker": "PATH",
@@ -150,10 +150,10 @@
       "market_cap": 7870246400,
       "float_shares": 391346231,
       "cash_debt_ratio": 18.49,
-      "insider_pct": 9.7,
+      "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 454,
-      "recent_news": "Why UiPath Stock Plunged Today | Has UiPath (PATH) Fallen Far Enough To Look Cheap? | Why UiPath (PATH) Stock Is Falling Today"
+      "recent_news": "Why UiPath Rallied in August | UiPath (PATH) Founder Publishes Enterprise AI Orchestration Framework | Why UiPath Stock Plunged Today"
     },
     {
       "ticker": "BMEA",
@@ -164,12 +164,12 @@
       "gap_pct": 6.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 146767856,
+      "market_cap": 147142224,
       "float_shares": 67628884,
       "cash_debt_ratio": 39.71,
       "insider_pct": 7.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "After Golden Cross, Biomea Fusion, Inc. (BMEA)'s Technical Outlook is Bright | Sector Update: Healthcare Stocks Softer Late Afternoon | Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks"
     },
     {
@@ -272,7 +272,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings | Bitcoin ETFs just had their best day of 2026 | AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading"
+      "recent_news": "'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings | Bitcoin ETFs just had their best day of 2026 | AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution"
     },
     {
       "ticker": "EQPT",
@@ -284,12 +284,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 4953500160,
-      "float_shares": 116246358,
+      "float_shares": 116271696,
       "cash_debt_ratio": 0.09,
-      "insider_pct": 37.6,
+      "insider_pct": 37.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "EquipmentShare.com Inc (EQPT) (Q2 2026) Earnings Call Highlights: Rental Revenue Surges 39% as ... | EquipmentShare.com Q2 Earnings Call Highlights | EquipmentShare.com (EQPT) Stock Still Trades At A Discount Despite Legal Probe"
+    },
+    {
+      "ticker": "LVWR",
+      "score": 42.4,
+      "last_close": 1.28,
+      "rel_volume": 0.21,
+      "price_change_pct": 11.3,
+      "gap_pct": 12.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 262927952,
+      "float_shares": 13503815,
+      "cash_debt_ratio": 0.68,
+      "insider_pct": 94.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "LiveWire Group Inc (LVWR) Q2 2026 Earnings Call Highlights: Strong Revenue Growth Amidst ... | LiveWire (LVWR) Acquires Dust Moto Assets | LiveWire Group, Inc. Q1 2026 Earnings Call Summary"
     },
     {
       "ticker": "BOBS",
@@ -318,29 +335,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1752443008,
-      "float_shares": 91366245,
+      "float_shares": 91281663,
       "cash_debt_ratio": 0.04,
-      "insider_pct": 16.4,
+      "insider_pct": 16.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Down 14.4% in 4 Weeks, Here's Why You Should You Buy the Dip in Vestis (VSTS) | 1 Services Stock on Our Watchlist and 2 We Question | Q2 Earnings Roundup: Vestis (NYSE:VSTS) And The Rest Of The Industrial & Environmental Services Segment"
-    },
-    {
-      "ticker": "ENOV",
-      "score": 38.8,
-      "last_close": 18.56,
-      "rel_volume": 1.5,
-      "price_change_pct": -4.33,
-      "gap_pct": -4.12,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1070345792,
-      "float_shares": 52787195,
-      "cash_debt_ratio": 0.01,
-      "insider_pct": 1.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Q2 Earnings Highlights: Enovis (NYSE:ENOV) Vs The Rest Of The Medical Devices & Supplies - Specialty Stocks | Enovis (ENOV) Stock Fair Value Falls As Analysts Weigh Robotics And Margin Pressure | What Makes Enovis (ENOV) a New Buy Stock"
     },
     {
       "ticker": "NNBR",
@@ -386,29 +386,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3369796352,
-      "float_shares": 9453670,
+      "float_shares": 19014769,
       "cash_debt_ratio": 20.77,
       "insider_pct": 20.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Erock (EROC) Soars 23% as Anthropic Deal Brightens Outlook | ERock Shares Jump on Anthropic Deal | Anthropic Becomes ERock’s Biggest Customer After the Power Company’s Rough IPO"
-    },
-    {
-      "ticker": "YQ",
-      "score": 30.8,
-      "last_close": 2.92,
-      "rel_volume": 0.46,
-      "price_change_pct": 5.42,
-      "gap_pct": 4.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 28283930,
-      "float_shares": 4521936,
-      "cash_debt_ratio": 26.35,
-      "insider_pct": 12.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading"
     },
     {
       "ticker": "SFL",
@@ -601,6 +584,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "OPTU",
+      "score": 16.3,
+      "last_close": 1.05,
+      "rel_volume": 0.68,
+      "price_change_pct": 0.96,
+      "gap_pct": 2.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "UAMY",
       "score": 13.7,
       "last_close": 5.2,
@@ -641,6 +634,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 11.7,
+      "last_close": 4.32,
+      "rel_volume": 0.49,
+      "price_change_pct": 1.41,
+      "gap_pct": 0.82,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "KURA",
       "score": 11.5,
       "last_close": 13.25,
@@ -671,22 +674,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GETY",
-      "score": 9.2,
-      "last_close": 0.237,
-      "rel_volume": 0.38,
-      "price_change_pct": 1.28,
-      "gap_pct": -0.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "JBLU",
       "score": 8.9,
       "last_close": 4.63,
       "rel_volume": 0.49,
       "price_change_pct": 0.43,
       "gap_pct": 0.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TBLA",
+      "score": 8.8,
+      "last_close": 3.86,
+      "rel_volume": 0.6,
+      "price_change_pct": -0.26,
+      "gap_pct": -0.52,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
