@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-05T22:41:45.724022+00:00",
+  "last_updated_utc": "2026-09-06T00:35:34.832038+00:00",
   "tickers_scanned": 56,
   "results": [
     {
@@ -12,7 +12,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 267030016,
-      "float_shares": 24757650,
+      "float_shares": 26179740,
       "cash_debt_ratio": 0.39,
       "insider_pct": 3.4,
       "dilution_risk": "주의",
@@ -71,23 +71,6 @@
       "recent_news": "3 Stocks Seeing Explosive Options Volume Today | GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3% | A Start-Up Called Nothing Has Raised $450 Million. It’s Coming for the iPhone."
     },
     {
-      "ticker": "TMCWW",
-      "score": 71.7,
-      "last_close": 0.005,
-      "rel_volume": 1.86,
-      "price_change_pct": 25.0,
-      "gap_pct": 20.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": 74.9,
-      "market_cap": null,
-      "float_shares": 250009123,
-      "cash_debt_ratio": null,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Why The Metals Company Stock Soared in August | I Wouldn't Touch The Metals Company Yet -- Here's the One Number I'm Waiting On | This Stock Trades at a Fraction of Its Own Projected $23.6 Billion Value. Here's Why the Market Isn't Buying It."
-    },
-    {
       "ticker": "WOOF",
       "score": 71.1,
       "last_close": 2.7,
@@ -103,6 +86,23 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Petco (WOOF) Shares Skyrocket, What You Need To Know | 1 Profitable Stock to Keep an Eye On and 2 Facing Headwinds | WOOF Q2 Deep Dive: Profitability Outpaces Flat Sales as Petco Focuses on Loyalty and Category Expansion"
+    },
+    {
+      "ticker": "TMCWW",
+      "score": 61.7,
+      "last_close": 0.005,
+      "rel_volume": 1.86,
+      "price_change_pct": 25.0,
+      "gap_pct": 20.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 250009123,
+      "cash_debt_ratio": null,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Why The Metals Company Stock Soared in August | I Wouldn't Touch The Metals Company Yet -- Here's the One Number I'm Waiting On | This Stock Trades at a Fraction of Its Own Projected $23.6 Billion Value. Here's Why the Market Isn't Buying It."
     },
     {
       "ticker": "PYXS",
@@ -272,7 +272,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "Cathie Wood buys surging crypto stock despite latest controversy | Should You Buy AMC Entertainment Holdings (AMC) Stock While It's Below $3? | AMC Entertainment (AMC) Forms Leawood Films For Low Risk Movie Distribution"
+      "recent_news": "Is AMC Entertainment Holdings (AMC) Stock Below Fair Value After New Moves? | Man turns Robinhood-AMC feud into $2 million gain in 12 hours | Cathie Wood buys surging crypto stock despite latest controversy"
     },
     {
       "ticker": "EQPT",
@@ -335,7 +335,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1752443008,
-      "float_shares": 91366245,
+      "float_shares": 91281663,
       "cash_debt_ratio": 0.04,
       "insider_pct": 16.5,
       "dilution_risk": "낮음",
@@ -352,7 +352,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 302245984,
-      "float_shares": 68400904,
+      "float_shares": 68452930,
       "cash_debt_ratio": 0.08,
       "insider_pct": 5.7,
       "dilution_risk": "높음",
