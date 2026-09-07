@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-06T23:29:47.757741+00:00",
+  "last_updated_utc": "2026-09-07T02:59:32.659069+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -68,7 +68,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
-      "recent_news": "3 Stocks Seeing Explosive Options Volume Today | GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3% | A Start-Up Called Nothing Has Raised $450 Million. It’s Coming for the iPhone."
+      "recent_news": "GoPro (GPRO) Trades its Camera Story for an AI Data Center One, and Investors Cheer | 3 Stocks Seeing Explosive Options Volume Today | GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%"
     },
     {
       "ticker": "WOOF",
@@ -152,8 +152,8 @@
       "cash_debt_ratio": 18.49,
       "insider_pct": 9.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 454,
-      "recent_news": "Why UiPath Rallied in August | UiPath (PATH) Founder Publishes Enterprise AI Orchestration Framework | Why UiPath Stock Plunged Today"
+      "recent_dilution_filings_90d": 442,
+      "recent_news": "UiPath Just Sank 17%. Is the Stock a Buy on the Dip? | Why UiPath Rallied in August | UiPath (PATH) Founder Publishes Enterprise AI Orchestration Framework"
     },
     {
       "ticker": "BMEA",
