@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-08T00:07:18.504939+00:00",
+  "last_updated_utc": "2026-09-08T05:37:11.275072+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -11,7 +11,7 @@
       "gap_pct": 10.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 267030016,
+      "market_cap": 265549712,
       "float_shares": 26030047,
       "cash_debt_ratio": 0.38,
       "insider_pct": 3.4,
@@ -79,7 +79,7 @@
       "gap_pct": 7.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 772175104,
+      "market_cap": 875367424,
       "float_shares": 91447972,
       "cash_debt_ratio": 0.1,
       "insider_pct": 3.4,
