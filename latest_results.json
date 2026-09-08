@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-08T21:35:43.840391+00:00",
+  "last_updated_utc": "2026-09-08T23:51:48.588478+00:00",
   "tickers_scanned": 71,
   "results": [
     {
@@ -153,7 +153,7 @@
       "insider_pct": 74.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up? | This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy? | Oklo vs. X-Energy: Which One Actually Produces Nuclear Power First?"
+      "recent_news": "Holtec Launches One of the Largest Nuclear IPOs Yet | Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up? | This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?"
     },
     {
       "ticker": "SMR",
@@ -170,7 +170,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 28,
-      "recent_news": "NuScale Power Stock Broke Out in August. Is It a Buy? | NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted? | Can Hydrogen Become a Key Growth Driver for NuScale Power?"
+      "recent_news": "Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | NuScale Power Stock Broke Out in August. Is It a Buy? | NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?"
     },
     {
       "ticker": "GPRO",
@@ -408,7 +408,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 441,
-      "recent_news": "UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating | UiPath Slides 24% After Q2 Earnings: Is PATH Stock a Buy? | SpaceX initiated, Intel upgraded: Wall Street's top analyst calls"
+      "recent_news": "Citi Just Upgraded UiPath Stock. Here's Why. | UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating | UiPath Slides 24% After Q2 Earnings: Is PATH Stock a Buy?"
     },
     {
       "ticker": "GETY",
@@ -510,7 +510,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day | Betting Big on Bits: Washington’s New Quantum Plays | Stocks to Watch: Amgen, Qualcomm, Intel, Rigetti"
+      "recent_news": "Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day | Stocks to Watch Recap: Intel, Amgen, Qualcomm, Rigetti | A New Quantum System and $1.8 Billion Deal: Takeaways From IonQ’s Investor Day"
     },
     {
       "ticker": "ADTN",
@@ -544,7 +544,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003 | COMPASS Pathways (CMPS) Q2 2026 Earnings Call Transcript"
+      "recent_news": "CMPS Stock Rallies On Launch-Prep Push Ahead Of FDA Psychedelics Hearing | CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003"
     },
     {
       "ticker": "BVC",
@@ -714,7 +714,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% | IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double | IREN Climbs 4% on $2.4B Blue Owl-Led GPU Financing; Cipher Digital Gains 2%"
+      "recent_news": "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% | Rosenblatt keeps Cipher at $30 as 2.5 GW generation plan targets ERCOT bottleneck | IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double"
     },
     {
       "ticker": "MARA",
@@ -799,7 +799,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4108,
-      "recent_news": "White House takes aim at Ford and Farley for Chinese ties | Ford Motor Company Reportedly Faces Trump Administration Criticism Over China Ties | Sector Update: Consumer Stocks Decline Late Afternoon"
+      "recent_news": "Ford Motor Company (F) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary | Trump admin takes aim at Ford and Farley for Chinese ties"
     },
     {
       "ticker": "METC",
