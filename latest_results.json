@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-09T08:40:04.882810+00:00",
-  "tickers_scanned": 67,
+  "last_updated_utc": "2026-09-09T13:26:56.302015+00:00",
+  "tickers_scanned": 69,
   "results": [
     {
       "ticker": "SST",
@@ -37,6 +37,23 @@
       "recent_news": "Chagee’s (CHA) Overseas Boom Masks A Bruising Home Market Fight | Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary | Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ..."
     },
     {
+      "ticker": "YQ",
+      "score": 73.4,
+      "last_close": 3.79,
+      "rel_volume": 2.86,
+      "price_change_pct": 29.79,
+      "gap_pct": 31.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 36710988,
+      "float_shares": 4501638,
+      "cash_debt_ratio": 26.35,
+      "insider_pct": 12.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
+    },
+    {
       "ticker": "ENOV",
       "score": 72.3,
       "last_close": 19.98,
@@ -71,23 +88,6 @@
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Edge Lower in Friday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
     },
     {
-      "ticker": "NKTX",
-      "score": 70.4,
-      "last_close": 3.23,
-      "rel_volume": 2.61,
-      "price_change_pct": 10.62,
-      "gap_pct": 11.77,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 231348080,
-      "float_shares": 60522948,
-      "cash_debt_ratio": 2.49,
-      "insider_pct": 4.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Here's Why We're Not Too Worried About Nkarta's (NASDAQ:NKTX) Cash Burn Situation | NKTX Stock Up on Upbeat Regulatory Update on Lead Autoimmune Program | Stock Market Today, Jan. 21: ImmunityBio Rises Again As Short-Sellers Face Losses"
-    },
-    {
       "ticker": "EVMN",
       "score": 64.6,
       "last_close": 13.08,
@@ -101,8 +101,8 @@
       "cash_debt_ratio": 23.27,
       "insider_pct": 3.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Why Is EVMN Stock Down 13% After-Hours? | EVMN Stock Tanks as Phase IIb Urticaria Study Misses Primary Goal | Evommune terminates oral drug’s development in CSU"
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Evommune Halts Atopic Dermatitis Program Following Trial Failure | Why Is EVMN Stock Down 13% After-Hours? | EVMN Stock Tanks as Phase IIb Urticaria Study Misses Primary Goal"
     },
     {
       "ticker": "SECZ",
@@ -170,7 +170,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "NuScale Is Already Down 70%. Here's the Price I'd Actually Start Buying. | SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR)"
+      "recent_news": "NuScale Stock vs. Oklo Stock: Wall Street Says Buy One and Sell the Other. | NuScale Is Already Down 70%. Here's the Price I'd Actually Start Buying. | SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’"
     },
     {
       "ticker": "GPRO",
@@ -249,7 +249,7 @@
       "gap_pct": 9.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5425144320,
+      "market_cap": 5515751936,
       "float_shares": 218965544,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
@@ -351,7 +351,7 @@
       "gap_pct": 10.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1490051072,
+      "market_cap": 1490306944,
       "float_shares": 193516063,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
@@ -424,7 +424,7 @@
       "cash_debt_ratio": 18.49,
       "insider_pct": 9.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 435,
+      "recent_dilution_filings_90d": 438,
       "recent_news": "Why UiPath (PATH) Stock Is Trading Lower Today | Citi Just Upgraded UiPath Stock. Here's Why. | UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating"
     },
     {
@@ -436,7 +436,7 @@
       "gap_pct": 9.45,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 108454360,
+      "market_cap": 106855392,
       "float_shares": 197019806,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
@@ -493,7 +493,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 20,
-      "recent_news": "European Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading | Beyond the China Retreat: Whether Nokia’s Surge Was Built on Substance | Why Is Motorola (MSI) Down 0.4% Since Last Earnings Report?"
+      "recent_news": "NOK Stock Eyes Third Winning Session Amid Google $15B AI Bet, Euro Stoxx 50 Return | Google plans €13 billion Finland infrastructure investment for 2027-2028 | Ooredoo-backed Zankore secures $3.1 billion financing for Nvidia AI cloud platform"
     },
     {
       "ticker": "FLNC",
@@ -527,7 +527,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day | Stocks to Watch Recap: Intel, Amgen, Qualcomm, Rigetti | A New Quantum System and $1.8 Billion Deal: Takeaways From IonQ’s Investor Day"
+      "recent_news": "D-Wave, Rigetti and IonQ Stocks Rally on $100 Million Quantum Boost | Stock Market Today, Sept. 8: IonQ Raises 2026 Revenue Guidance on Investor Day | Stocks to Watch Recap: Intel, Amgen, Qualcomm, Rigetti"
     },
     {
       "ticker": "ADTN",
@@ -561,7 +561,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "CMPS Stock Rallies On Launch-Prep Push Ahead Of FDA Psychedelics Hearing | CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics | Cybin Conference: Helus CEO Eyes Q4 Phase III Depression Data for HLP003"
+      "recent_news": "Compass Pathways reports 52-week Phase 3 COMP005 results for COMP360 | CMPS Stock Rallies On Launch-Prep Push Ahead Of FDA Psychedelics Hearing | CMPS Stock Clocks 25% Gains In August Ahead Of Application Filing For Drug, FDA Hearing On Psychedelics"
     },
     {
       "ticker": "BVC",
@@ -798,8 +798,8 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4054,
-      "recent_news": "Ford Motor Company (F) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary | Trump admin takes aim at Ford and Farley for Chinese ties"
+      "recent_dilution_filings_90d": 4079,
+      "recent_news": "Ford Faces ‘Profound Concern’ Over China Ties. What That Means for the Stock. | Ford Finally Sparked Wall Street Interest. But Is It All Hype? | Ford Motor Company (F) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
     },
     {
       "ticker": "METC",
@@ -827,7 +827,7 @@
       "gap_pct": -5.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 188671392,
+      "market_cap": 190011808,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
@@ -862,6 +862,16 @@
       "rel_volume": 0.7,
       "price_change_pct": -3.97,
       "gap_pct": -3.53,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ULCC",
+      "score": 27.1,
+      "last_close": 5.73,
+      "rel_volume": 0.68,
+      "price_change_pct": -3.86,
+      "gap_pct": -3.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -982,6 +992,16 @@
       "rel_volume": 0.63,
       "price_change_pct": 1.09,
       "gap_pct": 1.33,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CLBK",
+      "score": 11.3,
+      "last_close": 11.63,
+      "rel_volume": 0.68,
+      "price_change_pct": -0.6,
+      "gap_pct": -0.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
