@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-09-08T23:51:48.588478+00:00",
-  "tickers_scanned": 71,
+  "last_updated_utc": "2026-09-09T03:12:45.600954+00:00",
+  "tickers_scanned": 69,
   "results": [
     {
       "ticker": "SST",
       "score": 75.0,
       "last_close": 5.0,
-      "rel_volume": 7.87,
+      "rel_volume": 7.91,
       "price_change_pct": 30.55,
       "gap_pct": 30.55,
       "st_msg_count": null,
@@ -21,9 +21,9 @@
     },
     {
       "ticker": "CHA",
-      "score": 73.7,
+      "score": 74.7,
       "last_close": 12.59,
-      "rel_volume": 2.91,
+      "rel_volume": 3.22,
       "price_change_pct": 7.98,
       "gap_pct": 7.89,
       "st_msg_count": null,
@@ -35,6 +35,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 90,
       "recent_news": "Chagee’s (CHA) Overseas Boom Masks A Bruising Home Market Fight | Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary | Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ..."
+    },
+    {
+      "ticker": "YQ",
+      "score": 73.4,
+      "last_close": 3.79,
+      "rel_volume": 2.86,
+      "price_change_pct": 29.79,
+      "gap_pct": 31.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 36710988,
+      "float_shares": 4501638,
+      "cash_debt_ratio": 26.35,
+      "insider_pct": 12.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
     },
     {
       "ticker": "ENOV",
@@ -54,28 +71,11 @@
       "recent_news": "Q2 Earnings Highlights: Enovis (NYSE:ENOV) Vs The Rest Of The Medical Devices & Supplies - Specialty Stocks | Enovis (ENOV) Stock Fair Value Falls As Analysts Weigh Robotics And Margin Pressure | What Makes Enovis (ENOV) a New Buy Stock"
     },
     {
-      "ticker": "NKTX",
-      "score": 70.3,
-      "last_close": 3.23,
-      "rel_volume": 2.6,
-      "price_change_pct": 10.62,
-      "gap_pct": 11.77,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 231348080,
-      "float_shares": 60522948,
-      "cash_debt_ratio": 2.49,
-      "insider_pct": 4.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Here's Why We're Not Too Worried About Nkarta's (NASDAQ:NKTX) Cash Burn Situation | NKTX Stock Up on Upbeat Regulatory Update on Lead Autoimmune Program | Stock Market Today, Jan. 21: ImmunityBio Rises Again As Short-Sellers Face Losses"
-    },
-    {
       "ticker": "IQ",
-      "score": 69.6,
+      "score": 70.4,
       "last_close": 0.984,
-      "rel_volume": 2.54,
-      "price_change_pct": 11.76,
+      "rel_volume": 2.61,
+      "price_change_pct": 11.82,
       "gap_pct": 11.86,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -84,14 +84,14 @@
       "cash_debt_ratio": 0.29,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 35,
+      "recent_dilution_filings_90d": 34,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Edge Lower in Friday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
     },
     {
       "ticker": "EVMN",
-      "score": 63.1,
+      "score": 64.6,
       "last_close": 13.08,
-      "rel_volume": 2.41,
+      "rel_volume": 2.54,
       "price_change_pct": 6.6,
       "gap_pct": 7.66,
       "st_msg_count": null,
@@ -102,13 +102,13 @@
       "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "EVMN Stock Tanks as Phase IIb Urticaria Study Misses Primary Goal | Evommune terminates oral drug’s development in CSU | Evommune Shares Slide After Phase 2b CSU Trial Misses Main Goal (EVMN)"
+      "recent_news": "Why Is EVMN Stock Down 13% After-Hours? | EVMN Stock Tanks as Phase IIb Urticaria Study Misses Primary Goal | Evommune terminates oral drug’s development in CSU"
     },
     {
       "ticker": "SECZ",
-      "score": 61.9,
+      "score": 62.0,
       "last_close": 8.25,
-      "rel_volume": 1.88,
+      "rel_volume": 1.89,
       "price_change_pct": 11.19,
       "gap_pct": 10.92,
       "st_msg_count": null,
@@ -126,7 +126,7 @@
       "score": 60.5,
       "last_close": 0.388,
       "rel_volume": 1.76,
-      "price_change_pct": 13.33,
+      "price_change_pct": 13.45,
       "gap_pct": 13.51,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -153,7 +153,7 @@
       "insider_pct": 74.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Holtec Launches One of the Largest Nuclear IPOs Yet | Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up? | This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?"
+      "recent_news": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Holtec Launches One of the Largest Nuclear IPOs Yet | Is XE Building the Infrastructure Needed for Advanced Nuclear Scale-Up?"
     },
     {
       "ticker": "SMR",
@@ -169,8 +169,8 @@
       "cash_debt_ratio": 160.21,
       "insider_pct": 1.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 28,
-      "recent_news": "Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | NuScale Power Stock Broke Out in August. Is It a Buy? | NuScale Power Spikes 13%, Oklo Climbs 7%: Is the Nuclear Selloff Finally Exhausted?"
+      "recent_dilution_filings_90d": 27,
+      "recent_news": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | NuScale Power Stock Broke Out in August. Is It a Buy?"
     },
     {
       "ticker": "GPRO",
@@ -191,9 +191,9 @@
     },
     {
       "ticker": "EROC",
-      "score": 58.8,
+      "score": 59.0,
       "last_close": 13.74,
-      "rel_volume": 1.61,
+      "rel_volume": 1.63,
       "price_change_pct": 11.44,
       "gap_pct": 12.33,
       "st_msg_count": null,
@@ -249,7 +249,7 @@
       "gap_pct": 9.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5425144320,
+      "market_cap": 5515751936,
       "float_shares": 218965544,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
@@ -270,16 +270,16 @@
       "float_shares": 104777765,
       "cash_debt_ratio": 0.62,
       "insider_pct": 3.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
     },
     {
       "ticker": "SES",
-      "score": 55.6,
+      "score": 55.8,
       "last_close": 0.57,
-      "rel_volume": 1.34,
-      "price_change_pct": 13.22,
+      "rel_volume": 1.35,
+      "price_change_pct": 13.32,
       "gap_pct": 12.54,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -293,9 +293,9 @@
     },
     {
       "ticker": "SABR",
-      "score": 54.1,
+      "score": 55.3,
       "last_close": 2.26,
-      "rel_volume": 1.94,
+      "rel_volume": 2.04,
       "price_change_pct": 6.1,
       "gap_pct": 6.62,
       "st_msg_count": null,
@@ -351,13 +351,30 @@
       "gap_pct": 10.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1490051072,
+      "market_cap": 1490306944,
       "float_shares": 193516063,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 57,
+      "recent_dilution_filings_90d": 56,
       "recent_news": "Sector Update: Energy Stocks Lower in Afternoon Trading | TE Stock Pops 9% After Norway Backs Data Center Plans For Idle Battery Factory | Can T1 Energy's U.S. Solar Supply Chain Drive Its Next Phase of Growth?"
+    },
+    {
+      "ticker": "GPRK",
+      "score": 51.6,
+      "last_close": 11.95,
+      "rel_volume": 8.28,
+      "price_change_pct": 3.37,
+      "gap_pct": 3.24,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 775504256,
+      "float_shares": 19277836,
+      "cash_debt_ratio": 0.48,
+      "insider_pct": 56.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "GeoPark’s Venezuela Deal: Massive Opportunity or Risky Bet? | GeoPark Enters Venezuela via Gilinski Partnership | Sector Update: Energy Stocks Decline Late Afternoon"
     },
     {
       "ticker": "KEEL",
@@ -406,20 +423,20 @@
       "float_shares": 391356624,
       "cash_debt_ratio": 18.49,
       "insider_pct": 9.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 441,
-      "recent_news": "Citi Just Upgraded UiPath Stock. Here's Why. | UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating | UiPath Slides 24% After Q2 Earnings: Is PATH Stock a Buy?"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Why UiPath (PATH) Stock Is Trading Lower Today | Citi Just Upgraded UiPath Stock. Here's Why. | UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating"
     },
     {
       "ticker": "GETY",
-      "score": 50.2,
+      "score": 50.3,
       "last_close": 0.258,
-      "rel_volume": 0.87,
-      "price_change_pct": 8.69,
+      "rel_volume": 0.88,
+      "price_change_pct": 8.86,
       "gap_pct": 9.45,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 108454360,
+      "market_cap": 106855392,
       "float_shares": 197019806,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
@@ -429,9 +446,9 @@
     },
     {
       "ticker": "BW",
-      "score": 50.0,
+      "score": 50.2,
       "last_close": 7.74,
-      "rel_volume": 0.86,
+      "rel_volume": 0.87,
       "price_change_pct": 9.01,
       "gap_pct": 9.51,
       "st_msg_count": null,
@@ -441,7 +458,7 @@
       "cash_debt_ratio": 0.97,
       "insider_pct": 3.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 13,
+      "recent_dilution_filings_90d": 12,
       "recent_news": "Jim Cramer Notes Babcock & Wilcox (BW) Story Has Not Panned Out | Babcock & Wilcox (BW): This Legacy Power Company Just Found Its AI Gold Rush | B&W (BW) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -463,9 +480,9 @@
     },
     {
       "ticker": "NOK",
-      "score": 48.6,
+      "score": 48.9,
       "last_close": 10.65,
-      "rel_volume": 1.56,
+      "rel_volume": 1.58,
       "price_change_pct": 6.18,
       "gap_pct": 5.93,
       "st_msg_count": null,
@@ -497,9 +514,9 @@
     },
     {
       "ticker": "RGTI",
-      "score": 47.5,
+      "score": 47.6,
       "last_close": 15.81,
-      "rel_volume": 2.38,
+      "rel_volume": 2.39,
       "price_change_pct": 4.01,
       "gap_pct": 3.82,
       "st_msg_count": null,
@@ -514,9 +531,9 @@
     },
     {
       "ticker": "ADTN",
-      "score": 45.6,
+      "score": 45.7,
       "last_close": 7.58,
-      "rel_volume": 1.03,
+      "rel_volume": 1.04,
       "price_change_pct": 6.76,
       "gap_pct": 6.62,
       "st_msg_count": null,
@@ -531,9 +548,9 @@
     },
     {
       "ticker": "CMPS",
-      "score": 45.6,
+      "score": 45.7,
       "last_close": 14.04,
-      "rel_volume": 1.34,
+      "rel_volume": 1.35,
       "price_change_pct": 5.8,
       "gap_pct": 6.33,
       "st_msg_count": null,
@@ -576,8 +593,8 @@
       "float_shares": 308411059,
       "cash_debt_ratio": 52.7,
       "insider_pct": 2.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Eli Lilly Strikes $2.88 Billion Deal to Buy Merida Biosciences | Eli Lilly to Buy Merida Biosciences for Up to $2.875 Billion | 3 Revenue Generating Psychedelics Stocks Retail Investors Are Screening Right Now"
     },
     {
@@ -599,9 +616,9 @@
     },
     {
       "ticker": "GRAB",
-      "score": 40.1,
+      "score": 40.4,
       "last_close": 3.25,
-      "rel_volume": 1.33,
+      "rel_volume": 1.36,
       "price_change_pct": -4.97,
       "gap_pct": -4.82,
       "st_msg_count": null,
@@ -613,23 +630,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Is Grab  (GRAB) a Buy as Wall Street Analysts Look Optimistic? | Grab COO Dumps 145,000 Company Shares After the Stock's 28% One-Year Decline | Vietnamese Rival To Uber, Lyft Plans To Enter U.S. Market This Year"
-    },
-    {
-      "ticker": "OPTU",
-      "score": 38.2,
-      "last_close": 0.988,
-      "rel_volume": 0.67,
-      "price_change_pct": -5.94,
-      "gap_pct": -6.28,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 376701824,
-      "float_shares": 277642261,
-      "cash_debt_ratio": 0.05,
-      "insider_pct": 11.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Stocks Under $10 with Open Questions | Why Optimum Communications (OPTU) Stock Is Up Today | Optimum Communications (NYSE:OPTU) Stock Gets Fair Value Trim As Analysts Split On Risk"
     },
     {
       "ticker": "AMPX",
@@ -667,9 +667,9 @@
     },
     {
       "ticker": "PCG",
-      "score": 36.7,
+      "score": 36.8,
       "last_close": 14.82,
-      "rel_volume": 1.54,
+      "rel_volume": 1.55,
       "price_change_pct": 3.64,
       "gap_pct": 3.92,
       "st_msg_count": null,
@@ -700,6 +700,23 @@
       "recent_news": "Kura Oncology (KURA) Stock Looks Fully Priced After Its 56% Run | KURA Stock Gains 37.6% in a Month: Here's What You Need to Know | Kura Oncology (KURA) Upgraded to Buy: What Does It Mean for the Stock?"
     },
     {
+      "ticker": "MARA",
+      "score": 35.2,
+      "last_close": 11.83,
+      "rel_volume": 1.15,
+      "price_change_pct": 4.6,
+      "gap_pct": 3.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 4569920512,
+      "float_shares": 378268135,
+      "cash_debt_ratio": 0.17,
+      "insider_pct": 0.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% | Brokers Suggest Investing in Marathon Digital (MARA): Read This Before Placing a Bet | APLD Slides 36% in 3 Months: Should Investors Exit or Hold the Stock?"
+    },
+    {
       "ticker": "CIFR",
       "score": 35.0,
       "last_close": 18.51,
@@ -717,23 +734,6 @@
       "recent_news": "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% | Rosenblatt keeps Cipher at $30 as 2.5 GW generation plan targets ERCOT bottleneck | IREN Limited Has Cratered Over 3 Months: A Top-Ranked Wall Street Name Says It’s Due to Double"
     },
     {
-      "ticker": "MARA",
-      "score": 35.0,
-      "last_close": 11.83,
-      "rel_volume": 1.14,
-      "price_change_pct": 4.6,
-      "gap_pct": 3.93,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 4569920512,
-      "float_shares": 378268135,
-      "cash_debt_ratio": 0.17,
-      "insider_pct": 0.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Crypto Mining Stocks Rally While Bitcoin Slips: Cipher Mining Jumps 8%, MARA Climbs 6% | Brokers Suggest Investing in Marathon Digital (MARA): Read This Before Placing a Bet | APLD Slides 36% in 3 Months: Should Investors Exit or Hold the Stock?"
-    },
-    {
       "ticker": "PLUG",
       "score": 34.2,
       "last_close": 2.26,
@@ -746,9 +746,9 @@
       "float_shares": 1333427286,
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 76,
-      "recent_news": "Plug Power Surges 10.1% YTD: Should Investors Ride the Rally? | Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2% | Bloom Energy Spikes 8% as Risk-On Tape Lifts High-Beta Names, FuelCell Ticks Up, Plug Power Stays Flat"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "The Bloom Energy Stock Signal Hiding Behind The Demand Story | Plug Power Surges 10.1% YTD: Should Investors Ride the Rally? | Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%"
     },
     {
       "ticker": "UAMY",
@@ -782,13 +782,13 @@
       "insider_pct": 84.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Russell 2000 Stocks We Steer Clear Of | 5 Revealing Analyst Questions From ProFrac’s Q2 Earnings Call | ProFrac (ACDC) Q2 2026 Earnings Call Transcript"
+      "recent_news": "Centrus Energy, SM Energy, BKV, Select Water Solutions, and ProFrac Stocks Trade Up, What You Need To Know | 3 Russell 2000 Stocks We Steer Clear Of | 5 Revealing Analyst Questions From ProFrac’s Q2 Earnings Call"
     },
     {
       "ticker": "F",
-      "score": 32.4,
+      "score": 32.5,
       "last_close": 14.0,
-      "rel_volume": 1.01,
+      "rel_volume": 1.02,
       "price_change_pct": -4.24,
       "gap_pct": -3.93,
       "st_msg_count": null,
@@ -798,7 +798,7 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4108,
+      "recent_dilution_filings_90d": 4054,
       "recent_news": "Ford Motor Company (F) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ford’s Use of Chinese Tech Called ‘Unacceptable’ by Transportation Secretary | Trump admin takes aim at Ford and Farley for Chinese ties"
     },
     {
@@ -827,7 +827,7 @@
       "gap_pct": -5.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 188671392,
+      "market_cap": 190011808,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
@@ -836,22 +836,32 @@
       "recent_news": "JELD WEN Holding (JELD) Stock Gets Fair Value Boost As Analyst Views Stay Mixed | 1 Unpopular Stock That Deserves a Second Chance and 2 We Turn Down | JELD-WEN (JELD) Q2 2026 Earnings Call Transcript"
     },
     {
+      "ticker": "PEB",
+      "score": 27.6,
+      "last_close": 17.64,
+      "rel_volume": 1.47,
+      "price_change_pct": -2.16,
+      "gap_pct": -1.97,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "SOUN",
+      "score": 27.4,
+      "last_close": 6.57,
+      "rel_volume": 1.3,
+      "price_change_pct": -2.52,
+      "gap_pct": -2.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "COUR",
       "score": 27.2,
       "last_close": 5.57,
       "rel_volume": 0.7,
       "price_change_pct": -3.97,
       "gap_pct": -3.53,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "SOUN",
-      "score": 27.2,
-      "last_close": 6.57,
-      "rel_volume": 1.29,
-      "price_change_pct": -2.52,
-      "gap_pct": -2.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -866,12 +876,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "SFL",
-      "score": 25.4,
-      "last_close": 12.59,
-      "rel_volume": 1.26,
-      "price_change_pct": -2.1,
-      "gap_pct": -2.22,
+      "ticker": "JBLU",
+      "score": 20.6,
+      "last_close": 4.52,
+      "rel_volume": 0.71,
+      "price_change_pct": -2.38,
+      "gap_pct": -2.59,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "LAR",
+      "score": 20.6,
+      "last_close": 6.7,
+      "rel_volume": 1.23,
+      "price_change_pct": -1.33,
+      "gap_pct": -1.1,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -886,32 +906,32 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "JBLU",
-      "score": 20.3,
-      "last_close": 4.52,
-      "rel_volume": 0.69,
-      "price_change_pct": -2.38,
-      "gap_pct": -2.59,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 19.9,
-      "last_close": 4.22,
-      "rel_volume": 0.68,
-      "price_change_pct": -2.31,
-      "gap_pct": -2.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NAT",
-      "score": 19.7,
+      "score": 20.0,
       "last_close": 7.14,
-      "rel_volume": 1.05,
+      "rel_volume": 1.07,
       "price_change_pct": -1.52,
       "gap_pct": -1.45,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "RIG",
+      "score": 19.3,
+      "last_close": 5.76,
+      "rel_volume": 1.05,
+      "price_change_pct": -1.54,
+      "gap_pct": -1.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GENI",
+      "score": 19.0,
+      "last_close": 7.31,
+      "rel_volume": 0.6,
+      "price_change_pct": -2.4,
+      "gap_pct": -2.4,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -932,36 +952,6 @@
       "rel_volume": 0.95,
       "price_change_pct": -1.68,
       "gap_pct": -1.29,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GENI",
-      "score": 18.8,
-      "last_close": 7.31,
-      "rel_volume": 0.58,
-      "price_change_pct": -2.4,
-      "gap_pct": -2.4,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "RIG",
-      "score": 18.4,
-      "last_close": 5.76,
-      "rel_volume": 0.97,
-      "price_change_pct": -1.54,
-      "gap_pct": -1.2,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "FUN",
-      "score": 15.6,
-      "last_close": 15.74,
-      "rel_volume": 0.79,
-      "price_change_pct": 1.48,
-      "gap_pct": 0.93,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1006,16 +996,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TBLA",
-      "score": 13.0,
-      "last_close": 3.82,
-      "rel_volume": 0.65,
-      "price_change_pct": -1.04,
-      "gap_pct": -1.17,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CLBK",
       "score": 11.3,
       "last_close": 11.63,
@@ -1037,9 +1017,9 @@
     },
     {
       "ticker": "TMC",
-      "score": 10.3,
+      "score": 10.5,
       "last_close": 4.43,
-      "rel_volume": 0.75,
+      "rel_volume": 0.77,
       "price_change_pct": -0.23,
       "gap_pct": 0.45,
       "st_msg_count": null,
