@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-09T03:12:45.600954+00:00",
-  "tickers_scanned": 69,
+  "last_updated_utc": "2026-09-09T08:40:04.882810+00:00",
+  "tickers_scanned": 67,
   "results": [
     {
       "ticker": "SST",
@@ -37,23 +37,6 @@
       "recent_news": "Chagee’s (CHA) Overseas Boom Masks A Bruising Home Market Fight | Chagee Holdings Limited American Depositary Shares Q2 2026 Earnings Call Summary | Chagee Holdings Ltd (CHA) (Q2 2026) Earnings Call Highlights: Profitability Soars as Overseas ..."
     },
     {
-      "ticker": "YQ",
-      "score": 73.4,
-      "last_close": 3.79,
-      "rel_volume": 2.86,
-      "price_change_pct": 29.79,
-      "gap_pct": 31.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 36710988,
-      "float_shares": 4501638,
-      "cash_debt_ratio": 26.35,
-      "insider_pct": 12.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
-    },
-    {
       "ticker": "ENOV",
       "score": 72.3,
       "last_close": 19.98,
@@ -86,6 +69,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 34,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Edge Lower in Friday Trading | Asian Equities Traded in the US as American Depositary Receipts Slightly Higher in Thursday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Wednesday Trading"
+    },
+    {
+      "ticker": "NKTX",
+      "score": 70.4,
+      "last_close": 3.23,
+      "rel_volume": 2.61,
+      "price_change_pct": 10.62,
+      "gap_pct": 11.77,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 231348080,
+      "float_shares": 60522948,
+      "cash_debt_ratio": 2.49,
+      "insider_pct": 4.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Here's Why We're Not Too Worried About Nkarta's (NASDAQ:NKTX) Cash Burn Situation | NKTX Stock Up on Upbeat Regulatory Update on Lead Autoimmune Program | Stock Market Today, Jan. 21: ImmunityBio Rises Again As Short-Sellers Face Losses"
     },
     {
       "ticker": "EVMN",
@@ -170,7 +170,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR) | NuScale Power Stock Broke Out in August. Is It a Buy?"
+      "recent_news": "NuScale Is Already Down 70%. Here's the Price I'd Actually Start Buying. | SMR Stock Clocks Best Day In Over 4 Months: Retail Feels ‘Something Is Cooking’ | Jim Cramer Weighs In on GE Vernova (GEV) and NuScale Power (SMR)"
     },
     {
       "ticker": "GPRO",
@@ -249,7 +249,7 @@
       "gap_pct": 9.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5515751936,
+      "market_cap": 5425144320,
       "float_shares": 218965544,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
@@ -270,8 +270,8 @@
       "float_shares": 104777765,
       "cash_debt_ratio": 0.62,
       "insider_pct": 3.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Angel Studios Inc (ANGX) (Q2 2026) Earnings Call Highlights: Guild Membership Surges 99% as ... | Angel Studios Q2 Earnings Call Highlights | B. Riley Lifts PT on Angel Studios (ANGX) – Here’s Why"
     },
     {
@@ -351,7 +351,7 @@
       "gap_pct": 10.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1490306944,
+      "market_cap": 1490051072,
       "float_shares": 193516063,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
@@ -423,8 +423,8 @@
       "float_shares": 391356624,
       "cash_debt_ratio": 18.49,
       "insider_pct": 9.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 435,
       "recent_news": "Why UiPath (PATH) Stock Is Trading Lower Today | Citi Just Upgraded UiPath Stock. Here's Why. | UiPath and Pegasystems Sink 7% as Price Target Hikes Arrive Without a Single Buy Rating"
     },
     {
@@ -436,7 +436,7 @@
       "gap_pct": 9.45,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 106855392,
+      "market_cap": 108454360,
       "float_shares": 197019806,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
@@ -593,8 +593,8 @@
       "float_shares": 308411059,
       "cash_debt_ratio": 52.7,
       "insider_pct": 2.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
       "recent_news": "Eli Lilly Strikes $2.88 Billion Deal to Buy Merida Biosciences | Eli Lilly to Buy Merida Biosciences for Up to $2.875 Billion | 3 Revenue Generating Psychedelics Stocks Retail Investors Are Screening Right Now"
     },
     {
@@ -746,8 +746,8 @@
       "float_shares": 1333427286,
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 75,
       "recent_news": "The Bloom Energy Stock Signal Hiding Behind The Demand Story | Plug Power Surges 10.1% YTD: Should Investors Ride the Rally? | Bloom Energy Surges 8% as S&P 500 Swaps It In for Trade Desk; TTD Stock Slips 2%"
     },
     {
@@ -813,7 +813,7 @@
       "market_cap": 794254656,
       "float_shares": 43570540,
       "cash_debt_ratio": 0.6,
-      "insider_pct": 9.6,
+      "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Ramaco Resources (METC) Stock Fair Value Moves Lower As Analysts Split On Brook Mine | USA Rare Earth Stock Stays Perfect With New Call to Buy | MP Materials Stock Moved On The Theme, Not On Mountain Pass"
@@ -827,7 +827,7 @@
       "gap_pct": -5.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 190011808,
+      "market_cap": 188671392,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
@@ -862,16 +862,6 @@
       "rel_volume": 0.7,
       "price_change_pct": -3.97,
       "gap_pct": -3.53,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ULCC",
-      "score": 27.1,
-      "last_close": 5.73,
-      "rel_volume": 0.68,
-      "price_change_pct": -3.86,
-      "gap_pct": -3.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -992,16 +982,6 @@
       "rel_volume": 0.63,
       "price_change_pct": 1.09,
       "gap_pct": 1.33,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CLBK",
-      "score": 11.3,
-      "last_close": 11.63,
-      "rel_volume": 0.68,
-      "price_change_pct": -0.6,
-      "gap_pct": -0.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
