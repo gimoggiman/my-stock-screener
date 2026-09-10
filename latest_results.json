@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-10T05:37:40.648443+00:00",
+  "last_updated_utc": "2026-09-10T10:39:39.835397+00:00",
   "tickers_scanned": 52,
   "results": [
     {
@@ -170,7 +170,7 @@
       "insider_pct": 8.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "GME Stock Ticks Higher Overnight: Retail Traders Buoyed By Another Insider Buy, Speculate Ryan Cohen To Be 'Next With Big One' | GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M | GameStop’s Earnings Just Changed the Bull Case. We See 100% Upside"
+      "recent_news": "GameStop raises EBITDA outlook after Q2 profit climbs 77% | GME Stock Ticks Higher Overnight: Retail Traders Buoyed By Another Insider Buy, Speculate Ryan Cohen To Be 'Next With Big One' | GameStop Rises 4% as Collectibles Sales Jump 57% and a Director Buys $1M"
     },
     {
       "ticker": "FLNC",
@@ -237,8 +237,8 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4088,
-      "recent_news": "Ford rebuffs Transportation Secretary's criticisms of Chinese partnerships | Ford blasts White House criticism of China tech partners, calls Duffy letter 'wrongheaded' | 3 Overlooked Reasons Now Might Be the Time to Buy Ford Stock"
+      "recent_dilution_filings_90d": 4111,
+      "recent_news": "Ford rebuffs Transportation Secretary's criticisms of Chinese partnerships | Ford blasts White House criticism of China tech partners, calls Duffy letter 'wrongheaded' | How Ford Wants Nothing, and Everything, to Do With China -- and It's Working"
     },
     {
       "ticker": "PCG",
@@ -266,7 +266,7 @@
       "gap_pct": 3.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 195257248,
+      "market_cap": 196277344,
       "float_shares": 40517426,
       "cash_debt_ratio": 0.28,
       "insider_pct": 18.6,
@@ -351,7 +351,7 @@
       "gap_pct": -4.49,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1517700736,
+      "market_cap": 1401320064,
       "float_shares": 235006652,
       "cash_debt_ratio": 101.26,
       "insider_pct": 3.2,
@@ -530,6 +530,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "OLN",
+      "score": 21.3,
+      "last_close": 17.46,
+      "rel_volume": 0.84,
+      "price_change_pct": -2.4,
+      "gap_pct": -2.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GPRO",
       "score": 20.5,
       "last_close": 1.415,
@@ -596,16 +606,6 @@
       "rel_volume": 0.84,
       "price_change_pct": -1.29,
       "gap_pct": -1.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ULCC",
-      "score": 16.1,
-      "last_close": 5.65,
-      "rel_volume": 0.91,
-      "price_change_pct": -1.4,
-      "gap_pct": -0.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
