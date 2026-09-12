@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-12T10:08:52.806353+00:00",
+  "last_updated_utc": "2026-09-12T13:54:13.930017+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -46,9 +46,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 15843108,
-      "float_shares": 5897498,
-      "cash_debt_ratio": 0.06,
-      "insider_pct": 7.2,
+      "float_shares": 5905394,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 7.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "1 Consumer Stock to Target This Week and 2 Facing Headwinds | America's Car-Mart, Zumiez, Macy's, Abercrombie and Fitch, and Victoria's Secret Shares Are Falling, What You Need To Know | America's Car-Mart (NASDAQ:CRMT) Misses Q2 CY2026 Revenue Estimates, Stock Drops 41.8%"
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 450408800,
-      "float_shares": 118168615,
+      "float_shares": 118029422,
       "cash_debt_ratio": 0.11,
       "insider_pct": 16.5,
       "dilution_risk": "주의",
@@ -199,12 +199,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 431657248,
-      "float_shares": 32672073,
+      "float_shares": 30928202,
       "cash_debt_ratio": 0.06,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 274,
-      "recent_news": "CAL Q2 Deep Dive: Brand Portfolio Fuels Margin Growth Amid Famous Footwear Headwinds | Caleres (CAL) Q2 2026 Earnings Call Transcript | Caleres Inc (CAL) (Q2 2026) Earnings Call Highlights: Strategic Growth and Margin Expansion ..."
+      "recent_news": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge | CAL Q2 Deep Dive: Brand Portfolio Fuels Margin Growth Amid Famous Footwear Headwinds | Caleres (CAL) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "MEI",
@@ -352,7 +352,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 140701408,
-      "float_shares": 11969103,
+      "float_shares": 14285782,
       "cash_debt_ratio": 0.37,
       "insider_pct": 4.0,
       "dilution_risk": "낮음",
@@ -403,7 +403,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 279722976,
-      "float_shares": 46017851,
+      "float_shares": 46020683,
       "cash_debt_ratio": 0.23,
       "insider_pct": 4.2,
       "dilution_risk": "낮음",
@@ -471,7 +471,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 679961792,
-      "float_shares": 33491101,
+      "float_shares": 33484285,
       "cash_debt_ratio": 0.22,
       "insider_pct": 60.5,
       "dilution_risk": "주의",
