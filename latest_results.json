@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-12T21:19:55.895112+00:00",
+  "last_updated_utc": "2026-09-12T23:45:36.538313+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "ACV Auctions (ACVA) Shares Skyrocket, What You Need To Know | Why ACV Stock Rocketed 44% Higher Today | Update: Wall Street Rises at End of Losing Week Amid Inflation Worries"
+      "recent_news": "ACV Auctions (ACVA) Was This Week’s Top Stock — Here’s What Drove Gains | ACV Auctions (ACVA) Shares Skyrocket, What You Need To Know | Why ACV Stock Rocketed 44% Higher Today"
     },
     {
       "ticker": "ATEC",
@@ -68,7 +68,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 25,
-      "recent_news": "NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond. | NuScale Stock Falls 14% as UBS Sees a $95 Million EBITDA Gap | Why NuScale Power Stock Just Crashed"
+      "recent_news": "Is NuScale Power a Millionaire Maker? | NuScale Power Stock Jumps 15% in 1 Day. Here's How Nuclear Energy Investors Should Respond. | NuScale Stock Falls 14% as UBS Sees a $95 Million EBITDA Gap"
     },
     {
       "ticker": "CPRI",
@@ -493,7 +493,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Marathon Digital Holdings, Inc. (MARA) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance | MARA Holdings Stock Short Interest Rises to 33.16% - Quiver Quantitative"
+      "recent_news": "Why Marathon Digital Holdings, Inc. (MARA) Dipped More Than Broader Market Today | Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4% | Marathon Digital Holdings, Inc. (MARA) is Attracting Investor Attention: Here is What You Should Know"
     },
     {
       "ticker": "ADTN",
