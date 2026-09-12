@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-12T05:38:51.393165+00:00",
+  "last_updated_utc": "2026-09-12T10:08:52.806353+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -31,7 +31,7 @@
       "market_cap": 1627090944,
       "float_shares": 122180068,
       "cash_debt_ratio": 0.2,
-      "insider_pct": 20.4,
+      "insider_pct": 20.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Alphatec (ATEC) Q2 2026 Earnings Call Transcript | Narrower Losses And Reaffirmed 2026 Revenue Guidance Might Change The Case For Investing In Alphatec Holdings (ATEC) | Alphatec Holdings, Inc. Q2 2026 Earnings Call Summary"
@@ -199,7 +199,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 431657248,
-      "float_shares": 30928202,
+      "float_shares": 32672073,
       "cash_debt_ratio": 0.06,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
@@ -403,7 +403,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 279722976,
-      "float_shares": 46020683,
+      "float_shares": 46017851,
       "cash_debt_ratio": 0.23,
       "insider_pct": 4.2,
       "dilution_risk": "낮음",
