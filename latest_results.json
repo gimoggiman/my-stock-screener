@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-12T23:45:36.538313+00:00",
+  "last_updated_utc": "2026-09-13T03:16:57.791247+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -355,8 +355,8 @@
       "float_shares": 111345089,
       "cash_debt_ratio": 0.18,
       "insider_pct": 0.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Fast-paced Momentum Stock NCR Voyix (VYX) Is Still Trading at a Bargain | Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You? | Do Options Traders Know Something About NCR Voyix Stock We Don't?"
     },
     {
