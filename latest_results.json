@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-14T05:48:54.345428+00:00",
+  "last_updated_utc": "2026-09-14T11:52:23.810535+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 20.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Alphatec (ATEC) Q2 2026 Earnings Call Transcript | Narrower Losses And Reaffirmed 2026 Revenue Guidance Might Change The Case For Investing In Alphatec Holdings (ATEC) | Alphatec Holdings, Inc. Q2 2026 Earnings Call Summary"
+      "recent_news": "Alphatec (ATEC) Moves 19.7% Higher: Will This Strength Last? | Alphatec (ATEC) Q2 2026 Earnings Call Transcript | Narrower Losses And Reaffirmed 2026 Revenue Guidance Might Change The Case For Investing In Alphatec Holdings (ATEC)"
     },
     {
       "ticker": "CRMT",
@@ -203,7 +203,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 269,
+      "recent_dilution_filings_90d": 270,
       "recent_news": "Caleres (CAL) Stock Lags Behind Its Brand Portfolio’s Surge | CAL Q2 Deep Dive: Brand Portfolio Fuels Margin Growth Amid Famous Footwear Headwinds | Caleres (CAL) Q2 2026 Earnings Call Transcript"
     },
     {
@@ -253,8 +253,8 @@
       "float_shares": 28709040,
       "cash_debt_ratio": 0.33,
       "insider_pct": 22.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 212,
       "recent_news": "2 Small-Cap Stocks with Solid Fundamentals and 1 We Find Risky | Q2 Earnings Highs And Lows: TaskUs (NASDAQ:TASK) Vs The Rest Of The Business Process Outsourcing & Consulting Stocks | 2 Value Stocks to Keep an Eye On and 1 We Avoid"
     },
     {
@@ -373,7 +373,7 @@
       "cash_debt_ratio": 0.4,
       "insider_pct": 3.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 144,
+      "recent_dilution_filings_90d": 145,
       "recent_news": "Oracle, Kroger, Adobe, and More Stocks That Explain Today’s Market | Sweetgreen Stock Jumps After CDC Declares End to Cyclospora Outbreak | Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play"
     },
     {
@@ -424,7 +424,7 @@
       "cash_debt_ratio": 0.04,
       "insider_pct": 86.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 671,
+      "recent_dilution_filings_90d": 675,
       "recent_news": "Lotus cuts YoY losses by 63% in H1 2026 | Lotus Technology Inc (LOT) (Q2 2026) Earnings Call Highlights: Deliveries Surge 39% as Losses ... | Lotus Technology Q2 Earnings Call Highlights"
     },
     {
@@ -442,7 +442,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 20,
-      "recent_news": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX | Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test | European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading"
+      "recent_news": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown | Anthropic CEO Urges AI Industry to Slow Development Pace; Chip Stocks Slide | Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX"
     },
     {
       "ticker": "NAT",
@@ -475,7 +475,7 @@
       "cash_debt_ratio": 0.02,
       "insider_pct": 11.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 117,
+      "recent_dilution_filings_90d": 118,
       "recent_news": "SOC Stock Eyes Best Day In 1.5 Months As Federal Judge Clears California Pipeline | Sector Update: Energy Stocks Mixed Late Afternoon | CRC Down 14.1% in 3 Months: Can Cost Gains Turn It Around?"
     },
     {
@@ -493,7 +493,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Why Marathon Digital Holdings, Inc. (MARA) Dipped More Than Broader Market Today | Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4% | Marathon Digital Holdings, Inc. (MARA) is Attracting Investor Attention: Here is What You Should Know"
+      "recent_news": "Premarket movers: AI stocks slide on warnings, Rumble, Scholar Rock jump | Why Marathon Digital Holdings, Inc. (MARA) Dipped More Than Broader Market Today | Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4%"
     },
     {
       "ticker": "ADTN",
@@ -527,7 +527,7 @@
       "insider_pct": 7.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why JPMorgan Is Betting That Lithium Americas Stock Will Double. | J.P. Morgan revamps Lithium Americas stock price target | Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit"
+      "recent_news": "Morgan Stanley raises Target Hospitality PT on accretive contract win | Why JPMorgan Is Betting That Lithium Americas Stock Will Double. | J.P. Morgan revamps Lithium Americas stock price target"
     },
     {
       "ticker": "NIO",
