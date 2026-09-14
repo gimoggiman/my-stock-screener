@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-14T00:45:38.564453+00:00",
+  "last_updated_utc": "2026-09-14T05:48:54.345428+00:00",
   "tickers_scanned": 61,
   "results": [
     {
@@ -68,7 +68,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 24,
-      "recent_news": "Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First. | Prediction: NuScale Power Stock Doesn't Get Halfway Back to Its Old High Before 2029 | Prediction: $1,000 in NuScale Power Today Could Be Worth This Much by 2030"
+      "recent_news": "NuScale Has One Overlooked Quality Worth Buying Into | Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First. | Prediction: NuScale Power Stock Doesn't Get Halfway Back to Its Old High Before 2029"
     },
     {
       "ticker": "CPRI",
@@ -238,7 +238,7 @@
       "insider_pct": 50.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "OPKO Health Pivots to Therapeutics, Eyes Data-Rich 12 to 18 Months | Cocrystal Pharma: The Strategic Reset Investors May Be Missing | Why Is OPKO Health (OPK) Down 9.7% Since Last Earnings Report?"
+      "recent_news": "OPKO Health (OPK) Cashes In A Future Royalty Stream Early | OPKO Health Pivots to Therapeutics, Eyes Data-Rich 12 to 18 Months | Cocrystal Pharma: The Strategic Reset Investors May Be Missing"
     },
     {
       "ticker": "TASK",
@@ -253,8 +253,8 @@
       "float_shares": 28709040,
       "cash_debt_ratio": 0.33,
       "insider_pct": 22.9,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 212,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "2 Small-Cap Stocks with Solid Fundamentals and 1 We Find Risky | Q2 Earnings Highs And Lows: TaskUs (NASDAQ:TASK) Vs The Rest Of The Business Process Outsourcing & Consulting Stocks | 2 Value Stocks to Keep an Eye On and 1 We Avoid"
     },
     {
@@ -357,7 +357,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Fast-paced Momentum Stock NCR Voyix (VYX) Is Still Trading at a Bargain | Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You? | Do Options Traders Know Something About NCR Voyix Stock We Don't?"
+      "recent_news": "NCR Voyix (VYX) Posts A Shrinking Top Line And A Growing Pipeline | Fast-paced Momentum Stock NCR Voyix (VYX) Is Still Trading at a Bargain | Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?"
     },
     {
       "ticker": "SG",
@@ -442,7 +442,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 20,
-      "recent_news": "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test | European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading | AT&T vs. Nokia: Which Telecom Stock Is the Better Buy Now?"
+      "recent_news": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: AAPL, NVDA, ORCL, NOK, SPCX | Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test | European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading"
     },
     {
       "ticker": "NAT",
@@ -527,7 +527,7 @@
       "insider_pct": 7.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "J.P. Morgan revamps Lithium Americas stock price target | Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit | All You Need to Know About Lithium Americas Corp. (LAC) Rating Upgrade to Buy"
+      "recent_news": "Why JPMorgan Is Betting That Lithium Americas Stock Will Double. | J.P. Morgan revamps Lithium Americas stock price target | Trump's $500 Million Critical Minerals Push: 5 Battery Stocks That Could Benefit"
     },
     {
       "ticker": "NIO",
