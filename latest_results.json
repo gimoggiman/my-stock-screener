@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-15T05:51:10.144165+00:00",
-  "tickers_scanned": 63,
+  "last_updated_utc": "2026-09-15T11:07:36.322039+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "DBI",
@@ -68,7 +68,7 @@
       "insider_pct": 51.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Why RUM Group (RUM) Stock Is Up Today | Sector Update: Consumer Stocks Mixed Late Afternoon | RUM's $13.7B Compute Win Contradicts AI Safety Concerns"
+      "recent_news": "3 Russell 2000 Stocks We Find Risky | Why RUM Group (RUM) Stock Is Up Today | Sector Update: Consumer Stocks Mixed Late Afternoon"
     },
     {
       "ticker": "SAIL",
@@ -190,6 +190,23 @@
       "recent_news": "KANZHUN LIMITED Sponsored ADR (BZ) Just Flashed Golden Cross Signal: Do You Buy? | Kanzhun (BZ) Reported 173% GAAP Profit Growth but Adjusted Net Income Rose 9.4%. What Drove the Gap? | Kanzhun (BZ) Stock Looks Cheap On Earnings But Weak On Returns"
     },
     {
+      "ticker": "FIP",
+      "score": 63.7,
+      "last_close": 3.0,
+      "rel_volume": 2.03,
+      "price_change_pct": -9.37,
+      "gap_pct": -9.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 354545216,
+      "float_shares": 108685834,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 8.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "1 Growth Stock Set to Flourishand 2 That Underwhelm | 3 Reasons to Avoid FIP and 1 Stock to Buy Instead | 1 Small-Cap Stock with Exciting Potential and 2 Facing Challenges"
+    },
+    {
       "ticker": "ACRS",
       "score": 61.8,
       "last_close": 5.64,
@@ -306,7 +323,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Therapeutics Stocks Q2 Recap: Benchmarking Myriad Genetics (NASDAQ:MYGN) | Adma Biologics (ADMA) Down 4.8% Since Last Earnings Report: Can It Rebound? | Piper Sandler (PIPR) Stock May Be Fully Valued After A Fresh Downgrade Call"
+      "recent_news": "2 Unprofitable Stocks to Research Further and 1 We Find Risky | Therapeutics Stocks Q2 Recap: Benchmarking Myriad Genetics (NASDAQ:MYGN) | Adma Biologics (ADMA) Down 4.8% Since Last Earnings Report: Can It Rebound?"
     },
     {
       "ticker": "HAIN",
@@ -322,7 +339,7 @@
       "cash_debt_ratio": 0.08,
       "insider_pct": 2.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "recent_dilution_filings_90d": 3,
       "recent_news": "Q1 Rundown: Hain Celestial (NASDAQ:HAIN) Vs Other Shelf-Stable Food Stocks | The Hain Celestial Group, Inc. Q1 2027 Earnings Call Summary | The Hain Celestial Group Inc (HAIN) (Q4 2026) Earnings Call Highlights: North America Returns ..."
     },
     {
@@ -492,8 +509,8 @@
       "cash_debt_ratio": 10.95,
       "insider_pct": 8.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 815,
-      "recent_news": "Autodesk, C3.ai, GoDaddy, Rapid7, and Sprout Social Stocks Trade Up, What You Need To Know | Does PLTR's One-Year Consolidation Offer a Buying Opportunity? | C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%"
+      "recent_dilution_filings_90d": 817,
+      "recent_news": "C3.ai (AI) Stock Trades At A Premium On Its 76% Five Year Fall | Autodesk, C3.ai, GoDaddy, Rapid7, and Sprout Social Stocks Trade Up, What You Need To Know | Does PLTR's One-Year Consolidation Offer a Buying Opportunity?"
     },
     {
       "ticker": "EVGO",
@@ -526,7 +543,7 @@
       "cash_debt_ratio": 16.1,
       "insider_pct": 10.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 429,
+      "recent_dilution_filings_90d": 432,
       "recent_news": "UiPath (PATH) Is A Gartner Leader For A Second Straight Year | Asana, Tenable, UiPath, Guidewire Software, and Pegasystems Shares Are Soaring, What You Need To Know | C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%"
     },
     {
@@ -578,7 +595,7 @@
       "insider_pct": 1.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Is ORIC Pharmaceuticals' (ORIC) Equity-Funded ESOP Masking or Clarifying Its Widening Net Losses? | Companies Like ORIC Pharmaceuticals (NASDAQ:ORIC) Are In A Position To Invest In Growth | A Look At ORIC Pharmaceuticals (ORIC) Valuation After Promising Rinzimetostat Phase 1b Prostate Cancer Data"
+      "recent_news": "ORIC (ORIC) Doubles Down On Prostate Cancer With Phase 3 Launch | Is ORIC Pharmaceuticals' (ORIC) Equity-Funded ESOP Masking or Clarifying Its Widening Net Losses? | Companies Like ORIC Pharmaceuticals (NASDAQ:ORIC) Are In A Position To Invest In Growth"
     },
     {
       "ticker": "CXM",
@@ -628,8 +645,8 @@
       "cash_debt_ratio": 0.17,
       "insider_pct": 0.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
-      "recent_news": "MARA Sees Bitcoin Mining Assets as a Fast Track to AI Data Center Growth | How Far Can Applied Digital Stock Fall If The Business Keeps Growing? | Mara Stock Tumbles, Strategy Pauses, and Bitcoin Faces a Key Test"
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Crypto Stocks Fall as Bitcoin Drops Ahead of Clarity Act Vote and Fed Decision | MARA Sees Bitcoin Mining Assets as a Fast Track to AI Data Center Growth | How Far Can Applied Digital Stock Fall If The Business Keeps Growing?"
     },
     {
       "ticker": "KOS",
