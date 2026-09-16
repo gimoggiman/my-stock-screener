@@ -1,27 +1,7 @@
 {
-  "last_updated_utc": "2026-09-16T07:16:25.989804+00:00",
+  "last_updated_utc": "2026-09-16T13:10:05.061760+00:00",
   "tickers_scanned": 60,
   "results": [
-    {
-      "ticker": "AHT-PI",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 0.25,
-      "price_change_pct": NaN,
-      "gap_pct": -1.05,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CDR-PC",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 0.22,
-      "price_change_pct": NaN,
-      "gap_pct": -0.96,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
     {
       "ticker": "CRT",
       "score": 75.0,
@@ -48,13 +28,30 @@
       "gap_pct": 8.57,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4359432192,
+      "market_cap": 4346509824,
       "float_shares": 273621496,
       "cash_debt_ratio": 0.43,
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "TLX Stock Clocks 5% Gain This Week Ahead Of FDA Decision On Brain Cancer Imaging Agent | Sector Update: Healthcare Stocks Advance Late Afternoon | Sector Update: Healthcare Stocks Advance Wednesday Afternoon"
+    },
+    {
+      "ticker": "VRA",
+      "score": 75.0,
+      "last_close": 4.09,
+      "rel_volume": 100.69,
+      "price_change_pct": 34.54,
+      "gap_pct": 33.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 116312456,
+      "float_shares": 18742162,
+      "cash_debt_ratio": 0.48,
+      "insider_pct": 30.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Vera Bradley (VRA) Q2 2027 Earnings Call Transcript | Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster’s, Coinbase | Vera Bradley Inc (VRA) (Q2 2027) Earnings Call Highlights: Direct Sales Surge and Tariff ..."
     },
     {
       "ticker": "SPRU",
@@ -89,33 +86,6 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Skillsoft (SKIL) Q2 2027 Earnings Call Transcript | Skillsoft Corp. Q2 2027 Earnings Call Summary | Skillsoft Corp (SKIL) (Q2 2027) Earnings Call Highlights: AI-Native Pivot Drives Margin ..."
-    },
-    {
-      "ticker": "VACI-UN",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 0.91,
-      "price_change_pct": NaN,
-      "gap_pct": 8.42,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "VRA",
-      "score": 75.0,
-      "last_close": 4.09,
-      "rel_volume": 100.69,
-      "price_change_pct": 34.54,
-      "gap_pct": 33.37,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 116312456,
-      "float_shares": 18671419,
-      "cash_debt_ratio": 0.19,
-      "insider_pct": 30.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Vera Bradley (VRA) Q2 2027 Earnings Call Transcript | Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster’s, Coinbase | Vera Bradley Inc (VRA) (Q2 2027) Earnings Call Highlights: Direct Sales Surge and Tariff ..."
     },
     {
       "ticker": "WHF",
@@ -161,7 +131,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 939361152,
-      "float_shares": 13597980,
+      "float_shares": 16133971,
       "cash_debt_ratio": 0.18,
       "insider_pct": 66.7,
       "dilution_risk": "높음",
@@ -200,7 +170,24 @@
       "insider_pct": 1.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III | Stocks making big moves yesterday: Limbach, FuelCell Energy, Ollie's, Fortrea, and G-III | Fortrea (FTRE) Stock Is Up, What You Need To Know"
+      "recent_news": "2 of Wall Street’s Favorite Stocks to Target This Week and 1 Facing Challenges | Stocks making big moves this week: SAIC, Reddit, Fortrea, GitLab, and G-III | Stocks making big moves yesterday: Limbach, FuelCell Energy, Ollie's, Fortrea, and G-III"
+    },
+    {
+      "ticker": "OPENL",
+      "score": 57.7,
+      "last_close": 0.083,
+      "rel_volume": 1.52,
+      "price_change_pct": -15.31,
+      "gap_pct": -16.02,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 953572567,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Opendoor’s February Home-Buying Surge Wasn’t Reckless, Eric Jackson Says As Fed Rate Decision Nears | Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today? | Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady"
     },
     {
       "ticker": "ECVT",
@@ -212,7 +199,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1153796992,
-      "float_shares": 99173990,
+      "float_shares": 99148812,
       "cash_debt_ratio": 0.16,
       "insider_pct": 1.9,
       "dilution_risk": "낮음",
@@ -228,7 +215,7 @@
       "gap_pct": 6.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 186037136,
+      "market_cap": 185721408,
       "float_shares": 18905860,
       "cash_debt_ratio": 0.12,
       "insider_pct": 39.7,
@@ -237,21 +224,55 @@
       "recent_news": "GrafTech and Antora to collaborate on carbon-based thermal batteries | GrafTech plans shutdown of Monterrey graphite facility in Mexico | GrafTech (EAF) Stock Fair Value Moves Lower After Mixed Analyst Commentary"
     },
     {
-      "ticker": "HEPS",
-      "score": 50.3,
-      "last_close": 2.68,
-      "rel_volume": 19.35,
-      "price_change_pct": 2.68,
-      "gap_pct": 3.69,
+      "ticker": "VACI-UN",
+      "score": 50.0,
+      "last_close": 7.3,
+      "rel_volume": 0.86,
+      "price_change_pct": 9.77,
+      "gap_pct": 8.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 957363584,
-      "float_shares": 29007120,
+      "market_cap": null,
+      "float_shares": 21774853,
       "cash_debt_ratio": null,
-      "insider_pct": 88.0,
+      "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Should Rising Revenue And Widening Losses Require Action From D-Market Elektronik Hizmetler ve Ticaret (HEPS) Investors? | Hepsiburada (NasdaqGS:HEPS) Q2 Losses Put Its Growth Narrative And Valuation In Focus | How Investors May Respond To D-Market Elektronik (HEPS) Surging Sales Paired With a Wider Quarterly Loss"
+      "recent_news": "Canadian satellite startup NorthStar on track to hit US$300-million valuation after SPAC merger"
+    },
+    {
+      "ticker": "OPENZ",
+      "score": 48.2,
+      "last_close": 0.078,
+      "rel_volume": 0.7,
+      "price_change_pct": -18.75,
+      "gap_pct": -19.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 953572567,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Opendoor’s February Home-Buying Surge Wasn’t Reckless, Eric Jackson Says As Fed Rate Decision Nears | Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today? | Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady"
+    },
+    {
+      "ticker": "OPENW",
+      "score": 47.9,
+      "last_close": 0.14,
+      "rel_volume": 0.68,
+      "price_change_pct": -10.83,
+      "gap_pct": -10.76,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 953572567,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Opendoor’s February Home-Buying Surge Wasn’t Reckless, Eric Jackson Says As Fed Rate Decision Nears | Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today? | Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady"
     },
     {
       "ticker": "QDEL",
@@ -302,7 +323,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Valaris (VAL) Soars 8.6%: Is Further Upside Left in the Stock? | Sector Update: Energy Stocks Gain Late Afternoon | Sector Update: Energy Stocks Gain Tuesday Afternoon"
+      "recent_news": "Borr Drilling to sell 51% stake in Perfomex to Mexican partner | Valaris (VAL) Soars 8.6%: Is Further Upside Left in the Stock? | Sector Update: Energy Stocks Gain Late Afternoon"
     },
     {
       "ticker": "KOS",
@@ -330,13 +351,13 @@
       "gap_pct": -5.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2573391360,
+      "market_cap": 2556552192,
       "float_shares": 953572567,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2884,
-      "recent_news": "Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today? | Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady | Why Did OPEN, OKLO, MCD Stocks Plunge To 52-Week Lows?"
+      "recent_dilution_filings_90d": 2888,
+      "recent_news": "Opendoor’s February Home-Buying Surge Wasn’t Reckless, Eric Jackson Says As Fed Rate Decision Nears | Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today? | Rate Hike Jitters Rattle iBuyer Stocks: Opendoor Falls 4%, Zillow Slides 2% but Offerpad Holds Steady"
     },
     {
       "ticker": "ACP",
@@ -351,8 +372,8 @@
       "float_shares": null,
       "cash_debt_ratio": 0.0,
       "insider_pct": 0.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 14,
       "recent_news": "How The Asseco Poland (WSE:ACP) Investment Narrative Is Shifting Around The PLN 157.22 Target | How The Asseco Poland (WSE:ACP) Narrative Is Shifting With New Fair Value And Downgrades"
     },
     {
@@ -365,7 +386,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 11905688576,
-      "float_shares": 2771135385,
+      "float_shares": 2994038416,
       "cash_debt_ratio": 3.21,
       "insider_pct": 19.1,
       "dilution_risk": "높음",
@@ -373,21 +394,21 @@
       "recent_news": "Grab Holdings Limited (GRAB) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Sector Update: Consumer Stocks Fall Late Afternoon | Sector Update: Consumer Stocks Fall Tuesday Afternoon"
     },
     {
-      "ticker": "PERI",
-      "score": 36.9,
-      "last_close": 9.04,
-      "rel_volume": 6.1,
-      "price_change_pct": -0.22,
-      "gap_pct": -0.66,
+      "ticker": "LAR",
+      "score": 37.3,
+      "last_close": 5.67,
+      "rel_volume": 1.29,
+      "price_change_pct": -4.55,
+      "gap_pct": -4.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 373378112,
-      "float_shares": 36347018,
-      "cash_debt_ratio": 12.12,
-      "insider_pct": 0.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
-      "recent_news": "PERI vs. RELX: Which Stock Is the Better Value Option? | Should Value Investors Buy Perion Network (PERI) Stock? | Dayton-based Stratacache sells in-store media division to Israeli company"
+      "market_cap": 930447040,
+      "float_shares": 137994972,
+      "cash_debt_ratio": 0.4,
+      "insider_pct": 15.7,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Lithium Argentina, Ganfeng sign agreements to finalise PPG JV | Lithium Argentina (LAR) Q2 2026 Earnings Call Transcript | Lithium Argentina AG Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "GCLWW",
@@ -470,9 +491,9 @@
       "float_shares": 1271796382,
       "cash_debt_ratio": 0.99,
       "insider_pct": 1.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Jim Cramer Says SoFi is a Long-Term Buy, But Highlights High Valuation | How To Make $3,500 in Free Checking Account Bonuses — Reddit Found a Way | 2 Stocks Down 28% and 34% to Buy and Hold"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Is Trending Stock SoFi Technologies, Inc. (SOFI) a Buy Now? | SoFi Technologies Is Growing Rapidly, but This Financial Giant Could Join the $1 Trillion Club | Jim Cramer Says SoFi is a Long-Term Buy, But Highlights High Valuation"
     },
     {
       "ticker": "VISN",
@@ -522,16 +543,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ENOV",
-      "score": 26.9,
-      "last_close": 17.94,
-      "rel_volume": 1.7,
-      "price_change_pct": -1.54,
-      "gap_pct": -1.21,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "KVUE",
       "score": 26.6,
       "last_close": 17.92,
@@ -552,6 +563,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CDR-PC",
+      "score": 26.2,
+      "last_close": 16.42,
+      "rel_volume": 0.22,
+      "price_change_pct": 6.98,
+      "gap_pct": -0.96,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "F",
       "score": 25.6,
       "last_close": 13.5,
@@ -568,6 +589,16 @@
       "rel_volume": 1.28,
       "price_change_pct": -2.1,
       "gap_pct": -1.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "AHT-PI",
+      "score": 24.7,
+      "last_close": 5.7,
+      "rel_volume": 0.25,
+      "price_change_pct": 6.34,
+      "gap_pct": -1.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -672,6 +703,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CLM",
+      "score": 19.0,
+      "last_close": 6.37,
+      "rel_volume": 1.44,
+      "price_change_pct": -0.44,
+      "gap_pct": -0.44,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NU",
       "score": 17.7,
       "last_close": 14.19,
@@ -682,32 +723,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CAPR",
-      "score": 16.6,
-      "last_close": 8.56,
-      "rel_volume": 0.24,
-      "price_change_pct": -2.84,
-      "gap_pct": -2.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CLBK",
       "score": 16.0,
       "last_close": 11.53,
       "rel_volume": 0.88,
       "price_change_pct": 1.14,
       "gap_pct": 1.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OI",
-      "score": 16.0,
-      "last_close": 6.34,
-      "rel_volume": 0.85,
-      "price_change_pct": -1.25,
-      "gap_pct": -1.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
