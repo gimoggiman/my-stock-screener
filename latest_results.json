@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-17T05:46:20.478779+00:00",
+  "last_updated_utc": "2026-09-17T11:00:41.267755+00:00",
   "tickers_scanned": 72,
   "results": [
     {
@@ -46,8 +46,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1230755456,
-      "float_shares": 17573978,
-      "cash_debt_ratio": 1.62,
+      "float_shares": 17586504,
+      "cash_debt_ratio": 1.77,
       "insider_pct": 87.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
@@ -117,8 +117,8 @@
       "float_shares": 527665875,
       "cash_debt_ratio": 0.29,
       "insider_pct": 0.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 38,
       "recent_news": "Is iQIYI’s (IQ) Global AI Creator Push Quietly Rewriting Its Content Efficiency Narrative? | Asian Equities Traded in the US as American Depositary Receipts Edge Up in Wednesday Trading | Asian Equities Traded in the US as American Depositary Receipts Fall in Tuesday Trading"
     },
     {
@@ -134,8 +134,8 @@
       "float_shares": 2007221517,
       "cash_debt_ratio": 0.73,
       "insider_pct": 0.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "3 Regional Bank Stocks to Watch If Fed Rates Stay Higher for Longer | Major US banks raise prime rate after first Fed rate hike since 2023 | Huntington tempers outlook due to higher rates, lower yields"
     },
     {
@@ -151,8 +151,8 @@
       "float_shares": 8041813,
       "cash_debt_ratio": 0.01,
       "insider_pct": 4.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Children's Place Presents Balanced Upside/Downside Skew Ahead of Q2 Results, UBS Securities Says | Softline Retailers to Continue Reaping Gains From AI Boom, UBS Says | Top Midday Decliners"
     },
     {
@@ -170,7 +170,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Cipher Digital (CIFR) Could Be 49% Undervalued After Analysts Turned Bearish | Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News | Cipher Digital jumps 13%, but grid status is no green light"
+      "recent_news": "Cipher Digital (CIFR) Could Be 49% Undervalued After Analysts Turned Bearish | Cipher Digital Stock Price and Batch Zero Update, How the Fed Hike Will Affect Neoclouds, Tech Titans Battle for AI’s Soul | Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News"
     },
     {
       "ticker": "EROC",
@@ -236,8 +236,8 @@
       "float_shares": 5908646,
       "cash_debt_ratio": 0.04,
       "insider_pct": 7.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "1 Consumer Stock to Target This Week and 2 Facing Headwinds | America's Car-Mart, Zumiez, Macy's, Abercrombie and Fitch, and Victoria's Secret Shares Are Falling, What You Need To Know | America's Car-Mart (NASDAQ:CRMT) Misses Q2 CY2026 Revenue Estimates, Stock Drops 41.8%"
     },
     {
@@ -304,8 +304,8 @@
       "float_shares": 194653023,
       "cash_debt_ratio": 0.39,
       "insider_pct": 12.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "SION to Cut Workforce by Nearly Half After CF Study Failure, Stock Down | Gilead Expands Lenacapavir Access With New PAHO Deal in Latin America | Definium Reports Second Phase III Success in Anxiety Disorder Program"
     },
     {
@@ -338,8 +338,8 @@
       "float_shares": 414967500,
       "cash_debt_ratio": 0.35,
       "insider_pct": 0.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "These 2 2026 IPO Stocks Have Been Hammered — But Wall Street Sees a Bottom Forming | SK Hynix, Stellantis, Innio and others announce manufacturing investments | Innio to add 500 jobs, spend $300 million at Waukesha engine plant"
     },
     {
@@ -355,8 +355,8 @@
       "float_shares": 100525242,
       "cash_debt_ratio": 0.21,
       "insider_pct": 17.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Surf Air Mobility Inc. Q2 2026 Earnings Call Summary | Surf Air Mobility Inc (SRFM) (Q2 2026) Earnings Call Highlights: Revenue Hits High End of ... | Surf Air Mobility Q2 Earnings Call Highlights"
     },
     {
@@ -372,8 +372,8 @@
       "float_shares": 48411083,
       "cash_debt_ratio": 366.04,
       "insider_pct": 2.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Should You Buy PMV Pharmaceuticals, Inc. (PMVP) After Golden Cross? | PMV Pharma Raises $50.8 Million to Fuel Cancer Drug Push | PMV Pharmaceuticals Reports Updated Rezatapopt Ovarian Cancer Data, Commences Offering"
     },
     {
@@ -423,8 +423,8 @@
       "float_shares": 384061180,
       "cash_debt_ratio": 0.5,
       "insider_pct": 22.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "TeraWulf Rallies 7% as AI Hosting Bid Returns; Core Scientific Jumps 7%, IREN Rises 3% | IREN Rebounds After Earnings Dip: Time to Buy or Hold the Stock? | TeraWulf Falls 5% as AI Infrastructure Names Extend a Month-Long Slide; IREN Drops 4%, Applied Digital Declines 3%"
     },
     {
@@ -459,7 +459,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "IOVA Flags Year-End Data Slate After Record Amtagvi Quarter, Highlights ‘Clear Line Of Sight To Profitability’ | CLLS Stock Heads For 14-Month Low After 40% Rout: Citizens Flags Delayed Cellectis Catalysts After Cancer Pipeline Pivot | SLS, IBRX, IOVA In Focus Amid Big Pharma’s Early Cancer-Asset Hunt: J&J Flags M&A ‘Sweet Spot,’ Pfizer Eyes Phase 1-2 Deals"
+      "recent_news": "This Tiny Biotech Is Beating MRNA, IOVA And SLS — Here's How A Billionaire Fueled Its September Rally | IOVA Flags Year-End Data Slate After Record Amtagvi Quarter, Highlights ‘Clear Line Of Sight To Profitability’ | CLLS Stock Heads For 14-Month Low After 40% Rout: Citizens Flags Delayed Cellectis Catalysts After Cancer Pipeline Pivot"
     },
     {
       "ticker": "GOSS",
@@ -474,8 +474,8 @@
       "float_shares": 3830664,
       "cash_debt_ratio": 1.42,
       "insider_pct": 1.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Gossamer (GOSS) Announced Up to $250M of Financing, but Only $25M is Expected Upfront. Is the Runway Secure? | Gossamer Bio announces $250m in funding to advance seralutinib | Sector Update: Healthcare Stocks Advance in Afternoon Trading"
     },
     {
@@ -525,9 +525,9 @@
       "float_shares": 1881569756,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "What Are You Actually Buying In RKLB Stock? | RKLB Stock: What's Behind The 39% Drop? | How Far Could RKLB Stock Fall In The Next Shock?"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "3 of Wall Street’s Favorite Stocks We Approach with Caution | What Are You Actually Buying In RKLB Stock? | RKLB Stock: What's Behind The 39% Drop?"
     },
     {
       "ticker": "CDE",
@@ -578,7 +578,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 19,
-      "recent_news": "European Equities Traded in US as ADRs Rise in Wednesday Trading | Sector Update: Tech Stocks Rise Pre-Bell Wednesday | Nokia Jumps 6% as AI-RAN Trials Expand Across Eight Operators; NVIDIA and Ericsson Tread Water"
+      "recent_news": "Nokia Extends Microsoft Tie-Up With AI Platform For Telecom Network Automation – NOK Stock Rises Premarket | Nokia Shares Jump as Microsoft Partnership Expands Data Offering | European Equities Traded in US as ADRs Rise in Wednesday Trading"
     },
     {
       "ticker": "ENOV",
@@ -610,9 +610,9 @@
       "float_shares": 55259688,
       "cash_debt_ratio": 0.06,
       "insider_pct": 2.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Vehicle Retailer Stocks Q2 In Review: Camping World (NYSE:CWH) Vs Peers | 1 Consumer Stock for Long-Term Investors and 2 Facing Challenges | Another outdoors retailer closing stores"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "1 Oversold Stock Primed to Rebound and 2 We Brush Off | Vehicle Retailer Stocks Q2 In Review: Camping World (NYSE:CWH) Vs Peers | 1 Consumer Stock for Long-Term Investors and 2 Facing Challenges"
     },
     {
       "ticker": "VALE",
@@ -644,8 +644,8 @@
       "float_shares": 3726393232,
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 15,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Is Nu Holdings (NYSE:NU) Still A Bargain After Its US Launch? | Nu Holdings Cut to Market Perform on Brazil Credit Risk | Brazil’s Nubank launches in the US"
     },
     {
@@ -661,9 +661,9 @@
       "float_shares": 388239933,
       "cash_debt_ratio": 16.1,
       "insider_pct": 10.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 429,
-      "recent_news": "SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips | PATH's 21% Rise in Million-Dollar Customers is the Number to Watch | UiPath (PATH) Is A Gartner Leader For A Second Straight Year"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "A Philippine Telecom’s AI Makeover Tests UiPath’s (PATH) Pitch | SoundHound AI Drops 4% as Selling Concentrates in Speculative Software Names; UiPath Falls 3%, C3.ai Dips | PATH's 21% Rise in Million-Dollar Customers is the Number to Watch"
     },
     {
       "ticker": "OPTU",
