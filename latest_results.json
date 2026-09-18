@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-18T07:05:28.042386+00:00",
+  "last_updated_utc": "2026-09-18T12:44:34.279583+00:00",
   "tickers_scanned": 71,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "NKE, FLNC, CPRT, ULTA, JBHT: Top Wall Street Calls And Target Changes Making Waves This Week | FLNC Stock Alert: What to Know as Fluence Energy Cuts Guidance | Why Fluence Energy (FLNC) Stock Is Nosediving"
+      "recent_news": "1 Industrials Stock with Promising Prospects and 2 Facing Headwinds | NKE, FLNC, CPRT, ULTA, JBHT: Top Wall Street Calls And Target Changes Making Waves This Week | FLNC Stock Alert: What to Know as Fluence Energy Cuts Guidance"
     },
     {
       "ticker": "GLOO",
@@ -29,7 +29,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 449417408,
-      "float_shares": 31062889,
+      "float_shares": 31038176,
       "cash_debt_ratio": 0.87,
       "insider_pct": 28.2,
       "dilution_risk": "높음",
@@ -84,8 +84,8 @@
       "cash_debt_ratio": 0.24,
       "insider_pct": 3.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 293,
-      "recent_news": "ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells | RARE Stock Jumps 13% — Extends Gains After-Hours As FDA Clears First Sanfilippo Gene Therapy | Ultragenyx Stock Jumps on Landmark FDA Approval"
+      "recent_dilution_filings_90d": 294,
+      "recent_news": "Ultragenyx Gets A ‘Much-Needed Win,’ Says Cantor – Sees $400M Opportunity After FDA Approves Neurodegenerative Disease Therapy | Ultragenyx (RARE) Surges 12.6%: Is This an Indication of Further Gains? | ABEO Stock Gains On Approval For A Drug Abeona Sold, Rating For The One It Sells"
     },
     {
       "ticker": "SECZ",
@@ -97,9 +97,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1457962624,
-      "float_shares": 8659316,
+      "float_shares": 8447780,
       "cash_debt_ratio": 0.46,
-      "insider_pct": 12.4,
+      "insider_pct": 12.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
       "recent_news": "SEC Sends Strong Signal to Robinhood, Coinbase Investors | Crypto Ruling Triggers Best Day for This Digital Asset Stock | Securitize Surges After SEC Clears Path for Tokenized Stock Trading"
@@ -131,7 +131,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 915105984,
-      "float_shares": 104288464,
+      "float_shares": 104200688,
       "cash_debt_ratio": 0.62,
       "insider_pct": 4.1,
       "dilution_risk": "높음",
@@ -272,7 +272,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Moderna Climbs 6% as Cancer Vaccine Trade Extends a 137% Month; BioNTech and Novavax Edge Higher | Novavax (NVAX) Could Be 32% Above Fair Value On Medicare Policy Fears | Do Novavax’s (NVAX) New Partnerships Offset Policy Risks From The Protecting Approved Care Act?"
+      "recent_news": "Novavax (NVAX) Soars 7.0%: Is Further Upside Left in the Stock? | Moderna Climbs 6% as Cancer Vaccine Trade Extends a 137% Month; BioNTech and Novavax Edge Higher | Novavax (NVAX) Could Be 32% Above Fair Value On Medicare Policy Fears"
     },
     {
       "ticker": "BFLY",
@@ -306,7 +306,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "1 Unpopular Stock That Deserves Some Love and 2 We Turn Down | 2 Unprofitable Stocks to Research Further and 1 We Find Risky | Therapeutics Stocks Q2 Recap: Benchmarking Myriad Genetics (NASDAQ:MYGN)"
+      "recent_news": "Myriad Genetics (MYGN) Stock Fair Value Moves Lower After Analyst Cuts And Guidance Reset | 1 Unpopular Stock That Deserves Some Love and 2 We Turn Down | 2 Unprofitable Stocks to Research Further and 1 We Find Risky"
     },
     {
       "ticker": "RXT",
@@ -471,7 +471,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 547669248,
-      "float_shares": 45545503,
+      "float_shares": 42602507,
       "cash_debt_ratio": 2.61,
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
@@ -612,7 +612,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Rocket Companies Sees Market-Share Gains as Redfin, Mr. Cooper Synergies Build | 3 Reasons to Sell RKT and 1 Stock to Buy Instead | CEO Liquidates $2.6 Million Worth of Financial Services Stock"
+      "recent_news": "3 Mortgage & Related Services Stocks to Watch Amid Industry Headwinds | Rocket Companies Sees Market-Share Gains as Redfin, Mr. Cooper Synergies Build | 3 Reasons to Sell RKT and 1 Stock to Buy Instead"
     },
     {
       "ticker": "NRGV",
