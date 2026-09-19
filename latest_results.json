@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-19T14:12:05.621282+00:00",
-  "tickers_scanned": 64,
+  "last_updated_utc": "2026-09-19T17:47:58.866486+00:00",
+  "tickers_scanned": 65,
   "results": [
     {
       "ticker": "ALVO",
@@ -156,40 +156,6 @@
       "recent_news": "SEC Sends Strong Signal to Robinhood, Coinbase Investors | Crypto Ruling Triggers Best Day for This Digital Asset Stock | Securitize Surges After SEC Clears Path for Tokenized Stock Trading"
     },
     {
-      "ticker": "SOS",
-      "score": 75.0,
-      "last_close": 0.696,
-      "rel_volume": 41.98,
-      "price_change_pct": -9.14,
-      "gap_pct": -9.92,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 13475336,
-      "float_shares": 12978813,
-      "cash_debt_ratio": 2707.0,
-      "insider_pct": 6.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
-      "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
-    },
-    {
-      "ticker": "SPRU",
-      "score": 75.0,
-      "last_close": 1.91,
-      "rel_volume": 5.58,
-      "price_change_pct": 17.18,
-      "gap_pct": 15.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 36771676,
-      "float_shares": 14973195,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 12.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "The Zacks Analyst Blog Highlights AMD, Costco, AstraZeneca, Peoples Bancorp of North Carolina and Spruce Power | Top Stock Reports for AMD, Costco & AstraZeneca | SPRU Posts Q2 Earnings, Cost Cuts and PPA-Lease Growth Aid"
-    },
-    {
       "ticker": "IQMX",
       "score": 74.8,
       "last_close": 9.54,
@@ -198,7 +164,7 @@
       "gap_pct": 9.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4523981312,
+      "market_cap": 1807793920,
       "float_shares": 113531926,
       "cash_debt_ratio": 4.15,
       "insider_pct": null,
@@ -307,6 +273,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "FLNC Revises FY2026 Outlook on Manufacturing Delays: What's Ahead? | Expion Falls 35% in Six Months: Should You Buy the Dip or Wait? | Energy Vault acquires land for BESS project"
+    },
+    {
+      "ticker": "LUXE",
+      "score": 65.5,
+      "last_close": 10.08,
+      "rel_volume": 3.64,
+      "price_change_pct": 6.33,
+      "gap_pct": 5.7,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1408174208,
+      "float_shares": 17586504,
+      "cash_debt_ratio": 1.77,
+      "insider_pct": 87.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "LuxExperience BV (LUXE) (Q4 2026) Earnings Call Highlights: All Three Segments Return to Growth ... | LuxExperience B.V. Q4 2026 Earnings Call Summary | LuxExperience B.V. - Sponsored ADR (LUXE) Q4 Earnings and Revenues Top Estimates"
     },
     {
       "ticker": "FIP",
@@ -442,7 +425,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Meta-Tied Data Center Draws Blowout Demand for Debut Junk Bond | CleanSpark Unveils $6.6B AI Data Center Lease as Miners Pivot Beyond Bitcoin | CleanSpark reveals Meta as tenant behind $6.6B Sandersville lease"
+      "recent_news": "CleanSpark reveals Meta as the tenant behind $6.6B Sandersville lease | Meta-Tied Data Center Draws Blowout Demand for Debut Junk Bond | CleanSpark Unveils $6.6B AI Data Center Lease as Miners Pivot Beyond Bitcoin"
     },
     {
       "ticker": "PRLD",
@@ -453,7 +436,7 @@
       "gap_pct": 5.47,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 387872608,
+      "market_cap": 388642976,
       "float_shares": 22068723,
       "cash_debt_ratio": 8.6,
       "insider_pct": 13.8,
@@ -487,13 +470,13 @@
       "gap_pct": -3.58,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11426757632,
+      "market_cap": 11455066112,
       "float_shares": 536940811,
       "cash_debt_ratio": 0.1,
       "insider_pct": 50.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Paramount, California settlement talks accelerate, moving Warner Bros. merger closer to the finish line | Paramount, California Attorney General in Advanced Settlement Talks | Paramount in Advanced Settlement Talks With California’s Attorney General"
+      "recent_news": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line | Paramount, California Attorney General in Advanced Settlement Talks | Paramount in Advanced Settlement Talks With California’s Attorney General"
     },
     {
       "ticker": "CIFR",
@@ -508,9 +491,26 @@
       "float_shares": 343105898,
       "cash_debt_ratio": 0.15,
       "insider_pct": 3.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Morgan Stanley raises Cipher price target to $54, keeps Overweight rating | Wells Fargo sees 50% upside for Amazon-linked stock | How Far Can Cipher Digital Stock Fall While It Waits For Rent?"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "JPMorgan, Goldman Sachs issue bullish stock price targets for IREN, Cipher Digital | Morgan Stanley raises Cipher price target to $54, keeps Overweight rating | Wells Fargo sees 50% upside for Amazon-linked stock"
+    },
+    {
+      "ticker": "OPTU",
+      "score": 53.4,
+      "last_close": 1.08,
+      "rel_volume": 3.42,
+      "price_change_pct": 3.85,
+      "gap_pct": 3.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 411946080,
+      "float_shares": 277642261,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 11.3,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "1 Momentum  Stock for Long-Term Investors and 2 We Turn Down | 3 Consumer Stocks We Steer Clear Of | 3 Stocks Under $10 with Open Questions"
     },
     {
       "ticker": "FLNC",
@@ -581,23 +581,6 @@
       "recent_news": "GM brings back Apple CarPlay as buyers demand it | GM is re-downloading Apple CarPlay, Android Auto to its cars | Ford Motor vs. Stellantis: Which Automotive Stock Is a Better Buy in 2026?"
     },
     {
-      "ticker": "RC",
-      "score": 44.8,
-      "last_close": 1.66,
-      "rel_volume": 4.99,
-      "price_change_pct": 1.84,
-      "gap_pct": 2.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 274748256,
-      "float_shares": 145614208,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 10.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 16,
-      "recent_news": "Ready Capital (RC) Q2 2026 Earnings Call Transcript | Ready Capital Q2 Earnings Call Highlights | Ready Capital Corp (RC) (Q2 2026) Earnings Call Highlights: Strategic Repositioning and Path to ..."
-    },
-    {
       "ticker": "LAB",
       "score": 44.0,
       "last_close": 0.77,
@@ -632,6 +615,40 @@
       "recent_news": "Is the Options Market Predicting a Spike in Vistance Networks Stock? | Vistance Networks (VISN) Expands Buyback As Valuation Debate Turns To Aurora Networks | Why Is Vistance Networks (VISN) Expanding Its $150 Million Share Repurchase Program?"
     },
     {
+      "ticker": "PMT",
+      "score": 42.3,
+      "last_close": 8.8,
+      "rel_volume": 3.36,
+      "price_change_pct": -1.57,
+      "gap_pct": -1.29,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 71647205,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 1.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "3 Out-of-Favor Stocks Walking a Fine Line | 3 Bank Stocks We Keep Off Our Radar | Here Are Monday’s Top Wall Street Analyst Research Calls: Apple, Dave, Etsy, Federal Signal, Mobileye Global, Netskope, Okta, Shopify, Workday, and More"
+    },
+    {
+      "ticker": "JBGS",
+      "score": 42.2,
+      "last_close": 11.23,
+      "rel_volume": 5.97,
+      "price_change_pct": -1.66,
+      "gap_pct": -1.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 867297280,
+      "float_shares": 54146179,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 0.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "A Look At JBG Smith Properties (JBGS) Valuation As Mixed Returns And Metrics Send Conflicting Signals | JBG Smith Properties: Q4 Earnings Snapshot | JBG SMITH Properties (JBGS): Losses Compound and Revenue Set to Decline, Undermining Bullish Narratives"
+    },
+    {
       "ticker": "KPTI",
       "score": 41.2,
       "last_close": 1.88,
@@ -647,6 +664,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use | Karyopharm Therapeutics (KPTI) Stock Fair Value Falls After Split Analyst Views On Trial Updates | Karyopharm’s (KPTI) Big Cancer Bet Faces A Ticking Clock"
+    },
+    {
+      "ticker": "EFC",
+      "score": 40.8,
+      "last_close": 12.44,
+      "rel_volume": 3.01,
+      "price_change_pct": -1.11,
+      "gap_pct": -1.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1633665664,
+      "float_shares": 125959065,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 2.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Ellington Financial (EFC) Upsizes Debt Raise, Is The Valuation Gap Still Compelling? | 3 Stocks Under $50 That Fall Short | Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust"
     },
     {
       "ticker": "SG",
@@ -683,21 +717,38 @@
       "recent_news": "Nvidia initiated, Teradyne downgraded: Wall Street's top analyst calls | Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast | 2 Glass Products Stocks to Watch in a Promising Industry"
     },
     {
-      "ticker": "GRPN",
-      "score": 39.1,
-      "last_close": 19.08,
-      "rel_volume": 2.77,
-      "price_change_pct": 1.44,
-      "gap_pct": 1.22,
+      "ticker": "SHEN",
+      "score": 39.3,
+      "last_close": 11.57,
+      "rel_volume": 15.66,
+      "price_change_pct": 0.87,
+      "gap_pct": 0.83,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 775893824,
-      "float_shares": 18375834,
-      "cash_debt_ratio": 0.72,
-      "insider_pct": 19.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Groupon (GRPN) Stock Slides as Market Rises: Facts to Know Before You Trade | Hour Loop Falls 22% in Three Months: Should You Buy the Dip or Wait? | Groupon, Inc. (GRPN) is Attracting Investor Attention: Here is What You Should Know"
+      "market_cap": 640569344,
+      "float_shares": 44974944,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 5.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 27,
+      "recent_news": "Zacks Industry Outlook Highlights Deutsche Telekom, Shenandoah Telecommunications and VEON | 3 Communication Stocks Likely to Brave Industry Headwinds | Shenandoah Telecommunications Sees Positive Free Cash Flow as Fiber Build Winds Down"
+    },
+    {
+      "ticker": "AMC",
+      "score": 37.9,
+      "last_close": 2.7,
+      "rel_volume": 3.39,
+      "price_change_pct": -0.37,
+      "gap_pct": -0.92,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2410032384,
+      "float_shares": 835344050,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 0.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 30,
+      "recent_news": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know | 3 Small-Cap Stocks We Think Twice About | AMC vs. MCS: Which Theater Stock Is the Better Buy Today?"
     },
     {
       "ticker": "OPENL",
@@ -717,21 +768,21 @@
       "recent_news": "Why Did OPEN, STLA, JOBY Stocks Tumble To 52-Week Lows Today? | Opendoor’s February Home-Buying Surge Wasn’t Reckless, Eric Jackson Says As Fed Rate Decision Nears | Why Did OPEN, NKE, CCL Stocks Crash To 52-Week Lows Today?"
     },
     {
-      "ticker": "AGNC",
-      "score": 37.1,
-      "last_close": 9.87,
-      "rel_volume": 9.6,
-      "price_change_pct": -0.4,
-      "gap_pct": -0.45,
+      "ticker": "CLBK",
+      "score": 36.1,
+      "last_close": 11.58,
+      "rel_volume": 4.14,
+      "price_change_pct": 0.26,
+      "gap_pct": 0.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11700702208,
-      "float_shares": 1177929930,
-      "cash_debt_ratio": 0.21,
-      "insider_pct": 0.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Has AGNC's Monthly Dividend Made Up for What Its Share Price Did? | These Huge Mortgage REIT Yields Are Really a Bet on Interest Rates | 5 Big Dividend Yields With Ex-Dividend Dates Coming Up Fast"
+      "market_cap": 1204994304,
+      "float_shares": 261784931,
+      "cash_debt_ratio": 0.88,
+      "insider_pct": 29.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Are You Looking for a Top Momentum Pick? Why Columbia Financial (CLBK) is a Great Choice | Columbia Financial (CLBK) is a Great Momentum Stock: Should You Buy? | Can Columbia Financial (CLBK) Run Higher on Rising Earnings Estimates?"
     },
     {
       "ticker": "KOS",
@@ -805,16 +856,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TBLA",
-      "score": 26.7,
-      "last_close": 3.6,
-      "rel_volume": 1.42,
-      "price_change_pct": -2.17,
-      "gap_pct": -1.77,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CDE",
       "score": 24.6,
       "last_close": 19.76,
@@ -865,22 +906,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 20.3,
-      "last_close": 5.82,
-      "rel_volume": 1.29,
-      "price_change_pct": -1.02,
-      "gap_pct": -1.11,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NAT",
       "score": 18.5,
       "last_close": 8.25,
       "rel_volume": 1.25,
       "price_change_pct": 1.23,
       "gap_pct": 0.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "NU",
+      "score": 17.9,
+      "last_close": 13.65,
+      "rel_volume": 0.98,
+      "price_change_pct": -1.37,
+      "gap_pct": -1.16,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -931,16 +972,6 @@
       "rel_volume": 0.24,
       "price_change_pct": -2.24,
       "gap_pct": -2.61,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 12.2,
-      "last_close": 3.69,
-      "rel_volume": 0.9,
-      "price_change_pct": 0.54,
-      "gap_pct": 0.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
