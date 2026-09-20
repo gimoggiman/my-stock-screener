@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-20T14:31:42.397915+00:00",
+  "last_updated_utc": "2026-09-20T17:58:58.918190+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -678,8 +678,8 @@
       "float_shares": 125959065,
       "cash_debt_ratio": 0.05,
       "insider_pct": 2.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Ellington Financial (EFC) Upsizes Debt Raise, Is The Valuation Gap Still Compelling? | 3 Stocks Under $50 That Fall Short | Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust"
     },
     {
