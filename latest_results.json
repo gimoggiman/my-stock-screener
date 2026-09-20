@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-20T00:41:34.238099+00:00",
+  "last_updated_utc": "2026-09-20T05:45:17.085839+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -100,8 +100,8 @@
       "float_shares": 214751899,
       "cash_debt_ratio": 0.19,
       "insider_pct": 9.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Do Options Traders Know Something About Genius Sports Stock We Don't? | The Dealmaking 3: Genius Sports’ AI Liga MX Deal, Southern Miss Makes History, Paramount+ at Vegas | The Dealmaking 3: Athletes Unlimited Retreats, NFL Kills the Pro Bowl, AI Takes Over the US Open"
     },
     {
@@ -408,7 +408,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week | Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval | Can Applied Digital Stock Recover On Leases It Has Already Signed?"
+      "recent_news": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don’t Agree. | Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week | Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval"
     },
     {
       "ticker": "CLSK",
@@ -491,8 +491,8 @@
       "float_shares": 343105898,
       "cash_debt_ratio": 0.15,
       "insider_pct": 3.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "JPMorgan, Goldman Sachs issue bullish stock price targets for IREN, Cipher Digital | Morgan Stanley raises Cipher price target to $54, keeps Overweight rating | Wells Fargo sees 50% upside for Amazon-linked stock"
     },
     {
@@ -578,7 +578,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4190,
-      "recent_news": "GM brings back Apple CarPlay as buyers demand it | GM is re-downloading Apple CarPlay, Android Auto to its cars | Ford Motor vs. Stellantis: Which Automotive Stock Is a Better Buy in 2026?"
+      "recent_news": "GM brings back Apple CarPlay as buyers demand it | General Motors Unveils New Engine Lineup for 2027 Pickup Trucks | GM is re-downloading Apple CarPlay, Android Auto to its cars"
     },
     {
       "ticker": "LAB",
