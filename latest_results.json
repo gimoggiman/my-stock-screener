@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-19T22:41:35.779856+00:00",
+  "last_updated_utc": "2026-09-20T00:41:34.238099+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -491,8 +491,8 @@
       "float_shares": 343105898,
       "cash_debt_ratio": 0.15,
       "insider_pct": 3.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "JPMorgan, Goldman Sachs issue bullish stock price targets for IREN, Cipher Digital | Morgan Stanley raises Cipher price target to $54, keeps Overweight rating | Wells Fargo sees 50% upside for Amazon-linked stock"
     },
     {
@@ -695,8 +695,8 @@
       "float_shares": 103293339,
       "cash_debt_ratio": 0.4,
       "insider_pct": 3.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 148,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "3 Reasons SG is Risky and 1 Stock to Buy Instead | What Are You Actually Paying For In Cava Stock? | Wonder deploys first automated makeline"
     },
     {
