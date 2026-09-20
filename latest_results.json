@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-20T10:41:46.822043+00:00",
+  "last_updated_utc": "2026-09-20T14:31:42.397915+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -47,8 +47,8 @@
       "short_volume_ratio_pct": null,
       "market_cap": 835264192,
       "float_shares": 44601012,
-      "cash_debt_ratio": 0.32,
-      "insider_pct": 55.5,
+      "cash_debt_ratio": 0.27,
+      "insider_pct": 55.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "CoinShares Says Bitcoin Won't Hit $80,000. Is It Correct? | CoinShares (CSHR) Attracts Inflows as Revenue Falls. Can Asset Gathering Restore Fee Economics? | Sector Update: Financial Stocks Fall Late Afternoon"
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1509416064,
-      "float_shares": 214751899,
+      "float_shares": 214800072,
       "cash_debt_ratio": 0.19,
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
@@ -476,7 +476,7 @@
       "insider_pct": 50.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line | Paramount, California Attorney General in Advanced Settlement Talks | Paramount in Advanced Settlement Talks With California’s Attorney General"
+      "recent_news": "Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount | Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line | Paramount, California Attorney General in Advanced Settlement Talks"
     },
     {
       "ticker": "CIFR",
@@ -578,7 +578,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4190,
-      "recent_news": "GM brings back Apple CarPlay as buyers demand it | General Motors Unveils New Engine Lineup for 2027 Pickup Trucks | GM is re-downloading Apple CarPlay, Android Auto to its cars"
+      "recent_news": "Honda's Largest Recall In Recent History Cost Millions | GM brings back Apple CarPlay as buyers demand it | General Motors Unveils New Engine Lineup for 2027 Pickup Trucks"
     },
     {
       "ticker": "LAB",
@@ -678,8 +678,8 @@
       "float_shares": 125959065,
       "cash_debt_ratio": 0.05,
       "insider_pct": 2.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Ellington Financial (EFC) Upsizes Debt Raise, Is The Valuation Gap Still Compelling? | 3 Stocks Under $50 That Fall Short | Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust"
     },
     {
@@ -748,7 +748,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 30,
-      "recent_news": "3 Small-Cap Stocks We Think Twice About | The SEC is bringing tokenized stocks to markets: 7 key details you need to know | AMC vs. MCS: Which Theater Stock Is the Better Buy Today?"
+      "recent_news": "AMC Stock Is Up 73% This Year. Why Are You Still Laughing? | 3 Small-Cap Stocks We Think Twice About | The SEC is bringing tokenized stocks to markets: 7 key details you need to know"
     },
     {
       "ticker": "OPENL",
