@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-20T23:00:46.879724+00:00",
+  "last_updated_utc": "2026-09-21T01:01:05.237178+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -67,7 +67,7 @@
       "cash_debt_ratio": 8.72,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 32,
+      "recent_dilution_filings_90d": 31,
       "recent_news": "Top Midday Stories: Buffett Steps Down as Berkshire Chairman; Soccer Star Mbappe Leaves Nike for On | Is The Trade Desk's Cash Worth More Than Its Lost Growth? | The Unusual Cash Offer Sitting In TTD Stock"
     },
     {
@@ -168,8 +168,8 @@
       "float_shares": 12978813,
       "cash_debt_ratio": 2707.0,
       "insider_pct": 6.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
       "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
@@ -389,8 +389,8 @@
       "float_shares": 589794769,
       "cash_debt_ratio": 0.69,
       "insider_pct": 4.6,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Bitcoin Mining Faces A Shakeout As CORZ, KEEL, IREN, CIFR Get Ready To Exit, Says CoinShares | PowerSecure Builds Standby Power for Keel's Data Center Campus | Southern Company's Unit PowerSecure Wins Data Center Power Project"
     },
     {
@@ -423,8 +423,8 @@
       "float_shares": 378322217,
       "cash_debt_ratio": 0.17,
       "insider_pct": 0.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
       "recent_news": "MARA Stock Rose 14% Friday. JPMorgan and Morgan Stanley Still Don’t Agree. | Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week | Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval"
     },
     {
@@ -493,7 +493,7 @@
       "insider_pct": 50.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week | Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount | Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line"
+      "recent_news": "Paramount (PSKY) Turns California’s Own Words Against it in Warner Bros. (WBD) Bond Fight | Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week | Like father, like son: David Ellison considers Nashville alongside Austin as future home for Paramount"
     },
     {
       "ticker": "CIFR",
@@ -525,8 +525,8 @@
       "float_shares": 88970443,
       "cash_debt_ratio": 0.82,
       "insider_pct": 14.4,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Fluence Energy (FLNC) Stock Trades Down, Here Is Why | FLNC Revises FY2026 Outlook on Manufacturing Delays: What's Ahead? | 1 Industrials Stock with Promising Prospects and 2 Facing Headwinds"
     },
     {
@@ -577,7 +577,7 @@
       "cash_debt_ratio": 0.14,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4190,
+      "recent_dilution_filings_90d": 4109,
       "recent_news": "Honda's Largest Recall In Recent History Cost Millions | GM brings back Apple CarPlay as buyers demand it | General Motors Unveils New Engine Lineup for 2027 Pickup Trucks"
     },
     {
@@ -593,8 +593,8 @@
       "float_shares": 145614208,
       "cash_debt_ratio": 0.03,
       "insider_pct": 10.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 16,
       "recent_news": "Ready Capital (RC) Q2 2026 Earnings Call Transcript | Ready Capital Q2 Earnings Call Highlights | Ready Capital Corp (RC) (Q2 2026) Earnings Call Highlights: Strategic Repositioning and Path to ..."
     },
     {
@@ -611,7 +611,7 @@
       "cash_debt_ratio": 16.97,
       "insider_pct": 2.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 449,
+      "recent_dilution_filings_90d": 443,
       "recent_news": "Standard BioTools Sells Mass Cytometry Business Amid Pending Merger With Treeline Biosciences | Stealthy startup Treeline plans a reverse merger | Standard BioTools (LAB) Reports Q1 Loss, Tops Revenue Estimates"
     },
     {
@@ -662,7 +662,7 @@
       "cash_debt_ratio": 0.4,
       "insider_pct": 3.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 148,
+      "recent_dilution_filings_90d": 144,
       "recent_news": "3 Reasons SG is Risky and 1 Stock to Buy Instead | What Are You Actually Paying For In Cava Stock? | Wonder deploys first automated makeline"
     },
     {
@@ -763,8 +763,8 @@
       "float_shares": 581600879,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.3,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Crescent Energy, HighPeak Energy, and Kosmos Energy Stocks Trade Down, What You Need To Know | Kosmos Energy (KOS) Stock Is Up, What You Need To Know | Are You Looking for a Top Momentum Pick? Why Kosmos Energy (KOS) is a Great Choice"
     },
     {
@@ -780,8 +780,8 @@
       "float_shares": 3009456046,
       "cash_debt_ratio": 3.21,
       "insider_pct": 13.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Grab (GRAB) Stock Fair Value Edges Lower As Analysts Split On Superbank And Atome | Grab Cheers Investors With Share Repurchase Completion Plans | Stock Market Today, Sept. 16: Grab Acquires 60% Stake in Atome Financial for $1.49 Billion"
     },
     {
@@ -798,7 +798,7 @@
       "cash_debt_ratio": 0.01,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "recent_dilution_filings_90d": 10,
       "recent_news": "These Huge Mortgage REIT Yields Are Really a Bet on Interest Rates | Invesco Mortgage Capital (IVR) Exceeds Market Returns: Some Facts to Consider | Invesco Mortgage Capital (IVR) Stock Falls Amid Market Uptick: What Investors Need to Know"
     },
     {
