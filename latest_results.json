@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-22T03:25:16.899356+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-09-22T09:02:42.763161+00:00",
+  "tickers_scanned": 66,
   "results": [
     {
       "ticker": "MX",
@@ -20,6 +20,23 @@
       "recent_news": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas | Navitas Semiconductor vs. Rezolve AI: Which Technology Stock Is a Better Buy in 2026? | Magnachip (MX) Q2 2026 Earnings Call Transcript"
     },
     {
+      "ticker": "ZH",
+      "score": 70.6,
+      "last_close": 3.45,
+      "rel_volume": 5.97,
+      "price_change_pct": 7.48,
+      "gap_pct": 6.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 292217184,
+      "float_shares": 30054834,
+      "cash_debt_ratio": 33.85,
+      "insider_pct": 15.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 19,
+      "recent_news": "Zhihu (ZH) Signed a Conditional RMB1.5 Billion AI Fund Deal. Can It Justify the Risk? | Zhihu (ZH) Q2 2026 Earnings Call Transcript | Zhihu Inc (ZH) (Q2 2026) Earnings Call Highlights: Revenue Sequentially Improves, AI ..."
+    },
+    {
       "ticker": "SECZ",
       "score": 68.2,
       "last_close": 13.5,
@@ -34,7 +51,7 @@
       "insider_pct": 12.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Securitize (SECZ) Climbs to All-Time High on Tokenized Securities Go-Signal | SEC Sends Strong Signal to Robinhood, Coinbase Investors | Crypto Ruling Triggers Best Day for This Digital Asset Stock"
+      "recent_news": "Cantor Fitzgerald Flags 95% Upside in the Firm Putting Stocks Onchain | Securitize (SECZ) Climbs to All-Time High on Tokenized Securities Go-Signal | SEC Sends Strong Signal to Robinhood, Coinbase Investors"
     },
     {
       "ticker": "VNET",
@@ -68,7 +85,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "Critics say California got too little in deal to let Paramount buy Warner Bros | AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher | AMC Entertainment Holdings, Inc. (AMC) Is a Trending Stock: Facts to Know Before Betting on It"
+      "recent_news": "AMC Entertainment Holdings (AMC) Launches $3.97 Billion Debt Refinancing Initiative | Critics say California got too little in deal to let Paramount buy Warner Bros | AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher"
     },
     {
       "ticker": "XXI",
@@ -103,23 +120,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
-    },
-    {
-      "ticker": "TV",
-      "score": 56.8,
-      "last_close": 2.57,
-      "rel_volume": 1.44,
-      "price_change_pct": 9.36,
-      "gap_pct": 8.72,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1354544128,
-      "float_shares": 244312381,
-      "cash_debt_ratio": 0.48,
-      "insider_pct": 0.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 80,
-      "recent_news": "The Dealmaking 3: Genius Sports’ AI Liga MX Deal, Southern Miss Makes History, Paramount+ at Vegas | Grupo Televisa SAB (TV) Q2 2026 Earnings Call Highlights: Strategic Growth Amidst Market Challenges | Grupo Televisa Q2 Earnings Call Highlights"
     },
     {
       "ticker": "LUNR",
@@ -173,6 +173,23 @@
       "recent_news": "NCR Voyix (VYX) Posts A Shrinking Top Line And A Growing Pipeline | Fast-paced Momentum Stock NCR Voyix (VYX) Is Still Trading at a Bargain | Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?"
     },
     {
+      "ticker": "XERS",
+      "score": 54.3,
+      "last_close": 8.8,
+      "rel_volume": 1.85,
+      "price_change_pct": 7.32,
+      "gap_pct": 5.24,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1604418688,
+      "float_shares": 176004731,
+      "cash_debt_ratio": 0.42,
+      "insider_pct": 3.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Why Xeris Biopharma Holdings (XERS) Is Up 8.4% After Tightening 2026 Revenue Guidance And Advancing XP-8121 | Xeris Biopharma Holdings (XERS) Posts Record Q2 Revenue, Is It Still A Bargain? | Xeris (XERS) Q2 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "ESRT",
       "score": 53.6,
       "last_close": 4.14,
@@ -218,7 +235,7 @@
       "market_cap": 14868935,
       "float_shares": 12978813,
       "cash_debt_ratio": 2707.0,
-      "insider_pct": 6.5,
+      "insider_pct": 6.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
       "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
@@ -269,7 +286,7 @@
       "market_cap": 842191488,
       "float_shares": 20242163,
       "cash_debt_ratio": 8.72,
-      "insider_pct": 2.8,
+      "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 34,
       "recent_news": "Viant (DSP) Moves 18.6% Higher: Will This Strength Last? | TTD Showered Owners With Cash. The Stock Still Lagged The Market | Top Midday Stories: Buffett Steps Down as Berkshire Chairman; Soccer Star Mbappe Leaves Nike for On"
@@ -300,7 +317,7 @@
       "gap_pct": -2.4,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11091005440,
+      "market_cap": 11118482432,
       "float_shares": 536940811,
       "cash_debt_ratio": 0.1,
       "insider_pct": 50.8,
@@ -368,7 +385,7 @@
       "gap_pct": 5.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1006863616,
+      "market_cap": 1021279872,
       "float_shares": 238600357,
       "cash_debt_ratio": 13.65,
       "insider_pct": 3.3,
@@ -385,7 +402,7 @@
       "gap_pct": 6.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1310420480,
+      "market_cap": 1310645376,
       "float_shares": 193513118,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
@@ -425,7 +442,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Zacks.com featured highlights Kohl's, Lifetime Brands, Mativ, Ultrapar and Chatham Lodging | 5 Value Stocks With Incredibly Low EV-to-EBITDA Ratios to Snap Up | Is Kohl's (KSS) Undervalued After Its Babies R Us Expansion And Softer Sephora Sales?"
+      "recent_news": "1 Volatile Stock on Our Watchlist and 2 Facing Headwinds | Zacks.com featured highlights Kohl's, Lifetime Brands, Mativ, Ultrapar and Chatham Lodging | 5 Value Stocks With Incredibly Low EV-to-EBITDA Ratios to Snap Up"
     },
     {
       "ticker": "GRAB",
@@ -487,7 +504,7 @@
       "gap_pct": 4.89,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1678104320,
+      "market_cap": 1694501888,
       "float_shares": 156635014,
       "cash_debt_ratio": 0.21,
       "insider_pct": 15.3,
@@ -544,7 +561,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape | Are You Buying Aurora Innovation's Trucks Or Its Story? | PlusAI Picked a SPAC to Fund Its 2027 Autonomous-Truck Launch. Is Aurora Already Too Far Ahead?"
+      "recent_news": "Aurora’s New Production Goals and Driver-as-a-Service Pivot Could Be A Game Changer For Aurora Innovation (AUR) | Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape | Are You Buying Aurora Innovation's Trucks Or Its Story?"
     },
     {
       "ticker": "ADAM",
@@ -678,8 +695,8 @@
       "float_shares": 581600879,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Crescent Energy, HighPeak Energy, and Kosmos Energy Stocks Trade Down, What You Need To Know | Kosmos Energy (KOS) Stock Is Up, What You Need To Know | Are You Looking for a Top Momentum Pick? Why Kosmos Energy (KOS) is a Great Choice"
     },
     {
@@ -790,12 +807,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ANGX",
+      "score": 22.0,
+      "last_close": 5.22,
+      "rel_volume": 1.48,
+      "price_change_pct": -0.95,
+      "gap_pct": -0.95,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "PCG",
       "score": 21.9,
       "last_close": 12.94,
       "rel_volume": 1.07,
       "price_change_pct": -1.97,
       "gap_pct": -1.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "METC",
+      "score": 18.9,
+      "last_close": 9.37,
+      "rel_volume": 0.89,
+      "price_change_pct": 1.63,
+      "gap_pct": 1.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -890,12 +927,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TBLA",
-      "score": 11.5,
-      "last_close": 3.62,
-      "rel_volume": 0.79,
-      "price_change_pct": 0.56,
-      "gap_pct": 0.28,
+      "ticker": "JBGS",
+      "score": 11.8,
+      "last_close": 11.21,
+      "rel_volume": 0.92,
+      "price_change_pct": -0.18,
+      "gap_pct": 0.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -906,16 +943,6 @@
       "rel_volume": 0.75,
       "price_change_pct": -0.14,
       "gap_pct": -0.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 8.8,
-      "last_close": 3.69,
-      "rel_volume": 0.73,
-      "price_change_pct": 0.0,
-      "gap_pct": -0.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
