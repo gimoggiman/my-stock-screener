@@ -1,12 +1,29 @@
 {
-  "last_updated_utc": "2026-09-21T23:01:48.673706+00:00",
+  "last_updated_utc": "2026-09-22T03:25:16.899356+00:00",
   "tickers_scanned": 65,
   "results": [
     {
+      "ticker": "MX",
+      "score": 75.0,
+      "last_close": 3.2,
+      "rel_volume": 11.23,
+      "price_change_pct": 16.36,
+      "gap_pct": 14.36,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 116832360,
+      "float_shares": 31144950,
+      "cash_debt_ratio": 2.04,
+      "insider_pct": 15.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 19,
+      "recent_news": "Magnachip Shares Rise 14% After Securing $5 Million Investment From Navitas | Navitas Semiconductor vs. Rezolve AI: Which Technology Stock Is a Better Buy in 2026? | Magnachip (MX) Q2 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "SECZ",
-      "score": 68.1,
+      "score": 68.2,
       "last_close": 13.5,
-      "rel_volume": 2.41,
+      "rel_volume": 2.42,
       "price_change_pct": 24.31,
       "gap_pct": 27.95,
       "st_msg_count": null,
@@ -17,14 +34,14 @@
       "insider_pct": 12.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "SEC Sends Strong Signal to Robinhood, Coinbase Investors | Crypto Ruling Triggers Best Day for This Digital Asset Stock | Securitize Surges After SEC Clears Path for Tokenized Stock Trading"
+      "recent_news": "Securitize (SECZ) Climbs to All-Time High on Tokenized Securities Go-Signal | SEC Sends Strong Signal to Robinhood, Coinbase Investors | Crypto Ruling Triggers Best Day for This Digital Asset Stock"
     },
     {
       "ticker": "VNET",
       "score": 67.4,
-      "last_close": 7.235,
+      "last_close": 7.24,
       "rel_volume": 2.35,
-      "price_change_pct": 10.97,
+      "price_change_pct": 11.04,
       "gap_pct": 10.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -38,9 +55,9 @@
     },
     {
       "ticker": "AMC",
-      "score": 61.5,
+      "score": 61.6,
       "last_close": 2.89,
-      "rel_volume": 2.52,
+      "rel_volume": 2.53,
       "price_change_pct": 7.04,
       "gap_pct": 5.37,
       "st_msg_count": null,
@@ -50,14 +67,14 @@
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 31,
-      "recent_news": "AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher | AMC Entertainment Holdings, Inc. (AMC) Is a Trending Stock: Facts to Know Before Betting on It | AMC Stock Is Up 73% This Year. Why Are You Still Laughing?"
+      "recent_dilution_filings_90d": 27,
+      "recent_news": "Critics say California got too little in deal to let Paramount buy Warner Bros | AMC Spikes 7% as Refinancing Pushes Maturities From 2029 to 2031; Cinemark and IMAX Edge Higher | AMC Entertainment Holdings, Inc. (AMC) Is a Trending Stock: Facts to Know Before Betting on It"
     },
     {
       "ticker": "XXI",
-      "score": 58.8,
+      "score": 58.9,
       "last_close": 6.61,
-      "rel_volume": 1.61,
+      "rel_volume": 1.62,
       "price_change_pct": 13.77,
       "gap_pct": 12.82,
       "st_msg_count": null,
@@ -117,9 +134,9 @@
       "float_shares": 131614245,
       "cash_debt_ratio": 0.76,
       "insider_pct": 5.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Why Intuitive Machines Stock Just Popped | Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win? | Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6%"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
+      "recent_news": "Intuitive Machines (LUNR) Rockets Higher as Analyst Bets on 100% Upside | Why Intuitive Machines Stock Just Popped | Redwire Surges 8% but Is Still Down 3% in a Month: Will the Bulls or Bears Win?"
     },
     {
       "ticker": "USAR",
@@ -136,7 +153,7 @@
       "insider_pct": 37.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Rare Earth Stocks With Supply Chain Leverage Investors Should Watch | Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi | USA Rare Earth Shares Rise 6% Following Trump’s Greenland Agreement Announcement"
+      "recent_news": "USAR Stock Alert: USA Rare Earths Jumps on Trump's Greenland Deal Announcement | Rare Earth Stocks With Supply Chain Leverage Investors Should Watch | Greenland Deal Fuels Critical Metals; Rare Earth Stocks Hinge On Trump-Xi"
     },
     {
       "ticker": "VYX",
@@ -190,21 +207,21 @@
       "recent_news": "York Space Systems (YSS) Cuts Guidance While Backlog Keeps Climbing | YSS Stock Is Falling Despite Space Force Win — Goldman Sachs Just Slashed Its Price Target By 50% | York Space Systems Stock Falls After Goldman Sachs Slashes Target Price"
     },
     {
-      "ticker": "IMSR",
-      "score": 52.8,
-      "last_close": 4.5,
-      "rel_volume": 1.11,
-      "price_change_pct": 8.17,
-      "gap_pct": 7.93,
+      "ticker": "SOS",
+      "score": 53.0,
+      "last_close": 0.768,
+      "rel_volume": 1.15,
+      "price_change_pct": 10.34,
+      "gap_pct": 7.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 581183808,
-      "float_shares": 60209361,
-      "cash_debt_ratio": 70.51,
-      "insider_pct": 18.6,
+      "market_cap": 14868935,
+      "float_shares": 12978813,
+      "cash_debt_ratio": 2707.0,
+      "insider_pct": 6.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "On A Long Runway To Revenue, Terrestrial Energy (IMSR) Just Got A Little Shorter | Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Quarterly Update Report | Terrestrial Energy’s Lifetime Revenue Up 29%, Advancing in Texas A&M, DOE Fuel Program – Downloadable Quarterly Update Report"
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
       "ticker": "NN",
@@ -220,7 +237,7 @@
       "cash_debt_ratio": 17.38,
       "insider_pct": 23.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 167,
+      "recent_dilution_filings_90d": 166,
       "recent_news": "NextNav (NN) Q2 2026 Earnings Call Transcript | NN (NNBR) Stock Gets Fair Value Boost As Lower Discount Rate Lifts Valuation | NextNav (NN) Stock May Be Fully Priced As New Partnerships Expand"
     },
     {
@@ -241,6 +258,23 @@
       "recent_news": "The Metals Company vs. USA Rare Earth: Which Speculative Materials Bet Actually Pays Off First? | Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First. | Cameco vs. TMC The Metals Co: Is a Uranium Stock or Rare Earth Metals Venture the Better Buy in 2026?"
     },
     {
+      "ticker": "DSP",
+      "score": 51.1,
+      "last_close": 12.66,
+      "rel_volume": 1.66,
+      "price_change_pct": 6.57,
+      "gap_pct": 5.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 842191488,
+      "float_shares": 20242163,
+      "cash_debt_ratio": 8.72,
+      "insider_pct": 2.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 34,
+      "recent_news": "Viant (DSP) Moves 18.6% Higher: Will This Strength Last? | TTD Showered Owners With Cash. The Stock Still Lagged The Market | Top Midday Stories: Buffett Steps Down as Berkshire Chairman; Soccer Star Mbappe Leaves Nike for On"
+    },
+    {
       "ticker": "SPCE",
       "score": 50.2,
       "last_close": 3.31,
@@ -258,38 +292,21 @@
       "recent_news": "RKLB Stock In Focus After Rocket Lab Launches 93rd Electron Mission | Virgin Galactic (SPCE) Stock Looks Undervalued Even With Launch Delays | Virgin Galactic Holdings (SPCE) Pushes First Commercial Spaceflight Launch To February 2027"
     },
     {
-      "ticker": "XERS",
-      "score": 49.0,
-      "last_close": 8.8,
-      "rel_volume": 1.4,
-      "price_change_pct": 7.32,
-      "gap_pct": 5.24,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1604418688,
-      "float_shares": 176004731,
-      "cash_debt_ratio": 0.42,
-      "insider_pct": 3.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Why Xeris Biopharma Holdings (XERS) Is Up 8.4% After Tightening 2026 Revenue Guidance And Advancing XP-8121 | Xeris Biopharma Holdings (XERS) Posts Record Q2 Revenue, Is It Still A Bargain? | Xeris (XERS) Q2 2026 Earnings Call Transcript"
-    },
-    {
       "ticker": "PSKY",
       "score": 48.7,
       "last_close": 9.91,
-      "rel_volume": 4.69,
+      "rel_volume": 4.81,
       "price_change_pct": -2.94,
       "gap_pct": -2.4,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11118482432,
+      "market_cap": 11091005440,
       "float_shares": 536940811,
       "cash_debt_ratio": 0.1,
       "insider_pct": 50.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Paramount settles antitrust lawsuit with state AGs, clearing path for WBD merger | Paramount Skydance reaches antitrust deal with states over Warner Bros. Discovery purchase | Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields"
+      "recent_news": "Paramount settles antitrust lawsuit with state AGs, clearing path for WBD merger | Paramount's $110B Warner Bros. Discovery Merger Clears Legal Hurdle; Elizabeth Warren Says Letting Trump-Aligned Entity 'Dominate' News Is 'Disastrous' | Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here’s What That Means for Netflix Investors."
     },
     {
       "ticker": "TUYA",
@@ -340,7 +357,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains | Dear Rackspace Stock Fans, Here’s What the Nvidia Partnership Means for RXT | Relatively unknown cloud provider gets Nvidia's stamp of approval"
+      "recent_news": "Why Rackspace Technology (RXT) Is Up 15.8% After Joining NVIDIA’s Cloud Partner Program | Rackspace’s Nvidia Partnership Sparks Early Rally, But a $2.8 Billion Debt Load Remains | Dear Rackspace Stock Fans, Here’s What the Nvidia Partnership Means for RXT"
     },
     {
       "ticker": "NXDR",
@@ -351,7 +368,7 @@
       "gap_pct": 5.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1021279872,
+      "market_cap": 1006863616,
       "float_shares": 238600357,
       "cash_debt_ratio": 13.65,
       "insider_pct": 3.3,
@@ -368,30 +385,13 @@
       "gap_pct": 6.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1310645376,
+      "market_cap": 1310420480,
       "float_shares": 193513118,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 60,
       "recent_news": "T1 Energy (TE) Bets Big On Domestic Solar While Losses Mount | Sector Update: Energy Stocks Lower in Afternoon Trading | TE Stock Pops 9% After Norway Backs Data Center Plans For Idle Battery Factory"
-    },
-    {
-      "ticker": "SHEN",
-      "score": 40.7,
-      "last_close": 12.13,
-      "rel_volume": 1.46,
-      "price_change_pct": 4.84,
-      "gap_pct": 4.58,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 671573568,
-      "float_shares": 44974944,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 5.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 25,
-      "recent_news": "Zacks Industry Outlook Highlights Deutsche Telekom, Shenandoah Telecommunications and VEON | 3 Communication Stocks Likely to Brave Industry Headwinds | Shenandoah Telecommunications Sees Positive Free Cash Flow as Fiber Build Winds Down"
     },
     {
       "ticker": "SID",
@@ -440,9 +440,9 @@
       "float_shares": 3009456046,
       "cash_debt_ratio": 3.21,
       "insider_pct": 13.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Priced By the People: inDrive CFO on Scaling Affordable Mobility | Grab (GRAB) Stock Fair Value Edges Lower As Analysts Split On Superbank And Atome | Grab Cheers Investors With Share Repurchase Completion Plans"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
+      "recent_news": "Grab to Buy 60% of Atome for $1.49B, Raises 2028 Growth Targets | Priced By the People: inDrive CFO on Scaling Affordable Mobility | Grab (GRAB) Stock Fair Value Edges Lower As Analysts Split On Superbank And Atome"
     },
     {
       "ticker": "ULCC",
@@ -463,9 +463,9 @@
     },
     {
       "ticker": "UAMY",
-      "score": 37.4,
+      "score": 37.5,
       "last_close": 4.91,
-      "rel_volume": 0.72,
+      "rel_volume": 0.73,
       "price_change_pct": 6.05,
       "gap_pct": 5.4,
       "st_msg_count": null,
@@ -487,13 +487,13 @@
       "gap_pct": 4.89,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1694501888,
+      "market_cap": 1678104320,
       "float_shares": 156635014,
       "cash_debt_ratio": 0.21,
       "insider_pct": 15.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock. | Lucid Partners With Bolt to Advance Autonomous Mobility | Rivian’s  Remarkable Three Month Stock Collapse"
+      "recent_news": "Why Lucid Group Stock Motored Over 5% Higher Today | Lucid Just Struck a Partnership With Bolt on Mobility. What This Means for LCID Stock. | Lucid Partners With Bolt to Advance Autonomous Mobility"
     },
     {
       "ticker": "AAL",
@@ -531,9 +531,9 @@
     },
     {
       "ticker": "AUR",
-      "score": 35.8,
+      "score": 35.9,
       "last_close": 6.51,
-      "rel_volume": 1.71,
+      "rel_volume": 1.72,
       "price_change_pct": 3.17,
       "gap_pct": 3.17,
       "st_msg_count": null,
@@ -545,6 +545,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Aurora Innovation Targets 20 Driverless Trucks a Week as DaaS Shift Takes Shape | Are You Buying Aurora Innovation's Trucks Or Its Story? | PlusAI Picked a SPAC to Fund Its 2027 Autonomous-Truck Launch. Is Aurora Already Too Far Ahead?"
+    },
+    {
+      "ticker": "ADAM",
+      "score": 35.7,
+      "last_close": 8.92,
+      "rel_volume": 3.25,
+      "price_change_pct": 0.11,
+      "gap_pct": 0.17,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 801727680,
+      "float_shares": 84323418,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 6.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 171,
+      "recent_news": "5 Cheap REITs With Dividends Above 3% to Buy on the Dip | Zacks Industry Outlook Highlights Ellington Financial and Adamas Trust | 2 mREIT Stocks to Invest in Despite Challenging Industry Trends"
     },
     {
       "ticker": "LAC",
@@ -564,21 +581,55 @@
       "recent_news": "Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts | 3 Mining Stocks Retail Investors Are Watching For Europe Critical Minerals Demand | Lithium Americas (TSX:LAC) Sells Off Again, But Is The Valuation Story Getting Harder To Call?"
     },
     {
-      "ticker": "NMAX",
-      "score": 34.6,
-      "last_close": 10.88,
-      "rel_volume": 0.74,
-      "price_change_pct": 5.43,
-      "gap_pct": 4.81,
+      "ticker": "BLND",
+      "score": 35.2,
+      "last_close": 1.25,
+      "rel_volume": 1.06,
+      "price_change_pct": 5.04,
+      "gap_pct": 3.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1405267840,
-      "float_shares": 30941724,
-      "cash_debt_ratio": 11.08,
-      "insider_pct": 21.9,
+      "market_cap": 295641632,
+      "float_shares": 188231490,
+      "cash_debt_ratio": 21.97,
+      "insider_pct": 10.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Has Escalade (ESCA) Outpaced Other Consumer Discretionary Stocks This Year? | Newsmax (NMAX) Q2 2026 Earnings Call Transcript | Is Newsmax (NMAX) Entering A New Phase After Its First Profit And AI Deal?"
+      "recent_news": "Blend Labs Q2 Earnings Call Highlights | Blend Labs Inc (BLND) (Q2 2026) Earnings Call Highlights: AI Autopilot Gains Traction Amid ... | Blend Labs (BLND) Reports Break-Even Earnings for Q2"
+    },
+    {
+      "ticker": "BRSL",
+      "score": 35.2,
+      "last_close": 10.28,
+      "rel_volume": 2.61,
+      "price_change_pct": 0.98,
+      "gap_pct": 0.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1878591360,
+      "float_shares": 94498720,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 48.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Brightstar Lottery (BRSL) Q2 2026 Earnings Call Transcript | Brightstar Lottery Q2 Earnings Call Highlights | Analysts Estimate Red Rock Resorts (RRR) to Report a Decline in Earnings: What to Look Out for"
+    },
+    {
+      "ticker": "PAL",
+      "score": 35.2,
+      "last_close": 4.01,
+      "rel_volume": 3.57,
+      "price_change_pct": 0.0,
+      "gap_pct": -0.12,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 112492232,
+      "float_shares": 24070811,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 14.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
+      "recent_news": "Proficient Auto Logistics (PAL) Q2 2026 Earnings Call Transcript | Proficient Auto Logistics, Inc. Common Stock Q2 2026 Earnings Call Summary | Proficient Auto Logistics Q2 Earnings Call Highlights"
     },
     {
       "ticker": "SES",
@@ -594,7 +645,7 @@
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 14,
+      "recent_dilution_filings_90d": 13,
       "recent_news": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy | SES AI (SES) Q2 2026 Earnings Call Transcript | SES AI Corporation Q2 2026 Earnings Call Summary"
     },
     {
@@ -616,9 +667,9 @@
     },
     {
       "ticker": "KOS",
-      "score": 31.9,
+      "score": 32.0,
       "last_close": 2.63,
-      "rel_volume": 1.08,
+      "rel_volume": 1.09,
       "price_change_pct": -3.66,
       "gap_pct": -4.21,
       "st_msg_count": null,
@@ -627,8 +678,8 @@
       "float_shares": 581600879,
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Crescent Energy, HighPeak Energy, and Kosmos Energy Stocks Trade Down, What You Need To Know | Kosmos Energy (KOS) Stock Is Up, What You Need To Know | Are You Looking for a Top Momentum Pick? Why Kosmos Energy (KOS) is a Great Choice"
     },
     {
@@ -689,10 +740,20 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TROX",
+      "score": 26.5,
+      "last_close": 4.31,
+      "rel_volume": 1.22,
+      "price_change_pct": 2.38,
+      "gap_pct": 2.57,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GENI",
-      "score": 25.4,
+      "score": 25.8,
       "last_close": 5.76,
-      "rel_volume": 1.34,
+      "rel_volume": 1.37,
       "price_change_pct": 2.13,
       "gap_pct": 1.68,
       "st_msg_count": null,
@@ -729,60 +790,40 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ANGX",
-      "score": 22.0,
-      "last_close": 5.22,
-      "rel_volume": 1.48,
-      "price_change_pct": -0.95,
-      "gap_pct": -0.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "PCG",
-      "score": 21.2,
+      "score": 21.9,
       "last_close": 12.94,
-      "rel_volume": 1.01,
+      "rel_volume": 1.07,
       "price_change_pct": -1.97,
       "gap_pct": -1.74,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "EFC",
-      "score": 20.6,
-      "last_close": 12.61,
-      "rel_volume": 1.18,
-      "price_change_pct": 1.37,
-      "gap_pct": 1.37,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "PMT",
-      "score": 19.0,
-      "last_close": 8.88,
-      "rel_volume": 1.21,
-      "price_change_pct": 0.91,
-      "gap_pct": 1.08,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SOFI",
-      "score": 18.2,
+      "score": 18.4,
       "last_close": 16.97,
-      "rel_volume": 1.54,
+      "rel_volume": 1.56,
       "price_change_pct": 0.06,
       "gap_pct": -0.03,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "RC",
+      "score": 17.1,
+      "last_close": 1.67,
+      "rel_volume": 1.26,
+      "price_change_pct": 0.6,
+      "gap_pct": 0.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CLBK",
-      "score": 16.8,
+      "score": 16.9,
       "last_close": 11.6,
-      "rel_volume": 1.38,
+      "rel_volume": 1.39,
       "price_change_pct": 0.17,
       "gap_pct": 0.09,
       "st_msg_count": null,
@@ -790,9 +831,9 @@
     },
     {
       "ticker": "PATH",
-      "score": 16.6,
+      "score": 16.7,
       "last_close": 13.59,
-      "rel_volume": 0.72,
+      "rel_volume": 0.73,
       "price_change_pct": 1.49,
       "gap_pct": 1.9,
       "st_msg_count": null,
@@ -809,22 +850,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "IVR",
-      "score": 15.5,
-      "last_close": 6.51,
-      "rel_volume": 0.94,
-      "price_change_pct": 0.93,
-      "gap_pct": 0.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "OPTU",
-      "score": 14.7,
-      "last_close": 1.08,
-      "rel_volume": 1.26,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.0,
+      "ticker": "F",
+      "score": 14.4,
+      "last_close": 13.17,
+      "rel_volume": 1.11,
+      "price_change_pct": -0.3,
+      "gap_pct": -0.26,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -839,20 +870,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "F",
-      "score": 13.9,
-      "last_close": 13.17,
-      "rel_volume": 1.07,
-      "price_change_pct": -0.3,
-      "gap_pct": -0.26,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "MARA",
-      "score": 13.8,
+      "score": 13.9,
       "last_close": 13.28,
-      "rel_volume": 1.02,
+      "rel_volume": 1.03,
       "price_change_pct": 0.3,
       "gap_pct": -0.49,
       "st_msg_count": null,
@@ -869,22 +890,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CAPR",
-      "score": 12.0,
-      "last_close": 8.9,
-      "rel_volume": 0.27,
-      "price_change_pct": -1.77,
-      "gap_pct": -1.77,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "JBGS",
-      "score": 11.8,
-      "last_close": 11.21,
-      "rel_volume": 0.92,
-      "price_change_pct": -0.18,
-      "gap_pct": 0.27,
+      "ticker": "TBLA",
+      "score": 11.5,
+      "last_close": 3.62,
+      "rel_volume": 0.79,
+      "price_change_pct": 0.56,
+      "gap_pct": 0.28,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -895,6 +906,16 @@
       "rel_volume": 0.75,
       "price_change_pct": -0.14,
       "gap_pct": -0.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "EVH",
+      "score": 8.8,
+      "last_close": 3.69,
+      "rel_volume": 0.73,
+      "price_change_pct": 0.0,
+      "gap_pct": -0.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
