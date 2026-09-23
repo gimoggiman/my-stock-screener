@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-23T04:35:45.454153+00:00",
+  "last_updated_utc": "2026-09-23T09:45:11.388409+00:00",
   "tickers_scanned": 67,
   "results": [
     {
@@ -345,8 +345,8 @@
       "float_shares": 4600889,
       "cash_debt_ratio": 0.02,
       "insider_pct": 41.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "New Fortress Energy (NFE) Resets Its Balance Sheet, Is The Valuation Discount Too Steep? | Sector Update: Energy Stocks Gain Late Afternoon | Sector Update: Energy"
     },
     {
