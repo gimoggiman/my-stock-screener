@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-24T07:14:17.934684+00:00",
+  "last_updated_utc": "2026-09-24T13:14:16.217743+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -12,12 +12,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": 94.8,
       "market_cap": null,
-      "float_shares": 3009456046,
+      "float_shares": 2998810540,
       "cash_debt_ratio": 3.21,
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Grab execs buy back shares after stock hits 3-year low on Atome deal - Reuters | Grab Holdings Limited (GRAB) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance"
+      "recent_news": "Is It Worth Investing in Grab  (GRAB) Based on Wall Street's Bullish Views? | The Real Reason Uber Won’t Complete Its Grab Takeover | Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low"
     },
     {
       "ticker": "EGHT",
@@ -34,7 +34,7 @@
       "insider_pct": 2.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 8x8 Stock Price Forecast. Should You Buy EGHT? - StockInvest.us | Should Value Investors Buy 8x8 (EGHT) Stock? - Yahoo Finance"
+      "recent_news": "Should Value Investors Buy 8x8 (EGHT) Stock? | EGHT or ADSK: Which Is the Better Value Stock Right Now? | Video Conferencing Stocks Q2 Recap: Benchmarking 8x8 (NASDAQ:EGHT)"
     },
     {
       "ticker": "NNBR",
@@ -51,7 +51,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Why NN (NNBR) Stock Is Trading Up Today - Yahoo Finance | NN, Inc.: Repeated Guidance Raises Are Hard To Ignore (Ratings Upgrade) - Seeking Alpha"
+      "recent_news": "Why NN (NNBR) Stock Is Trading Up Today | Unpacking Q2 Earnings: NN (NASDAQ:NNBR) In The Context Of Other Engineered Components and Systems Stocks | Friedman Stock Surges Nearly 84% in 3 Months: Can the Momentum Last?"
     },
     {
       "ticker": "SRFM",
@@ -68,7 +68,7 @@
       "insider_pct": 17.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Surf Air Mobility Stock Jumps on a SkyDance Air Deal. How to Play SRFM Here. - Yahoo Finance | SURF AIR MOBILITY INC (SRFM) Stock Chart - ChartMill"
+      "recent_news": "Surf Air Mobility Stock Jumps on a SkyDance Air Deal. How to Play SRFM Here. | SRFM Lands First OperatorOS Customer As Palantir-Powered Platform Goes Commercial | Surf Air Mobility Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "SECZ",
@@ -85,7 +85,7 @@
       "insider_pct": 12.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Top Securitize (SECZ) Competitors 2026 - marketbeat.com | Securitize Corp (SECZ) Soars to All-Time High Anew, Analysts ‘Highly Bullish’ - Yahoo Finance"
+      "recent_news": "Securitize Corp (SECZ) Soars to All-Time High Anew, Analysts ‘Highly Bullish’ | Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom | Cantor Fitzgerald Sees Big Upside in Securitize (SECZ): Is It Time to Buy?"
     },
     {
       "ticker": "LU",
@@ -102,7 +102,7 @@
       "insider_pct": 3.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 65,
-      "recent_news": "Google News | AndesTec GDS RegS (ANDS-USD.LU) stock price, news, quote and history - Yahoo Finance UK | Lufax: Trading At 0.1x Tangible Book After China's Consumer Lending Shock (NYSE:LU) - Seeking Alpha"
+      "recent_news": "Lufax (LU) Narrowed Its Loss 86%. Was the Improvement Mostly Tax-Driven? | Lufax H1 Earnings Call Highlights | Lufax Holding (LU) Is Down 6.3% After Cluster Of Senior Director Exits And Board Reshuffle"
     },
     {
       "ticker": "MEI",
@@ -119,7 +119,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Methode Electronics, Inc. (MEI) stock price, news, quote and history - Yahoo Finance UK | A first investor event is coming to the New York Stock Exchange - Stock Titan"
+      "recent_news": "3 of Wall Street’s Favorite Stocks We Steer Clear Of | Why Methode Electronics (MEI) Stock Is Trading Up Today | Methode Electronics (MEI) Q1 2027 Earnings Call Transcript"
     },
     {
       "ticker": "LGO",
@@ -136,24 +136,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A copper-and-precious-metal concentrate has margins above 90%. Largo is studying a possible 2027 expansion. - Stock Titan | Largo (LGO) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance"
-    },
-    {
-      "ticker": "RC",
-      "score": 54.9,
-      "last_close": 1.46,
-      "rel_volume": 1.28,
-      "price_change_pct": -12.57,
-      "gap_pct": -11.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 241646048,
-      "float_shares": 145614208,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 10.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | Three cash dividends are set for October by Ready Capital - Stock Titan | Discover Pioneer Power Solutions Alongside 2 Other Noteworthy Penny Stocks - simplywall.st"
+      "recent_news": "Largo Restructures Debt and Begins Copper-PGM Concentrate Sales | Largo (LGO) Upgraded to Buy: What Does It Mean for the Stock? | Largo Q2 Earnings Call Highlights"
     },
     {
       "ticker": "SOS",
@@ -170,7 +153,7 @@
       "insider_pct": 6.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | A private placement with non-U.S. investors is complete at SOS Ltd (SOS). - Stock Titan | 12 Industrials Stocks Moving In Wednesday's After-Market Session - Benzinga"
+      "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
       "ticker": "STRR",
@@ -185,9 +168,9 @@
       "float_shares": 2062671,
       "cash_debt_ratio": 0.39,
       "insider_pct": 39.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CDNL,ANGX,AMRC,CUEN,LIEN,STRR,FISV,SPG,FRST,MTDR,AFCG,BGDE,LFT,ACON,CC,BCDA,IDAI,RSG,MSIF,CWBC,SELF,PSNY,TISI,RVSB,AWRE | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada | 3 Newly Overvalued Stocks this Week - Morningstar"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Star Equity (STRR) Q2 2026 Earnings Call Transcript | Star Equity Holdings, Inc. Q2 2026 Earnings Call Summary | Star Equity Holdings Inc (STRR) (Q2 2026) Earnings Call Highlights: Merger Synergies and ..."
     },
     {
       "ticker": "ADCT",
@@ -204,7 +187,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ADC Therapeutics (ADCT) Stock Fair Value Falls After LOTIS 5 Reshapes Zynlonta Outlook - Yahoo Finance | ADC Therapeutics Reports Second Quarter 2026 Financial Results and Provides Operational Updates - PR Newswire"
+      "recent_news": "ADC Therapeutics (ADCT) Navigates FDA Setback While Cutting Its Losses | ADC Therapeutics (ADCT) Q2 2026 Earnings Call Transcript | ADC Therapeutics (ADCT) Stock Fair Value Falls After LOTIS 5 Reshapes Zynlonta Outlook"
     },
     {
       "ticker": "GENI",
@@ -221,7 +204,24 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports (GENI) Stock Still Looks Fully Priced Despite A 64% Slide - Yahoo Finance Singapore | Dec. 8 is set for Genius Sports' shareholder meeting; its location will follow in meeting materials. - Stock Titan"
+      "recent_news": "Genius Sports (GENI) Stock Still Looks Fully Priced Despite A 64% Slide | Do Options Traders Know Something About Genius Sports Stock We Don't? | The Dealmaking 3: Genius Sports’ AI Liga MX Deal, Southern Miss Makes History, Paramount+ at Vegas"
+    },
+    {
+      "ticker": "NFE",
+      "score": 49.4,
+      "last_close": 6.4,
+      "rel_volume": 0.81,
+      "price_change_pct": -21.47,
+      "gap_pct": -20.5,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 36561236,
+      "float_shares": 4600889,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 41.3,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "New Fortress Energy (NFE) Resets Its Balance Sheet, Is The Valuation Discount Too Steep? | Sector Update: Energy Stocks Gain Late Afternoon | Sector Update: Energy"
     },
     {
       "ticker": "SSL",
@@ -236,9 +236,9 @@
       "float_shares": 598396997,
       "cash_debt_ratio": 0.42,
       "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | Is Sasol Ltd (SSL) Overvalued After 3.6% Rally? GF Value Says Ov - GuruFocus | Sasol Stock Price Forecast. Should You Buy SSL? - StockInvest.us"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Is Sasol (SSL) a Great Value Stock Right Now? | Why Sasol Stock Soared Nearly 10% Higher Today | Sasol (SSL) Chases A Decade Low In Debt"
     },
     {
       "ticker": "KVYO",
@@ -249,13 +249,13 @@
       "gap_pct": 6.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4777726464,
+      "market_cap": 5021915136,
       "float_shares": 125422436,
       "cash_debt_ratio": 7.31,
       "insider_pct": 2.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance Australia | Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates - Yahoo Finance"
+      "recent_news": "3 Tech Stocks Built For Higher Rates And Stronger Cash Flow | Klaviyo (KVYO) Stock May Be Undervalued Despite Fresh AI Platform Updates | Klaviyo (KVYO) Could Be 41% Undervalued After AI CRM Updates And MNTN Tie Up"
     },
     {
       "ticker": "JELD",
@@ -266,13 +266,13 @@
       "gap_pct": 6.73,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 155072368,
+      "market_cap": 156174080,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | $JELD stock is down 8% today. Here's what we see in our data. - Quiver Quantitative | JELD WEN Holding (JELD) Stock Gets Fair Value Boost As Analyst Views Stay Mixed - Yahoo Finance"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "2 Industrials Stocks for Long-Term Investors and 1 Facing Headwinds | JELD WEN Holding (JELD) Stock Gets Fair Value Boost As Analyst Views Stay Mixed | 1 Unpopular Stock That Deserves a Second Chance and 2 We Turn Down"
     },
     {
       "ticker": "FLX",
@@ -289,7 +289,7 @@
       "insider_pct": 5.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Flex Ltd. (FLEX) stock price, news, quote and history - Yahoo Finance Singapore | 12 Industrials Stocks Moving In Monday's Intraday Session - Benzinga"
+      "recent_news": "BingEx (FLX) Q2 2026 Earnings Call Transcript | BingEx Ltd (FLX) (Q2 2026) Earnings Call Highlights: Revenue Dips Amid Fierce Competition, but ... | BingEx Q2 Earnings Call Highlights"
     },
     {
       "ticker": "TMC",
@@ -304,9 +304,9 @@
       "float_shares": 243343566,
       "cash_debt_ratio": null,
       "insider_pct": 46.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | TMC the metals company Inc. (TMC) stock price, news, quote and history - Yahoo Finance Singapore | Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now - fool.com"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Is TMC The Metals (TMC) Reasonable Or Stretched On Book Value? | TMC The Metals (TMC) Climbed, So What Is Driving Attention Now? | The Metals Company vs. USA Rare Earth: Which Speculative Materials Bet Actually Pays Off First?"
     },
     {
       "ticker": "DH",
@@ -323,7 +323,7 @@
       "insider_pct": 3.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Definitive Healthcare Corp. (DH) Tops Q1 Earnings Estimates - Yahoo Finance | DH Stock Steadies As AI Push Offsets Revenue Slide - timothysykes.com"
+      "recent_news": "Definitive Healthcare Shares Rise 13% After Advent International Submits $1.02-Per-Share Proposal | Definitive Healthcare (DH) Q2 2026 Earnings Call | Definitive Healthcare Corp. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "GAB",
@@ -340,7 +340,24 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | AMZN Stock Drops For Second Day — Amazon Reportedly Cuts Jobs In Artificial General Intelligence Unit Amid Strategic Realignment - Stocktwits | The Gabelli Equity Trust Inc . Q2 2026 Commentary (GAB) - Seeking Alpha"
+      "recent_news": "Gabelli Equity Trust Inc's Dividend Analysis | This CEF Appears Down From Its 1986 Prices, but It’s Hiding a Lovely Secret | Gabelli Equity Trust pays 9.5% yield while founder quietly buys millions in shares"
+    },
+    {
+      "ticker": "KURA",
+      "score": 43.6,
+      "last_close": 11.04,
+      "rel_volume": 1.22,
+      "price_change_pct": -5.88,
+      "gap_pct": -5.84,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 982125184,
+      "float_shares": 70438129,
+      "cash_debt_ratio": 21.22,
+      "insider_pct": 1.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Kura spins diabetes work into a Lilly-backed biotech startup | Kura Oncology Pivots Diabetes Strategy Into $50 Million Subsidiary | Kura Oncology (KURA) Stock Looks Fully Priced After Its 56% Run"
     },
     {
       "ticker": "HL",
@@ -351,13 +368,13 @@
       "gap_pct": -4.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 12253915136,
+      "market_cap": 12273209344,
       "float_shares": 668288671,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Hecla Mining Company (HL) Stock Forecasts - Yahoo Finance | HL Stock Holds Support As Traders Focus On Profitability - timothysykes.com"
+      "recent_news": "Can Pan American Silver's Solid Reserve Base Support Growth? | Coeur Mining Is Generating Record Cash, So Why Does Its Dip History Warn Buyers? | Can Pan American Silver Sustain Its Solid Silver AISC in H2?"
     },
     {
       "ticker": "AIFU",
@@ -374,7 +391,7 @@
       "insider_pct": 87.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | AIFU Inc. Signs MOU for Proposed Acquisition of Peakleap Ventures Limited to Enhance Industrial AI Capabilities - Quiver Quantitative | (AIFU) Price Dynamics and Execution-Aware Positioning - Stock Traders Daily"
+      "recent_news": "AIFU's Market Cap Drops To US$160m Leaving Insiders With Losses | Insiders are the top stockholders in AIFU Inc. (NASDAQ:AIFU), and the recent 11% drop might have disappointed them | One AIFU Insider Raised Their Stake In The Previous Year"
     },
     {
       "ticker": "RKT",
@@ -391,7 +408,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | RKT Stock Rises Overnight: Benchmark Believes Rocket Could Rival Zillow In Online Real Estate - Stocktwits | Reckitt Benckiser Group plc (RKT.L) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "‘This Is the Pain That Comes With Bringing Inflation Down’: Economist Says Higher Rates Are Here to Stay | What Could Surprise RKLB Stock Investors On The Upside? | ValueAct’s 2 Stock Picks You Shouldn’t Miss"
     },
     {
       "ticker": "NAT",
@@ -408,7 +425,7 @@
       "insider_pct": 5.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 25,
-      "recent_news": "Google News | Nordic American Tankers (NAT) is a Great Momentum Stock: Should You Buy? - Yahoo Finance | Cheaper oil helps a tanker company, Nordic American Tankers says. - Stock Titan"
+      "recent_news": "Is KNOT Offshore Partners (KNOP) Stock Outpacing Its Transportation Peers This Year? | Nordic American Tankers Ltd's Dividend Analysis | Nordic American Tankers (NAT) is a Great Momentum Stock: Should You Buy?"
     },
     {
       "ticker": "FLNC",
@@ -423,9 +440,9 @@
       "float_shares": 88970443,
       "cash_debt_ratio": 0.82,
       "insider_pct": 14.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Is Fluence Energy (FLNC) Undervalued After Cutting Its 2026 Outlook? - Yahoo Finance | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits"
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Fluence Energy (FLNC) Names New COO and Director After Product Chief Exit | Is Fluence Energy (FLNC) Undervalued After Cutting Its 2026 Outlook? | Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It"
     },
     {
       "ticker": "GRAB",
@@ -437,12 +454,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 13092166656,
-      "float_shares": 3009456046,
+      "float_shares": 2998810540,
       "cash_debt_ratio": 3.21,
       "insider_pct": 13.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Grab execs buy back shares after stock hits 3-year low on Atome deal - Reuters | Grab's Chief Operating Officer Buys Nearly 300,000 Shares for $867,000 After Stock Hits 52-Week Low - fool.com"
+      "recent_news": "NIO Stock And 2 Penny Stocks To Watch | Is It Worth Investing in Grab  (GRAB) Based on Wall Street's Bullish Views? | The Real Reason Uber Won’t Complete Its Grab Takeover"
     },
     {
       "ticker": "AUR",
@@ -459,7 +476,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Aurora’s Driverless Ambition Meets Wall Street Shrug — AUR Stock Falls As Company Outlines 30,000-Truck 2030 Goal - Stocktwits | $AUR stock is down 9% today. Here's what we see in our data. - Quiver Quantitative"
+      "recent_news": "Aurora Innovation Targets 30,000 Driverless Trucks, $5B Revenue by 2030 | Aurora’s Driverless Ambition Meets Wall Street Shrug — AUR Stock Falls As Company Outlines 30,000-Truck 2030 Goal | Aurora’s New Production Goals and Driver-as-a-Service Pivot Could Be A Game Changer For Aurora Innovation (AUR)"
     },
     {
       "ticker": "SOFI",
@@ -476,7 +493,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Bitcoin Hit $85,000 Today — SoFi Stock Barely Moved - Benzinga | Sensitive Sector: Why Are Upstart, Affirm, and SoFi Dropping Faster Than the Broader Equities Market? - Yahoo Finance"
+      "recent_news": "SoFi and Mastercard's new stablecoin partnership is a big deal. Here's why. | Bitcoin ETFs rakes in the dough | Mastercard (MA) Stock Still Looks Undervalued Following Its 63% Five Year Run"
     },
     {
       "ticker": "ONDS",
@@ -491,26 +508,9 @@
       "float_shares": 533415089,
       "cash_debt_ratio": 33.69,
       "insider_pct": 1.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | ONDS Stock Set To Snap 4-Week Slide — Retail Bulls See Palantir-Style Play In Fresh Defense Deals - Yahoo Finance | ONDS Stock In The Spotlight After New Navy Contract – Everything To Know About The Deal - Stocktwits"
-    },
-    {
-      "ticker": "ULCC",
-      "score": 31.7,
-      "last_close": 5.84,
-      "rel_volume": 0.81,
-      "price_change_pct": -4.58,
-      "gap_pct": -4.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1344460160,
-      "float_shares": 70310199,
-      "cash_debt_ratio": 0.18,
-      "insider_pct": 43.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Frontier Group (ULCC) exec settles 65K RSUs, no sale - Stock Titan | Frontier Group Holdings (ULCC) Could Be 7% Undervalued After New Flexible Cancellation Launch - simplywall.st"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "ONDS Stock Set To Snap 4-Week Slide — Retail Bulls See Palantir-Style Play In Fresh Defense Deals | Ondas (ONDS) Buys GATE and Bron. Can Component Ownership Improve Defense Returns? | Ondas vs. AeroVironment: Which Drone Stock Is the Better Pick Now?"
     },
     {
       "ticker": "FRSH",
@@ -527,7 +527,7 @@
       "insider_pct": 8.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Freshworks (FRSH) Stock Looks Priced At A Premium To Fair Value - Yahoo Finance | Freshworks Inc (FRSH) Shares Fall 3.7% -- What GF Score of 79 Te - GuruFocus"
+      "recent_news": "3 Software Stocks to Target This Week | Atlassian, Palo Alto Networks, SentinelOne, monday.com, and Freshworks Stocks Trade Up, What You Need To Know | 1 Stock Under $50 Worth Investigating and 2 That Underwhelm"
     },
     {
       "ticker": "MOGU",
@@ -538,13 +538,13 @@
       "gap_pct": 5.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": 1.5,
-      "market_cap": 16145393,
+      "market_cap": 16164458,
       "float_shares": 2605233,
       "cash_debt_ratio": 385.33,
       "insider_pct": 16.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | MOGU Q2 2021 Earnings: Narrower-Than-Expected Loss Drives Stock Up 2.45% - Estimate Revision Count - careplusvn.com | MOGU (MOGU) director Chen Qi adds 6,419 ADS to existing large shareholdings - Stock Titan"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Track Lower in Wednesday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Tuesday Trading"
     },
     {
       "ticker": "DGICB",
@@ -555,13 +555,13 @@
       "gap_pct": -0.57,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 718762304,
+      "market_cap": 720114048,
       "float_shares": 17436412,
       "cash_debt_ratio": 1.44,
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Donegal Group (NASDAQ:DGICB) Trading 4.7% Higher - What's Next? - marketbeat.com | (DGICB) Movement Within Algorithmic Entry Frameworks - Stock Traders Daily"
+      "recent_news": "Donegal Group Inc (DGICA) (Q2 2026) Earnings Call Highlights: Strong Underwriting and ... | Donegal Group (DGICA) Surpasses Q2 Earnings Estimates | ITIC vs DGICA: Which Insurance Stock is the Better Buy?"
     },
     {
       "ticker": "PCG",
@@ -650,16 +650,6 @@
       "rel_volume": 1.18,
       "price_change_pct": -2.3,
       "gap_pct": -1.81,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CWH",
-      "score": 23.3,
-      "last_close": 5.36,
-      "rel_volume": 1.03,
-      "price_change_pct": -2.19,
-      "gap_pct": -2.37,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -784,12 +774,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "FIP",
-      "score": 11.6,
-      "last_close": 3.09,
-      "rel_volume": 0.77,
-      "price_change_pct": 0.65,
-      "gap_pct": 0.33,
+      "ticker": "METC",
+      "score": 14.1,
+      "last_close": 9.28,
+      "rel_volume": 0.88,
+      "price_change_pct": -0.96,
+      "gap_pct": -0.43,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -810,6 +800,16 @@
       "rel_volume": 0.61,
       "price_change_pct": -0.46,
       "gap_pct": -0.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TUYA",
+      "score": 6.9,
+      "last_close": 1.73,
+      "rel_volume": 0.5,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.58,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
