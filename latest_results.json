@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-25T05:51:41.785161+00:00",
-  "tickers_scanned": 69,
+  "last_updated_utc": "2026-09-25T11:12:49.855870+00:00",
+  "tickers_scanned": 68,
   "results": [
     {
       "ticker": "DNA",
@@ -16,7 +16,7 @@
       "cash_debt_ratio": 0.75,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 98,
+      "recent_dilution_filings_90d": 99,
       "recent_news": "Ginkgo Bioworks Holdings, Inc. (DNA) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ginkgo Bioworks (DNA) Surges 11.1%: Is This an Indication of Further Gains? | Ginkgo Bioworks Holdings, Inc. (DNA) Rises As Market Takes a Dip: Key Facts"
     },
     {
@@ -28,8 +28,8 @@
       "gap_pct": -25.64,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 67157952,
-      "float_shares": 197011386,
+      "market_cap": 68162888,
+      "float_shares": 196228291,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
       "dilution_risk": "낮음",
@@ -96,7 +96,7 @@
       "gap_pct": 12.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": null,
+      "market_cap": 158469904,
       "float_shares": 39114568,
       "cash_debt_ratio": 0.0,
       "insider_pct": null,
@@ -116,7 +116,7 @@
       "market_cap": 7606732,
       "float_shares": 12978813,
       "cash_debt_ratio": 2707.0,
-      "insider_pct": 6.4,
+      "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
       "recent_news": "3 UK Penny Stocks With Market Caps Up To £80M | Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
@@ -131,8 +131,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 285974336,
-      "float_shares": 64629998,
-      "cash_debt_ratio": 0.03,
+      "float_shares": 65664937,
+      "cash_debt_ratio": 0.05,
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -147,7 +147,7 @@
       "gap_pct": 7.04,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2031239040,
+      "market_cap": 2037132544,
       "float_shares": 138071236,
       "cash_debt_ratio": 0.11,
       "insider_pct": 0.4,
@@ -185,8 +185,8 @@
       "float_shares": 2934957,
       "cash_debt_ratio": 4.31,
       "insider_pct": 8.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Sector Update: Healthcare Stocks Fall Late Afternoon | Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill | Does NextCure (NXTC) Have the Potential to Rally 107.88% as Wall Street Analysts Expect?"
     },
     {
@@ -207,23 +207,6 @@
       "recent_news": "BingEx (FLX) Q2 2026 Earnings Call Transcript | BingEx Ltd (FLX) (Q2 2026) Earnings Call Highlights: Revenue Dips Amid Fierce Competition, but ... | BingEx Q2 Earnings Call Highlights"
     },
     {
-      "ticker": "LESL",
-      "score": 57.7,
-      "last_close": 0.339,
-      "rel_volume": 1.52,
-      "price_change_pct": -19.09,
-      "gap_pct": -14.2,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 3174896,
-      "float_shares": 9123939,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Leslie's downgraded to CCC- as distressed exchange deemed likely | Monro, America's Car-Mart, Camping World, Leslie's, and Boot Barn Stocks Trade Down, What You Need To Know | Why Leslie's (LESL) Stock Is Falling Today"
-    },
-    {
       "ticker": "PL",
       "score": 57.6,
       "last_close": 17.62,
@@ -238,24 +221,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 45,
-      "recent_news": "Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4% | RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case? | Planet Labs Co-Founder Dumps ~106,000 Shares in $1.8 Million Transaction"
-    },
-    {
-      "ticker": "MSC",
-      "score": 54.5,
-      "last_close": 0.85,
-      "rel_volume": 6.79,
-      "price_change_pct": 6.25,
-      "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 163699952,
-      "float_shares": 17094126,
-      "cash_debt_ratio": 0.06,
-      "insider_pct": 24.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 42,
-      "recent_news": "With EPS Growth And More, Malaysia Smelting Corporation Berhad (KLSE:MSC) Makes An Interesting Case | Malaysia Smelting Corporation Berhad's (KLSE:MSC) largest shareholders are private companies with 54% ownership, individual investors own 33% | Malaysia Smelting Corporation Berhad (KLSE:MSC) swells 20% this week, taking five-year gains to 240%"
+      "recent_news": "Stocktwits Space Race Weekly: Why RKLB, FLY, RDW And PL Are Outpacing SPCX | Space Stocks Rally as Buying Spreads Across the Pure Plays: Rocket Lab and Planet Labs Jump 6%, AST SpaceMobile Climbs 4% | RDW vs. PL: Which Satellite Stock Has the Stronger Investment Case?"
     },
     {
       "ticker": "TRIP",
@@ -266,7 +232,7 @@
       "gap_pct": 6.97,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 991397184,
+      "market_cap": 998538496,
       "float_shares": 115604259,
       "cash_debt_ratio": 0.94,
       "insider_pct": 1.3,
@@ -284,11 +250,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5124789248,
-      "float_shares": 584641041,
-      "cash_debt_ratio": 1.59,
+      "float_shares": 585570569,
+      "cash_debt_ratio": 1.71,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 330,
+      "recent_dilution_filings_90d": 333,
       "recent_news": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck | BB Stock Eyes Best Week In 3 Months As QNX Royalties Become ‘Star Of The Show’ — President’s Holdings Revealed | BlackBerry (BB) Q2 2027 Earnings Call Transcript"
     },
     {
@@ -300,7 +266,7 @@
       "gap_pct": 12.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 45178620,
+      "market_cap": 45441232,
       "float_shares": 45227713,
       "cash_debt_ratio": 0.06,
       "insider_pct": 6.9,
@@ -334,7 +300,7 @@
       "gap_pct": 6.26,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2512979456,
+      "market_cap": 2546942208,
       "float_shares": 117019285,
       "cash_debt_ratio": 0.32,
       "insider_pct": 2.1,
@@ -424,7 +390,7 @@
       "cash_debt_ratio": 0.4,
       "insider_pct": 3.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 143,
+      "recent_dilution_filings_90d": 145,
       "recent_news": "Sweetgreen, Inc. (SG) Stock Moves 2.54%: What You Should Know | 3 Cash-Burning Stocks We Steer Clear Of | 3 Reasons SG is Risky and 1 Stock to Buy Instead"
     },
     {
@@ -437,11 +403,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 808741952,
-      "float_shares": 46376996,
+      "float_shares": 46620499,
       "cash_debt_ratio": 0.07,
       "insider_pct": 69.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "recent_dilution_filings_90d": 4,
       "recent_news": "Is Abacus Global Management, Inc. (ABX) Stock Outpacing Its Finance Peers This Year? | Wall Street Analysts Believe Abacus Global Management, Inc. (ABX) Could Rally 48.75%: Here's is How to Trade | Are Finance Stocks Lagging  Abacus Global Management, Inc. (ABX) This Year?"
     },
     {
@@ -460,6 +426,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Brightstar Lottery (BRSL) Q2 2026 Earnings Call Transcript | Brightstar Lottery Q2 Earnings Call Highlights | Analysts Estimate Red Rock Resorts (RRR) to Report a Decline in Earnings: What to Look Out for"
+    },
+    {
+      "ticker": "RC",
+      "score": 44.1,
+      "last_close": 1.39,
+      "rel_volume": 1.67,
+      "price_change_pct": -4.79,
+      "gap_pct": -5.14,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 230060272,
+      "float_shares": 145614208,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 10.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 14,
+      "recent_news": "Ready Capital (RC) Q2 2026 Earnings Call Transcript | Ready Capital Q2 Earnings Call Highlights | Ready Capital Corp (RC) (Q2 2026) Earnings Call Highlights: Strategic Repositioning and Path to ..."
     },
     {
       "ticker": "LCUT",
@@ -494,23 +477,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Absci (ABSI) Stock Looks Expensive Against Its Book Value | Recursion Pharmaceuticals Highlights AI Drug Platform, FAP Progress at Morgan Stanley Conference | Baldness Drug Stocks like Veradermics (MANE) and Absci (ABSI) Are Chasing the Same Wall Street Magic as Ozempic"
-    },
-    {
-      "ticker": "CMPS",
-      "score": 41.6,
-      "last_close": 13.09,
-      "rel_volume": 1.51,
-      "price_change_pct": -4.8,
-      "gap_pct": -4.8,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1812661504,
-      "float_shares": 106969191,
-      "cash_debt_ratio": 7.93,
-      "insider_pct": 7.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Compass Pathways Targets Q4 COMP360 NDA Completion, Eyes 2027 Launch | Helus Pharma Eyes Q4 Phase III Data for HLP-003 in Major Depression | Compass Pathways Targets 2027 COMP360 Launch After Positive Phase III Depression Data"
     },
     {
       "ticker": "IOVA",
@@ -632,6 +598,23 @@
       "recent_news": "These Huge Mortgage REIT Yields Are Really a Bet on Interest Rates | 6 Ultra-High-Yield Names Where Coverage Is Cracking | A $500,000 Roth Portfolio Loaded With High-Yield Dividend Stocks Pays $40,000 a Year and the IRS Gets None of It"
     },
     {
+      "ticker": "CWH",
+      "score": 32.8,
+      "last_close": 5.19,
+      "rel_volume": 1.47,
+      "price_change_pct": -3.17,
+      "gap_pct": -3.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 331267072,
+      "float_shares": 55259688,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 2.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Zumiez, Camping World, Monro, OneWater, and Kohl's Shares Skyrocket, What You Need To Know | 3 of Wall Street’s Favorite Stocks We Keep Off Our Radar | 1 Oversold Stock Primed to Rebound and 2 We Brush Off"
+    },
+    {
       "ticker": "AGNC",
       "score": 32.6,
       "last_close": 9.62,
@@ -658,12 +641,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2738502656,
-      "float_shares": 1333469201,
+      "float_shares": 1333664809,
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 81,
-      "recent_news": "Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know | Plug Power (PLUG) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Plug Power (PLUG) On New Hydrogen Deals And A Valuation Gap That Still Divides Investors"
+      "recent_news": "Can Plug Power’s (PLUG) NZ Electrolyzer Win Offset Questions Raised by a COO Exit? | Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know | Plug Power (PLUG) Sees a More Significant Dip Than Broader Market: Some Facts to Know"
     },
     {
       "ticker": "OI",
@@ -726,6 +709,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "SRPT",
+      "score": 25.1,
+      "last_close": 18.39,
+      "rel_volume": 0.84,
+      "price_change_pct": -2.96,
+      "gap_pct": -3.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "MARA",
       "score": 24.6,
       "last_close": 12.92,
@@ -742,6 +735,16 @@
       "rel_volume": 1.87,
       "price_change_pct": -0.46,
       "gap_pct": -0.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "MLCO",
+      "score": 23.2,
+      "last_close": 4.67,
+      "rel_volume": 1.57,
+      "price_change_pct": -1.06,
+      "gap_pct": -0.85,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -802,26 +805,6 @@
       "rel_volume": 1.07,
       "price_change_pct": -1.24,
       "gap_pct": -1.32,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "METC",
-      "score": 18.4,
-      "last_close": 9.14,
-      "rel_volume": 0.85,
-      "price_change_pct": -1.51,
-      "gap_pct": -1.99,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "KURA",
-      "score": 18.0,
-      "last_close": 10.86,
-      "rel_volume": 0.76,
-      "price_change_pct": -1.63,
-      "gap_pct": -2.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -926,6 +909,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ULCC",
+      "score": 12.4,
+      "last_close": 5.85,
+      "rel_volume": 0.95,
+      "price_change_pct": 0.17,
+      "gap_pct": 0.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NU",
       "score": 11.8,
       "last_close": 13.56,
@@ -952,16 +945,6 @@
       "rel_volume": 0.6,
       "price_change_pct": -0.65,
       "gap_pct": -0.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "TUYA",
-      "score": 9.3,
-      "last_close": 1.72,
-      "rel_volume": 0.55,
-      "price_change_pct": -0.58,
-      "gap_pct": -0.58,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
