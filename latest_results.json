@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-25T23:50:55.130912+00:00",
-  "tickers_scanned": 63,
+  "last_updated_utc": "2026-09-26T03:38:35.992200+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "AESI",
@@ -11,7 +11,7 @@
       "gap_pct": 13.83,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1557572608,
+      "market_cap": 1558793088,
       "float_shares": 88313688,
       "cash_debt_ratio": 0.16,
       "insider_pct": 34.3,
@@ -20,10 +20,27 @@
       "recent_news": "Why Is Atlas Energy Solutions (AESI) Stock Rocketing Higher Today | 1 Stock Under $50 with Exciting Potential and 2 We Brush Off | Atlas Energy Solutions Stock Surges on Power Deal With ‘Leading Frontier AI Lab’"
     },
     {
+      "ticker": "GETY",
+      "score": 75.0,
+      "last_close": 0.14,
+      "rel_volume": 3.78,
+      "price_change_pct": -13.58,
+      "gap_pct": -15.99,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 59110996,
+      "float_shares": 196228291,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 79.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "A Look Back at Digital Media & Content Platforms Stocks’ Q2 Earnings: Getty Images (NYSE:GETY) Vs The Rest Of The Pack | Why Getty Images (GETY) Stock Is Trading Lower Today | 1 Cash-Burning Stock Worth Investigating and 2 We Avoid"
+    },
+    {
       "ticker": "KLXE",
       "score": 75.0,
       "last_close": 1.61,
-      "rel_volume": 3.39,
+      "rel_volume": 3.47,
       "price_change_pct": 9.52,
       "gap_pct": 8.16,
       "st_msg_count": null,
@@ -40,8 +57,8 @@
       "ticker": "LESL",
       "score": 75.0,
       "last_close": 0.292,
-      "rel_volume": 3.14,
-      "price_change_pct": -13.78,
+      "rel_volume": 3.2,
+      "price_change_pct": -13.86,
       "gap_pct": -13.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -54,10 +71,27 @@
       "recent_news": "Leslie's downgraded to CCC- as distressed exchange deemed likely | Monro, America's Car-Mart, Camping World, Leslie's, and Boot Barn Stocks Trade Down, What You Need To Know | Why Leslie's (LESL) Stock Is Falling Today"
     },
     {
+      "ticker": "LGO",
+      "score": 75.0,
+      "last_close": 0.53,
+      "rel_volume": 17.23,
+      "price_change_pct": -23.19,
+      "gap_pct": -22.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 55073552,
+      "float_shares": 68962612,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 0.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Largo Restructures Debt and Begins Copper-PGM Concentrate Sales | Largo (LGO) Upgraded to Buy: What Does It Mean for the Stock? | Largo Q2 Earnings Call Highlights"
+    },
+    {
       "ticker": "SRFM",
       "score": 75.0,
       "last_close": 1.11,
-      "rel_volume": 3.36,
+      "rel_volume": 3.4,
       "price_change_pct": 20.39,
       "gap_pct": 22.18,
       "st_msg_count": null,
@@ -74,7 +108,7 @@
       "ticker": "STEM",
       "score": 75.0,
       "last_close": 4.48,
-      "rel_volume": 6.21,
+      "rel_volume": 6.22,
       "price_change_pct": 14.87,
       "gap_pct": 15.95,
       "st_msg_count": null,
@@ -89,9 +123,9 @@
     },
     {
       "ticker": "GENI",
-      "score": 65.4,
+      "score": 66.5,
       "last_close": 6.44,
-      "rel_volume": 2.18,
+      "rel_volume": 2.27,
       "price_change_pct": 11.03,
       "gap_pct": 10.6,
       "st_msg_count": null,
@@ -102,7 +136,24 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports Limited (GENI) stock price, news, quote and history - Yahoo Finance Singapore | GENI Stock Eyes Upside As Prediction.com Launch Grabs Attention - timothysykes.com"
+      "recent_news": "Why Genius Sports Shares Jumped Today | GENI Stock: JPMorgan Sees Nearly 40% Upside, Cites Prediction Markets ‘Optionality’ | Can Genius Sports (GENI) Justify A Higher Valuation Following Prediction.com Launch?"
+    },
+    {
+      "ticker": "MTLS",
+      "score": 62.4,
+      "last_close": 8.43,
+      "rel_volume": 3.25,
+      "price_change_pct": 5.24,
+      "gap_pct": 5.87,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 486511872,
+      "float_shares": 23042946,
+      "cash_debt_ratio": 2.25,
+      "insider_pct": 5.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "European Equities Traded in the US as American Depositary Receipts Drop in Thursday Trading | European Equities Traded in the US as American Depositary Receipts Marginally Higher in Friday Trading | European Equities Traded in the US as American Depositary Receipts Edge Lower in Monday Trading"
     },
     {
       "ticker": "EVTL",
@@ -136,7 +187,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "3 Unprofitable Stocks We Think Twice About | 3 Reasons WNC is Risky and 1 Stock to Buy Instead | 1 of Wall Street’s Favorite Stocks for Long-Term Investors and 2 We Ignore"
+      "recent_news": "AAON, Wabash, and Blue Bird Shares Skyrocket, What You Need To Know | 3 Unprofitable Stocks We Think Twice About | 3 Reasons WNC is Risky and 1 Stock to Buy Instead"
     },
     {
       "ticker": "ALM",
@@ -147,7 +198,7 @@
       "gap_pct": 11.49,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 3957955840,
+      "market_cap": 3892938240,
       "float_shares": 218965544,
       "cash_debt_ratio": 1.51,
       "insider_pct": 22.7,
@@ -190,28 +241,11 @@
       "recent_news": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report | SOL Strategies Evolving Into Broader Blockchain Platform – Downloadable Quarterly Update Report | Sol Strategies Inc (STKE) (Q3 2026) Earnings Call Highlights: Strategic Expansion and ..."
     },
     {
-      "ticker": "PURR",
-      "score": 53.3,
-      "last_close": 12.85,
-      "rel_volume": 1.14,
-      "price_change_pct": -8.8,
-      "gap_pct": -9.08,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2542213120,
-      "float_shares": 195429913,
-      "cash_debt_ratio": null,
-      "insider_pct": 4.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 22,
-      "recent_news": "Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High? | PURR Stock: Compass Point Calls For 63% Upside, HYPE Treasury Bet Nears $2.5B | Trump's White House Endorsement 'Extremely Positive,' Says Hyperion DeFi CEO: Executive Explains Why HYPE Ownership Is 'Beneficial'"
-    },
-    {
       "ticker": "SOS",
-      "score": 52.7,
+      "score": 52.8,
       "last_close": 0.359,
-      "rel_volume": 1.09,
-      "price_change_pct": -8.68,
+      "rel_volume": 1.1,
+      "price_change_pct": -8.65,
       "gap_pct": -9.47,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -225,9 +259,9 @@
     },
     {
       "ticker": "ALHC",
-      "score": 49.7,
+      "score": 49.8,
       "last_close": 8.21,
-      "rel_volume": 1.25,
+      "rel_volume": 1.26,
       "price_change_pct": 7.04,
       "gap_pct": 6.98,
       "st_msg_count": null,
@@ -385,7 +419,7 @@
       "gap_pct": 7.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 159644624,
+      "market_cap": 158518432,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
@@ -453,12 +487,12 @@
       "gap_pct": -0.89,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1446111104,
+      "market_cap": 1335220096,
       "float_shares": 235006652,
       "cash_debt_ratio": 101.26,
       "insider_pct": 3.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Coursera vs. Chegg: Which EdTech Stock is the Better Buy Now? | Verizon launches $70 million free AI training program | Can DUOL's Green Machine Sustain Its Strong User Growth Momentum?"
     },
     {
@@ -480,9 +514,9 @@
     },
     {
       "ticker": "KOS",
-      "score": 35.9,
+      "score": 36.2,
       "last_close": 2.65,
-      "rel_volume": 0.93,
+      "rel_volume": 0.95,
       "price_change_pct": -5.02,
       "gap_pct": -5.02,
       "st_msg_count": null,
@@ -504,7 +538,7 @@
       "gap_pct": 4.55,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 219814896,
+      "market_cap": 219228256,
       "float_shares": 29131150,
       "cash_debt_ratio": 0.45,
       "insider_pct": 11.3,
@@ -544,7 +578,24 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week | Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading"
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week"
+    },
+    {
+      "ticker": "CWH",
+      "score": 32.8,
+      "last_close": 5.39,
+      "rel_volume": 1.08,
+      "price_change_pct": 3.85,
+      "gap_pct": 4.34,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 344032640,
+      "float_shares": 55259688,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 2.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Zumiez, Camping World, Monro, OneWater, and Kohl's Shares Skyrocket, What You Need To Know | 3 of Wall Street’s Favorite Stocks We Keep Off Our Radar | 1 Oversold Stock Primed to Rebound and 2 We Brush Off"
     },
     {
       "ticker": "AAL",
@@ -564,6 +615,16 @@
       "recent_news": "American Airlines (AAL) Stock Looks Below Fair Value Following A 35% Five Year Fall | Market Chatter: US Airlines Oppose More China Flights Despite Xi's Overture | American Airlines Group (AAL) Is Getting Fresh Attention, What Is Behind It?"
     },
     {
+      "ticker": "HBAN",
+      "score": 26.0,
+      "last_close": 15.64,
+      "rel_volume": 1.28,
+      "price_change_pct": 2.16,
+      "gap_pct": 2.29,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "BRSL",
       "score": 25.9,
       "last_close": 9.96,
@@ -574,20 +635,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "HBAN",
-      "score": 25.9,
-      "last_close": 15.64,
-      "rel_volume": 1.27,
-      "price_change_pct": 2.16,
-      "gap_pct": 2.29,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "LAC",
-      "score": 23.3,
+      "score": 23.4,
       "last_close": 2.75,
-      "rel_volume": 0.9,
+      "rel_volume": 0.91,
       "price_change_pct": -2.83,
       "gap_pct": -2.12,
       "st_msg_count": null,
@@ -604,12 +655,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CTKB",
-      "score": 21.9,
-      "last_close": 5.65,
-      "rel_volume": 1.35,
-      "price_change_pct": -1.4,
-      "gap_pct": -0.96,
+      "ticker": "CIFR",
+      "score": 20.8,
+      "last_close": 17.73,
+      "rel_volume": 0.91,
+      "price_change_pct": -2.04,
+      "gap_pct": -2.04,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -624,6 +675,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "NAT",
+      "score": 18.8,
+      "last_close": 7.72,
+      "rel_volume": 1.26,
+      "price_change_pct": 0.78,
+      "gap_pct": 0.91,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CDE",
       "score": 18.2,
       "last_close": 19.22,
@@ -634,20 +695,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NAT",
-      "score": 17.7,
-      "last_close": 7.72,
-      "rel_volume": 1.16,
-      "price_change_pct": 0.78,
-      "gap_pct": 0.91,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "VISN",
-      "score": 17.7,
+      "score": 17.9,
       "last_close": 6.22,
-      "rel_volume": 0.65,
+      "rel_volume": 0.67,
       "price_change_pct": -2.05,
       "gap_pct": -1.97,
       "st_msg_count": null,
@@ -655,9 +706,9 @@
     },
     {
       "ticker": "GRAB",
-      "score": 16.1,
+      "score": 16.2,
       "last_close": 3.13,
-      "rel_volume": 1.08,
+      "rel_volume": 1.09,
       "price_change_pct": 0.64,
       "gap_pct": 0.8,
       "st_msg_count": null,
@@ -704,12 +755,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CAPR",
-      "score": 14.7,
-      "last_close": 8.36,
-      "rel_volume": 0.23,
-      "price_change_pct": -2.45,
-      "gap_pct": -2.33,
+      "ticker": "IVR",
+      "score": 14.9,
+      "last_close": 6.41,
+      "rel_volume": 1.01,
+      "price_change_pct": 0.47,
+      "gap_pct": 0.86,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -735,21 +786,11 @@
     },
     {
       "ticker": "PATH",
-      "score": 14.1,
+      "score": 14.2,
       "last_close": 12.46,
-      "rel_volume": 0.74,
+      "rel_volume": 0.75,
       "price_change_pct": -1.11,
       "gap_pct": -1.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "METC",
-      "score": 13.9,
-      "last_close": 9.02,
-      "rel_volume": 0.64,
-      "price_change_pct": -1.31,
-      "gap_pct": -1.26,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -765,9 +806,9 @@
     },
     {
       "ticker": "F",
-      "score": 13.2,
+      "score": 13.3,
       "last_close": 12.71,
-      "rel_volume": 0.75,
+      "rel_volume": 0.76,
       "price_change_pct": 0.87,
       "gap_pct": 0.91,
       "st_msg_count": null,
@@ -794,12 +835,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ANGX",
-      "score": 12.0,
-      "last_close": 4.8,
-      "rel_volume": 0.68,
-      "price_change_pct": -1.23,
-      "gap_pct": -0.1,
+      "ticker": "TBLA",
+      "score": 10.3,
+      "last_close": 3.48,
+      "rel_volume": 0.51,
+      "price_change_pct": 0.87,
+      "gap_pct": 0.87,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -824,16 +865,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "KURA",
-      "score": 9.6,
-      "last_close": 10.76,
-      "rel_volume": 0.55,
-      "price_change_pct": -0.92,
-      "gap_pct": -0.18,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "NU",
       "score": 9.2,
       "last_close": 13.59,
@@ -845,9 +876,9 @@
     },
     {
       "ticker": "PCG",
-      "score": 9.0,
+      "score": 9.2,
       "last_close": 12.34,
-      "rel_volume": 0.66,
+      "rel_volume": 0.68,
       "price_change_pct": 0.16,
       "gap_pct": 0.41,
       "st_msg_count": null,
@@ -855,9 +886,9 @@
     },
     {
       "ticker": "NOK",
-      "score": 8.7,
+      "score": 8.8,
       "last_close": 10.39,
-      "rel_volume": 0.55,
+      "rel_volume": 0.56,
       "price_change_pct": -0.38,
       "gap_pct": -0.58,
       "st_msg_count": null,
