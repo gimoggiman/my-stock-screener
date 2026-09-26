@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-26T09:08:22.700266+00:00",
+  "last_updated_utc": "2026-09-26T14:07:46.330906+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -136,7 +136,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports Limited (GENI) stock price, news, quote and history - Yahoo Finance Singapore | GENI Stock Eyes Upside As Prediction.com Launch Grabs Attention - timothysykes.com"
+      "recent_news": "Google News | Genius Sports Limited (GENI) stock price, news, quote and history - Yahoo Finance Singapore | GENI Stock: JPMorgan Sees Nearly 40% Upside, Cites Prediction Markets ‘Optionality’ - TradingView"
     },
     {
       "ticker": "EVTL",
@@ -369,7 +369,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 38960568,
-      "float_shares": 4600889,
+      "float_shares": 4421167,
       "cash_debt_ratio": 0.02,
       "insider_pct": 41.3,
       "dilution_risk": "낮음",
@@ -527,7 +527,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Low-Volatility Stocks with Open Questions | Crescent Energy, HighPeak Energy, and Kosmos Energy Stocks Trade Down, What You Need To Know | Kosmos Energy (KOS) Stock Is Up, What You Need To Know"
+      "recent_news": "3 Oil Stocks Linked To Higher Crude Prices Right Now | 3 Low-Volatility Stocks with Open Questions | Crescent Energy, HighPeak Energy, and Kosmos Energy Stocks Trade Down, What You Need To Know"
     },
     {
       "ticker": "ANGI",
@@ -573,7 +573,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1890352512,
-      "float_shares": 64057761,
+      "float_shares": 139683476,
       "cash_debt_ratio": 0.22,
       "insider_pct": null,
       "dilution_risk": "낮음",
@@ -593,8 +593,8 @@
       "float_shares": 652980399,
       "cash_debt_ratio": 0.23,
       "insider_pct": 1.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "American Airlines (AAL) Stock Looks Below Fair Value Following A 35% Five Year Fall | Market Chatter: US Airlines Oppose More China Flights Despite Xi's Overture | American Airlines Group (AAL) Is Getting Fresh Attention, What Is Behind It?"
     },
     {
