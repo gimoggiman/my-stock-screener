@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-27T12:46:38.864347+00:00",
+  "last_updated_utc": "2026-09-27T17:30:59.000568+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -139,6 +139,23 @@
       "recent_news": "JPMorgan says this sports data stock looks too cheap to ignore | Why Genius Sports Shares Jumped Today | GENI Stock: JPMorgan Sees Nearly 40% Upside, Cites Prediction Markets ‘Optionality’"
     },
     {
+      "ticker": "BB",
+      "score": 63.0,
+      "last_close": 8.21,
+      "rel_volume": 2.69,
+      "price_change_pct": -5.96,
+      "gap_pct": -6.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 4819534848,
+      "float_shares": 585564698,
+      "cash_debt_ratio": 1.71,
+      "insider_pct": 0.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 336,
+      "recent_news": "News of the day: BlackBerry QNX rollout, borrowing to invest in RRSP, fixed rates climb, AI management tools, flight traffic to the U.S. and more | BlackBerry (TSX:BB) Stock May Be Fully Valued After Alloy Kore Win | BlackBerry’s comeback continues with strong Q2 earnings, but market response ‘relatively muted’"
+    },
+    {
       "ticker": "EVTL",
       "score": 60.9,
       "last_close": 0.739,
@@ -224,23 +241,6 @@
       "recent_news": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report | SOL Strategies Evolving Into Broader Blockchain Platform – Downloadable Quarterly Update Report | Sol Strategies Inc (STKE) (Q3 2026) Earnings Call Highlights: Strategic Expansion and ..."
     },
     {
-      "ticker": "PURR",
-      "score": 53.3,
-      "last_close": 12.85,
-      "rel_volume": 1.14,
-      "price_change_pct": -8.8,
-      "gap_pct": -9.08,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2542213120,
-      "float_shares": 195429913,
-      "cash_debt_ratio": null,
-      "insider_pct": 4.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 22,
-      "recent_news": "Binance’s High-Risk Seed Tag for Hyperliquid: What It Means for Investors | What Changed for Hyperliquid ETFs in September? | Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?"
-    },
-    {
       "ticker": "SOS",
       "score": 52.8,
       "last_close": 0.359,
@@ -270,8 +270,8 @@
       "float_shares": 188506692,
       "cash_debt_ratio": 2.12,
       "insider_pct": 2.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Avoid | Is Alignment Healthcare (ALHC) Still About Right After Its 57% Slide? | Alignment Healthcare (ALHC) Faces Medicare Advantage Reform, Is It A Bargain?"
     },
     {
@@ -290,23 +290,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "EquipmentShare stock falls 6% after short seller report | EquipmentShare Founder Schlacks Buys 10,000 Shares | EquipmentShare CEO Schlacks Buys 25,000 Shares"
-    },
-    {
-      "ticker": "ALTG",
-      "score": 49.3,
-      "last_close": 6.22,
-      "rel_volume": 1.39,
-      "price_change_pct": 6.87,
-      "gap_pct": 6.19,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 203187936,
-      "float_shares": 17778945,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 26.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "AGCO, Alta, Alamo, Allient, and Mayville Engineering Stocks Trade Down, What You Need To Know | 3 Reasons to Avoid ALTG and 1 Stock to Buy Instead | 2 of Wall Street’s Favorite Stocks with Exciting Potential and 1 Facing Headwinds"
     },
     {
       "ticker": "DAVA",
@@ -508,8 +491,8 @@
       "float_shares": 88953264,
       "cash_debt_ratio": 0.82,
       "insider_pct": 14.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Fluence Energy, Generac, Bloom Energy, Columbus McKinnon, and Viavi Solutions Shares Are Soaring, What You Need To Know | Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know | Fluence Energy (FLNC) Names New COO and Director After Product Chief Exit"
     },
     {
@@ -758,6 +741,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "RIG",
+      "score": 14.5,
+      "last_close": 5.38,
+      "rel_volume": 0.89,
+      "price_change_pct": -0.92,
+      "gap_pct": -0.64,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GPRO",
       "score": 14.3,
       "last_close": 1.29,
@@ -774,16 +767,6 @@
       "rel_volume": 0.75,
       "price_change_pct": -1.11,
       "gap_pct": -1.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "AUR",
-      "score": 13.4,
-      "last_close": 6.04,
-      "rel_volume": 0.95,
-      "price_change_pct": -0.33,
-      "gap_pct": -0.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
