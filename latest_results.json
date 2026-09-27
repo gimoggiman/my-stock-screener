@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-27T17:30:59.000568+00:00",
+  "last_updated_utc": "2026-09-27T20:55:49.921643+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -270,8 +270,8 @@
       "float_shares": 188506692,
       "cash_debt_ratio": 2.12,
       "insider_pct": 2.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Avoid | Is Alignment Healthcare (ALHC) Still About Right After Its 57% Slide? | Alignment Healthcare (ALHC) Faces Medicare Advantage Reform, Is It A Bargain?"
     },
     {
