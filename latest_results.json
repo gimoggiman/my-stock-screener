@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-27T06:15:13.031906+00:00",
+  "last_updated_utc": "2026-09-27T12:46:38.864347+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -117,8 +117,8 @@
       "float_shares": null,
       "cash_debt_ratio": null,
       "insider_pct": 0.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Carlyle Credit Income Fund's Dividend Analysis"
     },
     {
@@ -168,8 +168,8 @@
       "float_shares": 37534009,
       "cash_debt_ratio": 0.13,
       "insider_pct": 5.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "AAON, Wabash, and Blue Bird Shares Skyrocket, What You Need To Know | 3 Unprofitable Stocks We Think Twice About | 3 Reasons WNC is Risky and 1 Stock to Buy Instead"
     },
     {
@@ -238,7 +238,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 22,
-      "recent_news": "What Changed for Hyperliquid ETFs in September? | Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High? | PURR Stock: Compass Point Calls For 63% Upside, HYPE Treasury Bet Nears $2.5B"
+      "recent_news": "Binance’s High-Risk Seed Tag for Hyperliquid: What It Means for Investors | What Changed for Hyperliquid ETFs in September? | Wall Street Analysts See a 100.25% Upside in Hyperliquid Strategies Inc (PURR): Can the Stock Really Move This High?"
     },
     {
       "ticker": "SOS",
@@ -250,7 +250,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6946708,
-      "float_shares": 12978813,
+      "float_shares": 11822043,
       "cash_debt_ratio": 2707.0,
       "insider_pct": 2.7,
       "dilution_risk": "높음",
@@ -270,8 +270,8 @@
       "float_shares": 188506692,
       "cash_debt_ratio": 2.12,
       "insider_pct": 2.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "2 of Wall Street’s Favorite Stocks Worth Your Attention and 1 We Avoid | Is Alignment Healthcare (ALHC) Still About Right After Its 57% Slide? | Alignment Healthcare (ALHC) Faces Medicare Advantage Reform, Is It A Bargain?"
     },
     {
@@ -355,8 +355,8 @@
       "float_shares": 67766532,
       "cash_debt_ratio": 0.01,
       "insider_pct": 3.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 39,
       "recent_news": "Spotting Winners: BrightView (NYSE:BV) And Environmental and Facilities Services Stocks In Q2 | BrightView (BV): Buy, Sell, or Hold Post Q2 Earnings? | BrightView Holdings (BV) Preferred Dividend Keeps Valuation Questions In Play"
     },
     {
@@ -440,8 +440,8 @@
       "float_shares": 70261853,
       "cash_debt_ratio": 0.18,
       "insider_pct": 43.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Frontier (ULCC)’s CEO is Racing to Claim the Market Spirit Airlines Left Behind | Consumer Discretionary - Travel and Vacation Providers Stocks Q2 Highlights: Frontier (NASDAQ:ULCC) | The Airline CEO Filling a Spirit-Sized Hole in the Market"
     },
     {
@@ -488,7 +488,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1446111104,
-      "float_shares": 235006652,
+      "float_shares": 235078040,
       "cash_debt_ratio": 101.26,
       "insider_pct": 3.3,
       "dilution_risk": "높음",
@@ -508,8 +508,8 @@
       "float_shares": 88953264,
       "cash_debt_ratio": 0.82,
       "insider_pct": 14.4,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Fluence Energy, Generac, Bloom Energy, Columbus McKinnon, and Viavi Solutions Shares Are Soaring, What You Need To Know | Fluence Energy, Richardson Electronics, Plug Power, Sunrun, and Methode Electronics Shares Plummet, What You Need To Know | Fluence Energy (FLNC) Names New COO and Director After Product Chief Exit"
     },
     {
@@ -573,7 +573,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1890352512,
-      "float_shares": 139683476,
+      "float_shares": 64057761,
       "cash_debt_ratio": 0.22,
       "insider_pct": null,
       "dilution_risk": "낮음",
