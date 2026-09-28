@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-09-28T03:46:29.468391+00:00",
+  "last_updated_utc": "2026-09-28T10:36:40.996407+00:00",
   "tickers_scanned": 63,
   "results": [
     {
@@ -153,7 +153,7 @@
       "insider_pct": 0.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 330,
-      "recent_news": "META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week | News of the day: BlackBerry QNX rollout, borrowing to invest in RRSP, fixed rates climb, AI management tools, flight traffic to the U.S. and more | BlackBerry (TSX:BB) Stock May Be Fully Valued After Alloy Kore Win"
+      "recent_news": "BB Stock Clings To September Gain: Analysts Laud BlackBerry's QNX Growth But Flag Stretched Valuation | META, GOOGL, NVDA, BB, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week | News of the day: BlackBerry QNX rollout, borrowing to invest in RRSP, fixed rates climb, AI management tools, flight traffic to the U.S. and more"
     },
     {
       "ticker": "EVTL",
@@ -204,7 +204,7 @@
       "insider_pct": 22.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Stifel starts Almonty with $25 price target on Western tungsten expansion | Is Almonty Industries (ALM) the Next Big Breakout Stock? | Almonty Industries (ALM) Could Be 64% Undervalued After Its New Tungsten Offtake Deal"
+      "recent_news": "Almonty Industries (ALM) Gets Final Plant Approval. Can Sangdong Turn Production Into Cash? | Stifel starts Almonty with $25 price target on Western tungsten expansion | Is Almonty Industries (ALM) the Next Big Breakout Stock?"
     },
     {
       "ticker": "FIGS",
@@ -219,8 +219,8 @@
       "float_shares": 151569743,
       "cash_debt_ratio": 5.14,
       "insider_pct": 4.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Somnigroup Advances Growth With Innovation and Retail Synergies | Stitch Fix Stock Falls 18% Despite Narrower Q4 Loss & Higher Revenues | Can American Eagle's New Denim Fits Help Revive Women's Sales?"
     },
     {
@@ -233,7 +233,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 65535856,
-      "float_shares": 31161860,
+      "float_shares": 31136589,
       "cash_debt_ratio": 0.03,
       "insider_pct": 23.1,
       "dilution_risk": "높음",
@@ -250,7 +250,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6946708,
-      "float_shares": 11822043,
+      "float_shares": 11027980,
       "cash_debt_ratio": 2707.0,
       "insider_pct": 2.7,
       "dilution_risk": "높음",
@@ -372,8 +372,8 @@
       "float_shares": 20266822,
       "cash_debt_ratio": null,
       "insider_pct": 92.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Should Rising Revenue And Widening Losses Require Action From D-Market Elektronik Hizmetler ve Ticaret (HEPS) Investors? | Hepsiburada (NasdaqGS:HEPS) Q2 Losses Put Its Growth Narrative And Valuation In Focus | How Investors May Respond To D-Market Elektronik (HEPS) Surging Sales Paired With a Wider Quarterly Loss"
     },
     {
@@ -406,8 +406,8 @@
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "JELD-WEN, Shoals, Advanced Energy, American Superconductor, and Bloom Energy Shares Plummet, What You Need To Know | 2 Industrials Stocks for Long-Term Investors and 1 Facing Headwinds | JELD WEN Holding (JELD) Stock Gets Fair Value Boost As Analyst Views Stay Mixed"
     },
     {
