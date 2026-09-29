@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-09-28T23:44:05.715967+00:00",
-  "tickers_scanned": 73,
+  "last_updated_utc": "2026-09-29T04:22:02.714825+00:00",
+  "tickers_scanned": 74,
   "results": [
     {
       "ticker": "AMC",
@@ -16,7 +16,7 @@
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 27,
+      "recent_dilution_filings_90d": 26,
       "recent_news": "Domestic Box Office Hits Third-Quarter Record Amid 'Avengers Endgame' Re-Release Boost, B. Riley Says | AMC Spikes 13% as Refinancing Rally Extends; Cinemark and IMAX Edge Higher | AMC Entertainment (AMC) Plans $3.97 Billion Refinancing. Can It Buy More Time?"
     },
     {
@@ -24,11 +24,11 @@
       "score": 75.0,
       "last_close": 0.083,
       "rel_volume": 8.27,
-      "price_change_pct": -40.79,
+      "price_change_pct": -40.71,
       "gap_pct": -41.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 34387856,
+      "market_cap": 34902432,
       "float_shares": 196228291,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
@@ -40,7 +40,7 @@
       "ticker": "KNDI",
       "score": 75.0,
       "last_close": 0.82,
-      "rel_volume": 1074.01,
+      "rel_volume": 1083.74,
       "price_change_pct": 38.98,
       "gap_pct": 33.64,
       "st_msg_count": null,
@@ -52,6 +52,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Kandi Technologies Group Inc (KNDI) (H1 2026) Earnings Call Highlights: Revenue Jumps 57. ... | Kandi Technologies Reports 57.4% First-Half Revenue Growth as Net Income Reaches $9.4 Million | Kandi Technologies Group Q2 Earnings Call Highlights"
+    },
+    {
+      "ticker": "LFCR",
+      "score": 75.0,
+      "last_close": 6.52,
+      "rel_volume": 28.82,
+      "price_change_pct": 55.24,
+      "gap_pct": 56.07,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 247146128,
+      "float_shares": 19328908,
+      "cash_debt_ratio": 0.11,
+      "insider_pct": 2.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Core Thesis Behind Lifecore Biomedical (LFCR): Monetizing Excess Capacity | Lifecore Biomedical (LFCR) Q2 2026 Earnings Call Transcript | Lifecore Biomedical, Inc. Q2 2026 Earnings Call Summary"
     },
     {
       "ticker": "MGNX",
@@ -74,7 +91,7 @@
       "ticker": "MX",
       "score": 75.0,
       "last_close": 3.79,
-      "rel_volume": 9.98,
+      "rel_volume": 9.68,
       "price_change_pct": 14.85,
       "gap_pct": 14.22,
       "st_msg_count": null,
@@ -102,13 +119,30 @@
       "insider_pct": 4.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Stocktwits Retail Therapy: Defensive Bets Take Off As COST, DG, WMT Lead Weekly Consumer Staples Gains | Consumer Discretionary - Apparel and Accessories Stocks Q2 In Review: Stitch Fix (NASDAQ:SFIX) Vs Peers | Is Stitch Fix’s (SFIX) Turnaround Built to Last?"
+      "recent_news": "Stitch Fix (SFIX) Fixed its Checkout Mistake. Can it Fix its Shrinking Customer Base? | Stocktwits Retail Therapy: Defensive Bets Take Off As COST, DG, WMT Lead Weekly Consumer Staples Gains | Consumer Discretionary - Apparel and Accessories Stocks Q2 In Review: Stitch Fix (NASDAQ:SFIX) Vs Peers"
+    },
+    {
+      "ticker": "SJT",
+      "score": 72.6,
+      "last_close": 3.72,
+      "rel_volume": 4.46,
+      "price_change_pct": 8.77,
+      "gap_pct": 6.73,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 173384720,
+      "float_shares": 39114568,
+      "cash_debt_ratio": 0.0,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "San Juan Basin Royalty Trust (SJT) Falls Following Suspension of Cash Distribution for December | San Juan Basin Royalty: Q3 Earnings Snapshot"
     },
     {
       "ticker": "CANG",
-      "score": 68.8,
+      "score": 68.9,
       "last_close": 2.29,
-      "rel_volume": 2.47,
+      "rel_volume": 2.48,
       "price_change_pct": 19.9,
       "gap_pct": 19.37,
       "st_msg_count": null,
@@ -140,9 +174,9 @@
     },
     {
       "ticker": "BB",
-      "score": 64.7,
+      "score": 65.2,
       "last_close": 8.8,
-      "rel_volume": 2.34,
+      "rel_volume": 2.38,
       "price_change_pct": 7.19,
       "gap_pct": 7.98,
       "st_msg_count": null,
@@ -152,8 +186,8 @@
       "cash_debt_ratio": 1.71,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 330,
-      "recent_news": "BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip | BlackBerry Raises FY27 Outlook: Can Strong Execution Continue? | Wall Street Analysts See a 25.33% Upside in BlackBerry (BB): Can the Stock Really Move This High?"
+      "recent_dilution_filings_90d": 323,
+      "recent_news": "BlackBerry (BB): QNX Is Compounding, But Secure Communications Just Lost Its Momentum | BlackBerry Jumps 4% as Record QNX Revenue Lifts Full-Year Outlook; Mobileye and Aptiv Dip | BlackBerry Raises FY27 Outlook: Can Strong Execution Continue?"
     },
     {
       "ticker": "PACB",
@@ -170,7 +204,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Pacific Biosciences of California (PACB) Beats Stock Market Upswing: What Investors Need to Know | 3 Unprofitable Stocks That Fall Short | 1 Stock Under $10 with Exciting Potential and 2 We Avoid"
+      "recent_news": "Why PacBio (PACB) Stock Is Trading Up Today | Pacific Biosciences of California (PACB) Beats Stock Market Upswing: What Investors Need to Know | 3 Unprofitable Stocks That Fall Short"
     },
     {
       "ticker": "NU",
@@ -185,26 +219,26 @@
       "float_shares": 3726393232,
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 17,
-      "recent_news": "Nu Holdings Ltd. (NU) Declines More Than Market: Some Information for Investors | Monzo in talks over potential sale to Brazil’s Nubank – report | Why Is NU Stock Slipping In Premarket Trading Today?"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Nubank (NU): Monzo Talks Add a European Growth Option, but Credit Execution Remains Key | Nu Holdings Ltd. (NU) Declines More Than Market: Some Information for Investors | Monzo in talks over potential sale to Brazil’s Nubank – report"
     },
     {
       "ticker": "COUR",
-      "score": 63.1,
+      "score": 63.2,
       "last_close": 4.64,
-      "rel_volume": 1.98,
+      "rel_volume": 1.99,
       "price_change_pct": -8.12,
       "gap_pct": -8.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1328704000,
+      "market_cap": 1226816000,
       "float_shares": 235078040,
       "cash_debt_ratio": 101.26,
       "insider_pct": 3.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Coursera vs. Chegg: Which EdTech Stock is the Better Buy Now? | Verizon launches $70 million free AI training program | Can DUOL's Green Machine Sustain Its Strong User Growth Momentum?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
+      "recent_news": "Yelp, DoorDash, Coursera, LegalZoom, and Pinterest Stocks Trade Down, What You Need To Know | Coursera vs. Chegg: Which EdTech Stock is the Better Buy Now? | Verizon launches $70 million free AI training program"
     },
     {
       "ticker": "XERS",
@@ -237,8 +271,25 @@
       "cash_debt_ratio": 8.49,
       "insider_pct": 0.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
+      "recent_dilution_filings_90d": 5,
       "recent_news": "What Annexon (ANNX)'s Dual-Endpoint ARCHER II Update Means For Shareholders | Annexon (ANNX) Q2 2026 Earnings Call Transcript | Annexon (ANNX), What Is Behind Its Latest Update?"
+    },
+    {
+      "ticker": "ENHA",
+      "score": 60.4,
+      "last_close": 1.53,
+      "rel_volume": 2.22,
+      "price_change_pct": 6.25,
+      "gap_pct": 8.33,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 593349440,
+      "float_shares": 52993372,
+      "cash_debt_ratio": null,
+      "insider_pct": 54.9,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 17,
+      "recent_news": "Enhanced Games Reinforce Audience & Sponsorship, Focus Shifts to Live Enhanced Conversion – Quarterly Update Report | Enhanced Group Q2 Earnings Call Highlights | Enhanced Group (ENHA) Secures $50M in Strategic Equity Financing"
     },
     {
       "ticker": "ZUMZ",
@@ -258,23 +309,6 @@
       "recent_news": "48-year-old mall retailer closed stores as trends change | 2 Cash-Producing Stocks with Promising Prospects and 1 That Underwhelm | Zumiez, Camping World, Monro, OneWater, and Kohl's Shares Skyrocket, What You Need To Know"
     },
     {
-      "ticker": "ENHA",
-      "score": 59.8,
-      "last_close": 1.53,
-      "rel_volume": 2.17,
-      "price_change_pct": 6.25,
-      "gap_pct": 8.33,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 208903328,
-      "float_shares": 52993372,
-      "cash_debt_ratio": null,
-      "insider_pct": 54.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Enhanced Games Reinforce Audience & Sponsorship, Focus Shifts to Live Enhanced Conversion – Quarterly Update Report | Enhanced Group Q2 Earnings Call Highlights | Enhanced Group (ENHA) Secures $50M in Strategic Equity Financing"
-    },
-    {
       "ticker": "MAAS",
       "score": 59.2,
       "last_close": 17.95,
@@ -288,7 +322,7 @@
       "cash_debt_ratio": 1.21,
       "insider_pct": 60.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
+      "recent_dilution_filings_90d": 17,
       "recent_news": "Maase (MAAS) Stock Looks Fully Priced Following A New AI Services Deal | Maase (MAAS) Valuation Check After Sharp 30 Day Share Price Surge | Asian Equities Traded in the US as American Depositary Receipts Fall Sharply in Thursday Trading"
     },
     {
@@ -304,9 +338,26 @@
       "float_shares": 209038499,
       "cash_debt_ratio": 3.98,
       "insider_pct": 21.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know | AbCellera (ABCL) Soars 64% as Drug Candidate Holds Huge Market Opportunity | Can AbCellera Biologics (ABCL)’s Vertex Pharmaceuticals Incorporated (VRTX) Deal Turn its TCE Platform Into a Breakthrough?"
+    },
+    {
+      "ticker": "LGO",
+      "score": 57.2,
+      "last_close": 0.5,
+      "rel_volume": 2.73,
+      "price_change_pct": -5.66,
+      "gap_pct": -4.09,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 51886712,
+      "float_shares": 68962612,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 0.4,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "ABCL Stock Surges 121% in 3 Months: Here's What You Need to Know | AbCellera (ABCL) Soars 64% as Drug Candidate Holds Huge Market Opportunity | Can AbCellera Biologics (ABCL)’s Vertex Pharmaceuticals Incorporated (VRTX) Deal Turn its TCE Platform Into a Breakthrough?"
+      "recent_news": "Largo Restructures Debt and Begins Copper-PGM Concentrate Sales | Largo (LGO) Upgraded to Buy: What Does It Mean for the Stock? | Largo Q2 Earnings Call Highlights"
     },
     {
       "ticker": "ALXO",
@@ -344,9 +395,9 @@
     },
     {
       "ticker": "AUR",
-      "score": 55.9,
+      "score": 56.0,
       "last_close": 5.29,
-      "rel_volume": 1.36,
+      "rel_volume": 1.37,
       "price_change_pct": -12.42,
       "gap_pct": -12.17,
       "st_msg_count": null,
@@ -377,27 +428,10 @@
       "recent_news": "UK Penny Stocks: 3 Picks With Market Caps Over £50M | Assessing BitVentures (BVC) Valuation After Sharp Share Price Drop And Elevated 99.9x P/B Multiple | Sector Update: Financial Stocks Rise Late Afternoon"
     },
     {
-      "ticker": "LGO",
-      "score": 55.4,
-      "last_close": 0.503,
-      "rel_volume": 2.73,
-      "price_change_pct": -5.08,
-      "gap_pct": -4.09,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 51886712,
-      "float_shares": 68962612,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 0.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Largo Restructures Debt and Begins Copper-PGM Concentrate Sales | Largo (LGO) Upgraded to Buy: What Does It Mean for the Stock? | Largo Q2 Earnings Call Highlights"
-    },
-    {
       "ticker": "SRFM",
-      "score": 54.4,
+      "score": 54.5,
       "last_close": 1.19,
-      "rel_volume": 1.79,
+      "rel_volume": 1.8,
       "price_change_pct": 7.21,
       "gap_pct": 5.86,
       "st_msg_count": null,
@@ -429,10 +463,10 @@
     },
     {
       "ticker": "LESL",
-      "score": 52.2,
+      "score": 52.6,
       "last_close": 0.239,
-      "rel_volume": 1.05,
-      "price_change_pct": -18.08,
+      "rel_volume": 1.08,
+      "price_change_pct": -18.15,
       "gap_pct": -19.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -459,14 +493,14 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week"
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading"
     },
     {
       "ticker": "SLQT",
-      "score": 50.6,
+      "score": 50.9,
       "last_close": 0.431,
       "rel_volume": 1.06,
-      "price_change_pct": 7.65,
+      "price_change_pct": 7.75,
       "gap_pct": 7.63,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -480,9 +514,9 @@
     },
     {
       "ticker": "OPENZ",
-      "score": 50.3,
+      "score": 50.4,
       "last_close": 0.087,
-      "rel_volume": 1.04,
+      "rel_volume": 1.05,
       "price_change_pct": 7.41,
       "gap_pct": 9.26,
       "st_msg_count": null,
@@ -491,9 +525,9 @@
       "float_shares": 953465747,
       "cash_debt_ratio": 0.46,
       "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Prediction: These 4 Stocks Will 4x in the Next 10 Years | 3 Unprofitable Stocks with Warning Signs | What Opendoor Technologies (OPEN)'s Unusual Q4 Margin Outlook Means For Shareholders"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Why Did TTD, OPEN, QS Stocks Tumble To 52-Week Lows Today? | Prediction: These 4 Stocks Will 4x in the Next 10 Years | 3 Unprofitable Stocks with Warning Signs"
     },
     {
       "ticker": "ALVO",
@@ -508,26 +542,9 @@
       "float_shares": 140789299,
       "cash_debt_ratio": 0.1,
       "insider_pct": 59.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Why This Biotech Stock Just Got a Rare Double Upgrade | ALVO Stock Jumps On Double Upgrade — Why Barclays Sees A 59% Upside | Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Ahead of Fed's Rate Announcement"
-    },
-    {
-      "ticker": "ENTA",
-      "score": 46.8,
-      "last_close": 12.615,
-      "rel_volume": 1.38,
-      "price_change_pct": 6.19,
-      "gap_pct": 6.06,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 367416928,
-      "float_shares": 22518887,
-      "cash_debt_ratio": 1.04,
-      "insider_pct": 4.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Enanta Pharmaceuticals (ENTA) Reports Q3 Loss, Lags Revenue Estimates | Coherus Oncology (CHRS) Reports Q2 Loss, Misses Revenue Estimates | Enanta Pharmaceuticals (ENTA) Moves 5.2% Higher: Will This Strength Last?"
     },
     {
       "ticker": "CDE",
@@ -542,8 +559,8 @@
       "float_shares": 1017254753,
       "cash_debt_ratio": 1.48,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
       "recent_news": "Is Hycroft’s (HYMC) New Look Hiding a Bigger Story Underground? | Should You Sell Your Coeur Mining Stock Now? | 3 Gold Stocks To Own In September 2026"
     },
     {
@@ -559,60 +576,26 @@
       "float_shares": 1333664809,
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 75,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Bloom Energy Sinks 8% as Sharp Run Unwinds; Plug Power Drops 6%, FuelCell Eases | Is Bloom Energy Stock's Drop A Chance To Buy? | Can Plug Power’s (PLUG) NZ Electrolyzer Win Offset Questions Raised by a COO Exit?"
     },
     {
-      "ticker": "BZUN",
-      "score": 45.7,
-      "last_close": 3.09,
-      "rel_volume": 1.79,
-      "price_change_pct": 5.1,
-      "gap_pct": 4.76,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 179663984,
-      "float_shares": 41549876,
-      "cash_debt_ratio": 1.49,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading | Baozun (BZUN) Q2 2026 Earnings Call Transcript | Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading, Up 2% for Week"
-    },
-    {
       "ticker": "HL",
-      "score": 44.6,
+      "score": 44.8,
       "last_close": 17.01,
-      "rel_volume": 1.08,
+      "rel_volume": 1.09,
       "price_change_pct": -6.49,
       "gap_pct": -6.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 11426781184,
+      "market_cap": 11408818176,
       "float_shares": 668288671,
       "cash_debt_ratio": 22.6,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
       "recent_news": "Hecla Mining Eyes 20M+ Silver Ounces as Debt-Free Balance Sheet Builds Cash | Should You Sell Your Coeur Mining Stock Now? | Can Pan American Silver's Solid Reserve Base Support Growth?"
-    },
-    {
-      "ticker": "GOSS",
-      "score": 44.2,
-      "last_close": 11.52,
-      "rel_volume": 1.72,
-      "price_change_pct": 5.3,
-      "gap_pct": 4.02,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 70460824,
-      "float_shares": 3830664,
-      "cash_debt_ratio": 1.42,
-      "insider_pct": 1.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Gossamer (GOSS) Announced Up to $250M of Financing, but Only $25M is Expected Upfront. Is the Runway Secure? | Gossamer Bio announces $250m in funding to advance seralutinib | Sector Update: Healthcare Stocks Advance in Afternoon Trading"
     },
     {
       "ticker": "AVPT",
@@ -632,6 +615,40 @@
       "recent_news": "Is CISA Hiring or Firing? Depends on Whom You Ask. | AvePoint (AVPT) Q2 2026 Earnings Call Transcript | AvePoint (AVPT) Could Be 44% Undervalued Following Earnings And Higher 2026 Guidance"
     },
     {
+      "ticker": "AZUL",
+      "score": 44.1,
+      "last_close": 6.87,
+      "rel_volume": 1.69,
+      "price_change_pct": 5.86,
+      "gap_pct": 3.24,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1257514240,
+      "float_shares": 121795494,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 0.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Monday as Chip Stocks Rebound | United Airlines Holdings Inc. (UAL) Settles on GEnx engines for New 787 Dreamliners, Brazil Okays $100M Azul Investment | United Airlines Holdings, Inc. (UAL) Expands Global Reach and Assets"
+    },
+    {
+      "ticker": "VIOT",
+      "score": 43.3,
+      "last_close": 1.59,
+      "rel_volume": 0.28,
+      "price_change_pct": 17.78,
+      "gap_pct": 17.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 104858216,
+      "float_shares": 31641213,
+      "cash_debt_ratio": 8.74,
+      "insider_pct": 2.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Viomi Technology Highlights FY2025 Growth, Dividend and Global Expansion at Deutsche Bank Conference | Viomi Technology Highlights FY2025 Revenue Growth, Dividend and Overseas Push at Deutsche Bank Conference | Viomi Technology Co Ltd (VIOT) Full Year 2025 Earnings Call Highlights: Navigating Growth and ..."
+    },
+    {
       "ticker": "PLBL",
       "score": 42.7,
       "last_close": 5.61,
@@ -644,8 +661,8 @@
       "float_shares": 6386134,
       "cash_debt_ratio": 0.42,
       "insider_pct": 98.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Polibeli Group (PLBL) Explores Thailand AI Computing Center With New Partner"
     },
     {
@@ -695,8 +712,8 @@
       "float_shares": 35472604,
       "cash_debt_ratio": null,
       "insider_pct": 11.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Annovis Bio (ANVS) Loses 26.5% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Annovis Bio Targets March 2027 Alzheimer’s Readout, Prepares Rolling NDA | Annovis Bio Enrolls Over 850 Patients for Its Next Alzheimer's Disease Trial"
     },
     {
@@ -712,9 +729,9 @@
       "float_shares": 1881060060,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "‘This Is the Pain That Comes With Bringing Inflation Down’: Economist Says Higher Rates Are Here to Stay | What Could Surprise RKLB Stock Investors On The Upside? | ValueAct’s 2 Stock Picks You Shouldn’t Miss"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Walker & Dunlop, Rocket Companies, Coastal Financial, Franklin BSP Realty Trust, and PennyMac Financial Services Shares Plummet, What You Need To Know | ‘This Is the Pain That Comes With Bringing Inflation Down’: Economist Says Higher Rates Are Here to Stay | What Could Surprise RKLB Stock Investors On The Upside?"
     },
     {
       "ticker": "STTK",
@@ -735,9 +752,9 @@
     },
     {
       "ticker": "GENI",
-      "score": 36.6,
+      "score": 36.5,
       "last_close": 6.15,
-      "rel_volume": 1.1,
+      "rel_volume": 1.09,
       "price_change_pct": -4.5,
       "gap_pct": -5.2,
       "st_msg_count": null,
@@ -769,10 +786,10 @@
     },
     {
       "ticker": "SOS",
-      "score": 33.5,
+      "score": 34.0,
       "last_close": 0.337,
-      "rel_volume": 0.19,
-      "price_change_pct": -6.02,
+      "rel_volume": 0.2,
+      "price_change_pct": -6.13,
       "gap_pct": -6.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -797,8 +814,8 @@
       "float_shares": 131972476,
       "cash_debt_ratio": 126.62,
       "insider_pct": 8.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "NYSE Texas Office Opening: U.S. Antimony CEO Gary Evans on Market Opportunity | U.S. Antimony CEO Gary Evans Foresees ‘Phenomenal Growth’ Over Next Two Years | Critical Metals Spikes 19%, MP Materials and United States Antimony Lag: Is the European Lithium Merger Driving the Move?"
     },
     {
@@ -816,24 +833,7 @@
       "insider_pct": 10.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Meta Is Up 30% in a Month. Is Its New AI Agent Really That Good? | JetBlue (JBLU) Raises its Revenue Forecast, but Costs are Climbing Just as Fast | JetBlue (JBLU) Raises Its Revenue Outlook. Can Higher Fares Outrun Rising Costs?"
-    },
-    {
-      "ticker": "ANGX",
-      "score": 32.3,
-      "last_close": 4.57,
-      "rel_volume": 0.75,
-      "price_change_pct": -4.79,
-      "gap_pct": -4.58,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 853476416,
-      "float_shares": 104200688,
-      "cash_debt_ratio": 0.62,
-      "insider_pct": 4.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "'Resident Evil' Opening Record Boosts Third-Quarter Domestic Box Office Outlook, B. Riley Says | Angel Studios, Inc. (ANGX) Moves 7.6% Higher: Will This Strength Last? | Angel Studios (ANGX) Stock Looks Near Fair Value Following Guild Growth News"
+      "recent_news": "Southwest and JetBlue Airlines make surprising fare moves | Meta Is Up 30% in a Month. Is Its New AI Agent Really That Good? | JetBlue (JBLU) Raises its Revenue Forecast, but Costs are Climbing Just as Fast"
     },
     {
       "ticker": "EQPT",
@@ -887,16 +887,6 @@
       "recent_news": "Crescent Energy and Kosmos Energy Stocks Trade Up, What You Need To Know | 3 Oil Stocks Linked To Higher Crude Prices Right Now | 3 Low-Volatility Stocks with Open Questions"
     },
     {
-      "ticker": "IVR",
-      "score": 28.2,
-      "last_close": 6.25,
-      "rel_volume": 1.38,
-      "price_change_pct": -2.5,
-      "gap_pct": -2.26,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "AGNC",
       "score": 27.5,
       "last_close": 9.46,
@@ -937,6 +927,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TBLA",
+      "score": 24.1,
+      "last_close": 3.4,
+      "rel_volume": 1.08,
+      "price_change_pct": -2.3,
+      "gap_pct": -2.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AAL",
       "score": 23.1,
       "last_close": 13.52,
@@ -947,12 +947,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "RIG",
+      "score": 22.9,
+      "last_close": 5.28,
+      "rel_volume": 1.21,
+      "price_change_pct": -1.86,
+      "gap_pct": -1.58,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "LAC",
-      "score": 22.2,
+      "score": 22.4,
       "last_close": 2.68,
-      "rel_volume": 0.87,
+      "rel_volume": 0.89,
       "price_change_pct": -2.55,
       "gap_pct": -2.18,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "OLN",
+      "score": 21.6,
+      "last_close": 16.05,
+      "rel_volume": 0.93,
+      "price_change_pct": -2.13,
+      "gap_pct": -2.16,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -987,16 +1007,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "RIG",
-      "score": 19.5,
-      "last_close": 5.28,
-      "rel_volume": 0.92,
-      "price_change_pct": -1.86,
-      "gap_pct": -1.58,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "GRAB",
       "score": 19.3,
       "last_close": 3.095,
@@ -1007,22 +1017,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "IVR",
+      "score": 18.8,
+      "last_close": 6.25,
+      "rel_volume": 1.38,
+      "price_change_pct": -0.64,
+      "gap_pct": -0.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "VISN",
       "score": 18.7,
       "last_close": 6.09,
       "rel_volume": 0.67,
       "price_change_pct": -2.09,
       "gap_pct": -2.33,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CTKB",
-      "score": 18.5,
-      "last_close": 5.74,
-      "rel_volume": 0.96,
-      "price_change_pct": 1.59,
-      "gap_pct": 1.24,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1058,9 +1068,9 @@
     },
     {
       "ticker": "NAT",
-      "score": 15.3,
+      "score": 15.4,
       "last_close": 7.79,
-      "rel_volume": 0.94,
+      "rel_volume": 0.95,
       "price_change_pct": 0.91,
       "gap_pct": 0.78,
       "st_msg_count": null,
@@ -1077,22 +1087,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "QNST",
-      "score": 15.2,
-      "last_close": 14.21,
-      "rel_volume": 0.76,
-      "price_change_pct": -1.39,
-      "gap_pct": -1.04,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "ONDS",
       "score": 12.1,
       "last_close": 7.68,
       "rel_volume": 0.82,
       "price_change_pct": 0.52,
       "gap_pct": 0.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "SRPT",
+      "score": 11.4,
+      "last_close": 18.8,
+      "rel_volume": 0.74,
+      "price_change_pct": 0.7,
+      "gap_pct": 0.32,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
