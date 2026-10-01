@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-01T04:17:21.872520+00:00",
-  "tickers_scanned": 69,
+  "last_updated_utc": "2026-10-01T11:24:30.125880+00:00",
+  "tickers_scanned": 68,
   "results": [
     {
       "ticker": "CAPR",
@@ -31,37 +31,27 @@
       "market_cap": 504875584,
       "float_shares": 27703073,
       "cash_debt_ratio": 35.98,
-      "insider_pct": 0.5,
+      "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "J&J and Contineum’s Depression Drug Missed Phase 2 Goal. What Comes Next? | Sector Update: Healthcare Stocks Ease Late Afternoon | FDA clears first generic radioligand drug; Sionna turns to layoffs"
     },
     {
-      "ticker": "DNA",
-      "score": 71.0,
-      "last_close": 12.83,
-      "rel_volume": 2.85,
-      "price_change_pct": 7.27,
-      "gap_pct": 8.61,
+      "ticker": "GLAS",
+      "score": 75.0,
+      "last_close": 5.61,
+      "rel_volume": 7.03,
+      "price_change_pct": -17.38,
+      "gap_pct": -20.09,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 863975808,
-      "float_shares": 49877596,
-      "cash_debt_ratio": 0.75,
-      "insider_pct": 4.4,
+      "market_cap": 528700448,
+      "float_shares": 73918166,
+      "cash_debt_ratio": 0.26,
+      "insider_pct": 7.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 91,
-      "recent_news": "What Needs To Be True To Buy Twist Bioscience Stock Now? | Ginkgo Bioworks Holdings, Inc. (DNA) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ginkgo Bioworks (DNA) Surges 11.1%: Is This an Indication of Further Gains?"
-    },
-    {
-      "ticker": "EPR-PG",
-      "score": NaN,
-      "last_close": NaN,
-      "rel_volume": 3.42,
-      "price_change_pct": NaN,
-      "gap_pct": 4.67,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Glass House Brands Inc (GLAS) (Q2 2026) Earnings Call Highlights: Record Production and ... | New Analyst Coverage Puts These 5 Stocks in the Spotlight | UG Outperforms Industry in 6 Months: Buy, Sell or Hold the Stock?"
     },
     {
       "ticker": "PACB",
@@ -76,8 +66,8 @@
       "float_shares": 304011132,
       "cash_debt_ratio": 0.33,
       "insider_pct": 8.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Why Is PacBio (PACB) Stock Soaring Today | Stocks making big moves yesterday: TTM Technologies, PacBio, Nvidia, Palo Alto Networks, and Teleflex | Why PacBio (PACB) Stock Is Trading Up Today"
     },
     {
@@ -91,7 +81,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 75114656,
       "float_shares": 7450890,
-      "cash_debt_ratio": 0.07,
+      "cash_debt_ratio": 0.04,
       "insider_pct": 75.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
@@ -109,10 +99,27 @@
       "market_cap": 176841888,
       "float_shares": 42126153,
       "cash_debt_ratio": null,
-      "insider_pct": 5.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "insider_pct": 0.4,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "SITE Centers (SITC) Divests Stake in The Pike Outlets for $50 Million | SITE Centers (SITC) Stock Draws Fresh Price Target Split As Profitability Views Shift | How The SITE Centers (SITC) Story Is Shifting Toward Net Asset Value And Liquidation Outcomes"
+    },
+    {
+      "ticker": "DNA",
+      "score": 71.0,
+      "last_close": 12.83,
+      "rel_volume": 2.85,
+      "price_change_pct": 7.27,
+      "gap_pct": 8.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 863975808,
+      "float_shares": 49877596,
+      "cash_debt_ratio": 0.75,
+      "insider_pct": 4.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 93,
+      "recent_news": "What Needs To Be True To Buy Twist Bioscience Stock Now? | Ginkgo Bioworks Holdings, Inc. (DNA) Sees a More Significant Dip Than Broader Market: Some Facts to Know | Ginkgo Bioworks (DNA) Surges 11.1%: Is This an Indication of Further Gains?"
     },
     {
       "ticker": "IBRX",
@@ -127,8 +134,8 @@
       "float_shares": 406637981,
       "cash_debt_ratio": 0.29,
       "insider_pct": 62.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "A $5.8B Cancer Market Opportunity Is Emerging — Why GA-Courtenay Favors ImmunityBio (IBRX) | Biotech Lagged The Broader Market In September — Did Retail Favorites SLS, IBRX, VNDA And IOVA Dodge XBI’s Slump? | ImmunityBio (IBRX) Meeting With Turkish President Fuels Expansion Hopes, Shares Climb 10%"
     },
     {
@@ -149,6 +156,23 @@
       "recent_news": "Eupraxia Pharma (EPRX): When Painful Swallowing Nearly Disappeared, Investors Took Notice | Wall Street Analysts See a 145.35% Upside in Eupraxia Pharmaceuticals Inc. (EPRX): Can the Stock Really Move This High? | Eupraxia Pharmaceuticals Q1 Loss Narrows"
     },
     {
+      "ticker": "EPR-PG",
+      "score": 63.6,
+      "last_close": 19.56,
+      "rel_volume": 3.42,
+      "price_change_pct": 6.36,
+      "gap_pct": 4.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 74762647,
+      "cash_debt_ratio": 0.0,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "5 Safest High-Yield Monthly Dividend Stocks Retirees Trust | 2 Monthly Dividend Stocks Yielding Over 6% I Actually Own | Jana Partners urges Six Flags to explore a sale"
+    },
+    {
       "ticker": "SES",
       "score": 62.8,
       "last_close": 0.6,
@@ -162,7 +186,7 @@
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "recent_dilution_filings_90d": 12,
       "recent_news": "All You Need to Know About SES AI (SES) Rating Upgrade to Buy | SES AI (SES) Q2 2026 Earnings Call Transcript | SES AI Corporation Q2 2026 Earnings Call Summary"
     },
     {
@@ -174,7 +198,7 @@
       "gap_pct": 7.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 3051734016,
+      "market_cap": 3064781824,
       "float_shares": 194599317,
       "cash_debt_ratio": 0.39,
       "insider_pct": 12.6,
@@ -191,7 +215,7 @@
       "gap_pct": 6.32,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1311424000,
+      "market_cap": 1420338816,
       "float_shares": 235078040,
       "cash_debt_ratio": 101.26,
       "insider_pct": 3.3,
@@ -200,21 +224,21 @@
       "recent_news": "Why Coursera (COUR) Stock Is Trading Up Today | Duolingo (DUOL) vs Coursera (COUR): Which is a Better Stock to Buy? | 1 Stock Under $10 to Target This Week and 2 We Question"
     },
     {
-      "ticker": "PHI",
-      "score": 60.1,
-      "last_close": 17.79,
-      "rel_volume": 4.39,
-      "price_change_pct": 4.96,
-      "gap_pct": 5.13,
+      "ticker": "CAG",
+      "score": 60.6,
+      "last_close": 13.44,
+      "rel_volume": 3.44,
+      "price_change_pct": -4.88,
+      "gap_pct": -5.52,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 3843632384,
-      "float_shares": 71361062,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": null,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week | Asian Equities Traded in the US as American Depositary Receipts Lower in Tuesday Trading"
+      "market_cap": 6431921664,
+      "float_shares": 475796317,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 0.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
+      "recent_news": "Conagra Brands Inc (CAG) (Q1 2027) Earnings Call Highlights: Solid Start, Guidance Reaffirmed ... | Stocks to Watch Recap: Micron, Boeing, Robinhood, Mattel | Conagra Brands Inc (CAG) (Q1 2027) Earnings Call Highlights: Pricing Actions Kick In as ..."
     },
     {
       "ticker": "FEAM",
@@ -283,6 +307,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 39,
       "recent_news": "Allbirds’ IP owner snaps up Nasty Gal for $16M | The Great AI Pivot: When FOMO Pays Off—and When It Doesn’t | Allbirds’ New IP Owner Reveals First Details About the Brand’s Future in Footwear — Not AI"
+    },
+    {
+      "ticker": "JELD",
+      "score": 53.2,
+      "last_close": 1.84,
+      "rel_volume": 1.45,
+      "price_change_pct": -7.54,
+      "gap_pct": -6.78,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 159644624,
+      "float_shares": 80352436,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 3.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "1 Unprofitable Stock Worth Your Attention and 2 We Ignore | Why JELD-WEN (JELD) Stock Is Trading Up Today | JELD-WEN, Shoals, Advanced Energy, American Superconductor, and Bloom Energy Shares Plummet, What You Need To Know"
     },
     {
       "ticker": "ABSI",
@@ -370,23 +411,6 @@
       "recent_news": "Newcleo (NWCL) Following Nasdaq Inclusion And Fresh Funding, Does The Valuation Hold Up | Newcleo to Go Public in US Through SPAC Merger With NewHold Investment | Market Chatter: Newcleo Plans to Go Public in US Through NewHold Investment III Merger"
     },
     {
-      "ticker": "DAVA",
-      "score": 47.6,
-      "last_close": 1.79,
-      "rel_volume": 0.77,
-      "price_change_pct": 8.48,
-      "gap_pct": 7.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 94588456,
-      "float_shares": 35243517,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 1.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "European Equities Traded in the US as American Depositary Receipts Start Week Slightly Lower in Monday Trading | European Equities Traded in the US as American Depositary Receipts Edge Higher in Friday Trading; Down for Week | European Equities Traded in the US as American Depositary Receipts Edge Lower in Thursday Trading"
-    },
-    {
       "ticker": "CCCC",
       "score": 47.4,
       "last_close": 3.33,
@@ -412,7 +436,7 @@
       "gap_pct": null,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 34902432,
+      "market_cap": 34387856,
       "float_shares": 196228291,
       "cash_debt_ratio": 0.03,
       "insider_pct": 79.1,
@@ -432,7 +456,7 @@
       "market_cap": 3868374528,
       "float_shares": 90614351,
       "cash_debt_ratio": 3.47,
-      "insider_pct": 1.8,
+      "insider_pct": 1.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading | Can Legend Biotech (LEGN) Turn Cell Therapy Scale Into Compounding Wealth? | LEGN’s New CEO From Novartis Paves Way For Buyout Speculation"
@@ -450,26 +474,9 @@
       "float_shares": 304170359,
       "cash_debt_ratio": 1.23,
       "insider_pct": 3.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
       "recent_news": "Analyst Rating Boosts May Signal More Upside for These 3 Stocks | StubHub earns Moody’s upgrade to B2 as debt reduction efforts bear fruit | 3 Stocks Under $6 to Buy in the Fall"
-    },
-    {
-      "ticker": "CANG",
-      "score": 44.8,
-      "last_close": 2.49,
-      "rel_volume": 1.81,
-      "price_change_pct": 5.06,
-      "gap_pct": 4.22,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 102144704,
-      "float_shares": null,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 14.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Cango stock surges over 20% following Buy initiation at Jones Trading | Asian Equities Traded in the US as American Depositary Receipts Fall in Thursday Trading | Cango (CANG) Q2 2026 Earnings Call Transcript"
     },
     {
       "ticker": "ENVX",
@@ -518,9 +525,9 @@
       "float_shares": 144209884,
       "cash_debt_ratio": 10.95,
       "insider_pct": 8.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Asana, Unity, C3.ai, Rapid7, and ZoomInfo Shares Are Soaring, What You Need To Know | 3 Unprofitable Stocks with Open Questions | SoundHound vs. BigBear.ai: Which AI Stock Is the Better Buy Now?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 812,
+      "recent_news": "Did Stronger US Consumer Spending Just Shift C3.ai's (AI) Macro‑Driven Investment Narrative? | Asana, Unity, C3.ai, Rapid7, and ZoomInfo Shares Are Soaring, What You Need To Know | 3 Unprofitable Stocks with Open Questions"
     },
     {
       "ticker": "CCOI",
@@ -588,7 +595,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Why ChargePoint (CHPT) Stock Is Up Today | ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips | ChargePoint Climbs 6%, Extends 65% Monthly Run; EVgo Inches Higher, Blink Charging Slips"
+      "recent_news": "ChargePoint (CHPT) Stock Gets Fair Value Boost After Stronger Q2 Execution | Why ChargePoint (CHPT) Stock Is Up Today | ChargePoint Jumps 7% as Electric September Run Persists; EVgo Falls 3%, Blink Charging Slips"
     },
     {
       "ticker": "AGNC",
@@ -608,23 +615,6 @@
       "recent_news": "AGNC Investment (AGNC) Dips More Than Broader Market: What You Should Know | 4 Dividend Rules That Keep Retirees From Buying a Payout That Gets Cut | Here's How Many Shares of This 15%-Yielding Monthly Dividend Stock You'd Need to Cover Your Mortgage Payment"
     },
     {
-      "ticker": "CMPS",
-      "score": 33.3,
-      "last_close": 12.44,
-      "rel_volume": 1.15,
-      "price_change_pct": -4.01,
-      "gap_pct": -3.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1722651520,
-      "float_shares": 106969191,
-      "cash_debt_ratio": 7.93,
-      "insider_pct": 7.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress | Compass Pathways Targets Q4 COMP360 NDA Completion, Eyes 2027 Launch | Helus Pharma Eyes Q4 Phase III Data for HLP-003 in Major Depression"
-    },
-    {
       "ticker": "BMEA",
       "score": 33.1,
       "last_close": 1.33,
@@ -633,12 +623,12 @@
       "gap_pct": 4.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 96403528,
+      "market_cap": 96158256,
       "float_shares": 67628884,
       "cash_debt_ratio": 39.71,
       "insider_pct": 7.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "After Golden Cross, Biomea Fusion, Inc. (BMEA)'s Technical Outlook is Bright | Sector Update: Healthcare Stocks Softer Late Afternoon | Citi Predicts Up to 410% Rally for These 2 ‘Strong Buy’ Stocks"
     },
     {
@@ -654,8 +644,8 @@
       "float_shares": 86668055,
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 15,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? | Stocks to Watch: Six Flags, Repsol, Hanwha | Six Flags Could Go Private. Disney Shareholders Should Pay Attention."
     },
     {
@@ -674,6 +664,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
       "recent_news": "Here's Why Invesco Mortgage Capital (IVR) Fell More Than Broader Market | Invesco Mortgage Capital (IVR) Dips More Than Broader Market: What You Should Know | These Huge Mortgage REIT Yields Are Really a Bet on Interest Rates"
+    },
+    {
+      "ticker": "BZ",
+      "score": 31.0,
+      "last_close": 14.8,
+      "rel_volume": 0.77,
+      "price_change_pct": 4.45,
+      "gap_pct": 4.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 6479503360,
+      "float_shares": 380595417,
+      "cash_debt_ratio": 96.93,
+      "insider_pct": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Kanzhun Ltd's Dividend Analysis | Do Options Traders Know Something About Kanzhun Stock We Don't? | KANZHUN LIMITED Sponsored ADR (BZ) Just Flashed Golden Cross Signal: Do You Buy?"
     },
     {
       "ticker": "NU",
@@ -702,12 +709,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1580038656,
-      "float_shares": 64057761,
+      "float_shares": 172092471,
       "cash_debt_ratio": 0.22,
       "insider_pct": 0.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Start Week Lower in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Rise in Monday Trading | Asian Equities Traded in the US as American Depositary Receipts Decline in Friday Trading; Up Marginally for Week"
     },
     {
       "ticker": "PATH",
@@ -730,6 +737,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TEAD",
+      "score": 27.4,
+      "last_close": 0.511,
+      "rel_volume": 0.85,
+      "price_change_pct": -0.78,
+      "gap_pct": 8.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "TMC",
       "score": 25.6,
       "last_close": 3.84,
@@ -746,16 +763,6 @@
       "rel_volume": 1.08,
       "price_change_pct": -1.95,
       "gap_pct": -2.24,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "RKT",
-      "score": 22.2,
-      "last_close": 11.51,
-      "rel_volume": 1.28,
-      "price_change_pct": -1.54,
-      "gap_pct": -1.33,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -820,16 +827,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "CDE",
-      "score": 18.4,
-      "last_close": 17.6,
-      "rel_volume": 1.05,
-      "price_change_pct": -1.35,
-      "gap_pct": -1.01,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "BRSL",
       "score": 18.2,
       "last_close": 9.99,
@@ -880,6 +877,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "HL",
+      "score": 16.0,
+      "last_close": 17.03,
+      "rel_volume": 1.04,
+      "price_change_pct": -0.7,
+      "gap_pct": -0.87,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OI",
       "score": 16.0,
       "last_close": 5.65,
@@ -916,16 +923,6 @@
       "rel_volume": 0.66,
       "price_change_pct": -1.17,
       "gap_pct": -1.4,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 13.0,
-      "last_close": 3.49,
-      "rel_volume": 0.7,
-      "price_change_pct": -0.85,
-      "gap_pct": -1.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
