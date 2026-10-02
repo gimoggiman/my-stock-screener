@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-10-01T23:01:32.066668+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-10-02T02:13:46.891918+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "BIRD",
       "score": 75.0,
       "last_close": 3.49,
-      "rel_volume": 7.65,
+      "rel_volume": 7.68,
       "price_change_pct": 33.72,
       "gap_pct": 33.33,
       "st_msg_count": null,
@@ -16,14 +16,14 @@
       "cash_debt_ratio": 2.58,
       "insider_pct": 9.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 41,
-      "recent_news": "Google News | Blue Bird Corporation (BLBD) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Smartbird (BIRD) Stock Price, News &amp; Analysis - Stock Titan"
+      "recent_dilution_filings_90d": 42,
+      "recent_news": null
     },
     {
       "ticker": "CTVA",
       "score": 75.0,
       "last_close": 12.57,
-      "rel_volume": 18.27,
+      "rel_volume": 18.29,
       "price_change_pct": -83.81,
       "gap_pct": -84.1,
       "st_msg_count": null,
@@ -34,7 +34,41 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Yahoo Finance | CTVA Stock Drops As $455M PFAS Settlement Hits Sentiment - StocksToTrade"
+      "recent_news": null
+    },
+    {
+      "ticker": "INGN",
+      "score": 75.0,
+      "last_close": 5.98,
+      "rel_volume": 3.57,
+      "price_change_pct": 13.47,
+      "gap_pct": 14.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 158699248,
+      "float_shares": 23126834,
+      "cash_debt_ratio": 6.68,
+      "insider_pct": 12.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": null
+    },
+    {
+      "ticker": "INSG",
+      "score": 75.0,
+      "last_close": 4.37,
+      "rel_volume": 8.68,
+      "price_change_pct": 19.4,
+      "gap_pct": 19.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 76843320,
+      "float_shares": 14100527,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": 2.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": null
     },
     {
       "ticker": "MAT",
@@ -51,14 +85,31 @@
       "insider_pct": 1.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | MAT Stock Jumps 23% — Authentic Brands Reportedly Eyes $6B-Plus Takeover Of Mattel - Yahoo Finance | Mattel soars 19% on report of takeover interest (MAT:NASDAQ) - Seeking Alpha"
+      "recent_news": null
+    },
+    {
+      "ticker": "OM",
+      "score": 75.0,
+      "last_close": 3.75,
+      "rel_volume": 7.32,
+      "price_change_pct": 25.0,
+      "gap_pct": 27.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 70489368,
+      "float_shares": 14773067,
+      "cash_debt_ratio": 1.41,
+      "insider_pct": 5.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 51,
+      "recent_news": null
     },
     {
       "ticker": "SES",
       "score": 75.0,
       "last_close": 0.816,
-      "rel_volume": 4.53,
-      "price_change_pct": 36.05,
+      "rel_volume": 4.55,
+      "price_change_pct": 36.0,
       "gap_pct": 34.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -68,13 +119,13 @@
       "insider_pct": 15.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | 12 Industrials Stocks Moving In Thursday's Intraday Session - benzinga.com | A South Korean plant now has capacity for about 1 million battery cells a year. SES AI runs it. - stocktitan.net"
+      "recent_news": null
     },
     {
       "ticker": "TDAY",
       "score": 75.0,
       "last_close": 7.06,
-      "rel_volume": 3.09,
+      "rel_volume": 3.11,
       "price_change_pct": 12.24,
       "gap_pct": 12.16,
       "st_msg_count": null,
@@ -83,15 +134,32 @@
       "float_shares": 101982330,
       "cash_debt_ratio": 0.08,
       "insider_pct": 9.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": null
+    },
+    {
+      "ticker": "TTEC",
+      "score": 75.0,
+      "last_close": 1.49,
+      "rel_volume": 3.41,
+      "price_change_pct": 14.62,
+      "gap_pct": 12.69,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 73204472,
+      "float_shares": 20352458,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 58.6,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Stock replaces $30,000 in fees as USA TODAY Co. (TDAY) director acquires 4,769 shares. - stocktitan.net | Meta Platforms, IBD Stock Of The Day, Forges New Buy Point After Muse Rally - Investor's Business Daily"
+      "recent_news": null
     },
     {
       "ticker": "BLMN",
       "score": 73.6,
       "last_close": 8.38,
-      "rel_volume": 3.03,
+      "rel_volume": 3.04,
       "price_change_pct": 8.13,
       "gap_pct": 7.23,
       "st_msg_count": null,
@@ -102,7 +170,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Bloomin' Brands (BLMN) Shares Skyrocket, What You Need To Know - Yahoo Finance | Bloomin' Brands upgraded as Outback's turnaround gains momentum (BLMN:NASDAQ) - Seeking Alpha"
+      "recent_news": null
     },
     {
       "ticker": "KD",
@@ -119,13 +187,13 @@
       "insider_pct": 2.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | Kyndryl Holdings, Inc. (KD) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Kyndryl (KD) Stock Is Up Today - tradingview.com"
+      "recent_news": null
     },
     {
       "ticker": "RFL",
-      "score": 68.4,
+      "score": 68.5,
       "last_close": 1.5,
-      "rel_volume": 2.43,
+      "rel_volume": 2.44,
       "price_change_pct": 13.64,
       "gap_pct": 13.6,
       "st_msg_count": null,
@@ -136,7 +204,7 @@
       "insider_pct": 38.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rafael Holdings, Inc. (RFL) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | We're Keeping An Eye On Rafael Holdings' (NYSE:RFL) Cash Burn Rate - Simply Wall Street"
+      "recent_news": null
     },
     {
       "ticker": "PSKY",
@@ -147,13 +215,13 @@
       "gap_pct": -9.15,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 10453076992,
+      "market_cap": 10478972928,
       "float_shares": 536940811,
       "cash_debt_ratio": 0.1,
       "insider_pct": 50.8,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | PSKY Stock Climbs Overnight: Paramount Taps Bond Market With Notes Maturing As Late As 2066 To Fund WBD Deal - Yahoo Finance | PSKY Stock Slides As Warner Bros. Deal Risks Mount - StocksToTrade"
+      "recent_news": null
     },
     {
       "ticker": "STLA",
@@ -164,13 +232,30 @@
       "gap_pct": 7.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 13605414912,
+      "market_cap": 17668749312,
       "float_shares": 2444536165,
       "cash_debt_ratio": 0.61,
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Stellantis Shares Rise as Reaffirmed 2026 Outlook Sparks Rebound - Quiver Quantitative | STLA Stock: Stellantis CEO Rules Out Maserati Sale But Hints At New Partnerships - Stocktwits"
+      "recent_news": null
+    },
+    {
+      "ticker": "MLCO",
+      "score": 62.7,
+      "last_close": 4.14,
+      "rel_volume": 2.07,
+      "price_change_pct": -7.59,
+      "gap_pct": -7.92,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1574210432,
+      "float_shares": 139355647,
+      "cash_debt_ratio": 0.12,
+      "insider_pct": 2.0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": null
     },
     {
       "ticker": "PACB",
@@ -187,7 +272,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is PacBio (PACB) Stock Soaring Today - Yahoo Finance | PACB Stock Climbs As Traders Eye Conference Catalyst - StocksToTrade"
+      "recent_news": null
     },
     {
       "ticker": "DXC",
@@ -204,47 +289,47 @@
       "insider_pct": 1.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Google News | DXC Technology Company (DXC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | DXC Technology (NYSE:DXC) Shares Gap Up - Time to Buy? - MarketBeat"
+      "recent_news": null
     },
     {
-      "ticker": "LESL",
-      "score": 55.9,
-      "last_close": 0.168,
-      "rel_volume": 13.95,
-      "price_change_pct": 5.0,
-      "gap_pct": 2.81,
+      "ticker": "GOTU",
+      "score": 56.6,
+      "last_close": 2.56,
+      "rel_volume": 2.19,
+      "price_change_pct": 6.22,
+      "gap_pct": 6.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1573399,
-      "float_shares": 9123939,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.9,
+      "market_cap": 601742912,
+      "float_shares": 108353139,
+      "cash_debt_ratio": 2.93,
+      "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Leslie's Shares Gain After Hours - Leslies (NASDAQ:LESL) - benzinga.com | Nasdaq to Suspend Trading in Leslie’s Stock on October 6 - Pool Magazine"
+      "recent_news": null
     },
     {
-      "ticker": "VIOT",
-      "score": 52.5,
-      "last_close": 1.895,
-      "rel_volume": 1.07,
-      "price_change_pct": 11.47,
-      "gap_pct": 10.59,
+      "ticker": "ARCO",
+      "score": 53.4,
+      "last_close": 6.91,
+      "rel_volume": 6.03,
+      "price_change_pct": -3.36,
+      "gap_pct": -4.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 124972520,
-      "float_shares": 31641213,
-      "cash_debt_ratio": 8.74,
-      "insider_pct": 2.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Xiaomi supplied 88% of revenue as Viomi (VIOT) swung from profit to a first-half loss. - stocktitan.net | Viomi Technology Co., Ltd. Sponsored ADR (NASDAQ:VIOT) Sees Large Growth in Short Interest - MarketBeat"
+      "market_cap": 1455681664,
+      "float_shares": 120254899,
+      "cash_debt_ratio": 0.12,
+      "insider_pct": 0.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": null
     },
     {
       "ticker": "CNDT",
-      "score": 51.5,
+      "score": 51.9,
       "last_close": 1.64,
-      "rel_volume": 2.11,
+      "rel_volume": 2.15,
       "price_change_pct": 5.13,
       "gap_pct": 5.77,
       "st_msg_count": null,
@@ -255,41 +340,7 @@
       "insider_pct": 10.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CNDT News | CONDUENT INC (NASDAQ:CNDT) - ChartMill | Conduent Incorporated (CNDT) Is A Top Stock To Buy According To Bill Miller - Yahoo Finance"
-    },
-    {
-      "ticker": "EAF",
-      "score": 50.8,
-      "last_close": 9.07,
-      "rel_volume": 0.93,
-      "price_change_pct": 9.67,
-      "gap_pct": 9.92,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 236254304,
-      "float_shares": 18425243,
-      "cash_debt_ratio": 0.12,
-      "insider_pct": 41.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A fully vested 3.48K-unit stock grant goes to GrafTech (EAF) director Eric V. Roegner. - Stock Titan"
-    },
-    {
-      "ticker": "DAVA",
-      "score": 48.4,
-      "last_close": 1.92,
-      "rel_volume": 0.92,
-      "price_change_pct": 7.26,
-      "gap_pct": 8.66,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 101458016,
-      "float_shares": 35243517,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 1.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | [Form 3] Endava plc Initial Statement of Beneficial Ownership - Stock Titan | Here is Why Endava (DAVA) is One of the Underperforming Tech Stocks to Buy According to Analysts - Yahoo Finance"
+      "recent_news": null
     },
     {
       "ticker": "CCOI",
@@ -306,24 +357,7 @@
       "insider_pct": 4.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cogent Communications Holdings, Inc. (CCOI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Q3 director service earns Steven D. Brooks 3,445 shares of Cogent Communications (CCOI). - Stock Titan"
-    },
-    {
-      "ticker": "GETY",
-      "score": 46.3,
-      "last_close": 0.086,
-      "rel_volume": 3.88,
-      "price_change_pct": 3.61,
-      "gap_pct": null,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 34902432,
-      "float_shares": 196228291,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 79.1,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | NYSE to Commence Delisting Proceedings Against Getty Images Holdings, Inc. (GETY) - Yahoo Finance | GETY Stock Price, Quote &amp; Chart - ChartMill"
+      "recent_news": null
     },
     {
       "ticker": "NU",
@@ -340,7 +374,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 17,
-      "recent_news": "Google News | NU Stock Pops After Hours: Monzo Deal Scare Meets Company Denial - Yahoo Finance | Nu Stock Slips as $13 Billion Monzo Buyout Talks Emerge - benzinga.com"
+      "recent_news": null
     },
     {
       "ticker": "JELD",
@@ -351,30 +385,13 @@
       "gap_pct": 5.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 168856592,
+      "market_cap": 170056240,
       "float_shares": 80352436,
       "cash_debt_ratio": 0.04,
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JELD-WEN Holding, Inc. (JELD) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | JELD-WEN Holding, Inc. (JELD) stock price, news, quote and history - Yahoo Finance UK"
-    },
-    {
-      "ticker": "BAK",
-      "score": 42.7,
-      "last_close": 1.55,
-      "rel_volume": 0.54,
-      "price_change_pct": 6.9,
-      "gap_pct": 7.93,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 350228704,
-      "float_shares": 44551958,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | The Bank of Nova Scotia (BNS.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Braskem (NYSE:BAK) Shares Gap Up - Should You Buy? - MarketBeat"
+      "recent_news": null
     },
     {
       "ticker": "NCNO",
@@ -389,9 +406,9 @@
       "float_shares": 87796975,
       "cash_debt_ratio": 0.25,
       "insider_pct": 3.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | nCino, Inc. (NCNO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | nCino (NASDAQ:NCNO) Shares Climb 7.3% - What's Next? - MarketBeat"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": null
     },
     {
       "ticker": "ORC",
@@ -408,7 +425,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | A director receives 2,183 stock units instead of a dividend at Orchid Island Capital (ORC). - stocktitan.net | A director receives 5,755 fully vested stock units at Orchid Island Capital (ORC). - stocktitan.net"
+      "recent_news": null
     },
     {
       "ticker": "SID",
@@ -425,13 +442,13 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | National Steel (NYSE:SID) Stock Price Up 7.4% - Here's What Happened - MarketBeat | SID Stock Price and Chart — HAN:SID - tradingview.com"
+      "recent_news": null
     },
     {
       "ticker": "IVR",
-      "score": 41.2,
+      "score": 41.3,
       "last_close": 5.82,
-      "rel_volume": 1.82,
+      "rel_volume": 1.83,
       "price_change_pct": -4.12,
       "gap_pct": -3.79,
       "st_msg_count": null,
@@ -442,7 +459,7 @@
       "insider_pct": 0.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | Here's Why Invesco Mortgage Capital (IVR) Fell More Than Broader Market - Yahoo Finance | Invesco Mortgage Capital (NYSE:IVR) Reaches New 52-Week Low - Here's What Happened - MarketBeat"
+      "recent_news": null
     },
     {
       "ticker": "CXM",
@@ -459,30 +476,13 @@
       "insider_pct": 7.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Sprinklr, Inc. (CXM) stock price, news, quote and history - Yahoo Finance Australia | A director proposes another Sprinklr (CXM) share sale after selling $810K in September. - stocktitan.net"
-    },
-    {
-      "ticker": "REF",
-      "score": 40.2,
-      "last_close": 12.7,
-      "rel_volume": 0.97,
-      "price_change_pct": 5.48,
-      "gap_pct": 6.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 750307328,
-      "float_shares": 16135744,
-      "cash_debt_ratio": 0.18,
-      "insider_pct": 61.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Reformation (REF) Stock Price, News &amp; Analysis - stocktitan.net | symbol__ Stock Quote Price and Forecast - CNN"
+      "recent_news": null
     },
     {
       "ticker": "RKT",
-      "score": 38.8,
+      "score": 38.9,
       "last_close": 11.97,
-      "rel_volume": 1.63,
+      "rel_volume": 1.64,
       "price_change_pct": 4.0,
       "gap_pct": 3.87,
       "st_msg_count": null,
@@ -491,15 +491,15 @@
       "float_shares": 1881060060,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | RKT Stock Draws Traders As Rocket Bets On VantageScore - StocksToTrade | RKT Stock Eyes Upside As Rocket Mortgage Bets On VantageScore - timothysykes.com"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": null
     },
     {
       "ticker": "SNAP",
-      "score": 38.5,
+      "score": 38.6,
       "last_close": 5.65,
-      "rel_volume": 1.36,
+      "rel_volume": 1.37,
       "price_change_pct": 4.63,
       "gap_pct": 4.35,
       "st_msg_count": null,
@@ -510,7 +510,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Google News | Snap Is Down 32% in 2026: Overlooked Bargain or Toxic Stock? - Yahoo Finance | Why Is Everyone Ignoring Snap Stock’s High Cash Yield? - Trefis"
+      "recent_news": null
     },
     {
       "ticker": "FUN",
@@ -527,24 +527,24 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
-      "recent_news": "Google News | Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? - Yahoo Finance | Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? - MarketBeat"
+      "recent_news": null
     },
     {
-      "ticker": "KNDI",
-      "score": 37.5,
-      "last_close": 0.85,
-      "rel_volume": 0.15,
-      "price_change_pct": 7.59,
-      "gap_pct": 6.44,
+      "ticker": "TASK",
+      "score": 37.1,
+      "last_close": 8.26,
+      "rel_volume": 0.91,
+      "price_change_pct": 5.49,
+      "gap_pct": 4.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 85353064,
-      "float_shares": 79571296,
-      "cash_debt_ratio": 5.13,
-      "insider_pct": 14.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A battery maker's subsidiary ordered more truck battery-swap stations from Kandi just two months after its first order. - stocktitan.net | Let's take a look at the stocks that are in motion in today's session. - ChartMill"
+      "market_cap": 757334848,
+      "float_shares": 28709040,
+      "cash_debt_ratio": 0.33,
+      "insider_pct": 22.9,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 221,
+      "recent_news": null
     },
     {
       "ticker": "CMPS",
@@ -561,14 +561,14 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance | How Phase III Progress At Compass Pathways Stock Has Changed Its Investment Story - Simply Wall Street"
+      "recent_news": null
     },
     {
       "ticker": "TEAD",
-      "score": 36.1,
+      "score": 36.3,
       "last_close": 0.539,
       "rel_volume": 0.36,
-      "price_change_pct": 5.42,
+      "price_change_pct": 5.48,
       "gap_pct": 8.61,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -576,9 +576,26 @@
       "float_shares": 26282444,
       "cash_debt_ratio": 0.14,
       "insider_pct": 55.8,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": null
+    },
+    {
+      "ticker": "TROX",
+      "score": 35.2,
+      "last_close": 3.82,
+      "rel_volume": 1.57,
+      "price_change_pct": -3.29,
+      "gap_pct": -3.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 610054080,
+      "float_shares": 118851956,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 25.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Brands can now add retail ads to wider campaigns in the US and Europe with Teads and Koddi. - stocktitan.net | Teads (TEAD) Stock Forecast: Can +9.70% Upside Continue? 2026-09-17 - Stop Hunt - careplusvn.com"
+      "recent_news": null
     },
     {
       "ticker": "NABL",
@@ -595,7 +612,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | N-able (NYSE:NABL) Shares Climb 5.8% - Should You Buy? - MarketBeat | N able (NABL) Stock Draws Fresh Price Target Split On Execution Risk - Yahoo Finance"
+      "recent_news": null
     },
     {
       "ticker": "CAPR",
@@ -612,7 +629,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Did CAPR Stock Jump 20% After-Hours Today? - Stocktwits | Why Did CAPR Stock Jump 20% After-Hours Today? - Yahoo Finance"
+      "recent_news": null
     },
     {
       "ticker": "OLN",
@@ -629,7 +646,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Olin Corporation (OLN) Stock Forecasts - Yahoo Finance | OLN Maintains Rating by Wells Fargo -- Price Target Lowered to $16.00 - GuruFocus"
+      "recent_news": null
     },
     {
       "ticker": "ITUB",
@@ -644,19 +661,9 @@
       "float_shares": 5850079289,
       "cash_debt_ratio": 0.43,
       "insider_pct": 0.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo Finance Singapore | ITUB Stock Grinds Higher As Traders Watch Key Levels - timothysykes.com"
-    },
-    {
-      "ticker": "SLQT",
-      "score": 28.3,
-      "last_close": 0.426,
-      "rel_volume": 0.49,
-      "price_change_pct": 5.19,
-      "gap_pct": 3.42,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": null
     },
     {
       "ticker": "NAT",
@@ -690,21 +697,21 @@
     },
     {
       "ticker": "AGNC",
-      "score": 24.8,
+      "score": 24.9,
       "last_close": 8.95,
-      "rel_volume": 1.58,
+      "rel_volume": 1.59,
       "price_change_pct": -1.32,
       "gap_pct": -1.21,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "EVH",
-      "score": 23.1,
-      "last_close": 3.39,
-      "rel_volume": 0.82,
-      "price_change_pct": -2.87,
-      "gap_pct": -2.44,
+      "ticker": "PENN",
+      "score": 24.5,
+      "last_close": 14.52,
+      "rel_volume": 1.74,
+      "price_change_pct": -0.89,
+      "gap_pct": -0.75,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -729,20 +736,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PENN",
-      "score": 22.6,
-      "last_close": 14.52,
-      "rel_volume": 1.58,
-      "price_change_pct": -0.89,
-      "gap_pct": -0.75,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "LAC",
-      "score": 22.2,
+      "score": 22.5,
       "last_close": 2.57,
-      "rel_volume": 0.93,
+      "rel_volume": 0.95,
       "price_change_pct": -2.28,
       "gap_pct": -2.28,
       "st_msg_count": null,
@@ -760,9 +757,9 @@
     },
     {
       "ticker": "ONDS",
-      "score": 21.4,
+      "score": 21.5,
       "last_close": 7.12,
-      "rel_volume": 0.65,
+      "rel_volume": 0.66,
       "price_change_pct": -2.86,
       "gap_pct": -2.59,
       "st_msg_count": null,
@@ -779,22 +776,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "NOK",
-      "score": 20.4,
-      "last_close": 10.37,
-      "rel_volume": 0.79,
-      "price_change_pct": 2.27,
-      "gap_pct": 2.17,
+      "ticker": "F",
+      "score": 20.6,
+      "last_close": 12.27,
+      "rel_volume": 1.0,
+      "price_change_pct": 1.74,
+      "gap_pct": 1.87,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "F",
-      "score": 20.3,
-      "last_close": 12.27,
-      "rel_volume": 0.97,
-      "price_change_pct": 1.74,
-      "gap_pct": 1.87,
+      "ticker": "NOK",
+      "score": 20.6,
+      "last_close": 10.37,
+      "rel_volume": 0.81,
+      "price_change_pct": 2.27,
+      "gap_pct": 2.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -829,6 +826,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "JBLU",
+      "score": 17.9,
+      "last_close": 4.15,
+      "rel_volume": 0.74,
+      "price_change_pct": -1.89,
+      "gap_pct": -1.77,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "GPRO",
       "score": 17.7,
       "last_close": 1.33,
@@ -839,12 +846,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "JBLU",
-      "score": 17.7,
-      "last_close": 4.15,
-      "rel_volume": 0.73,
-      "price_change_pct": -1.89,
-      "gap_pct": -1.77,
+      "ticker": "RIG",
+      "score": 16.6,
+      "last_close": 5.24,
+      "rel_volume": 1.36,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -870,21 +877,21 @@
     },
     {
       "ticker": "UAMY",
-      "score": 14.9,
+      "score": 15.0,
       "last_close": 4.13,
-      "rel_volume": 0.92,
+      "rel_volume": 0.93,
       "price_change_pct": -0.96,
       "gap_pct": -0.6,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "RIG",
-      "score": 14.1,
-      "last_close": 5.24,
-      "rel_volume": 1.15,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.38,
+      "ticker": "GRAB",
+      "score": 14.0,
+      "last_close": 3.12,
+      "rel_volume": 1.04,
+      "price_change_pct": 0.32,
+      "gap_pct": 0.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -895,16 +902,6 @@
       "rel_volume": 1.11,
       "price_change_pct": 0.0,
       "gap_pct": 0.18,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GRAB",
-      "score": 12.9,
-      "last_close": 3.12,
-      "rel_volume": 0.94,
-      "price_change_pct": 0.32,
-      "gap_pct": 0.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
