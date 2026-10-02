@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-02T02:13:46.891918+00:00",
+  "last_updated_utc": "2026-10-02T09:24:09.834157+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 9.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 42,
-      "recent_news": null
+      "recent_news": "Google News | Bird Construction Inc. (BDT.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Smartbird (BIRD) Stock Price, News &amp; Analysis - stocktitan.net"
     },
     {
       "ticker": "CTVA",
@@ -34,7 +34,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": null
+      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Yahoo Finance | CTVA Stock Drops As $455M PFAS Settlement Hits Sentiment - StocksToTrade"
     },
     {
       "ticker": "INGN",
@@ -51,7 +51,7 @@
       "insider_pct": 12.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Biggest stock movers Thursday: ACN, INGN, and more - Seeking Alpha | Inogen plans to sell its oxygen rentals to Rotech; patients can still buy its products directly. - stocktitan.net"
     },
     {
       "ticker": "INSG",
@@ -68,7 +68,7 @@
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": null
+      "recent_news": "Google News | Inseego Corp (INSG-Q) Stock Price and News - The Globe and Mail | Nokia’s wireless broadband business is now Inseego’s, and Inseego expects revenue to roughly double. - stocktitan.net"
     },
     {
       "ticker": "MAT",
@@ -85,7 +85,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": null
+      "recent_news": "Google News | Mattel, Inc. (MAT) stock price, news, quote and history - Yahoo Finance Singapore | MAT Stock Eyes Best Week In 16 Months On Mattel Buyout Buzz — Retail Traders See Room Above $20 - TradingView"
     },
     {
       "ticker": "OM",
@@ -102,7 +102,7 @@
       "insider_pct": 5.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 51,
-      "recent_news": null
+      "recent_news": "Google News | Snap-on Incorporated (SNA) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Top Motley Fool Promo Codes for 2026 - WIRED"
     },
     {
       "ticker": "SES",
@@ -119,7 +119,7 @@
       "insider_pct": 15.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": null
+      "recent_news": "Google News | 12 Industrials Stocks Moving In Thursday's Intraday Session - Benzinga | A South Korean plant now has capacity for about 1 million battery cells a year. SES AI runs it. - stocktitan.net"
     },
     {
       "ticker": "TDAY",
@@ -136,7 +136,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Stocks Fall After Manufacturing Data as Oil Climbs: Markets Wrap - Bloomberg.com | Stock replaces $30,000 in fees as USA TODAY Co. (TDAY) director acquires 4,769 shares. - stocktitan.net"
     },
     {
       "ticker": "TTEC",
@@ -151,9 +151,9 @@
       "float_shares": 20352458,
       "cash_debt_ratio": 0.1,
       "insider_pct": 58.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | TTEC Holdings, Inc. (TTEC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Microsoft recognized TTEC Digital for an 11th straight year. A spring 2027 summit follows. - stocktitan.net"
     },
     {
       "ticker": "BLMN",
@@ -170,7 +170,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Bloomin' Brands (NASDAQ:BLMN) Stock Price Up 7% - Here's Why - MarketBeat | Bloomin' Brands (BLMN) Shares Skyrocket, What You Need To Know - Yahoo Finance"
     },
     {
       "ticker": "KD",
@@ -187,7 +187,7 @@
       "insider_pct": 2.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": null
+      "recent_news": "Google News | Why Kyndryl (KD) Stock Is Up Today - Yahoo Finance | Kyndryl Holdings, Inc. (KD) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "RFL",
@@ -204,7 +204,7 @@
       "insider_pct": 38.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Rafael Holdings, Inc. (RFL) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | The trial drug missed its main goal. Separately, treatment was associated with 85% lower mortality risk. - stocktitan.net"
     },
     {
       "ticker": "PSKY",
@@ -219,9 +219,9 @@
       "float_shares": 536940811,
       "cash_debt_ratio": 0.1,
       "insider_pct": 50.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | PSKY's High-Grade Bond Offering To Fund Warner Takeover Tops $109B Ahead Of Wednesday Pricing: Report - Stocktwits | PSKY Stock Slides As Warner Bros. Deal Risks Mount - StocksToTrade"
     },
     {
       "ticker": "STLA",
@@ -238,7 +238,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": null
+      "recent_news": "Google News | Stellantis Shares Rise as Reaffirmed 2026 Outlook Sparks Rebound - quiverquant.com | STLA Stock: Stellantis CEO Rules Out Maserati Sale But Hints At New Partnerships - Stocktwits"
     },
     {
       "ticker": "MLCO",
@@ -253,9 +253,9 @@
       "float_shares": 139355647,
       "cash_debt_ratio": 0.12,
       "insider_pct": 2.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Melco Resorts &amp; Entertainment (NASDAQ:MLCO) Stock Falls 5.9% - Time to Sell? - MarketBeat | Macau gaming revenue weakens in September (MLCO:NASDAQ) - Seeking Alpha"
     },
     {
       "ticker": "PACB",
@@ -272,7 +272,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Why Is PacBio (PACB) Stock Soaring Today - Yahoo Finance | PACB Stock Climbs As Traders Eye Conference Catalyst - StocksToTrade"
     },
     {
       "ticker": "DXC",
@@ -289,7 +289,7 @@
       "insider_pct": 1.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": null
+      "recent_news": "Google News | DXC Technology Co. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch | DXC Technology (NYSE:DXC) Shares Gap Up - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "GOTU",
@@ -306,7 +306,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Gaotu Techedu (GOTU) Offers Promising Potential to Investors - Yahoo Finance | $GOTU stock is up 10% today. Here's what we see in our data. - quiverquant.com"
     },
     {
       "ticker": "ARCO",
@@ -323,7 +323,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": null
+      "recent_news": "Google News | Arcos Dorados (NYSE:ARCO) Stock Price Down 6.5% - Here's Why - MarketBeat | McDonald’s largest independent franchisee expects to invest $1.3B to $1.5B from 2027 to 2030. - stocktitan.net"
     },
     {
       "ticker": "CNDT",
@@ -340,7 +340,7 @@
       "insider_pct": 10.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Conduent Incorporated (CNDT) Is A Top Stock To Buy According To Bill Miller - Yahoo Finance | Conduent (CNDT) Unveils ASCEND 2026-28 Growth Strategy at Invest - GuruFocus"
     },
     {
       "ticker": "CCOI",
@@ -357,7 +357,7 @@
       "insider_pct": 4.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Cogent Communications Holdings, Inc. (CCOI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Q3 director service earns Steven D. Brooks 3,445 shares of Cogent Communications (CCOI). - stocktitan.net"
     },
     {
       "ticker": "NU",
@@ -371,10 +371,10 @@
       "market_cap": 64199852032,
       "float_shares": 3726393232,
       "cash_debt_ratio": 2.57,
-      "insider_pct": 2.0,
+      "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 17,
-      "recent_news": null
+      "recent_news": "Google News | NU Stock Pops After Hours: Monzo Deal Scare Meets Company Denial - Yahoo Finance | What's Going On With Nu Stock Thursday? - Benzinga"
     },
     {
       "ticker": "JELD",
@@ -391,7 +391,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | JELD-WEN Holding, Inc. (JELD) stock price, news, quote and history - Yahoo Finance UK | JELD-WEN Holding, Inc. (JELD) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "NCNO",
@@ -406,9 +406,9 @@
       "float_shares": 87796975,
       "cash_debt_ratio": 0.25,
       "insider_pct": 3.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | nCino, Inc. (NCNO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | nCino (NASDAQ:NCNO) Shares Climb 7.3% - What's Next? - MarketBeat"
     },
     {
       "ticker": "ORC",
@@ -425,7 +425,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": null
+      "recent_news": "Google News | A director receives 2,183 stock units instead of a dividend at Orchid Island Capital (ORC). - stocktitan.net | A director receives 5,755 fully vested stock units at Orchid Island Capital (ORC). - stocktitan.net"
     },
     {
       "ticker": "SID",
@@ -442,7 +442,7 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": null
+      "recent_news": "Google News | National Steel (NYSE:SID) Stock Price Up 7.4% - Here's What Happened - MarketBeat | SID Stock Price and Chart — HAN:SID - TradingView"
     },
     {
       "ticker": "IVR",
@@ -459,7 +459,7 @@
       "insider_pct": 0.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": null
+      "recent_news": "Google News | Here's Why Invesco Mortgage Capital (IVR) Fell More Than Broader Market - Yahoo Finance | Invesco Mortgage Capital (NYSE:IVR) Reaches New 52-Week Low - Here's What Happened - MarketBeat"
     },
     {
       "ticker": "CXM",
@@ -476,7 +476,7 @@
       "insider_pct": 7.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Sprinklr, Inc. (CXM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A director proposes another Sprinklr (CXM) share sale after selling $810K in September. - stocktitan.net"
     },
     {
       "ticker": "RKT",
@@ -491,9 +491,9 @@
       "float_shares": 1881060060,
       "cash_debt_ratio": 0.1,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | RKT Stock Eyes Upside As Rocket Mortgage Bets On VantageScore - timothysykes.com | RKT Stock Draws Traders As Rocket Bets On VantageScore - StocksToTrade"
     },
     {
       "ticker": "SNAP",
@@ -510,7 +510,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": null
+      "recent_news": "Google News | Snap Is Down 32% in 2026: Overlooked Bargain or Toxic Stock? - Yahoo Finance | Why Is Everyone Ignoring Snap Stock’s High Cash Yield? - Trefis"
     },
     {
       "ticker": "FUN",
@@ -527,7 +527,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
-      "recent_news": null
+      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? - MarketBeat"
     },
     {
       "ticker": "TASK",
@@ -544,7 +544,7 @@
       "insider_pct": 22.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 221,
-      "recent_news": null
+      "recent_news": "Google News | TaskUs, Inc. (TASK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TaskUs (NASDAQ:TASK) Stock Price Up 7.9% - Still a Buy? - MarketBeat"
     },
     {
       "ticker": "CMPS",
@@ -561,7 +561,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | COMPASS Pathways plc (CMPS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "TEAD",
@@ -576,9 +576,9 @@
       "float_shares": 26282444,
       "cash_debt_ratio": 0.14,
       "insider_pct": 55.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": null
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Brands can now add retail ads to wider campaigns in the US and Europe with Teads and Koddi. - stocktitan.net | Teads (TEAD) Stock Forecast: Can +9.70% Upside Continue? 2026-09-17 - Stop Hunt - careplusvn.com"
     },
     {
       "ticker": "TROX",
@@ -595,7 +595,7 @@
       "insider_pct": 25.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Tronox Holdings plc (TROX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Tronox Holdings plc (TROX) stock price, news, quote and history - Yahoo Finance Australia"
     },
     {
       "ticker": "NABL",
@@ -612,7 +612,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | N-able (NYSE:NABL) Shares Climb 5.8% - Should You Buy? - MarketBeat | N able (NABL) Stock Draws Fresh Price Target Split On Execution Risk - Yahoo Finance"
     },
     {
       "ticker": "CAPR",
@@ -629,7 +629,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Why Did CAPR Stock Jump 20% After-Hours Today? - Yahoo Finance | CAPR Stock Clocks Best Day In Over A Month As 24-Month Duchenne Data Airs At Medical Conference In Japan - TradingView"
     },
     {
       "ticker": "OLN",
@@ -646,7 +646,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": null
+      "recent_news": "Google News | Olin Corporation (OLN) Stock Forecasts - Yahoo Finance | Olin Corp (OLN) Stock Price, Quote, News &amp; History - Benzinga"
     },
     {
       "ticker": "ITUB",
@@ -663,7 +663,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": null
+      "recent_news": "Google News | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo Finance Singapore | ITUB Stock Grinds Higher As Traders Watch Key Levels - timothysykes.com"
     },
     {
       "ticker": "NAT",
