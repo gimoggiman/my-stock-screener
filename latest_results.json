@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-03T06:09:01.317324+00:00",
-  "tickers_scanned": 66,
+  "last_updated_utc": "2026-10-03T12:15:44.771377+00:00",
+  "tickers_scanned": 68,
   "results": [
     {
       "ticker": "CABO",
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A California minerals operation with more than 150 years of production history is now part of 5E - Stock Titan | A 7,634-stock-unit grant at 5E Advanced Materials (FEAM) compensates Jonathan Siegler’s board service. - Stock Titan"
+      "recent_news": "Google News | 5E Advanced Materials, Inc. (FEAM) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | A California minerals operation with more than 150 years of production history is now part of 5E - Stock Titan"
     },
     {
       "ticker": "NNBR",
@@ -51,7 +51,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | A former director’s affiliate proposes a $178K share sale in NN Inc (NNBR). - Stock Titan | NN, Inc. Announces $50 Million Net Private Placement of Common Stock and Pre-Funded Warrants - markets.businessinsider.com"
+      "recent_news": "Google News | A former director’s affiliate proposes a $178K share sale in NN Inc (NNBR). - Stock Titan | Bank of America Corp DE Buys New Position in NN, Inc. $NNBR - MarketBeat"
     },
     {
       "ticker": "IBRX",
@@ -68,7 +68,24 @@
       "insider_pct": 62.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A director proposes selling 81,056 ImmunityBio (IBRX) shares, including 55,979 from option exercises. - Stock Titan | SLS, IBRX Stocks Climb Overnight: Retail Eyes Moderna’s Rally As MRNA Lands A Nasdaq-100 Spot - Yahoo Finance"
+      "recent_news": "Google News | SLS, IBRX Stocks Climb Overnight: Retail Eyes Moderna’s Rally As MRNA Lands A Nasdaq-100 Spot - Yahoo Finance | IBRX Stock Racks Up 3 Straight Quarterly Wins: Q3 Filings Reveal BlackRock Closing In On Vanguard With A Bigger Bet - Stocktwits"
+    },
+    {
+      "ticker": "RGC",
+      "score": 71.6,
+      "last_close": 6.82,
+      "rel_volume": 2.87,
+      "price_change_pct": 7.74,
+      "gap_pct": 7.42,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 3372414464,
+      "float_shares": 56282728,
+      "cash_debt_ratio": 6.1,
+      "insider_pct": 88.4,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | At $21.59 a share, RGC Resources (RGCO) HR VP buys about 5 shares. - Stock Titan | RGC Resources Independent Chairman of the Board Acquires 1.5% More Stock - webull.com"
     },
     {
       "ticker": "WNC",
@@ -85,24 +102,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Wabash National Corporation (WNC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Wabash National (NYSE:WNC) Shares Climb 8.9% - Still a Buy? - MarketBeat"
-    },
-    {
-      "ticker": "OM",
-      "score": 61.0,
-      "last_close": 3.96,
-      "rel_volume": 2.96,
-      "price_change_pct": 5.6,
-      "gap_pct": 4.8,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 74436768,
-      "float_shares": 14773067,
-      "cash_debt_ratio": 1.41,
-      "insider_pct": 5.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 51,
-      "recent_news": "Google News | Amazon.com, Inc. (AMZN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Trump discloses 21,000 securities trades during first year in office - ABC News - Breaking News, Latest News and Videos"
+      "recent_news": "Google News | Wabash National Corporation (WNC) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Wabash National (NYSE:WNC) Shares Climb 8.9% - Still a Buy? - MarketBeat"
     },
     {
       "ticker": "CTVA",
@@ -119,7 +119,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Yahoo Finance | CTVA Stock Collapses As Vylor Spin-Off Triggers Massive Repricing - StocksToTrade"
+      "recent_news": "Google News | Corteva stock adjusts following court clearance of Vylor Inc. separation - Seeking Alpha | Why Is Corteva Stock (CTVA) Down Nearly 85% Today? - TipRanks"
     },
     {
       "ticker": "SES",
@@ -131,12 +131,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 328477952,
-      "float_shares": 286774962,
+      "float_shares": 298689575,
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
       "recent_news": "Google News | SES S.A.: The Sell-Off Looks Excessive As The C-Band Catalyst Remains Intact - Seeking Alpha | A South Korean plant now has capacity for about 1 million battery cells a year. SES AI runs it. - Stock Titan"
+    },
+    {
+      "ticker": "LESL",
+      "score": 56.6,
+      "last_close": 0.146,
+      "rel_volume": 1.42,
+      "price_change_pct": -13.1,
+      "gap_pct": -14.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1364549,
+      "float_shares": 9123939,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 2.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Leslie’s Chapter 11 Restructuring Targets 90% Debt Reduction and $150 Million in New Capital - Yahoo Finance | Leslie's Shares Gain After Hours - Leslies (NASDAQ:LESL) - Benzinga"
     },
     {
       "ticker": "EVGO",
@@ -153,7 +170,7 @@
       "insider_pct": 5.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | EVgo Jumps 10% and Blink Charging Climbs 6% as ChargePoint Slides 5% - Yahoo Finance | EVgo Jumps 10% and Blink Charging Climbs 6% as ChargePoint Slides 5% - 247wallst.com"
+      "recent_news": "Google News | EVgo Jumps 10% and Blink Charging Climbs 6% as ChargePoint Slides 5% - Yahoo Finance | EVgo Jumps 10% and Blink Charging Climbs 6% as ChargePoint Slides 5% - 24/7 Wall St."
     },
     {
       "ticker": "PL",
@@ -170,7 +187,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 49,
-      "recent_news": "Google News | Planet Labs (PL) Shares Skyrocket, What You Need To Know - Yahoo Finance | Planet Labs PBC (NYSE:PL) Stock: Insider Ita Brennan Sells 11,500 Shares - MarketBeat"
+      "recent_news": "Google News | Planet Labs (PL) Shares Skyrocket, What You Need To Know - Yahoo Finance | PL Stock Jumps 8% After-Hours As Planet Labs Delivers A Blowout Quarter — Retail Calls Q2 ‘A Clean Beat’ Despite Soft Q3 Outlook - Stocktwits"
     },
     {
       "ticker": "INSG",
@@ -184,7 +201,7 @@
       "market_cap": 81063552,
       "float_shares": 14100527,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 2.1,
+      "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Google News | Inseego (NASDAQ:INSG) Stock Rating Lowered by Wall Street Zen - MarketBeat | Nokia’s wireless broadband business is now Inseego’s, and Inseego expects revenue to roughly double. - Stock Titan"
@@ -204,7 +221,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VNET Group (VNET) Stock May Be Undervalued After A 100% Run - Yahoo Finance | VNET Group (NASDAQ:VNET) Stock Falls 5% - What's Next? - MarketBeat"
+      "recent_news": "Google News | VNET Group, Inc. (VNET) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | VNET Group (NASDAQ:VNET) Stock Falls 5% - What's Next? - MarketBeat"
     },
     {
       "ticker": "MYGN",
@@ -221,7 +238,7 @@
       "insider_pct": 4.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is Myriad Genetics (MYGN) Stock Soaring Today - FinancialContent | 1 Volatile Stock on Our Buy List and 2 We Question - stockstory.org"
+      "recent_news": "Google News | Why Is Myriad Genetics (MYGN) Stock Soaring Today - FinancialContent | Myriad Genetics (MYGN) Stock Fair Value Moves Lower After Analyst Cuts And Guidance Reset - Yahoo Finance"
     },
     {
       "ticker": "JBS",
@@ -232,7 +249,7 @@
       "gap_pct": 7.69,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 12497529856,
+      "market_cap": 38386876416,
       "float_shares": 327543692,
       "cash_debt_ratio": 0.14,
       "insider_pct": 57.8,
@@ -253,9 +270,9 @@
       "float_shares": 414967500,
       "cash_debt_ratio": 0.35,
       "insider_pct": 0.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Innio N.V. (INIO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Innio (NASDAQ:INIO) Stock Price Up 8.5% - Here's Why - MarketBeat"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Innio N.V. (INIO) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Innio (NASDAQ:INIO) Stock Price Up 8.5% - Here's Why - MarketBeat"
     },
     {
       "ticker": "STLA",
@@ -266,13 +283,13 @@
       "gap_pct": -6.53,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 16576225280,
+      "market_cap": 12764141568,
       "float_shares": 2444536165,
       "cash_debt_ratio": 0.61,
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Why Did STLA, MAT, BYRN Stocks Tumble To 52-Week Lows Today? - Stocktwits | STLA Stock Slides As Battery Shortages And Downgrades Hit Outlook - StocksToTrade"
+      "recent_news": "Google News | Stellantis CEO Filosa Backs 5-Year Growth Plan, Reaffirms 2026 Guidance – Retail Calls STLA ‘Most Undervalued’ Stock - Stocktwits | STLA Stock Slides As Battery Shortages And Downgrades Hit Outlook - StocksToTrade"
     },
     {
       "ticker": "AADX",
@@ -323,7 +340,7 @@
       "insider_pct": 11.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 109,
-      "recent_news": "Google News | Sable Offshore Corp. (SOC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | SOC Stock Rises As Sable Offshore Ramps Output, Targets Hondo Restart - StocksToTrade"
+      "recent_news": "Google News | SOC Stock Reverses 8 Sessions Of Losses After Pricing $300M Offering – This Analyst Highlights The Need For Additional Financing - Stocktwits | SOC Stock Rises As Sable Offshore Ramps Output, Targets Hondo Restart - StocksToTrade"
     },
     {
       "ticker": "RIVN",
@@ -360,6 +377,23 @@
       "recent_news": "Google News | Is Trekor (TGB) a Solid Growth Stock? 3 Reasons to Think \"Yes\" - Yahoo Finance | Why Is TGB Stock Rising Today? - Stocktwits"
     },
     {
+      "ticker": "MEI",
+      "score": 48.6,
+      "last_close": 15.74,
+      "rel_volume": 0.74,
+      "price_change_pct": 10.15,
+      "gap_pct": 10.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 561053120,
+      "float_shares": 34334741,
+      "cash_debt_ratio": 0.35,
+      "insider_pct": 1.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Google News | (MEI) Movement as an Input in Quant Signal Sets - Stock Traders Daily | Why Methode Electronics (MEI) Stock Is Trading Up Today - Yahoo Finance"
+    },
+    {
       "ticker": "FUN",
       "score": 47.9,
       "last_close": 11.6,
@@ -374,24 +408,24 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 17,
-      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? - MarketBeat"
+      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Six Flags Launches FlexPay—Is There Any FUN Left in the Stock? - MarketBeat"
     },
     {
-      "ticker": "NFE",
-      "score": 46.2,
-      "last_close": 6.57,
-      "rel_volume": 0.53,
-      "price_change_pct": 11.17,
-      "gap_pct": 11.68,
+      "ticker": "CRMT",
+      "score": 45.6,
+      "last_close": 1.05,
+      "rel_volume": 1.34,
+      "price_change_pct": 7.14,
+      "gap_pct": 4.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 37532392,
-      "float_shares": 4421167,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 41.3,
+      "market_cap": 8755402,
+      "float_shares": 5901975,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 7.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Three 10% owners of New Fortress Energy (NFE) report preferred shares that convert in 2029. - Stock Titan | New Fortress Energy Inc. Announces Update on Reverse Stock Split - Yahoo Finance"
+      "recent_news": "Google News | AMN,PGY,HLF,BSBK,FXNC,IMRX,CRMT,ORN,MRBK,FRST,TISI,GRNT,TPL,VSTS,GEF-B,RVSB,TMCI,SHEN,NBBK,USCB | Stock Prices | Quote Comparison - ca.finance.yahoo.com | AMN,EG,HLF,PGY,BSBK,IMRX,CRMT,ORN,MRBK,FRST,TISI,GRNT,OVLY,TPL,RVSB,GEF-B,SHEN,NBBK,USCB | Stock Prices | Quote Comparison - ca.finance.yahoo.com"
     },
     {
       "ticker": "CGEM",
@@ -402,30 +436,13 @@
       "gap_pct": 6.33,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 953214336,
+      "market_cap": 998141376,
       "float_shares": 48086471,
       "cash_debt_ratio": 161.53,
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cullinan Therapeutics, Inc. (CGEM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Cullinan Therapeutics, Inc. (NASDAQ:CGEM) Stock Has Consensus Price Target of $33.71 According to Analysts - MarketBeat"
-    },
-    {
-      "ticker": "MERC",
-      "score": 44.9,
-      "last_close": 0.26,
-      "rel_volume": 0.42,
-      "price_change_pct": -18.75,
-      "gap_pct": -21.87,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 17216934,
-      "float_shares": 48276519,
-      "cash_debt_ratio": 0.05,
-      "insider_pct": 41.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | An unpaid interest bill puts Mercer International (MERC) into a 30-day grace period. - Stock Titan | Curious about the stocks that are showing activity after the closing bell on Friday? - ChartMill"
+      "recent_news": "Google News | Cullinan Therapeutics, Inc. (CGEM) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Cullinan Therapeutics, Inc. (NASDAQ:CGEM) Stock Has Consensus Price Target of $33.71 According to Analysts - MarketBeat"
     },
     {
       "ticker": "GENI",
@@ -442,7 +459,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports Limited (GENI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Genius Sports (NYSE:GENI) Stock Jumps 7.7% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | Genius Sports Limited (GENI) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Genius Sports (NYSE:GENI) Stock Jumps 7.7% - Here's What Happened - MarketBeat"
     },
     {
       "ticker": "GETY",
@@ -453,13 +470,13 @@
       "gap_pct": null,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 34387856,
+      "market_cap": 34902432,
       "float_shares": 196228291,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 79.1,
+      "insider_pct": null,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | A NYSE notice covers Getty Images (OTC: GETY) common stock removal from listing and/or registration. - Stock Titan | Getty Images Shares Suspended as NYSE Moves to Delist Company - Yahoo Finance"
+      "recent_news": "Google News | GETY Stock Price and Chart — OTC:GETY - TradingView | Getty Images Shares Suspended as NYSE Moves to Delist Company - Yahoo Finance"
     },
     {
       "ticker": "RXT",
@@ -476,7 +493,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | RXT Stock Surges 25% Premarket – What’s The Connection Between Rackspace’s Latest Pact With AMD And Its Workforce Reduction? - Stocktwits | Rackspace: The Unhealthy Fixation Over GAAP Losses - Seeking Alpha"
+      "recent_news": "Google News | RXT Stock Surges 25% Premarket – What’s The Connection Between Rackspace’s Latest Pact With AMD And Its Workforce Reduction? - Stocktwits | Rackspace (RXT) Stock Still Looks Undervalued After Fraud Lawsuit News - Yahoo Finance"
     },
     {
       "ticker": "UWMC",
@@ -488,12 +505,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2024771584,
-      "float_shares": 291373911,
+      "float_shares": 269374513,
       "cash_debt_ratio": 0.03,
       "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | UWMC Deadline Alert: SueWallSt Reminds UWM Holdings Corporation (UWMC) Investors of Securities Class Action Deadline on October 13, 2026 - Morningstar | No resale proceeds go to UWM Holdings (UWMC) under its share and warrant resale registration. - Stock Titan"
+      "recent_news": "Google News | UWMC Stock News Today | Earnings, Events &amp; Price Alerts - Intellectia AI | UWMC Deadline Alert: SueWallSt Reminds UWM Holdings Corporation (UWMC) Investors of Securities Class Action Deadline on October 13, 2026 - Morningstar"
     },
     {
       "ticker": "BBD",
@@ -510,7 +527,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Bombardier Inc. (BBD-A.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | BBD Stock Climbs As Banco Bradesco Insiders Ramp Up Buying - timothysykes.com"
+      "recent_news": "Google News | Bombardier Inc. (BBD-A.TO) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | BBD Stock Climbs As Banco Bradesco Insiders Ramp Up Buying - timothysykes.com"
     },
     {
       "ticker": "CABA",
@@ -544,7 +561,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Orchid Island Capital (NYSE:ORC) - Stock Analysis - Simply Wall Street | A director receives 2,183 stock units instead of a dividend at Orchid Island Capital (ORC). - Stock Titan"
+      "recent_news": "Google News | Orchid Island Capital (NYSE:ORC) - Stock Analysis - Simply Wall Street | Understanding Momentum Shifts in (ORC) - Stock Traders Daily"
     },
     {
       "ticker": "GCTS",
@@ -572,13 +589,30 @@
       "gap_pct": 4.69,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1154546176,
+      "market_cap": 1154347904,
       "float_shares": 193513118,
       "cash_debt_ratio": 0.1,
       "insider_pct": 13.9,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 64,
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | T1 Energy (TE) Stock Could Be Trading At A Discount Despite A 61% Slide - Yahoo Finance"
+    },
+    {
+      "ticker": "ULCC",
+      "score": 33.1,
+      "last_close": 6.19,
+      "rel_volume": 1.11,
+      "price_change_pct": 3.69,
+      "gap_pct": 4.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1425035648,
+      "float_shares": 70261853,
+      "cash_debt_ratio": 0.18,
+      "insider_pct": 43.3,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | T1 Energy (TE) Stock Could Be Trading At A Discount Despite A 61% Slide - Yahoo Finance | Why T1 Energy Stock Is In Focus After $50 Million Solar Factory Financing - Simply Wall Street"
+      "recent_news": "Google News | Why Frontier (ULCC) Stock Is Trading Lower Today - Yahoo Finance | Frontier Stock Gets A Flexible Cancellation Boost From Hopper Partnership - Simply Wall Street"
     },
     {
       "ticker": "MRVI",
@@ -590,12 +624,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2925825792,
-      "float_shares": 114212405,
+      "float_shares": 106439621,
       "cash_debt_ratio": 0.32,
       "insider_pct": 7.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Maravai LifeSciences Holdings, Inc. (MRVI) stock price, news, quote and history - Yahoo Finance Singapore | MILLENNIUM MANAGEMENT LLC Adds Maravai LifeSciences Holdings Inc - GuruFocus"
+      "recent_news": "Google News | MILLENNIUM MANAGEMENT LLC Adds Maravai LifeSciences Holdings Inc - GuruFocus | More than 5% of Maravai LifeSciences (MRVI) shares are listed with shared voting power. - Stock Titan"
     },
     {
       "ticker": "ITUB",
@@ -612,7 +646,24 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo Finance Singapore | ITUB Stock Grinds Higher As Bank Metrics Draw Trader Focus - StocksToTrade"
+      "recent_news": "Google News | ITUB Stock Price and Chart — NYSE:ITUB - TradingView | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo Finance Singapore"
+    },
+    {
+      "ticker": "GLAS",
+      "score": 30.1,
+      "last_close": 5.49,
+      "rel_volume": 1.33,
+      "price_change_pct": 3.2,
+      "gap_pct": 2.44,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 517391328,
+      "float_shares": 73918166,
+      "cash_debt_ratio": 0.26,
+      "insider_pct": 7.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 12,
+      "recent_news": "Google News | O-I Glass, Inc. (OI) Stock Price, News, Quote &amp; History - ca.finance.yahoo.com | Glass House Brands Inc (GLAS-N) Press Releases - The Globe and Mail"
     },
     {
       "ticker": "VALE",
@@ -705,6 +756,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "AGNC",
+      "score": 22.3,
+      "last_close": 8.79,
+      "rel_volume": 1.19,
+      "price_change_pct": -1.79,
+      "gap_pct": -1.51,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "AAL",
       "score": 19.5,
       "last_close": 12.94,
@@ -735,12 +796,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TEAD",
-      "score": 18.0,
-      "last_close": 0.559,
-      "rel_volume": 0.19,
-      "price_change_pct": 3.71,
-      "gap_pct": 2.23,
+      "ticker": "EVH",
+      "score": 18.2,
+      "last_close": 3.46,
+      "rel_volume": 0.75,
+      "price_change_pct": 2.06,
+      "gap_pct": 1.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -791,16 +852,6 @@
       "rel_volume": 0.81,
       "price_change_pct": 1.23,
       "gap_pct": 1.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "HAPN",
-      "score": 14.8,
-      "last_close": 15.38,
-      "rel_volume": 1.18,
-      "price_change_pct": -0.13,
-      "gap_pct": -0.32,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -901,16 +952,6 @@
       "rel_volume": 0.11,
       "price_change_pct": 1.5,
       "gap_pct": 0.92,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CAPR",
-      "score": 5.6,
-      "last_close": 8.95,
-      "rel_volume": 0.45,
-      "price_change_pct": 0.11,
-      "gap_pct": 0.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
