@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-04T02:26:03.575858+00:00",
+  "last_updated_utc": "2026-10-04T09:23:00.763213+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 5E Advanced Materials, Inc. (FEAM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A California minerals operation with more than 150 years of production history is now part of 5E - Stock Titan"
+      "recent_news": "Google News | 5E Advanced Materials, Inc. (FEAM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 5E Advanced Materials (Nasdaq:FEAM) - Stock Analysis - Simply Wall Street"
     },
     {
       "ticker": "NNBR",
@@ -51,7 +51,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | NN Insiders Made A Wise Decision By Selling US$3.9m Worth Of Stock - Simply Wall Street | NNBR Surges As NN Inc. Lands $50M PIPE And Hikes 2026 Outlook - timothysykes.com"
+      "recent_news": "Google News | NN Insiders Made A Wise Decision By Selling US$3.9m Worth Of Stock - Simply Wall Street | A former director’s affiliate proposes a $178K share sale in NN Inc (NNBR). - Stock Titan"
     },
     {
       "ticker": "IBRX",
@@ -66,9 +66,9 @@
       "float_shares": 406637981,
       "cash_debt_ratio": 0.29,
       "insider_pct": 62.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | IBRX Stock Heads For Best Week In Over 2 Months After Chairman Soon Shiong’s Cancer Vaccine Trial Milestone Update - Stocktwits | IBRX Breaks Above This Key Resistance — Stock On Track To Record Best Single-Day Gains In 6 Months - Yahoo Finance"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | IBRX Stock Heads For Best Week In Over 2 Months After Chairman Soon Shiong’s Cancer Vaccine Trial Milestone Update - Stocktwits | A director proposes selling 81,056 ImmunityBio (IBRX) shares, including 55,979 from option exercises. - Stock Titan"
     },
     {
       "ticker": "WNC",
@@ -85,7 +85,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Wabash National Corporation (WNC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 1 Small-Cap Stock Worth Investigating and 2 We Question - StockStory"
+      "recent_news": "Google News | Wabash National Corporation (WNC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 1 Small-Cap Stock Worth Investigating and 2 We Question - stockstory.org"
     },
     {
       "ticker": "OM",
@@ -102,7 +102,7 @@
       "insider_pct": 5.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 51,
-      "recent_news": "Google News | E.ON SE (EOAN.DE) stock price, news, quote and history - Yahoo Finance UK | Earnings Calendar and Analysis for This Week (October 5-9) - kiplinger.com"
+      "recent_news": "Google News | Indutrade (OM:INDT) Stock May Be 20% Undervalued On Cash Flow Views - Yahoo Finance | Earnings Calendar and Analysis for This Week (October 5-9) - kiplinger.com"
     },
     {
       "ticker": "CTVA",
@@ -136,7 +136,7 @@
       "insider_pct": 15.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | A South Korean plant now has capacity for about 1 million battery cells a year. SES AI runs it. - Stock Titan | SES S.A.: The Sell-Off Looks Excessive As The C-Band Catalyst Remains Intact - Seeking Alpha"
+      "recent_news": "Google News | SES S.A.: The Sell-Off Looks Excessive As The C-Band Catalyst Remains Intact - Seeking Alpha | A South Korean plant now has capacity for about 1 million battery cells a year. SES AI runs it. - Stock Titan"
     },
     {
       "ticker": "EVGO",
@@ -151,8 +151,8 @@
       "float_shares": 133810817,
       "cash_debt_ratio": 0.29,
       "insider_pct": 5.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Google News | EVgo Stock Rises as Regency Deal Triples Retail Charging Footprint - timothysykes.com | EVgo Jumps 10% and Blink Charging Climbs 6% as ChargePoint Slides 5% - Yahoo Finance"
     },
     {
@@ -221,7 +221,7 @@
       "insider_pct": 4.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Myriad Genetics, Inc. (MYGN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | MYGN - ChartMill - ChartMill"
+      "recent_news": "Google News | Myriad Genetics (MYGN) Stock Sees Fair Value Lift As Analysts Weigh Split Targets - Yahoo Finance | Myriad Genetics, Inc. (MYGN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "JBS",
@@ -238,7 +238,7 @@
       "insider_pct": 57.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JBS Surges As White House Eases Beef Import Push - timothysykes.com | JBS N V Ord Shs Class A Stock (JBS) Moved Up by 7.23% on Oct 2: What Signal Does It Send? - TradingKey"
+      "recent_news": "Google News | JBS N V Ord Shs Class A Stock (JBS) Moved Up by 7.23% on Oct 2: What Signal Does It Send? - TradingKey | JBS (JBS) Stock May Trade At A Discount To Earnings Power - Yahoo Finance"
     },
     {
       "ticker": "INIO",
@@ -253,8 +253,8 @@
       "float_shares": 414967500,
       "cash_debt_ratio": 0.35,
       "insider_pct": 0.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Innio N.V. (INIO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Innio (INIO) Stock Overview - Simply Wall Street"
     },
     {
@@ -272,7 +272,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | STLA Stock Slides As Battery Shortages And Downgrades Hit Outlook - StocksToTrade | Stellantis Shares Slide As Q3 Sales Remain Flat Year Over Year - Benzinga"
+      "recent_news": "Google News | STLA Stock Slides As Battery Shortages And Downgrades Hit Outlook - StocksToTrade | Stellantis CEO Filosa Backs 5-Year Growth Plan, Reaffirms 2026 Guidance – Retail Calls STLA ‘Most Undervalued’ Stock - Stocktwits"
     },
     {
       "ticker": "AADX",
@@ -323,7 +323,7 @@
       "insider_pct": 11.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 109,
-      "recent_news": "Google News | SOC Stock Reverses 8 Sessions Of Losses After Pricing $300M Offering – This Analyst Highlights The Need For Additional Financing - Stocktwits | Sable Offshore (NYSE:SOC) - Stock Analysis - Simply Wall Street"
+      "recent_news": "Google News | SOC Stock Reverses 8 Sessions Of Losses After Pricing $300M Offering – This Analyst Highlights The Need For Additional Financing - Stocktwits | SOC Stock Rises As Sable Offshore Ramps Output, Targets Hondo Restart - StocksToTrade"
     },
     {
       "ticker": "RIVN",
@@ -340,7 +340,7 @@
       "insider_pct": 34.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Rivian Automotive (RIVN) Stock Sinks As Market Gains: Here's Why - Yahoo Finance | Rivian Reaffirms 2026 Delivery Outlook After Strong Quarter - The Globe and Mail"
+      "recent_news": "Google News | Rivian Automotive (RIVN) Stock Sinks As Market Gains: Here's Why - Yahoo Finance | RIVN Stock Sees Worst Day In Over 2 Years After $1.2B Offering — Now R2 Buyers Say Deliveries Have Stalled - Stocktwits"
     },
     {
       "ticker": "TGB",
@@ -408,7 +408,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cullinan Therapeutics, Inc. (CGEM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Cullinan Therapeutics, Inc. (NASDAQ:CGEM) Stock Has Consensus Price Target of $33.71 According to Analysts - MarketBeat"
+      "recent_news": "Google News | Cullinan Therapeutics, Inc. (CGEM) stock price, news, quote and history - Yahoo Finance Australia | Cullinan Therapeutics, Inc. (CGEM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "MERC",
@@ -423,8 +423,8 @@
       "float_shares": 48276519,
       "cash_debt_ratio": 0.05,
       "insider_pct": 41.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Insider Buyers At Mercer International Likely Disappointed With 20% Slide - Simply Wall Street | Mercer International Enters Advanced Recapitalization Negotiation Talks - The Globe and Mail"
     },
     {
@@ -442,7 +442,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports Limited (GENI) stock price, news, quote and history - Yahoo Finance Australia | Genius Sports (NYSE:GENI) Stock Jumps 7.7% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | Genius Sports (NYSE:GENI) Stock Jumps 7.7% - Here's What Happened - MarketBeat | Genius Sports (GENI) Stock Still Looks Fully Priced Despite A 64% Slide - Yahoo Finance"
     },
     {
       "ticker": "GETY",
@@ -544,7 +544,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Orchid Island Capital (NYSE:ORC) - Stock Analysis - Simply Wall Street | Understanding Momentum Shifts in (ORC) - Stock Traders Daily"
+      "recent_news": "Google News | Orchid Island Capital (NYSE:ORC) - Stock Analysis - Simply Wall Street | A director receives 2,183 stock units instead of a dividend at Orchid Island Capital (ORC). - Stock Titan"
     },
     {
       "ticker": "GCTS",
@@ -578,7 +578,7 @@
       "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 64,
-      "recent_news": "Google News | T1 Energy (TE) Stock Could Be Trading At A Discount Despite A 61% Slide - Yahoo Finance | Learn Why The Bull Case For TE Connectivity Stock Could Change Following Bernstein Coverage Initiation - Simply Wall Street"
+      "recent_news": "Google News | TE Stock Jumps 14% Today – This Hedge Fund Bought 10M Shares Of T1 Energy In Q1 - Stocktwits | T1 Energy (TE) Stock Could Be Trading At A Discount Despite A 61% Slide - Yahoo Finance"
     },
     {
       "ticker": "MRVI",
@@ -590,11 +590,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2925825792,
-      "float_shares": 106439621,
+      "float_shares": 106430681,
       "cash_debt_ratio": 0.32,
       "insider_pct": 7.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Google News | More than 5% of Maravai LifeSciences (MRVI) shares are listed with shared voting power. - Stock Titan | MILLENNIUM MANAGEMENT LLC Adds Maravai LifeSciences Holdings Inc - GuruFocus"
     },
     {
@@ -612,7 +612,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ITUB Stock Price and Chart — NYSE:ITUB - TradingView | Itaú Unibanco Updates Bylaws and Confirms Capital Structure in Latest SEC Filing - The Globe and Mail"
+      "recent_news": "Google News | ITUB Stock Price and Chart — NYSE:ITUB - TradingView | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo! Finance Canada"
     },
     {
       "ticker": "VALE",
