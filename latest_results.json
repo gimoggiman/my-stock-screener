@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-10-05T23:47:20.749846+00:00",
-  "tickers_scanned": 73,
+  "last_updated_utc": "2026-10-06T05:00:11.838768+00:00",
+  "tickers_scanned": 72,
   "results": [
+    {
+      "ticker": "ALEC",
+      "score": 75.0,
+      "last_close": 1.99,
+      "rel_volume": 70.9,
+      "price_change_pct": 9.94,
+      "gap_pct": 9.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 222197264,
+      "float_shares": 84938535,
+      "cash_debt_ratio": 5.27,
+      "insider_pct": 9.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 15,
+      "recent_news": "Google News | A Parkinson’s drug deal could mean up to $1.17 billion for Alector if future goals are met. - Stock Titan | ALEC Stock Draws Quiet Heavyweight As 13G Stake Emerges - StocksToTrade"
+    },
     {
       "ticker": "ARCO",
       "score": 75.0,
@@ -17,15 +34,15 @@
       "insider_pct": 0.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Arcos Dorados (NYSE:ARCO) Shares Gap Up - What's Next? - marketbeat.com | McDonald’s largest independent franchisee expects to invest $1.3B to $1.5B from 2027 to 2030. - Stock Titan"
+      "recent_news": "Google News | Arcos Dorados (NYSE:ARCO) Shares Gap Up - What's Next? - MarketBeat | McDonald’s largest independent franchisee expects to invest $1.3B to $1.5B from 2027 to 2030. - Stock Titan"
     },
     {
       "ticker": "BBD",
       "score": 75.0,
       "last_close": 4.33,
       "rel_volume": 4.36,
-      "price_change_pct": 18.63,
-      "gap_pct": 18.49,
+      "price_change_pct": 18.76,
+      "gap_pct": 18.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 45851136000,
@@ -34,7 +51,58 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings &amp; more - cnbc.com | BBD Stock Pops As Banco Bradesco Insiders Load Up Shares - timothysykes.com"
+      "recent_news": "Google News | Stocks making the biggest moves midday: Microsoft, SpaceX, Vaxcyte, Banco Bradesco, DraftKings &amp; more - CNBC | BBD Stock Pops As Banco Bradesco Insiders Load Up Shares - timothysykes.com"
+    },
+    {
+      "ticker": "BCYC",
+      "score": 75.0,
+      "last_close": 4.01,
+      "rel_volume": 4.7,
+      "price_change_pct": 18.64,
+      "gap_pct": 18.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 279943040,
+      "float_shares": 7779008,
+      "cash_debt_ratio": 34.79,
+      "insider_pct": 4.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | BCYC Mar 2027 4.000 put (BCYC270319P00004000) Interactive Stock Chart - Yahoo! Finance Canada | Bicycle Therapeutics Plc ADR (BCYC-Q) Stock Price and News - theglobeandmail.com"
+    },
+    {
+      "ticker": "BDORY",
+      "score": 75.0,
+      "last_close": 5.29,
+      "rel_volume": 3.9,
+      "price_change_pct": 15.0,
+      "gap_pct": 15.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 30199939072,
+      "float_shares": 2587375586,
+      "cash_debt_ratio": 0.27,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Banco do Brasil S.A. (BDORY) stock price, news, quote and history - Yahoo Finance UK | Banco Do Brasil: The Rebound Still Looks Premature (OTCMKTS:BDORY) - Seeking Alpha"
+    },
+    {
+      "ticker": "CWH",
+      "score": 75.0,
+      "last_close": 4.55,
+      "rel_volume": 4.49,
+      "price_change_pct": -9.54,
+      "gap_pct": -10.93,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 290417184,
+      "float_shares": 53976108,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 2.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Stock Traders Buy High Volume of Camping World Call Options (NYSE:CWH) - MarketBeat | Do Options Traders Know Something About CWH Stock We Don't? - Yahoo Finance Australia"
     },
     {
       "ticker": "DNA",
@@ -51,15 +119,15 @@
       "insider_pct": 4.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 96,
-      "recent_news": "Google News | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan | Ginkgo Bioworks Holdings, Inc. (DNA) Stock Falls Amid Market Uptick: What Investors Need to Know - finance.yahoo.com"
+      "recent_news": "Google News | Ginkgo Bioworks Holdings, Inc. (DNA) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan"
     },
     {
       "ticker": "HYPMY",
       "score": 75.0,
       "last_close": 5.4,
-      "rel_volume": 4.92,
-      "price_change_pct": 10.43,
-      "gap_pct": 10.43,
+      "rel_volume": 251.31,
+      "price_change_pct": 11.59,
+      "gap_pct": 11.59,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3801578240,
@@ -68,13 +136,13 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | HYPERA SA (HYPMY) Stock Price, News &amp; Analysis - Stock Titan | Hypera SA (HYPMY) Q4 2025 Earnings Call Highlights: Record Cash Flow and Strategic Market Expansion - finance.yahoo.com"
+      "recent_news": "Google News | HYPERA SA (HYPMY) Stock Price, News &amp; Analysis - Stock Titan | Hypera SA (HYPMY) Q4 2025 Earnings Call Highlights: Record Cash Flow and Strategic Market Expansion - Yahoo Finance"
     },
     {
       "ticker": "INTR",
       "score": 75.0,
       "last_close": 6.56,
-      "rel_volume": 6.24,
+      "rel_volume": 6.49,
       "price_change_pct": 19.71,
       "gap_pct": 20.53,
       "st_msg_count": null,
@@ -85,7 +153,7 @@
       "insider_pct": 23.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Philip Morris International Inc. (PM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why is Hermès International stock sliding today? - Investing.com"
+      "recent_news": "Google News | Colliers International Group Inc. (CIGI.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why is Hermès International stock sliding today? - Investing.com"
     },
     {
       "ticker": "ITUB",
@@ -102,13 +170,13 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - cnbc.com | ITUB Stock Grinds Higher As Charts Flash Steady Momentum - StocksToTrade"
+      "recent_news": "Google News | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC | ITUB Stock Grinds Higher As Charts Flash Steady Momentum - StocksToTrade"
     },
     {
       "ticker": "NVAX",
       "score": 75.0,
       "last_close": 12.56,
-      "rel_volume": 5.29,
+      "rel_volume": 5.31,
       "price_change_pct": 20.08,
       "gap_pct": 22.8,
       "st_msg_count": null,
@@ -119,13 +187,13 @@
       "insider_pct": 5.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Novavax, Inc. (NVAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Novavax Soars 22% as Sanofi Carries Nuvaxovid Into Vaccination Season; Moderna Climbs 8%, BioNTech Ticks Up - 24/7 Wall St."
+      "recent_news": "Google News | Why is Novavax stock surging today? - Investing.com | Novavax, Inc. (NVAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "PAGS",
       "score": 75.0,
       "last_close": 10.95,
-      "rel_volume": 5.94,
+      "rel_volume": 6.17,
       "price_change_pct": 21.4,
       "gap_pct": 21.01,
       "st_msg_count": null,
@@ -136,13 +204,13 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Need to Know - finance.yahoo.com | Why PagSeguro Digital Stock Soared Today - The Motley Fool"
+      "recent_news": "Google News | PagSeguro Digital Ltd (PAGS) Shares Surge 21.4% -- What GF Score of 83 Tells Investors - GuruFocus | PagSeguro Digital Ltd. (PAGS) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance"
     },
     {
       "ticker": "RXRX",
       "score": 75.0,
       "last_close": 4.78,
-      "rel_volume": 3.51,
+      "rel_volume": 3.52,
       "price_change_pct": 16.02,
       "gap_pct": 17.23,
       "st_msg_count": null,
@@ -153,13 +221,13 @@
       "insider_pct": 2.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - quiverquant.com | RXRX Rises As Tempus AI Deal Locks In $42M - timothysykes.com"
+      "recent_news": "Google News | Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "SBS",
       "score": 75.0,
       "last_close": 6.26,
-      "rel_volume": 3.18,
+      "rel_volume": 3.25,
       "price_change_pct": 16.36,
       "gap_pct": 16.26,
       "st_msg_count": null,
@@ -168,9 +236,9 @@
       "float_shares": 2354643345,
       "cash_debt_ratio": 0.34,
       "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
-      "recent_news": "Google News | Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP Stock (SBS) Moved Up by 17.84% on Oct 5: A Full Analysis - TradingKey | Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp (NYSE:SBS) Shares Gap Up - What's Next? - marketbeat.com"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Companhia de Saneamento Basico do Estado de Sao Paulo - SABESP Stock (SBS) Moved Up by 17.84% on Oct 5: A Full Analysis - TradingKey | Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp (NYSE:SBS) Shares Gap Up - What's Next? - MarketBeat"
     },
     {
       "ticker": "STNE",
@@ -185,9 +253,43 @@
       "float_shares": 203320781,
       "cash_debt_ratio": 0.48,
       "insider_pct": 3.3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | StoneCo Ltd. (STNE) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | StoneCo (NASDAQ:STNE) Shares Gap Up - What's Next? - MarketBeat"
+    },
+    {
+      "ticker": "PAX",
+      "score": 73.7,
+      "last_close": 11.1,
+      "rel_volume": 2.89,
+      "price_change_pct": 8.72,
+      "gap_pct": 8.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1791471744,
+      "float_shares": 60795448,
+      "cash_debt_ratio": 0.57,
+      "insider_pct": 5.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "Google News | Patria Investments (NYSE:PAX) Sees Strong Trading Volume - What's Next? - MarketBeat | Patria Investments Limited Stock 12‑Month Price Target Cut to $15, Implies 47% Upside - TradingView"
+    },
+    {
+      "ticker": "LESL",
+      "score": 69.8,
+      "last_close": 0.102,
+      "rel_volume": 2.55,
+      "price_change_pct": -30.14,
+      "gap_pct": -29.38,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 955278,
+      "float_shares": 9123939,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 2.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | StoneCo Ltd. (STNE) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 11 Financials Stocks Moving In Monday's Pre-Market Session - Benzinga"
+      "recent_news": "Google News | Leslie's Stock Price Forecast. Should You Buy LESL? - StockInvest.us | Why is Leslie’s stock collapsing over 20% today? - Investing.com"
     },
     {
       "ticker": "SID",
@@ -204,7 +306,7 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | SID Stock Steadies As New Insider Ownership Filing Hits Tape - StocksToTrade | SID Stock Steadies As New Insider Ownership Filing Hits Tape - timothysykes.com"
+      "recent_news": "Google News | SID Stock Steadies As New Insider Ownership Filing Hits Tape - timothysykes.com | SID Stock Steadies As New Insider Ownership Filing Hits Tape - StocksToTrade"
     },
     {
       "ticker": "NU",
@@ -220,8 +322,8 @@
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 17,
-      "recent_news": "Google News | Why Is NU Stock Surging Nearly 9% In Overnight Trading? - finance.yahoo.com | Nu Holdings Ltd. (NU) Outpaces Stock Market Gains: What You Should Know - finance.yahoo.com"
+      "recent_dilution_filings_90d": 16,
+      "recent_news": "Google News | Why Is NU Stock Surging Nearly 9% In Overnight Trading? - TradingView | Why is Nu Holdings stock soaring today? - Investing.com"
     },
     {
       "ticker": "ABEV",
@@ -238,24 +340,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ABEV Stock Holds Steady As Form 6-K Keeps U.S. Compliance On Track - StocksToTrade | Ambev S.A. $ABEV Stock Sold by Corient Private Wealth LP - marketbeat.com"
-    },
-    {
-      "ticker": "LESL",
-      "score": 68.2,
-      "last_close": 0.102,
-      "rel_volume": 2.42,
-      "price_change_pct": -30.14,
-      "gap_pct": -29.38,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 955278,
-      "float_shares": 9123939,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 2.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Leslie's Stock Price Forecast. Should You Buy LESL? - StockInvest.us | Why is Leslie’s stock collapsing over 20% today? - Investing.com"
+      "recent_news": "Google News | ABEV Stock Holds Steady As Form 6-K Keeps U.S. Compliance On Track - StocksToTrade | Ambev S.A. $ABEV Stock Sold by Corient Private Wealth LP - MarketBeat"
     },
     {
       "ticker": "ALVO",
@@ -289,24 +374,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why PacBio (PACB) Stock Is Trading Up Today - StockStory | Why Is PacBio (PACB) Stock Soaring Today - finance.yahoo.com"
-    },
-    {
-      "ticker": "EPRX",
-      "score": 63.6,
-      "last_close": 7.745,
-      "rel_volume": 2.34,
-      "price_change_pct": 6.98,
-      "gap_pct": 7.73,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 511738272,
-      "float_shares": 55668696,
-      "cash_debt_ratio": 72.53,
-      "insider_pct": 12.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Fifty-two weeks after one dose, 9 of 14 patients with an esophageal disease remained in remission. - Stock Titan | Eupraxia Pharmaceuticals (TSX:EPRX) Stock Drops 13.86% After 52-Week RESOLVE Data as Phase 2b Readout Moves to December - kalkine.ca"
+      "recent_news": "Google News | Why PacBio (PACB) Stock Is Trading Up Today - Yahoo Finance | Why Is PacBio (PACB) Stock Soaring Today - Yahoo Finance"
     },
     {
       "ticker": "QDEL",
@@ -321,9 +389,9 @@
       "float_shares": 61167224,
       "cash_debt_ratio": 0.04,
       "insider_pct": 0.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | QuidelOrtho rallies 13% to multi-week high (QDEL:NASDAQ) - Seeking Alpha | QuidelOrtho (QDEL) Shares Surge 12.7% on October 5, 2026, Amid E - gurufocus.com"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | QuidelOrtho rallies 13% to multi-week high (QDEL:NASDAQ) - Seeking Alpha | QuidelOrtho (QDEL) Shares Surge 12.7% on October 5, 2026, Amid E - GuruFocus"
     },
     {
       "ticker": "VIV",
@@ -338,9 +406,9 @@
       "float_shares": 351964084,
       "cash_debt_ratio": 0.43,
       "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Telefonica Brasil (NYSE:VIV) Shares Gap Up - Time to Buy? - marketbeat.com | Telefonica Brasil SA Stock (VIV) Moved Up by 10.92% on Oct 5: What Investors Need To Know - TradingKey"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Telefonica Brasil (NYSE:VIV) Shares Gap Up - Time to Buy? - MarketBeat | Telefonica Brasil SA Stock (VIV) Moved Up by 10.92% on Oct 5: What Investors Need To Know - TradingKey"
     },
     {
       "ticker": "BBWI",
@@ -357,24 +425,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Bath &amp; Body Works (NYSE:BBWI) Stock Jumps 7.9% - Should You Buy? - marketbeat.com | 3 Reasons to Avoid BBWI and 1 Stock to Buy Instead - finance.yahoo.com"
-    },
-    {
-      "ticker": "BDORY",
-      "score": 58.8,
-      "last_close": 5.29,
-      "rel_volume": 1.61,
-      "price_change_pct": 15.0,
-      "gap_pct": 15.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 30199939072,
-      "float_shares": 2587375586,
-      "cash_debt_ratio": 0.27,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Banco do Brasil S.A. (BDORY) stock price, news, quote and history - Yahoo Finance UK | Banco Do Brasil: The Rebound Still Looks Premature (OTCMKTS:BDORY) - Seeking Alpha"
+      "recent_news": "Google News | Bath &amp; Body Works (NYSE:BBWI) Stock Jumps 7.9% - Should You Buy? - MarketBeat | 3 Reasons to Avoid BBWI and 1 Stock to Buy Instead - Yahoo Finance"
     },
     {
       "ticker": "DXC",
@@ -391,13 +442,13 @@
       "insider_pct": 1.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Google News | DXC Technology (DXC) Stock Still Looks Cheap On Earnings But Weak On Growth - finance.yahoo.com | DXC Technology Company. (NYSE:DXC) Stock Now Rated \"Reduce\" by Wall Street Analysts - marketbeat.com"
+      "recent_news": "Google News | DXC Technology (DXC) Stock Still Looks Cheap On Earnings But Weak On Growth - Yahoo Finance | DXC Technology Company. (NYSE:DXC) Stock Now Rated \"Reduce\" by Wall Street Analysts - MarketBeat"
     },
     {
       "ticker": "CTVA",
       "score": 54.1,
       "last_close": 12.39,
-      "rel_volume": 17.86,
+      "rel_volume": 17.87,
       "price_change_pct": 3.94,
       "gap_pct": 3.61,
       "st_msg_count": null,
@@ -406,26 +457,9 @@
       "float_shares": null,
       "cash_debt_ratio": null,
       "insider_pct": 0.1,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Stocktwits | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - finance.yahoo.com"
-    },
-    {
-      "ticker": "ONT",
-      "score": 54.1,
-      "last_close": 14.21,
-      "rel_volume": 1.21,
-      "price_change_pct": 11.8,
-      "gap_pct": 10.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 499018592,
-      "float_shares": 30645571,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 8.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | Onterris, Inc. (ONT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | symbol__ Stock Quote Price and Forecast - CNN"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Yahoo Finance | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - stocktwits.com"
     },
     {
       "ticker": "FMC",
@@ -442,13 +476,13 @@
       "insider_pct": 20.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | FMC Corp. stock outperforms competitors on strong trading day - MarketWatch | FMC (NYSE:FMC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | FMC Corp. stock outperforms competitors on strong trading day - MarketWatch | TechnipFMC plc (FTI) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
       "ticker": "CERT",
-      "score": 49.9,
+      "score": 50.1,
       "last_close": 10.07,
-      "rel_volume": 1.18,
+      "rel_volume": 1.2,
       "price_change_pct": 7.59,
       "gap_pct": 6.62,
       "st_msg_count": null,
@@ -459,13 +493,13 @@
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 21,
-      "recent_news": "Google News | Certara, Inc. (CERT) Stock Forecasts - finance.yahoo.com | Certara Stock Is Up 5.0% What's Changed After Software Growth And Job Cuts - Simply Wall Street"
+      "recent_news": "Google News | Certara, Inc. (CERT) Stock Forecasts - Yahoo Finance | Certara Stock Is Up 5.0% What's Changed After Software Growth And Job Cuts - Simply Wall Street"
     },
     {
       "ticker": "VALE",
       "score": 49.4,
       "last_close": 14.15,
-      "rel_volume": 3.25,
+      "rel_volume": 3.26,
       "price_change_pct": 2.83,
       "gap_pct": 2.98,
       "st_msg_count": null,
@@ -474,9 +508,9 @@
       "float_shares": 3964157917,
       "cash_debt_ratio": 0.27,
       "insider_pct": 0.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia | Why Is Vale Stock Trading Higher On Monday? - Benzinga"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Vale S.A. (VALE) stock price, news, quote and history - Yahoo Finance Australia | Stock Market Today, Oct. 5: Vale Rises Amid Brazil Election Backdrop - The Motley Fool"
     },
     {
       "ticker": "MRVI",
@@ -525,9 +559,9 @@
       "float_shares": 195429913,
       "cash_debt_ratio": null,
       "insider_pct": 4.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 23,
-      "recent_news": "Google News | PURR Stock Extends Rally As Buyers Crowd Into Hyperliquid Strategies - StocksToTrade | PURR jumps as traders appear to lean into Hyperliquid exposure - quiverquant.com"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Hyperliquid Strategies PURR Stock Extends Powerful Rally - timothysykes.com | PURR Stock Extends Rally As Buyers Crowd Into Hyperliquid Strategies - StocksToTrade"
     },
     {
       "ticker": "OLN",
@@ -544,7 +578,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | The third-quarter results are due after markets close Oct. 29, before Olin's live call the next day. - Stock Titan | What Olin (OLN) Still Had To Prove After A 36% Slide - Simply Wall Street"
+      "recent_news": "Google News | The third-quarter results are due after markets close Oct. 29, before Olin's live call the next day. - Stock Titan | Olin (NYSE:OLN) Stock Price - Simply Wall Street"
     },
     {
       "ticker": "ALHC",
@@ -561,7 +595,7 @@
       "insider_pct": 2.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | To cover taxes, Alignment Healthcare (ALHC) CMO proposes selling 36,000 shares. - Stock Titan | What Is Behind Alignment Healthcare (ALHC) Stock's Latest Move? - finance.yahoo.com"
+      "recent_news": "Google News | To cover taxes, Alignment Healthcare (ALHC) CMO proposes selling 36,000 shares. - Stock Titan | ALHC Stock Tumbles After ‘Don’t Poke the Bear’ Silence On Star Ratings — CLOV Falls With It - Yahoo Finance"
     },
     {
       "ticker": "ATEC",
@@ -578,14 +612,14 @@
       "insider_pct": 20.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Alphatec (ATEC) Stock May Look Discounted On Cash Flow And Sales - Simply Wall Street | $ATEC stock is down 8% today. Here's what we see in our data. | ATEC Stock News - quiverquant.com"
+      "recent_news": "Google News | Alphatec (ATEC) Stock May Look Discounted On Cash Flow And Sales - Simply Wall Street | $ATEC stock is down 8% today. Here's what we see in our data. | ATEC Stock News - Quiver Quantitative"
     },
     {
       "ticker": "VNET",
-      "score": 44.5,
-      "last_close": 5.445,
-      "rel_volume": 1.35,
-      "price_change_pct": 6.14,
+      "score": 44.9,
+      "last_close": 5.45,
+      "rel_volume": 1.36,
+      "price_change_pct": 6.24,
       "gap_pct": 5.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -595,13 +629,13 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VNET Group (VNET) Stock May Be Undervalued After A 100% Run - finance.yahoo.com | VNET Group (NASDAQ:VNET) Stock Falls 5% - What's Next? - marketbeat.com"
+      "recent_news": "Google News | VNET Group (VNET) Stock May Be Undervalued After A 100% Run - Yahoo Finance | VNET Group (NASDAQ:VNET) Stock Falls 5% - What's Next? - MarketBeat"
     },
     {
       "ticker": "EDIT",
-      "score": 44.1,
+      "score": 44.2,
       "last_close": 2.79,
-      "rel_volume": 1.03,
+      "rel_volume": 1.04,
       "price_change_pct": 6.49,
       "gap_pct": 6.3,
       "st_msg_count": null,
@@ -612,7 +646,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 28,
-      "recent_news": "Google News | Editas Medicine, Inc. (NASDAQ:EDIT) Stock Has Consensus Price Target of $5.80 According to Analysts - marketbeat.com | Credo Has One Number That Could Change the Stock’s Long-Term Story - 24/7 Wall St."
+      "recent_news": "Google News | Editas Medicine, Inc. (NASDAQ:EDIT) Stock Has Consensus Price Target of $5.80 According to Analysts - MarketBeat | Credo Has One Number That Could Change the Stock’s Long-Term Story - 24/7 Wall St."
     },
     {
       "ticker": "VIR",
@@ -627,9 +661,9 @@
       "float_shares": 129817406,
       "cash_debt_ratio": 5.71,
       "insider_pct": 6.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | One talk will cover hepatitis D response data through 96 weeks; another will study liver immune cells. - Stock Titan | Vir Biotechnology, Inc. (VIR) Stock Forecasts - Yahoo! Finance Canada"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Google News | One talk will cover hepatitis D response data through 96 weeks; another will study liver immune cells. - Stock Titan | Raymond James reiterates USD 19.00 target for Vir Biotechnology stock - AD HOC NEWS"
     },
     {
       "ticker": "AESI",
@@ -646,24 +680,7 @@
       "insider_pct": 34.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Atlas Energy Solutions (NYSE:AESI) Stock Jumps 8.2% - Should You Buy? - marketbeat.com | Atlas Energy Solutions Stock Gets AI Backed Power Equipment Orders - Simply Wall Street"
-    },
-    {
-      "ticker": "OPTU",
-      "score": 42.6,
-      "last_close": 0.989,
-      "rel_volume": 0.41,
-      "price_change_pct": 7.96,
-      "gap_pct": 6.91,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 377197664,
-      "float_shares": 277642261,
-      "cash_debt_ratio": 0.05,
-      "insider_pct": 11.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Optimum Communications (OPTU) Stock Trades Up, Here Is Why - TradingView | Optimum Communications, Inc. (OPTU) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | Atlas Energy Solutions (NYSE:AESI) Stock Jumps 8.2% - Should You Buy? - MarketBeat | Atlas Energy Solutions Stock Gets AI Backed Power Equipment Orders - Simply Wall Street"
     },
     {
       "ticker": "TIGR",
@@ -680,14 +697,14 @@
       "insider_pct": 13.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | TIGR or JPM: Which Is the Better Value Stock Right Now? - finance.yahoo.com | UP Fintech (NASDAQ:TIGR) Stock Price Down 7.4% - Here's Why - marketbeat.com"
+      "recent_news": "Google News | TIGR or JPM: Which Is the Better Value Stock Right Now? - Yahoo Finance | UP Fintech (NASDAQ:TIGR) Stock Price Down 7.4% - Here's Why - MarketBeat"
     },
     {
       "ticker": "NMRA",
-      "score": 40.2,
+      "score": 40.0,
       "last_close": 0.525,
       "rel_volume": 1.92,
-      "price_change_pct": 5.06,
+      "price_change_pct": 5.0,
       "gap_pct": -1.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -697,13 +714,13 @@
       "insider_pct": 23.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | NMRA Stock On Track For Worst Day In 1.5 Years — Neumora Therapeutics' Lead Depression Drug Fails Late Stage Trials - Stocktwits | Neumora Therapeutics (NMRA) Stock Sees Fair Value Falls After Navacaprant Discontinuation - finance.yahoo.com"
+      "recent_news": "Google News | NMRA Stock On Track For Worst Day In 1.5 Years — Neumora Therapeutics' Lead Depression Drug Fails Late Stage Trials - stocktwits.com | Neumora Therapeutics (NMRA) Stock Sees Fair Value Falls After Navacaprant Discontinuation - Yahoo Finance"
     },
     {
       "ticker": "TDAY",
-      "score": 38.8,
+      "score": 39.3,
       "last_close": 7.43,
-      "rel_volume": 1.14,
+      "rel_volume": 1.18,
       "price_change_pct": 5.39,
       "gap_pct": 4.61,
       "st_msg_count": null,
@@ -731,7 +748,7 @@
       "insider_pct": 13.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | SEI GAF Balanced GBP Wlth B Inc (IE00B61BV772.IR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Wealthfront (NasdaqGS:WLTH) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | SEI GAF Balanced GBP Wlth B Inc (IE00B61BV772.IR) Interactive Stock Chart - Yahoo! Finance Canada | Wealthfront (NasdaqGS:WLTH) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "FUN",
@@ -748,7 +765,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
-      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) stock price, news, quote and history - Yahoo Finance Singapore | Six Flags Entertainment (FUN) Institutional Ownership 2026 $FUN - marketbeat.com"
+      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Six Flags Entertainment Corporation (FUN) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
       "ticker": "NABL",
@@ -765,17 +782,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | N able (NABL) Stock Draws Fresh Price Target Split On Execution Risk - finance.yahoo.com | N-able (NYSE:NABL) Shares Climb 5.8% - Should You Buy? - marketbeat.com"
-    },
-    {
-      "ticker": "EVH",
-      "score": 29.7,
-      "last_close": 3.61,
-      "rel_volume": 0.57,
-      "price_change_pct": 4.34,
-      "gap_pct": 5.06,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
+      "recent_news": "Google News | N able (NABL) Stock Draws Fresh Price Target Split On Execution Risk - Yahoo Finance | N-able (NYSE:NABL) Shares Climb 5.8% - Should You Buy? - MarketBeat"
     },
     {
       "ticker": "GRAB",
@@ -819,9 +826,9 @@
     },
     {
       "ticker": "NOK",
-      "score": 25.1,
+      "score": 25.4,
       "last_close": 10.2,
-      "rel_volume": 0.57,
+      "rel_volume": 0.6,
       "price_change_pct": -3.77,
       "gap_pct": -3.54,
       "st_msg_count": null,
@@ -838,12 +845,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "MERC",
-      "score": 24.2,
-      "last_close": 0.247,
-      "rel_volume": 0.15,
-      "price_change_pct": -5.0,
-      "gap_pct": -3.65,
+      "ticker": "PMT",
+      "score": 24.0,
+      "last_close": 7.87,
+      "rel_volume": 1.73,
+      "price_change_pct": 0.9,
+      "gap_pct": 0.51,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -888,6 +895,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GETY",
+      "score": 19.2,
+      "last_close": 0.041,
+      "rel_volume": 0.32,
+      "price_change_pct": -2.38,
+      "gap_pct": -4.29,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OI",
       "score": 19.1,
       "last_close": 5.57,
@@ -904,16 +921,6 @@
       "rel_volume": 1.11,
       "price_change_pct": 0.95,
       "gap_pct": 1.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GETY",
-      "score": 17.6,
-      "last_close": 0.041,
-      "rel_volume": 0.18,
-      "price_change_pct": -2.38,
-      "gap_pct": -4.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -948,20 +955,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 15.5,
-      "last_close": 6.11,
-      "rel_volume": 0.76,
-      "price_change_pct": -1.29,
-      "gap_pct": -1.37,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "GENI",
-      "score": 13.9,
+      "score": 14.6,
       "last_close": 5.99,
-      "rel_volume": 0.92,
+      "rel_volume": 0.98,
       "price_change_pct": -0.5,
       "gap_pct": -0.83,
       "st_msg_count": null,
@@ -989,9 +986,9 @@
     },
     {
       "ticker": "TMC",
-      "score": 12.3,
+      "score": 12.5,
       "last_close": 3.77,
-      "rel_volume": 0.64,
+      "rel_volume": 0.65,
       "price_change_pct": -0.53,
       "gap_pct": -1.72,
       "st_msg_count": null,
@@ -1019,9 +1016,9 @@
     },
     {
       "ticker": "LAC",
-      "score": 9.8,
+      "score": 9.9,
       "last_close": 2.55,
-      "rel_volume": 0.81,
+      "rel_volume": 0.82,
       "price_change_pct": 0.0,
       "gap_pct": 0.2,
       "st_msg_count": null,
