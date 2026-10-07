@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-07T02:07:28.545399+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-10-07T09:51:26.090493+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "HTZ",
@@ -14,10 +14,10 @@
       "market_cap": 734289856,
       "float_shares": 170565556,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 1.1,
+      "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | HTZ Stock Plummets To Record Lows, Drops For The Ninth Session: Sees Highest Ever Short Interest - Stocktwits | HTZ Stock Firms Up As Q3 2026 Earnings Date Nears - Timothy Sykes"
+      "recent_news": "Google News | Why Did RBLX, HTZ, MYGN Stocks Plunge To 52-Week Lows Last Week? - Stocktwits | Hertz Global Holdings Shares 2.52% After Hours Ahead of Q3 Earnings - Hertz Global Holdings (NASDAQ:HTZ) - Benzinga"
     },
     {
       "ticker": "CTVA",
@@ -30,11 +30,11 @@
       "short_volume_ratio_pct": null,
       "market_cap": 9280696320,
       "float_shares": null,
-      "cash_debt_ratio": 0.49,
-      "insider_pct": 0.1,
+      "cash_debt_ratio": null,
+      "insider_pct": 0.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Corteva, Inc. (CTVA) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Corteva upgraded at J.P. Morgan following spinoff of Vylor (CTVA:NYSE) - Seeking Alpha"
+      "recent_news": "Google News | Corteva, Inc. (CTVA) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Stocktwits"
     },
     {
       "ticker": "ITG",
@@ -52,23 +52,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
       "recent_news": "Google News | ITG (ITG) Stock Price, News &amp; Analysis - Stock Titan | symbol__ Stock Quote Price and Forecast - CNN"
-    },
-    {
-      "ticker": "STKE",
-      "score": 69.0,
-      "last_close": 1.84,
-      "rel_volume": 2.66,
-      "price_change_pct": 7.6,
-      "gap_pct": 7.6,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 73082408,
-      "float_shares": 31012995,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 23.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | A privacy-focused swap service has logged US$3 billion in volume - Stock Titan | STKE Maintained by Cantor Fitzgerald -- Price Target Lowered to $1.70 - GuruFocus"
     },
     {
       "ticker": "EROC",
@@ -102,7 +85,7 @@
       "insider_pct": 50.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Nappy is a site offering free stock photos of Black and brow... - Kottke.org | Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary - E! News"
+      "recent_news": "Google News | Justin Timberlake, Jessica Biel Share Never-Before-Seen Photos on 14th Wedding Anniversary - E! News | Nappy is a site offering free stock photos of Black and brow... - Kottke.org"
     },
     {
       "ticker": "STDN",
@@ -119,7 +102,7 @@
       "insider_pct": 63.2,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Standard Nuclear (NYSE:STDN) Shares Climb 12.1% - Time to Buy? - MarketBeat | Standard Nuclear (STDN) Stock Climbed, So What Is Driving Attention Today? - Yahoo Finance"
+      "recent_news": "Google News | Market Movers | Winners: OPCH, STDN, HTZ | Losers: AVBP, TWST, TXG - Trefis | Standard Nuclear (NYSE:STDN) Shares Climb 12.1% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "UEC",
@@ -134,9 +117,9 @@
       "float_shares": 486451040,
       "cash_debt_ratio": 168.12,
       "insider_pct": 1.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Uranium Energy Corp (UEC) Stock Up 8.1% but GF Value Says Overva - GuruFocus | Uranium Energy Corp. Common Stock (NYSE:UEC) Stock Quote - FinancialContent"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Uranium Energy Corp. (U6Z.F) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Uranium Energy Corp (UEC) Stock Up 8.1% but GF Value Says Overva - GuruFocus"
     },
     {
       "ticker": "EHTH",
@@ -147,7 +130,7 @@
       "gap_pct": 11.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 24322394,
+      "market_cap": 24100954,
       "float_shares": 25708767,
       "cash_debt_ratio": 0.76,
       "insider_pct": 7.6,
@@ -170,7 +153,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Google News | Mirion Technologies, Inc. (MIR) Stock Forecasts - Yahoo Finance | Mirion Technologies (NYSE:MIR) Stock Price - Simply Wall Street"
+      "recent_news": "Google News | Mirion Technologies, Inc. (MIR) Stock Forecasts - Yahoo Finance | Precision Trading with Mirion Technologies Inc. Class A (MIR) Risk Zones - Stock Traders Daily"
     },
     {
       "ticker": "SRFM",
@@ -185,9 +168,9 @@
       "float_shares": 100460947,
       "cash_debt_ratio": 0.21,
       "insider_pct": 16.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Palantir-powered software will manage Clipper flights. Surf Air will earn a share from those run through it. - Stock Titan | SURF AIR MOBILITY INC (SRFM) Stock Chart - ChartMill"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | SURF AIR MOBILITY INC (SRFM) Stock Chart - ChartMill | Surf Air Mobility Slid While Something Else Was Being Tested - Simply Wall Street"
     },
     {
       "ticker": "SSP",
@@ -204,7 +187,7 @@
       "insider_pct": 30.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 39,
-      "recent_news": "Google News | The management call follows Scripps' results at 9:30 a.m. Eastern on Nov. 6. - Stock Titan | E.W. Scripps (SSP) Stock Rebounds As $1.1b Write Down Resets Expectations - Simply Wall Street"
+      "recent_news": "Google News | The management call follows Scripps' results at 9:30 a.m. Eastern on Nov. 6. - Stock Titan | E.W. Scripps (SSP): Could Political Ad Spending Spark a Recovery? - Yahoo Finance"
     },
     {
       "ticker": "CANG",
@@ -221,7 +204,7 @@
       "insider_pct": 14.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cango (NYSE:CANG) - Stock Analysis - Simply Wall Street | CANGO Q2 2026 Earnings Preview: Recent $CANG Insider Trading, Hedge Fund Activity, and More - Quiver Quantitative"
+      "recent_news": "Google News | CANGO Q2 2026 Earnings Preview: Recent $CANG Insider Trading, Hedge Fund Activity, and More - Quiver Quantitative | Cango stock surges over 20% following Buy initiation at Jones Trading - Investing.com"
     },
     {
       "ticker": "KLC",
@@ -229,7 +212,7 @@
       "last_close": 2.0,
       "rel_volume": 1.26,
       "price_change_pct": 10.5,
-      "gap_pct": 9.67,
+      "gap_pct": 9.39,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 237034064,
@@ -255,7 +238,7 @@
       "insider_pct": 0.0,
       "dilution_risk": null,
       "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | BBD Stock Climbs As Heavy Insider Buying Accelerates - Timothy Sykes | Banco Bradesco (NYSE:BBD) Shares Gap Up - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | BBD Stock Climbs As Heavy Insider Buying Accelerates - Timothy Sykes | Banco Bradesco Sa (BBD) Stock Forecasts - Yahoo! Finance Canada"
     },
     {
       "ticker": "SECZ",
@@ -272,7 +255,7 @@
       "insider_pct": 12.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Securitize (SECZ) Stock Looks Fully Priced Despite Its 154% Run - Yahoo Finance | Digital funds and stablecoins are being explored for Korean financial firms - Stock Titan"
+      "recent_news": "Google News | Securitize (SECZ) Stock Looks Fully Priced Despite Its 154% Run - Yahoo Finance | Securitize stock jumps 8% amid South Korea tokenization push - TradingView"
     },
     {
       "ticker": "RXRX",
@@ -323,7 +306,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 28,
-      "recent_news": "Google News | What's Going On With Nokia Stock Tuesday? - Benzinga | NOK Stock Rises As Satellite, AI And Saudi Deals Build Momentum - StocksToTrade"
+      "recent_news": "Google News | NOK Stock Eyes Third Winning Session Amid Google $15B AI Bet, Euro Stoxx 50 Return - Stocktwits | What's Going On With Nokia Stock Tuesday? - Benzinga"
     },
     {
       "ticker": "ADTN",
@@ -408,7 +391,7 @@
       "insider_pct": 13.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 49,
-      "recent_news": "Google News | Youdao (DAO) Stock Rallies On Margin Surge As Growth Questions Persist - Simply Wall Street | A Look at Youdao Inc (DAO) After 3.4% Gain -- GF Value $8.72 vs Price $15.15 - GuruFocus"
+      "recent_news": "Google News | Responsive Playbooks and the DAO Inflection - Stock Traders Daily | Screen Holdings Co Ltd (DAO.SG) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "DNN",
@@ -425,7 +408,7 @@
       "insider_pct": 0.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | DNN Stock Firms Up As Uranium Traders Watch Key Levels - Timothy Sykes | DNN Stock Firms Up As Uranium Trader Focus Returns - StocksToTrade"
+      "recent_news": "Google News | DNN Stock Holds Support As Uranium Trader Focus Builds - Timothy Sykes | DNN Stock Firms Up As Uranium Trader Focus Returns - StocksToTrade"
     },
     {
       "ticker": "EVH",
@@ -463,11 +446,11 @@
     },
     {
       "ticker": "GENI",
-      "score": 40.1,
+      "score": 40.4,
       "last_close": 6.22,
       "rel_volume": 1.66,
       "price_change_pct": 3.84,
-      "gap_pct": 4.67,
+      "gap_pct": 4.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1664639616,
@@ -491,9 +474,9 @@
       "float_shares": 102325730,
       "cash_debt_ratio": 0.09,
       "insider_pct": 10.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Lyntris Inc. (LYNX) Recent Insider Transactions - Yahoo! Finance Canada"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 9,
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Is Lyntris (LYNX) Undervalued On Its Shelf Filing And Early Post IPO Moves? - Yahoo Finance"
     },
     {
       "ticker": "LENZ",
@@ -510,7 +493,7 @@
       "insider_pct": 2.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | LENZ Oct 2026 22.500 call (LENZ261016C00022500) stock historical prices and data - Yahoo Finance Australia | LENZ Therapeutics Reports First Quarter 2026 Financial Results and Recent Corporate Highlights - LENZ Therapeutics"
+      "recent_news": "Google News | LENZ270115P00005000 Interactive Stock Chart | LENZ Jan 2027 5.000 put Stock - Yahoo Finance | LENZ Therapeutics Reports First Quarter 2026 Financial Results and Recent Corporate Highlights - LENZ Therapeutics"
     },
     {
       "ticker": "PLTK",
@@ -542,9 +525,9 @@
       "float_shares": 403544225,
       "cash_debt_ratio": 160.21,
       "insider_pct": 1.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits | SMR Stock Slides As Volatility And Insider Activity Grab Attention - Timothy Sykes"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 18,
+      "recent_news": "Google News | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits | Under a trading plan, NuScale Power (SMR)'s CFO sells 20,000 shares at $7.89 each. - Stock Titan"
     },
     {
       "ticker": "ITUB",
@@ -561,7 +544,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC | Itau Unibanco Banco Holding SA (ITUB) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC | Banco Itau (ITUB) Stock Jumps 5.4%: Will It Continue to Soar? - Yahoo Finance"
     },
     {
       "ticker": "FLNC",
@@ -578,7 +561,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Fluence Energy, Inc. (FLNC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | FLNC Stock Notice: Fluence Stock Plummeted 34% after Production Issues Disclosed - Securities Fraud Class Action Filed - themountaineer.com"
+      "recent_news": "Google News | Why Is FLNC Stock Rising Today? - Stocktwits | FLNC Stock Notice: Fluence Stock Plummeted 34% after Production Issues Disclosed - Securities Fraud Class Action Filed - themountaineer.com"
     },
     {
       "ticker": "GRAB",
@@ -646,11 +629,21 @@
     },
     {
       "ticker": "SNAP",
-      "score": 28.4,
+      "score": 28.2,
       "last_close": 5.78,
       "rel_volume": 1.09,
       "price_change_pct": 3.03,
-      "gap_pct": 3.3,
+      "gap_pct": 3.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "UNIT",
+      "score": 27.2,
+      "last_close": 8.1,
+      "rel_volume": 1.38,
+      "price_change_pct": 1.89,
+      "gap_pct": 2.77,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -661,16 +654,6 @@
       "rel_volume": 1.95,
       "price_change_pct": 0.25,
       "gap_pct": 0.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CWH",
-      "score": 23.7,
-      "last_close": 4.53,
-      "rel_volume": 1.79,
-      "price_change_pct": -0.44,
-      "gap_pct": -0.77,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -695,12 +678,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TBLA",
-      "score": 21.7,
-      "last_close": 3.23,
-      "rel_volume": 1.21,
-      "price_change_pct": -1.22,
-      "gap_pct": -1.99,
+      "ticker": "BRSL",
+      "score": 22.5,
+      "last_close": 10.21,
+      "rel_volume": 0.76,
+      "price_change_pct": 2.82,
+      "gap_pct": 2.57,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -731,16 +714,6 @@
       "rel_volume": 1.6,
       "price_change_pct": 0.4,
       "gap_pct": 0.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ULCC",
-      "score": 20.4,
-      "last_close": 6.25,
-      "rel_volume": 0.75,
-      "price_change_pct": 2.29,
-      "gap_pct": 2.37,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -815,22 +788,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "OLN",
-      "score": 15.5,
-      "last_close": 16.21,
-      "rel_volume": 1.1,
-      "price_change_pct": -0.37,
-      "gap_pct": -0.8,
+      "ticker": "SOFI",
+      "score": 15.7,
+      "last_close": 15.76,
+      "rel_volume": 0.89,
+      "price_change_pct": -1.01,
+      "gap_pct": -1.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "SOFI",
-      "score": 15.5,
-      "last_close": 15.76,
-      "rel_volume": 0.89,
-      "price_change_pct": -1.01,
-      "gap_pct": -1.07,
+      "ticker": "CMPS",
+      "score": 14.0,
+      "last_close": 11.56,
+      "rel_volume": 1.01,
+      "price_change_pct": -0.34,
+      "gap_pct": -0.6,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -841,6 +814,16 @@
       "rel_volume": 0.77,
       "price_change_pct": 1.07,
       "gap_pct": 0.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "IVR",
+      "score": 11.9,
+      "last_close": 5.72,
+      "rel_volume": 0.91,
+      "price_change_pct": 0.35,
+      "gap_pct": -0.09,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
