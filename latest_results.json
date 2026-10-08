@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-08T02:33:48.074040+00:00",
+  "last_updated_utc": "2026-10-08T10:02:50.611637+00:00",
   "tickers_scanned": 73,
   "results": [
     {
@@ -51,7 +51,7 @@
       "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 35,
-      "recent_news": "Google News | DSP Arbitrage Dir Gr (0P0001CJLG.BO) Stock Forum &amp; Discussion - Yahoo! Finance Canada | Planned 8.5 million-share sale at Viant Technology Inc. (DSP) is scrapped - Stock Titan"
+      "recent_news": "Google News | DSP US Specific Eq Omni FoF Reg IDCW-R (0P0001BA10.BO) Stock Forum &amp; Discussion - Yahoo! Finance Canada | Planned 8.5 million-share sale at Viant Technology Inc. (DSP) is scrapped - Stock Titan"
     },
     {
       "ticker": "QXO",
@@ -68,7 +68,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Why QXO Sank Today - Yahoo Finance | Why QXO Sank Today - The Motley Fool"
+      "recent_news": "Google News | Why QXO Sank Today - Yahoo Finance | Stock Market Today, Oct. 7: QXO Falls 7% on RBC Price-Target Cut to $18 - The Motley Fool"
     },
     {
       "ticker": "GOTU",
@@ -117,9 +117,9 @@
       "float_shares": 3664517,
       "cash_debt_ratio": 0.34,
       "insider_pct": 14.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Anger Over Stock Trades Puts Pennsylvania House Seat in Play (1) - Bloomberg Government News | Taking stock of college football's coaching changes and what's next - ESPN"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 155,
+      "recent_news": "Google News | Anger Over Stock Trades Puts Pennsylvania House Seat in Play (1) - Bloomberg Government News | Stock trades again at center of campaign for 7th District House seat - New Jersey Monitor"
     },
     {
       "ticker": "RXRX",
@@ -134,9 +134,9 @@
       "float_shares": 518457478,
       "cash_debt_ratio": 8.19,
       "insider_pct": 2.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Recursion Pharmaceuticals (RXRX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance | Under a trading plan, Recursion (RXRX) director sells 50,000 shares averaging $4.84 each. - Stock Titan"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | Recursion Pharmaceuticals (RXRX) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance | Recursion Pharmaceuticals Shares Jump as AI Partnership Momentum and Short-Covering Appear to Lift Sentiment - Quiver Quantitative"
     },
     {
       "ticker": "RC",
@@ -165,12 +165,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 44824965120,
-      "float_shares": null,
-      "cash_debt_ratio": null,
-      "insider_pct": null,
+      "float_shares": 536940811,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 50.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Wall Street Skittish on Skydance as Stock Drops Further Post-Merger - Variety"
+      "recent_news": "Google News | Wall Street Skittish on Skydance as Stock Drops Further Post-Merger - Variety | SKYD Stock Price and Chart — NYSE:SKYD - TradingView"
     },
     {
       "ticker": "SOS",
@@ -204,7 +204,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ADC Therapeutics (ADCT) Stock Fair Value Falls After LOTIS 5 Reshapes Zynlonta Outlook - Yahoo Finance | ADC Therapeutics stock gained 8.27 percent to USD 1.38 - AD HOC NEWS"
+      "recent_news": "Google News | ADC Therapeutics (ADCT) Stock Fair Value Falls After LOTIS 5 Reshapes Zynlonta Outlook - Yahoo Finance | ADC Therapeutics Reports Second Quarter 2026 Financial Results and Provides Operational Updates - PR Newswire"
     },
     {
       "ticker": "NXTC",
@@ -255,7 +255,7 @@
       "insider_pct": 31.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Shutterstock (NYSE:SSTK) - Stock Analysis - Simply Wall Street | CFO Rikki Powell acquires 557 Shutterstock (SSTK) shares following a stock award conversion. - Stock Titan"
+      "recent_news": "Google News | CFO Rikki Powell acquires 557 Shutterstock (SSTK) shares following a stock award conversion. - Stock Titan | Why Shutterstock (SSTK) Stock Is Up Today - TradingView"
     },
     {
       "ticker": "ALIT",
@@ -289,7 +289,7 @@
       "insider_pct": 3.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Evolent Health (EVH) Stock Is Nosediving - Yahoo Finance | Evolent Health (EVH) Institutional Ownership 2026 $EVH - MarketBeat"
+      "recent_news": "Google News | Why Evolent Health (EVH) Stock Is Nosediving - Yahoo Finance | Evolent Health stock gained 7.81 percent on October 7 - AD HOC NEWS"
     },
     {
       "ticker": "HEPS",
@@ -322,8 +322,8 @@
       "cash_debt_ratio": 0.12,
       "insider_pct": 12.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5087,
-      "recent_news": "Google News | Stock Up, Stock Down from UVA Football’s 38-7 loss at FSU - Streaking The Lawn | 2027 NFL Draft: CJ Carr, Kenyatta Jackson Jr. rise - PFF"
+      "recent_dilution_filings_90d": 5089,
+      "recent_news": "Google News | 2027 NFL Draft: CJ Carr, Kenyatta Jackson Jr. rise - PFF | Stock Up, Stock Down from UVA Football’s 38-7 loss at FSU - Streaking The Lawn"
     },
     {
       "ticker": "BAK",
@@ -340,7 +340,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Bank Stocks Are Haunted by the Ghosts of 2023 - WSJ | Why is Deutsche Bank stock sliding today? - Investing.com"
+      "recent_news": "Google News | Bank Stocks Are Haunted by the Ghosts of 2023 - WSJ | Braskem (NYSE:BAK) Stock Jumps 9.4% - What's Next? - MarketBeat"
     },
     {
       "ticker": "PRTA",
@@ -372,8 +372,8 @@
       "float_shares": 723156,
       "cash_debt_ratio": null,
       "insider_pct": 71.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Google News | Colombia stocks lower at close of trade; COLCAP down 2.09% - Investing.com | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
@@ -493,7 +493,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | BioCryst Bets On Rare Genetic Disorder Therapy Expansion Amid Q2 Earnings Beat – Retail Piles On Buyout Speculation - Stocktwits | Seven experts will advise BioCryst on rare disease drug research - Stock Titan"
+      "recent_news": "Google News | Why Did PENG, ANET, BCRX Shares Surge To 52-Week Highs? - Stocktwits | Seven experts will advise BioCryst on rare disease drug research - Stock Titan"
     },
     {
       "ticker": "ALEC",
@@ -510,7 +510,7 @@
       "insider_pct": 9.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | Alector, Inc. (ALEC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Experimental treatments for Alzheimer’s and Parkinson’s are on the agenda as Alector plans to present preclinical data. - Stock Titan"
+      "recent_news": "Google News | Alector, Inc. (ALEC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A Parkinson’s drug deal could mean up to $1.17 billion for Alector if future goals are met. - Stock Titan"
     },
     {
       "ticker": "GPRO",
@@ -527,7 +527,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
-      "recent_news": "Google News | GoPro (NASDAQ:GPRO) Shares Cross Above 200-Day Moving Average - Time to Sell? - MarketBeat | GoPro: My Put Options Were Assigned, Here's What I'm Doing Next - Seeking Alpha"
+      "recent_news": "Google News | GoPro: My Put Options Were Assigned, Here's What I'm Doing Next - Seeking Alpha | GPRO Should I Buy - Intellectia AI"
     },
     {
       "ticker": "FRSH",
@@ -544,7 +544,7 @@
       "insider_pct": 8.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Are Freshworks (FRSH) Shares Soaring Today - Yahoo Finance | Freshworks (NASDAQ:FRSH) Stock: Insider Philippa Lawrence Sells 3,492 Shares - MarketBeat"
+      "recent_news": "Google News | S&amp;P SmallCap 600 Addition Could Be A Big Moment For Freshworks Stock (FRSH) - Simply Wall Street | Why Are Freshworks (FRSH) Shares Soaring Today - Yahoo Finance"
     },
     {
       "ticker": "LAC",
@@ -561,7 +561,7 @@
       "insider_pct": 7.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market - Yahoo! Finance Canada | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts - Yahoo Finance"
+      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts - Yahoo Finance | Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market - Yahoo! Finance Canada"
     },
     {
       "ticker": "ITUB",
@@ -578,7 +578,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ITUB Stock Price and Chart — NYSE:ITUB - TradingView | ITUB Stock Grinds Higher As Bulls Defend New Price Zone - StocksToTrade"
+      "recent_news": "Google News | ITUB Stock Price and Chart — NYSE:ITUB - TradingView | ITUB Stock Grinds Higher As Bulls Defend New Price Zone - Timothy Sykes"
     },
     {
       "ticker": "CDE",
@@ -593,9 +593,9 @@
       "float_shares": 1017254753,
       "cash_debt_ratio": 1.48,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | CDE Stock Holds Discount As Silver Volatility Stays Elevated - StocksToTrade | CDE Stock Trades At Discount Amid Silver Volatility - Timothy Sykes"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Google News | Coeur Mining, Inc. (CDE) Stock Forecasts - Yahoo Finance | CDE Stock Trades At Discount Amid Silver Volatility - Timothy Sykes"
     },
     {
       "ticker": "ARCO",
@@ -610,9 +610,9 @@
       "float_shares": 129738950,
       "cash_debt_ratio": 0.12,
       "insider_pct": 0.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Arcos Dorados Holdings Inc. (ARCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Arcos Dorados (NYSE:ARCO) Shares Gap Up - What's Next? - MarketBeat"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | Arcos Dorados Holdings Inc. (ARCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Arcos Dorados Holdings (ARCO) Stock Dropped, What Is Behind The Latest Attention? - Simply Wall Street"
     },
     {
       "ticker": "FUN",
@@ -646,7 +646,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Hecla Mining Company (HL) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | HL Stock Drifts Lower As Traders Watch Key Support - StocksToTrade"
+      "recent_news": "Google News | Hecla Mining Company (NYSE:HL) Stock Has Consensus Target Price of $23.34 - MarketBeat | HL Stock Drifts Lower As Traders Watch Key Support - StocksToTrade"
     },
     {
       "ticker": "UNIT",
@@ -662,8 +662,8 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3361,
-      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 35,000 stock units awarded to Clean Energy Fuels (CLNE) CFO vest over three years. - Stock Titan"
+      "recent_dilution_filings_90d": 3362,
+      "recent_news": "Google News | Uniti Group Inc. (UNIT) stock price, news, quote and history - Yahoo Finance Singapore | 35,000 stock units awarded to Clean Energy Fuels (CLNE) CFO vest over three years. - Stock Titan"
     },
     {
       "ticker": "PLUG",
@@ -680,7 +680,7 @@
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 73,
-      "recent_news": "Google News | Plug Power Inc. stock underperforms Wednesday when compared to competitors - MarketWatch | Why Everyone Is Watching Plug Power (PLUG) Today - Simply Wall Street"
+      "recent_news": "Google News | Is Plug Power (NASDAQ:PLUG) Surging on Real Electrolyzer Wins? - Kalkine Media | What next for the falling Plug Power stock price? - Invezz"
     },
     {
       "ticker": "TMC",
@@ -697,7 +697,7 @@
       "insider_pct": 46.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | TMC The Metals (TMC) Stock Looks Fully Priced Despite NOAA Permit Review - Yahoo Finance | TMC News | TMC THE METALS CO INC (NASDAQ:TMC) - ChartMill"
+      "recent_news": "Google News | Top REalloys (ALOY) Competitors 2026 - MarketBeat | TMC News | TMC THE METALS CO INC (NASDAQ:TMC) - ChartMill"
     },
     {
       "ticker": "STUB",
@@ -731,7 +731,7 @@
       "insider_pct": 7.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Brookline Capital initiates Biomea Fusion stock with buy rating By Investing.com - Investing.com Nigeria | Biomea Fusion Stock (BMEA) Opinions on Clinical Milestones and Liquidity Concerns - Quiver Quantitative"
+      "recent_news": "Google News | Brookline Capital initiates Biomea Fusion stock with buy rating By Investing.com - Investing.com Nigeria | No size or terms are set for Biomea Fusion's share offering. Its underwriter may buy up to 15% more. - Stock Titan"
     },
     {
       "ticker": "CTVA",
@@ -748,7 +748,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Corteva’s Market Cap Tumbles By Over $42B Today – CTVA Stock Hits Record Low - Yahoo Finance | CTVA Stock Resets After Vylor Spin As Analysts Turn Bullish - Timothy Sykes"
+      "recent_news": "Google News | Jim Cramer Sees One Stock to Own After Corteva’s (CTVA) Breakup - Yahoo Finance | CTVA Stock Resets After Vylor Spin As Analysts Turn Bullish - Timothy Sykes"
     },
     {
       "ticker": "VALE",
@@ -765,7 +765,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Petrobras (PBR) vs Vale (VALE): Which is a Better Stock to Buy? - Yahoo Finance | Why Is Vale Stock Trading Higher On Monday? - Benzinga"
+      "recent_news": "Google News | Vale (BOVESPA:VALE3) Stock Fair Value Edges Lower As Analysts Split On Metals Outlook - Yahoo Finance | Why Is Vale Stock Trading Higher On Monday? - Benzinga"
     },
     {
       "ticker": "CAPR",
@@ -780,9 +780,9 @@
       "float_shares": 42602507,
       "cash_debt_ratio": 2.61,
       "insider_pct": 9.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | After a year on placebo, patients’ arm-function decline rate was 76% lower on treatment - Stock Titan | What's Going On With Capricor Therapeutics Stock Monday? - Benzinga"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | CAPR Stock Clocks Best Day In Over A Month As 24-Month Duchenne Data Airs At Medical Conference In Japan - Stocktwits | After a year on placebo, patients’ arm-function decline rate was 76% lower on treatment - Stock Titan"
     },
     {
       "ticker": "FLNC",
@@ -799,7 +799,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Fluence Energy (NASDAQ:FLNC) Stock Falls 6.5% - Time to Sell? - MarketBeat | Why Is FLNC Stock Rising Today? - Stocktwits"
+      "recent_news": "Google News | Fluence Energy (NASDAQ:FLNC) Stock Falls 6.5% - Time to Sell? - MarketBeat | FLNC Stock Notice: Fluence Stock Plummeted 34% after Production Issues Disclosed - Securities Fraud Class Action Filed - themountaineer.com"
     },
     {
       "ticker": "PRGO",
