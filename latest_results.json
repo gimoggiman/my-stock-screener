@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-11T21:31:52.068629+00:00",
+  "last_updated_utc": "2026-10-12T01:01:22.060594+00:00",
   "tickers_scanned": 65,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 10.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | Cable One Faces CoBank Suit Over $480 Million Mega Broadband Payment - Yahoo Finance | Cable One, Inc. (NYSE:CABO) Stock Has Consensus Price Target of $80.00 - MarketBeat"
+      "recent_news": "Google News | 3 Reasons CABO is Risky and 1 Stock to Buy Instead - Yahoo Finance | Cable One, Inc. (NYSE:CABO) Stock Has Consensus Price Target of $80.00 - MarketBeat"
     },
     {
       "ticker": "SVC",
@@ -66,8 +66,8 @@
       "float_shares": 22352560,
       "cash_debt_ratio": 216.11,
       "insider_pct": 0.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | 5E Advanced(FEAM) Stock Options Chain | Quotes &amp; News - Moomoo | A California minerals complex gives 5E about 257 workers and three processing sites. - Stock Titan"
     },
     {
@@ -118,7 +118,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3403,
+      "recent_dilution_filings_90d": 3339,
       "recent_news": "Google News | Uniti Group Inc. (UNIT) stock price, news, quote and history - Yahoo Finance Singapore | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
@@ -136,7 +136,7 @@
       "insider_pct": 50.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Next-Generation NAMPT Inhibitors Aim to Revive a Stalled Target in AML and MDS - OncLive | PICS Stock Price and Chart — NASDAQ:PICS - TradingView"
+      "recent_news": "Google News | Next-Generation NAMPT Inhibitors Aim to Revive a Stalled Target in AML and MDS - OncLive | Can PicS (NasdaqGS:PICS) Stay Cheap After Its ChatGPT Launch? - Yahoo Finance"
     },
     {
       "ticker": "ADCT",
@@ -186,8 +186,8 @@
       "cash_debt_ratio": 0.75,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 95,
-      "recent_news": "Google News | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan | DNA Surges As Ginkgo Bioworks Lands Key AI Drug Deals - Timothy Sykes"
+      "recent_dilution_filings_90d": 94,
+      "recent_news": "Google News | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan | Ginkgo Bioworks (DNA) Surges 11.1%: Is This an Indication of Further Gains? - Yahoo Finance"
     },
     {
       "ticker": "SMWB",
@@ -236,8 +236,8 @@
       "float_shares": 94501758,
       "cash_debt_ratio": 4.46,
       "insider_pct": 0.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Google News | Are Medical Stocks Lagging C4 Therapeutics (CCCC) This Year? - Yahoo Finance | In two patients with blood cancer, tests suggest a drug combo may keep immune cells from wearing out. - Stock Titan"
     },
     {
@@ -272,7 +272,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | IOVA Stock Hits Fresh 52-Week Peak On UBS Target Hike, Melanoma Sector Optimism - Stocktwits | Why Iovance Biotherapeutics (IOVA) Stock Is Down Today - Quiver Quantitative"
+      "recent_news": "Google News | IOVA Stock Hits Fresh 52-Week Peak On UBS Target Hike, Melanoma Sector Optimism - Stocktwits | Iovance Biotherapeutics (IOVA) Stock Gets Fair Value Boost On Amtagvi Demand And Margin Outlook - Yahoo Finance"
     },
     {
       "ticker": "STNE",
@@ -289,7 +289,7 @@
       "insider_pct": 3.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | STNE Jan 2027 9.470 call (STNE270115C00009470) stock price, news, quote and history - Yahoo Finance UK | StoneCo (NASDAQ:STNE) Shares Gap Up - What's Next? - MarketBeat"
+      "recent_news": "Google News | StoneCo (STNE) Stock Looks Undervalued Even As The Market Stays Cautious - Yahoo Finance | StoneCo (NASDAQ:STNE) Shares Gap Up - What's Next? - MarketBeat"
     },
     {
       "ticker": "CERT",
@@ -305,7 +305,7 @@
       "cash_debt_ratio": 0.61,
       "insider_pct": 2.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 23,
+      "recent_dilution_filings_90d": 21,
       "recent_news": "Google News | Certara (CERT) Stock Fair Value Edges Higher As Analysts Weigh Turnaround Progress - Yahoo Finance | Certara teams with NVIDIA to speed drug discovery with AI agents - Stock Titan"
     },
     {
@@ -357,7 +357,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | Why Crescent Energy (CRGY) Outpaced the Stock Market Today - Yahoo Finance"
+      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | KKR affiliate agrees to buy 40 million Crescent Energy shares - Stock Titan"
     },
     {
       "ticker": "MIST",
@@ -408,7 +408,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | RXT Stock Surges 25% Premarket – What’s The Connection Between Rackspace’s Latest Pact With AMD And Its Workforce Reduction? - Stocktwits | RXT261016C00000500 Interactive Stock Chart | RXT Oct 2026 0.500 call Stock - Yahoo Finance"
+      "recent_news": "Google News | RXT261016C00000500 Interactive Stock Chart | RXT Oct 2026 0.500 call Stock - Yahoo Finance | RXT Stock Drop Alert: Rackspace Technology Stock Plummets - GlobeNewswire"
     },
     {
       "ticker": "BRBR",
@@ -425,7 +425,7 @@
       "insider_pct": 1.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | BellRing Brands (BRBR) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance | BellRing Brands (BRBR) Institutional Ownership 2026 $BRBR - MarketBeat"
+      "recent_news": "Google News | BellRing Brands (BRBR) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance | Director Thomas P. Erickson receives 6,176.696 deferred stock units at BellRing Brands (BRBR). - Stock Titan"
     },
     {
       "ticker": "JOBY",
@@ -442,7 +442,7 @@
       "insider_pct": 32.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | What Has The Market Missed In Joby Stock’s Drop? - Trefis | Joby Just Flew an Aircraft Across the United States With No Pilot. Here's Why Wall Street Shrugged. - The Motley Fool"
+      "recent_news": "Google News | JOBY Stock Drops To Near Two-Year Lows After Barclays Downgrade On Manufacturing Capacity Doubts - Yahoo Finance | What Has The Market Missed In Joby Stock’s Drop? - Trefis"
     },
     {
       "ticker": "ACHR",
@@ -476,7 +476,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Is ALX Oncology Holdings (ALXO) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
+      "recent_news": "Google News | ALXO Oct 2026 1.500 put (ALXO261016P00001500) interactive stock chart – Yahoo Finance - Yahoo | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
       "ticker": "RSKD",
@@ -526,7 +526,7 @@
       "cash_debt_ratio": 1.49,
       "insider_pct": 0.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
+      "recent_dilution_filings_90d": 3,
       "recent_news": "Google News | NIO Stock Hits Fresh 52-Week Low As Wall Street Slashes Price Targets Citing Slow Demand - Stocktwits | Nio Stock Slumped 18.9% in September Despite a Big Geely Deal. Should You Buy the Dip? - Yahoo Finance"
     },
     {
@@ -542,9 +542,9 @@
       "float_shares": 107559577,
       "cash_debt_ratio": 0.05,
       "insider_pct": 0.4,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Olin Corporation (OLN) stock price, news, quote and history - Yahoo Finance Singapore | Olin Corp. Stock Grades | OLN - Barron's"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Olin Corp. Stock Grades | OLN - Barron's | Olin (OLN) Dividend Yield 2026, Date &amp; History $OLN - MarketBeat"
     },
     {
       "ticker": "TDUP",
@@ -561,7 +561,7 @@
       "insider_pct": 6.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ThredUp Inc. (TDUP) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | $TDUP stock is down 47% today. Here's what we see in our data. - Quiver Quantitative"
+      "recent_news": "Google News | ThredUp (TDUP) Stock Sees Split Analyst Revisions After Raised Earnings Guidance - Yahoo Finance | $TDUP stock is down 47% today. Here's what we see in our data. - Quiver Quantitative"
     },
     {
       "ticker": "VIR",
@@ -646,7 +646,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC | ITUB Stock Holds Gains As HSBC Downgrade Caps Upside - StocksToTrade"
+      "recent_news": "Google News | Itau Unibanco Banco Holding SA (ITUB) Stock Forecasts - Yahoo! Finance Canada | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC"
     },
     {
       "ticker": "NU",
@@ -663,7 +663,7 @@
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | NU Stock Rallies 23% in October: Is There Still Room for More Gains? - Yahoo Finance | Why Is NU Stock Surging Over 9% Overnight? - Stocktwits"
+      "recent_news": "Google News | NU Stock Hits Over 5-Month High In Largest Single-Day Gain Since 2022 – Susquehanna Points To $1B Profit Milestone - Stocktwits | NU Stock Rallies 23% in October: Is There Still Room for More Gains? - Yahoo Finance"
     },
     {
       "ticker": "PCG",
