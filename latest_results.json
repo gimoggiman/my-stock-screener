@@ -1,24 +1,7 @@
 {
-  "last_updated_utc": "2026-10-12T01:01:22.060594+00:00",
+  "last_updated_utc": "2026-10-12T07:15:25.579444+00:00",
   "tickers_scanned": 65,
   "results": [
-    {
-      "ticker": "CABO",
-      "score": 75.0,
-      "last_close": 11.14,
-      "rel_volume": 4.85,
-      "price_change_pct": -27.57,
-      "gap_pct": -27.83,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 63207528,
-      "float_shares": 4469975,
-      "cash_debt_ratio": 0.06,
-      "insider_pct": 10.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | 3 Reasons CABO is Risky and 1 Stock to Buy Instead - Yahoo Finance | Cable One, Inc. (NYSE:CABO) Stock Has Consensus Price Target of $80.00 - MarketBeat"
-    },
     {
       "ticker": "SVC",
       "score": 75.0,
@@ -46,7 +29,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2103058048,
-      "float_shares": 142577436,
+      "float_shares": 144568331,
       "cash_debt_ratio": 2.42,
       "insider_pct": 5.0,
       "dilution_risk": "낮음",
@@ -63,11 +46,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 151596432,
-      "float_shares": 22352560,
+      "float_shares": 16201244,
       "cash_debt_ratio": 216.11,
       "insider_pct": 0.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | 5E Advanced(FEAM) Stock Options Chain | Quotes &amp; News - Moomoo | A California minerals complex gives 5E about 257 workers and three processing sites. - Stock Titan"
     },
     {
@@ -97,7 +80,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 77887584,
-      "float_shares": 20352458,
+      "float_shares": 20306158,
       "cash_debt_ratio": 0.1,
       "insider_pct": 58.7,
       "dilution_risk": "낮음",
@@ -136,7 +119,7 @@
       "insider_pct": 50.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Next-Generation NAMPT Inhibitors Aim to Revive a Stalled Target in AML and MDS - OncLive | Can PicS (NasdaqGS:PICS) Stay Cheap After Its ChatGPT Launch? - Yahoo Finance"
+      "recent_news": "Google News | Next-Generation NAMPT Inhibitors Aim to Revive a Stalled Target in AML and MDS - OncLive | PICS Stock Price and Chart — NASDAQ:PICS - TradingView"
     },
     {
       "ticker": "ADCT",
@@ -182,12 +165,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 875423616,
-      "float_shares": 49877596,
+      "float_shares": 49880290,
       "cash_debt_ratio": 0.75,
       "insider_pct": 4.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 94,
-      "recent_news": "Google News | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan | Ginkgo Bioworks (DNA) Surges 11.1%: Is This an Indication of Further Gains? - Yahoo Finance"
+      "recent_news": "Google News | Ginkgo Bioworks Holdings, Inc. (DNA) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Officer Steven P. Coen proposes selling 2,403 Ginkgo Bioworks (NYSE: DNA) shares. - Stock Titan"
     },
     {
       "ticker": "SMWB",
@@ -201,10 +184,10 @@
       "market_cap": 798650816,
       "float_shares": 42686781,
       "cash_debt_ratio": 1.62,
-      "insider_pct": 16.2,
+      "insider_pct": 15.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Similarweb Ltd. (SMWB) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Similarweb (NYSE:SMWB) Downgraded by Wall Street Zen to Buy - MarketBeat"
+      "recent_news": "Google News | Similarweb Ltd. (SMWB) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Similarweb (NYSE:SMWB) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "SECZ",
@@ -284,7 +267,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2873221632,
-      "float_shares": 203320781,
+      "float_shares": 204662847,
       "cash_debt_ratio": 0.48,
       "insider_pct": 3.3,
       "dilution_risk": "낮음",
@@ -323,7 +306,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | Snap Inc. (SNAP) Stock Forecasts - Yahoo! Finance Canada | Snap Stock In Focus Ahead Of Earnings And Specs Stake Sale Talk - Simply Wall Street"
+      "recent_news": "Google News | Snap Inc. (SNAP) Stock Forecasts - Yahoo! Finance Canada | SNAP Stock Jumps 7% After-Hours — Snap Beats Q2 Estimates, Issues Consensus-Beating Q3 Outlook On Ad Recovery And Subscription Growth - Stocktwits"
     },
     {
       "ticker": "PEPG",
@@ -334,7 +317,7 @@
       "gap_pct": 9.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 181459936,
+      "market_cap": 181223344,
       "float_shares": 36136153,
       "cash_debt_ratio": 7.29,
       "insider_pct": 0.2,
@@ -351,8 +334,8 @@
       "gap_pct": -2.81,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4182910976,
-      "float_shares": 294102242,
+      "market_cap": 4980483072,
+      "float_shares": 294108850,
       "cash_debt_ratio": 0.05,
       "insider_pct": 5.1,
       "dilution_risk": "높음",
@@ -378,11 +361,11 @@
     },
     {
       "ticker": "VNET",
-      "score": 47.8,
+      "score": 47.7,
       "last_close": 5.53,
       "rel_volume": 1.21,
       "price_change_pct": 6.96,
-      "gap_pct": 6.38,
+      "gap_pct": 6.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1577340160,
@@ -406,9 +389,9 @@
       "float_shares": 107107766,
       "cash_debt_ratio": 0.03,
       "insider_pct": 3.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | RXT261016C00000500 Interactive Stock Chart | RXT Oct 2026 0.500 call Stock - Yahoo Finance | RXT Stock Drop Alert: Rackspace Technology Stock Plummets - GlobeNewswire"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | RXT Stock Surges 25% Premarket – What’s The Connection Between Rackspace’s Latest Pact With AMD And Its Workforce Reduction? - Stocktwits | RXT261016C00000500 Interactive Stock Chart | RXT Oct 2026 0.500 call Stock - Yahoo Finance"
     },
     {
       "ticker": "BRBR",
@@ -459,7 +442,7 @@
       "insider_pct": 14.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Prediction: Here's What a $10,000 Investment in Archer Aviation Will Be Worth in 5 Years - Yahoo Finance | ACHR Stock Eyes Best Week This Year As Thunder Platform Opens New Aviation, Defense Markets: Retail Is All In - Stocktwits"
+      "recent_news": "Google News | ACHR Stock Eyes Best Week This Year As Thunder Platform Opens New Aviation, Defense Markets: Retail Is All In - Stocktwits | The Pentagon Is Buying eVTOLs. Here's Which Stock Wins the Defense Money. - The Motley Fool"
     },
     {
       "ticker": "ALXO",
@@ -476,7 +459,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ALXO Oct 2026 1.500 put (ALXO261016P00001500) interactive stock chart – Yahoo Finance - Yahoo | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
+      "recent_news": "Google News | Is ALX Oncology Holdings (ALXO) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
       "ticker": "RSKD",
@@ -488,7 +471,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1126281856,
-      "float_shares": 54000792,
+      "float_shares": 54168480,
       "cash_debt_ratio": 9.5,
       "insider_pct": 11.6,
       "dilution_risk": "낮음",
@@ -581,23 +564,6 @@
       "recent_news": "Google News | Vir Biotechnology Stock Price Forecast. Should You Buy VIR? - StockInvest.us | FDA grants experimental prostate cancer drug a designation meant to speed review. Phase 3 trials are expected in 2027. - Stock Titan"
     },
     {
-      "ticker": "MGNX",
-      "score": 35.4,
-      "last_close": 3.74,
-      "rel_volume": 0.72,
-      "price_change_pct": 5.35,
-      "gap_pct": 5.49,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 238238704,
-      "float_shares": 56415434,
-      "cash_debt_ratio": 4.94,
-      "insider_pct": 3.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Is MacroGenics (MGNX) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance | At $2.60 a share, MacroGenics (MGNX) research chief exercises options for 8,000 shares. - Stock Titan"
-    },
-    {
       "ticker": "STTK",
       "score": 35.3,
       "last_close": 5.97,
@@ -629,7 +595,7 @@
       "insider_pct": 64.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Nexa Resources Shares Rise After Morgan Stanley Upgrade - Yahoo Finance | Nexa Resources: Operational Recovery Balanced By Price Volatility (NYSE:NEXA) - Seeking Alpha"
+      "recent_news": "Google News | Nexa Resources (NEXA) Stock Looks Cheap On Earnings But Fairly Priced After 188% Run - Yahoo Finance | Top REalloys (ALOY) Competitors 2026 - MarketBeat"
     },
     {
       "ticker": "ITUB",
@@ -646,7 +612,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Itau Unibanco Banco Holding SA (ITUB) Stock Forecasts - Yahoo! Finance Canada | Stocks making the biggest moves premarket: DraftKings, Itau Unibanco, PTC &amp; more - CNBC"
+      "recent_news": "Google News | Itau Unibanco Banco Holding SA (ITUB) Stock Forecasts - Yahoo! Finance Canada | ITUB Stock Holds Gains As HSBC Downgrade Caps Upside - StocksToTrade"
     },
     {
       "ticker": "NU",
@@ -663,7 +629,41 @@
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Google News | NU Stock Hits Over 5-Month High In Largest Single-Day Gain Since 2022 – Susquehanna Points To $1B Profit Milestone - Stocktwits | NU Stock Rallies 23% in October: Is There Still Room for More Gains? - Yahoo Finance"
+      "recent_news": "Google News | Nu Holdings (NU) Stock Looks Reasonable Following Fresh Brazil Tax Concerns - Yahoo Finance | NU Stock Hits Over 5-Month High In Largest Single-Day Gain Since 2022 – Susquehanna Points To $1B Profit Milestone - Stocktwits"
+    },
+    {
+      "ticker": "WDH",
+      "score": 32.4,
+      "last_close": 1.04,
+      "rel_volume": 0.61,
+      "price_change_pct": 5.05,
+      "gap_pct": 5.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 373674016,
+      "float_shares": 140762787,
+      "cash_debt_ratio": 2.5,
+      "insider_pct": 2.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Waterdrop (NYSE:WDH) Stock Falls 0.5% - Here's Why - MarketBeat | Waterdrop: A Good Time To Be Accumulating Shares (NYSE:WDH) - Seeking Alpha"
+    },
+    {
+      "ticker": "CMPS",
+      "score": 31.9,
+      "last_close": 12.0,
+      "rel_volume": 0.81,
+      "price_change_pct": 4.62,
+      "gap_pct": 4.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1661721856,
+      "float_shares": 106969191,
+      "cash_debt_ratio": 7.93,
+      "insider_pct": 7.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | CMPS Stock Rises 23% Pre-Market As Compass Achieves Primary Endpoint In Phase 3 Treatment-Resistant Depression Trial - Stocktwits | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance"
     },
     {
       "ticker": "PCG",
@@ -696,12 +696,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "METC",
-      "score": 25.4,
-      "last_close": 8.7,
-      "rel_volume": 1.04,
-      "price_change_pct": 2.47,
-      "gap_pct": 2.94,
+      "ticker": "SOS",
+      "score": 24.0,
+      "last_close": 0.295,
+      "rel_volume": 0.1,
+      "price_change_pct": -4.22,
+      "gap_pct": -5.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -766,26 +766,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TBLA",
-      "score": 19.6,
-      "last_close": 3.45,
-      "rel_volume": 0.97,
-      "price_change_pct": -1.71,
-      "gap_pct": -1.57,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ULCC",
-      "score": 18.1,
-      "last_close": 5.86,
-      "rel_volume": 1.06,
-      "price_change_pct": -1.18,
-      "gap_pct": -1.1,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "KOS",
       "score": 18.0,
       "last_close": 2.64,
@@ -802,6 +782,16 @@
       "rel_volume": 0.63,
       "price_change_pct": 2.17,
       "gap_pct": 1.96,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "CWH",
+      "score": 16.9,
+      "last_close": 4.53,
+      "rel_volume": 0.95,
+      "price_change_pct": 1.12,
+      "gap_pct": 1.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -836,12 +826,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 15.2,
+      "last_close": 4.04,
+      "rel_volume": 0.46,
+      "price_change_pct": 2.02,
+      "gap_pct": 1.89,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ORC",
-      "score": 14.7,
+      "score": 14.9,
       "last_close": 5.08,
       "rel_volume": 0.83,
       "price_change_pct": 1.2,
-      "gap_pct": 0.7,
+      "gap_pct": 0.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
