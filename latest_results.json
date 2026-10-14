@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-14T05:51:06.272480+00:00",
+  "last_updated_utc": "2026-10-14T11:15:09.406171+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -29,7 +29,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 911639744,
-      "float_shares": 109260526,
+      "float_shares": 109284281,
       "cash_debt_ratio": 0.33,
       "insider_pct": 2.6,
       "dilution_risk": "주의",
@@ -51,7 +51,7 @@
       "insider_pct": 14.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | New Strong Sell Stocks for October 13th - Yahoo Finance | CANGO Q2 2026 Earnings Preview: Recent $CANG Insider Trading, Hedge Fund Activity, and More - Quiver Quantitative"
+      "recent_news": "Google News | Cango Inc. (CANG) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | CANGO Q2 2026 Earnings Preview: Recent $CANG Insider Trading, Hedge Fund Activity, and More - Quiver Quantitative"
     },
     {
       "ticker": "CIFR",
@@ -68,7 +68,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cipher Digital Tumbles 14% on $850M Convertible Note Offering and Share Exchange; Applied Digital Drops 5% - Yahoo Finance | Cipher Digital stock drops 12% following $850 million debt offering - Investing.com"
+      "recent_news": "Google News | Cipher Digital (CIFR) Stock Dropped, So What Is Behind The Move? - Simply Wall Street | Cipher Mining Inc. (NASDAQ:CIFR) Stock Rated \"Moderate Buy\" by Wall Street Analysts - MarketBeat"
     },
     {
       "ticker": "FRMI",
@@ -85,7 +85,7 @@
       "insider_pct": 43.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Fermi shares surge on AMD credit support deal for Texas AI site - Yahoo Finance | Fermi Stock Soars 20% on AMD Deal. Why Analysts See Hurdles Ahead. - Barron's"
+      "recent_news": "Google News | Stocks making the biggest moves midday: Apple, Meta Platforms, Bumble, Fermi, Goldman Sachs &amp; more - CNBC | Fermi Stock Soars 20% on AMD Deal. Why Analysts See Hurdles Ahead. - Barron's"
     },
     {
       "ticker": "FUN",
@@ -102,7 +102,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 16,
-      "recent_news": "Google News | FUN Stock Quote Price and Forecast - CNN | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance"
+      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | $FUN stock is down 15% today. Here's what we see in our data. - Quiver Quantitative"
     },
     {
       "ticker": "RGC",
@@ -117,9 +117,9 @@
       "float_shares": 55618392,
       "cash_debt_ratio": 47.98,
       "insider_pct": 88.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Is Regencell Bioscience Holdings (RGC) Fully Priced After Its Annual Loss Deepened? - Yahoo Finance | RGC Resources declares dividend: RGC Resources stock yields 4.00 percent - ad-hoc-news.de"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | RGC Oct 2026 2.500 call (RGC261016C00002500) interactive stock chart - Yahoo Finance UK | Regencell Stock Faces Fresh Questions After Wider Full Year Loss - Simply Wall Street"
     },
     {
       "ticker": "SJT",
@@ -153,7 +153,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | JBLU Stock Slides As Wall Street Slashes Price Targets - StocksToTrade"
+      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | Has JetBlue Airways (JBLU) Fallen Far Enough to Look Reasonable? - Simply Wall Street"
     },
     {
       "ticker": "PTLO",
@@ -168,8 +168,8 @@
       "float_shares": 67477180,
       "cash_debt_ratio": 0.03,
       "insider_pct": 8.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Portillo's Inc. (PTLO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 1 Small-Cap Stock with Exciting Potential and 2 We Find Risky - StockStory"
     },
     {
@@ -185,8 +185,8 @@
       "float_shares": 299387595,
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
       "recent_news": "Google News | SES AI Corporation (SES) Stock Price, News &amp; Analysis - Stock Titan | $SES stock is down 9% today. Here's what we see in our data. | SES Stock News - Quiver Quantitative"
     },
     {
@@ -221,7 +221,7 @@
       "insider_pct": 47.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VTEX (NYSE:VTEX) Stock Has Consensus Target Price of $4.69 According to Analysts - MarketBeat | A VTEX (VTEX) officer sold 57,696 shares on October 12, with earlier sales also listed. - Stock Titan"
+      "recent_news": "Google News | VTEX (NYSE:VTEX) Shares Climb 4% - What's Next? - MarketBeat | A VTEX (VTEX) officer sold 57,696 shares on October 12, with earlier sales also listed. - Stock Titan"
     },
     {
       "ticker": "JELD",
@@ -340,7 +340,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Gossamer Bio Stock Plummeted 82% Today — What’s Behind The Crash? - Stocktwits | GOSS News | GOSSAMER BIO INC (NASDAQ:GOSS) - ChartMill"
+      "recent_news": "Google News | Gossamer Bio Inc (GOSS) Stock Price Target &amp; Forecast - TradingKey | Gossamer Bio (GOSS) Stock Draws Fresh Price Target Split Before Seralutinib NDA - Yahoo Finance"
     },
     {
       "ticker": "BAK",
@@ -357,7 +357,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Braskem (NYSE:BAK) Stock Price Down 5.2% - Should You Sell? - MarketBeat | The Bank of Nova Scotia (BNS.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | Braskem (NYSE:BAK) Stock Price Down 5.2% - Should You Sell? - MarketBeat | Braskem (BAK) lists no September trades, with 27 preferred shares remaining in treasury. - Stock Titan"
     },
     {
       "ticker": "CAPR",
@@ -374,7 +374,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CAPR Stock On Track For Worst Day Ever — Analysts Divided On Deramiocel’s Approval Probability After FDA Documents Paint ‘Ugly Picture’ - Stocktwits | Capricor Therapeutics, Inc. (CAPR) Discusses HOPE-3 Open-Label Extension Data and Deramiocel Update for Duchenne Muscular Dystrophy - Slideshow (NASDAQ:CAPR) 2026-10-13 - Seeking Alpha"
+      "recent_news": "Google News | CAPR Stock On Track For Worst Day Ever — Analysts Divided On Deramiocel’s Approval Probability After FDA Documents Paint ‘Ugly Picture’ - Stocktwits | Capricor Therapeutics (CAPR) Stock Gets Fair Value Boost After Deramiocel Analyst Revisions - Yahoo Finance"
     },
     {
       "ticker": "IMSR",
@@ -425,7 +425,7 @@
       "insider_pct": 21.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | After a 2,381-unit grant, Suja Life (SUJA) director Vrabeck directly holds 7,142 shares. - Stock Titan | After a 2,381-unit stock award, Suja Life (SUJA) director reports a direct position of 7,142 shares. - Stock Titan"
+      "recent_news": "Google News | After a 2,381-unit grant, Suja Life (SUJA) director Vrabeck directly holds 7,142 shares. - Stock Titan | Suja Life, Inc. (SUJA) Stock Historical Prices &amp; Data - Yahoo! Finance Canada"
     },
     {
       "ticker": "INFY",
@@ -442,7 +442,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Infosys (INFY) Stock Is Up Today - Quiver Quantitative | Infosys (NYSE:INFY) Stock Jumps 6.1% - Time to Buy? - MarketBeat"
+      "recent_news": "Google News | Infosys Ltd. $INFY Stock: Perpetual Ltd Reduces Position - MarketBeat | Why Infosys (INFY) Stock Is Up Today - Quiver Quantitative"
     },
     {
       "ticker": "ZIP",
@@ -458,8 +458,8 @@
       "cash_debt_ratio": 0.66,
       "insider_pct": 4.7,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 1409,
-      "recent_news": "Google News | Zip Co Performance Rights Lapse Trims Potential Future Dilution - The Globe and Mail | Which Growth Stock Looks Better Placed, Zip (ASX:ZIP) or WiseTech Global (ASX:WTC)? - Kalkine Media"
+      "recent_dilution_filings_90d": 1413,
+      "recent_news": "Google News | Zip Co Limited (ZIP.AX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Zip Co Performance Rights Lapse Trims Potential Future Dilution - The Globe and Mail"
     },
     {
       "ticker": "CRSR",
@@ -476,7 +476,7 @@
       "insider_pct": 3.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Corsair Gaming, Inc. (CRSR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Corsair Gaming (NASDAQ:CRSR) Stock Jumps 5% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | Corsair Gaming, Inc. (CRSR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A 2 p.m. Pacific call will cover Corsair's third-quarter results on Nov. 5. - Stock Titan"
     },
     {
       "ticker": "VRA",
@@ -510,7 +510,7 @@
       "insider_pct": 7.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Navitas Semiconductor Stock Rises After Hours: Here's Why - Benzinga | NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - Yahoo Finance"
+      "recent_news": "Google News | NVTS Stock Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal - Stocktwits | NVTS Stock Rises Overnight: Navitas Unveils 24 kW Nvidia AI Power Board Targeting 97% Efficiency - Yahoo Finance"
     },
     {
       "ticker": "SRPT",
@@ -544,7 +544,7 @@
       "insider_pct": 11.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | SMRT: SmartRent Inc - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | B.Riley initiates SmartRent stock coverage with buy rating - Investing.com"
+      "recent_news": "Google News | 1 Volatile Stock on Our Buy List and 2 We Turn Down - StockStory | SMRT: SmartRent Inc - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
       "ticker": "VG",
@@ -561,7 +561,7 @@
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Google News | Venture Global, Inc. (VG) latest stock news and headlines - Yahoo Finance UK | Is Venture Global (VG) Stock Still Reasonable After Its 87% Rise? - Simply Wall Street"
+      "recent_news": "Google News | NEXT, LNG, VG: US LNG Shares Rise As Qatar Attack Threatens Key Export Hub - Stocktwits | Venture Global (NYSE:VG) Stock Gets Downgrade from Zacks Research - MarketBeat"
     },
     {
       "ticker": "BLMN",
@@ -578,7 +578,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Did ZETA, APPS, BLMN Stocks Soar To 52-Week Highs Today? - Stocktwits | Bloomin' Brands (NASDAQ:BLMN) Shares Climb 5.3% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | Bloomin' Brands, Inc. (NASDAQ:BLMN) Stock Now Rated \"Hold\" by Wall Street Analysts - MarketBeat | BLMN Oct 2026 10.000 call (BLMN261016C00010000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "GRNT",
@@ -595,7 +595,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Granite Ridge Resources (NYSE:GRNT) Shares Up 5.3% - Still a Buy? - MarketBeat | Granite Ridge Resources: Lease Operating Expenses Continue To Be A Challenge (NYSE:GRNT) - Seeking Alpha"
+      "recent_news": "Google News | Granite Ridge Resources (NYSE:GRNT) Shares Up 5.3% - Still a Buy? - MarketBeat | AMN,HLF,BSBK,FXNC,IMRX,CRMT,ORN,MRBK,TISI,FRST,GRNT,VSTS,GEF-B,RVSB,SHEN,SABR,DCGO,BCRX,TMCI,NBBK,USCB | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
     },
     {
       "ticker": "GRAB",
@@ -609,10 +609,10 @@
       "market_cap": 12192079872,
       "float_shares": 2998851327,
       "cash_debt_ratio": 3.21,
-      "insider_pct": 13.6,
+      "insider_pct": 13.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | GRAB Stock Slips Toward $3 As Bulls Lose Momentum - StocksToTrade | GRAB Stock Down 20% in 3 Months: Should You Buy the Dip? - Yahoo Finance"
+      "recent_news": "Google News | GRAB Stock Quote Price and Forecast - CNN | GRAB Stock Down 20% in 3 Months: Should You Buy the Dip? - Yahoo Finance"
     },
     {
       "ticker": "RERE",
@@ -663,7 +663,7 @@
       "insider_pct": 21.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 94,
-      "recent_news": "Google News | Chagee (NASDAQ:CHA) Stock Jumps 4.9% - Should You Buy? - MarketBeat | October 2026's Stocks Estimated To Be Trading Below Fair Value - Simply Wall Street"
+      "recent_news": "Google News | Chagee (NASDAQ:CHA) Stock Jumps 4.9% - Should You Buy? - MarketBeat | Chagee Holdings Limited Stock 12‑Month Price Target Raised to $14.92, Implies 33% Upside - TradingView"
     },
     {
       "ticker": "CNH",
@@ -680,7 +680,7 @@
       "insider_pct": 29.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | CNH Industrial N.V. (CNH) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Ag Equipment’s Recovery Trade Meets Washington’s Scrutiny - MarketBeat"
+      "recent_news": "Google News | CNH Industrial N.V. (CNHI.VI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why is CNH Industrial stock sliding today? - Investing.com"
     },
     {
       "ticker": "TMC",
@@ -697,7 +697,7 @@
       "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - Stocktwits | TMC Stock Slides As Cash Burn And Volatility Test Traders - StocksToTrade"
+      "recent_news": "Google News | TMC Stock Slides As Cash Burn And Volatility Test Traders - StocksToTrade | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - Stocktwits"
     },
     {
       "ticker": "FLNC",
@@ -714,7 +714,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | RBC Capital Keeps Their Hold Rating on Fluence Energy (FLNC) - The Globe and Mail | FLUENCE ENERGY, INC. (FLNC) SHAREHOLDER ALERT Bernstein - GlobeNewswire"
+      "recent_news": "Google News | A planned German battery project will nearly double Vattenfall's existing storage capacity - Stock Titan | RBC Capital Keeps Their Hold Rating on Fluence Energy (FLNC) - The Globe and Mail"
     },
     {
       "ticker": "PLUG",
@@ -730,7 +730,7 @@
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 72,
+      "recent_dilution_filings_90d": 73,
       "recent_news": "Google News | 3 Reasons to Avoid PLUG and 1 Stock to Buy Instead - Yahoo Finance | What Needs To Be True To Buy Plug Power Stock? - Trefis"
     },
     {
