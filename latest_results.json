@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-10-14T20:29:02.609804+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-10-14T23:43:23.691853+00:00",
+  "tickers_scanned": 58,
   "results": [
     {
       "ticker": "AMTD",
       "score": 75.0,
       "last_close": 0.58,
-      "rel_volume": 3607.09,
+      "rel_volume": 3661.79,
       "price_change_pct": 51.44,
       "gap_pct": 60.02,
       "st_msg_count": null,
@@ -17,13 +17,13 @@
       "insider_pct": null,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | U.S.-traded share receipts averaged below $1 for 30 straight trading days; AMTD plans a 60-for-1 swap. - Stock Titan | Stock splits calendar for: - Yahoo Finance Australia"
+      "recent_news": "Google News | These stocks are moving in today's after hours session - ChartMill | AMTD IDEA shines and successfully grows into a global independent hotels brand - Yahoo Finance"
     },
     {
       "ticker": "MMED",
       "score": 75.0,
       "last_close": 16.81,
-      "rel_volume": 8.82,
+      "rel_volume": 8.9,
       "price_change_pct": -8.64,
       "gap_pct": -9.13,
       "st_msg_count": null,
@@ -34,13 +34,13 @@
       "insider_pct": 89.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | MiniMed Group, Inc. (MMED) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Medtronic Announces Preliminary Results of MiniMed Group, Inc. Exchange Offer - Medtronic"
+      "recent_news": "Google News | MiniMed Group, Inc. (MMED) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Medtronic Announces Final Results of MiniMed Group, Inc. Exchange Offer - Medtronic"
     },
     {
       "ticker": "MXCT",
       "score": 75.0,
       "last_close": 1.25,
-      "rel_volume": 36.35,
+      "rel_volume": 36.52,
       "price_change_pct": 29.67,
       "gap_pct": 30.19,
       "st_msg_count": null,
@@ -57,7 +57,7 @@
       "ticker": "SKYD",
       "score": 75.0,
       "last_close": 7.06,
-      "rel_volume": 3.36,
+      "rel_volume": 3.38,
       "price_change_pct": -23.84,
       "gap_pct": -23.95,
       "st_msg_count": null,
@@ -68,7 +68,7 @@
       "insider_pct": 50.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Skydance Shares Skid Down 25% After Company Issues 471 Million Stock Warrants to Paramount Investors - Variety | Skydance Shareholders Get Free Warrants Tuesday. Index Selling Could Hurt the Price. - Barron's"
+      "recent_news": "Google News | Skydance Shares Skid Down 22% After Company Issues 471 Million Stock Warrants to Paramount Investors - Variety | Skydance (SKYD) Stock Gets Fair Value Trim As Analysts Weigh Synergies And Leverage - Yahoo Finance"
     },
     {
       "ticker": "UNIT",
@@ -84,14 +84,14 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3366,
+      "recent_dilution_filings_90d": 3377,
       "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Accounting chief gets a stock grant at Summit Therapeutics (SMMT), vesting in 2029 if still employed. - Stock Titan"
     },
     {
       "ticker": "YRD",
       "score": 75.0,
       "last_close": 0.65,
-      "rel_volume": 1190.72,
+      "rel_volume": 1200.76,
       "price_change_pct": 42.77,
       "gap_pct": 39.38,
       "st_msg_count": null,
@@ -106,9 +106,9 @@
     },
     {
       "ticker": "FUN",
-      "score": 72.8,
+      "score": 74.1,
       "last_close": 8.94,
-      "rel_volume": 2.81,
+      "rel_volume": 2.92,
       "price_change_pct": -12.35,
       "gap_pct": -11.13,
       "st_msg_count": null,
@@ -118,14 +118,14 @@
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 16,
-      "recent_news": "Google News | FUN Stock Drop Alert: Six Flags Stock Drops 14.4% Triggering Securities Fraud Investigation by BFA Law - The National Law Review | Six Flags stock plunges after Goliath roller coaster rider dies in Georgia - Yahoo Finance"
+      "recent_dilution_filings_90d": 17,
+      "recent_news": "Google News | Six Flags stock plunges after Goliath roller coaster rider dies in Georgia - Yahoo Finance | FUN Stock Drop Alert: Six Flags Stock Drops 14.4% Triggering Securities Fraud Investigation by BFA Law - The National Law Review"
     },
     {
       "ticker": "CIFR",
-      "score": 69.4,
+      "score": 69.6,
       "last_close": 9.94,
-      "rel_volume": 2.52,
+      "rel_volume": 2.54,
       "price_change_pct": -12.35,
       "gap_pct": -12.08,
       "st_msg_count": null,
@@ -136,7 +136,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | Why Is Cipher Digital Stock Falling Wednesday? - Benzinga"
+      "recent_news": "Google News | Cipher Digital (CIFR) Prices $850 Million Convertible Notes As Dilution Questions Grow - Yahoo Finance | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits"
     },
     {
       "ticker": "TV",
@@ -152,7 +152,7 @@
       "cash_debt_ratio": 0.48,
       "insider_pct": 0.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 69,
+      "recent_dilution_filings_90d": 71,
       "recent_news": "Google News | A TV ad tool has driven 6x more site visits and 3x more revenue than traditional TV targeting, on average, MNTN says. - Stock Titan | New Apple TV and HomePod Mini Expected: What Matters for AAPL Stock - Yahoo Finance"
     },
     {
@@ -170,7 +170,7 @@
       "insider_pct": 37.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Down 27% in 4 Weeks, Here's Why Lyell Immunopharma (LYEL) Looks Ripe for a Turnaround - Yahoo Finance | An automatic tax-cover sale leaves Lyell Immunopharma (LYEL) medical chief holding 19,857 shares. - Stock Titan"
+      "recent_news": "Google News | An automatic tax-cover sale leaves Lyell Immunopharma (LYEL) medical chief holding 19,857 shares. - Stock Titan | LYEL Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
       "ticker": "VNET",
@@ -191,9 +191,9 @@
     },
     {
       "ticker": "JBLU",
-      "score": 64.2,
+      "score": 64.3,
       "last_close": 3.01,
-      "rel_volume": 2.07,
+      "rel_volume": 2.08,
       "price_change_pct": -10.15,
       "gap_pct": -9.85,
       "st_msg_count": null,
@@ -204,47 +204,13 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | JBLU Stock Slides As Wall Street Slashes Price Targets - StocksToTrade"
-    },
-    {
-      "ticker": "UAMY",
-      "score": 63.4,
-      "last_close": 2.79,
-      "rel_volume": 2.01,
-      "price_change_pct": -11.15,
-      "gap_pct": -11.62,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 417577568,
-      "float_shares": 131972476,
-      "cash_debt_ratio": 126.62,
-      "insider_pct": 8.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UAMY Stock Heads Toward Biggest Single Day Loss In Over 9 Months – But H.C. Wainwright Still Has A ‘Buy’ Rating - Stocktwits | UAMY News | UNITED STATES ANTIMONY CORP (NYSE:UAMY) - ChartMill"
-    },
-    {
-      "ticker": "CANG",
-      "score": 62.5,
-      "last_close": 3.67,
-      "rel_volume": 5.56,
-      "price_change_pct": 4.86,
-      "gap_pct": 6.57,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 150550624,
-      "float_shares": null,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 14.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | These stocks have an unusual volume in today's session - ChartMill | New Strong Sell Stocks for October 13th - Yahoo Finance"
+      "recent_news": "Google News | JetBlue Airways Corporation (JBLU) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | JBLU Stock Slides As Wall Street Slashes Price Targets - StocksToTrade"
     },
     {
       "ticker": "WULF",
-      "score": 62.3,
+      "score": 63.9,
       "last_close": 11.54,
-      "rel_volume": 1.91,
+      "rel_volume": 2.05,
       "price_change_pct": -12.64,
       "gap_pct": -12.15,
       "st_msg_count": null,
@@ -258,10 +224,27 @@
       "recent_news": "Google News | WULF CEO Says TeraWulf Is Moving To ‘Scaled’ Execution’ With Power Defining The AI Race Amid Earnings Miss - Stocktwits | TeraWulf (NASDAQ:WULF) Stock Price Down 8.5% - Here's Why - MarketBeat"
     },
     {
+      "ticker": "UAMY",
+      "score": 63.6,
+      "last_close": 2.79,
+      "rel_volume": 2.02,
+      "price_change_pct": -11.15,
+      "gap_pct": -11.62,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 417577568,
+      "float_shares": 131972476,
+      "cash_debt_ratio": 126.62,
+      "insider_pct": 8.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | UAMY Stock Heads Toward Biggest Single Day Loss In Over 9 Months – But H.C. Wainwright Still Has A ‘Buy’ Rating - Stocktwits | UAMY News | UNITED STATES ANTIMONY CORP (NYSE:UAMY) - ChartMill"
+    },
+    {
       "ticker": "SOFI",
-      "score": 57.8,
+      "score": 58.2,
       "last_close": 14.22,
-      "rel_volume": 2.09,
+      "rel_volume": 2.12,
       "price_change_pct": -6.69,
       "gap_pct": -6.69,
       "st_msg_count": null,
@@ -273,6 +256,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Google News | SoFi Stock Has Sunk This Year. Why This Analyst Sees 64% Upside. - Barron's | SoFi Stock Falls Toward Its 52-Week Low as BofA Miss Weighs on Banking Stocks - Benzinga"
+    },
+    {
+      "ticker": "CNF",
+      "score": 56.1,
+      "last_close": 2.03,
+      "rel_volume": 1.79,
+      "price_change_pct": 6.84,
+      "gap_pct": 7.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 34222176,
+      "float_shares": 4884668,
+      "cash_debt_ratio": 0.08,
+      "insider_pct": 0.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | FusionLSTM-CNF: a confidence-calibrated multi-modal late fusion framework for robust stock movement prediction under uncertainty - Nature | Daniel S Sullivan Stock Trades and Disclosures - TechGraph"
     },
     {
       "ticker": "PLUG",
@@ -287,26 +287,9 @@
       "float_shares": 1333622893,
       "cash_debt_ratio": 0.17,
       "insider_pct": 4.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 75,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | 3 Reasons to Avoid PLUG and 1 Stock to Buy Instead - Yahoo Finance | What Needs To Be True To Buy Plug Power Stock? - Trefis"
-    },
-    {
-      "ticker": "CNF",
-      "score": 55.7,
-      "last_close": 2.03,
-      "rel_volume": 1.76,
-      "price_change_pct": 6.84,
-      "gap_pct": 7.37,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 34222176,
-      "float_shares": 4884668,
-      "cash_debt_ratio": 0.08,
-      "insider_pct": 0.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | FusionLSTM-CNF: a confidence-calibrated multi-modal late fusion framework for robust stock movement prediction under uncertainty - Nature | Daniel S Sullivan Stock Trades and Disclosures - TechGraph"
     },
     {
       "ticker": "DAO",
@@ -322,31 +305,14 @@
       "cash_debt_ratio": 0.49,
       "insider_pct": 13.4,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 49,
+      "recent_dilution_filings_90d": 50,
       "recent_news": "Google News | Is Youdao (DAO) Expensive After Its Recent Share Price Surge? - Simply Wall Street | DAO Nov 2026 17.500 call (DAO261120C00017500) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
-      "ticker": "SMR",
-      "score": 53.4,
-      "last_close": 5.83,
-      "rel_volume": 1.15,
-      "price_change_pct": -10.17,
-      "gap_pct": -10.48,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 2392570880,
-      "float_shares": 403544225,
-      "cash_debt_ratio": 160.21,
-      "insider_pct": 1.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 16,
-      "recent_news": "Google News | SMR Stock Powers Ahead After Best Day In Over A Month: What’s Behind The Surge? - Stocktwits | NuScale Power SMR Stock Slides As Legal And Analyst Pressure Mounts - StocksToTrade"
-    },
-    {
       "ticker": "ONDS",
-      "score": 52.7,
+      "score": 53.0,
       "last_close": 6.14,
-      "rel_volume": 1.09,
+      "rel_volume": 1.11,
       "price_change_pct": -8.49,
       "gap_pct": -8.49,
       "st_msg_count": null,
@@ -357,7 +323,24 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | ONDS Stock In Focus As Ondas Keeps Bagging New Defense Deals – What’s The Latest Update? - Stocktwits | ONDS Stock Pulls Back As Traders Watch Key Support - StocksToTrade"
+      "recent_news": "Google News | Why Ondas (ONDS) Stock Is Down Today - Quiver Quantitative | ONDS Short Interest Has Stayed Above 30% Since March Despite A 24% Drop In Stock Price – Now, Retail’s Betting Against The Bears - Stocktwits"
+    },
+    {
+      "ticker": "NAT",
+      "score": 52.4,
+      "last_close": 8.21,
+      "rel_volume": 1.71,
+      "price_change_pct": -6.6,
+      "gap_pct": -6.31,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1738472832,
+      "float_shares": 199604645,
+      "cash_debt_ratio": 0.33,
+      "insider_pct": 5.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 34,
+      "recent_news": "Google News | Nordic American Tankers (NYSE:NAT) Shares Down 7.2% - Time to Sell? - MarketBeat | Canadian National Railway Company (CNI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "LEGN",
@@ -374,30 +357,13 @@
       "insider_pct": 1.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | LEGN’s New CEO From Novartis Paves Way For Buyout Speculation - Stocktwits | Legend Biotech (NasdaqGS:LEGN) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
-    },
-    {
-      "ticker": "NAT",
-      "score": 51.8,
-      "last_close": 8.21,
-      "rel_volume": 1.66,
-      "price_change_pct": -6.6,
-      "gap_pct": -6.31,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1738472832,
-      "float_shares": 199604645,
-      "cash_debt_ratio": 0.33,
-      "insider_pct": 5.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 34,
-      "recent_news": "Google News | Nordic American Tankers (NYSE:NAT) Shares Down 7.2% - Time to Sell? - MarketBeat | First National Corporation (FXNC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | Legend Biotech (NasdaqGS:LEGN) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | LEGN’s New CEO From Novartis Paves Way For Buyout Speculation - Stocktwits"
     },
     {
       "ticker": "FLNC",
-      "score": 50.8,
+      "score": 51.0,
       "last_close": 6.21,
-      "rel_volume": 0.93,
+      "rel_volume": 0.94,
       "price_change_pct": -8.41,
       "gap_pct": -8.26,
       "st_msg_count": null,
@@ -408,7 +374,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | FLNC Stock Heads For 52-Week Lows: Baird Turns ‘Incrementally Negative’ After Fluence Cuts FY26 Guidance Again - Stocktwits | Susquehanna Issues Pessimistic Forecast for Fluence Energy (NASDAQ:FLNC) Stock Price - MarketBeat"
+      "recent_news": "Google News | FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside - Stocktwits | Susquehanna Issues Pessimistic Forecast for Fluence Energy (NASDAQ:FLNC) Stock Price - MarketBeat"
     },
     {
       "ticker": "AADX",
@@ -442,13 +408,13 @@
       "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | TMC Stock Slides As Cash Burn And Volatility Test Traders - StocksToTrade | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - TradingView"
+      "recent_news": "Google News | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - Yahoo Finance | TMC Stock Slides As Cash Burn And Volatility Test Traders - StocksToTrade"
     },
     {
       "ticker": "OPEN",
-      "score": 47.3,
+      "score": 47.4,
       "last_close": 1.99,
-      "rel_volume": 1.58,
+      "rel_volume": 1.59,
       "price_change_pct": -5.69,
       "gap_pct": -5.92,
       "st_msg_count": null,
@@ -458,14 +424,14 @@
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2847,
-      "recent_news": "Google News | OPEN Stock Can’t Stop Bleeding Yet As Sales Slide, Losses Widen — But Retail Believes CEO's Turnaround Case - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
+      "recent_dilution_filings_90d": 2857,
+      "recent_news": "Google News | OPEN Stock Can’t Stop Bleeding Yet As Sales Slide, Losses Widen — But Retail Believes CEO's Turnaround Case - Stocktwits | OPEN Stock Drifts Lower As Traders Study Key Support - StocksToTrade"
     },
     {
       "ticker": "SNAP",
-      "score": 45.9,
+      "score": 47.2,
       "last_close": 6.1,
-      "rel_volume": 1.27,
+      "rel_volume": 1.38,
       "price_change_pct": -6.01,
       "gap_pct": -6.55,
       "st_msg_count": null,
@@ -476,13 +442,13 @@
       "insider_pct": 23.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | A massive trade just happened in surging shares of Snap - CNBC | Mike Evans is defying age, injuries and a low snap share to deliver another fantasy football WR1 season - Yahoo Sports"
+      "recent_news": "Google News | A massive trade just happened in surging shares of Snap - CNBC | SNAP Stock Gains On Q2 Beat, Splitting Wall Street Between ‘Solid Footing’ And ‘Too Early’ To Call A Turn - Stocktwits"
     },
     {
       "ticker": "GENI",
-      "score": 44.5,
+      "score": 44.6,
       "last_close": 6.13,
-      "rel_volume": 1.05,
+      "rel_volume": 1.06,
       "price_change_pct": -6.13,
       "gap_pct": -6.97,
       "st_msg_count": null,
@@ -491,15 +457,15 @@
       "float_shares": 214701050,
       "cash_debt_ratio": 0.19,
       "insider_pct": 9.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | Genius Sports Limited (GENI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Genius Sports (NYSE:GENI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "EBON",
-      "score": 43.3,
+      "score": 43.5,
       "last_close": 1.95,
-      "rel_volume": 0.81,
+      "rel_volume": 0.83,
       "price_change_pct": 6.56,
       "gap_pct": 7.1,
       "st_msg_count": null,
@@ -527,7 +493,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | AAL Stock Slides As Wall Street Slashes Price Targets - Timothy Sykes | AAL Stock Slips As Wall Street Slashes Price Targets On Fuel Shock - StocksToTrade"
+      "recent_news": "Google News | American Airlines (AAL) Dips More Than Broader Market: What You Should Know - Yahoo Finance | AAL Stock Slips As Wall Street Slashes Price Targets On Fuel Shock - StocksToTrade"
     },
     {
       "ticker": "PHAT",
@@ -547,21 +513,21 @@
       "recent_news": "Google News | PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? - Stocktwits | Phathom Pharmaceuticals (PHAT) Short Interest &amp; Short Float | Updated Oct 2026 $PHAT - MarketBeat"
     },
     {
-      "ticker": "GETY",
+      "ticker": "PENN",
       "score": 42.1,
-      "last_close": 0.016,
-      "rel_volume": 0.18,
-      "price_change_pct": -17.89,
-      "gap_pct": -17.89,
+      "last_close": 14.52,
+      "rel_volume": 1.22,
+      "price_change_pct": -5.53,
+      "gap_pct": -5.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 6471056,
-      "float_shares": 206741123,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 78.8,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Getty Images Holdings, Inc. (GETY) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Getty Images plans bankruptcy filing, to go private - Reuters"
+      "market_cap": 1948083328,
+      "float_shares": 118323854,
+      "cash_debt_ratio": 0.08,
+      "insider_pct": 1.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 108,
+      "recent_news": "Google News | PENN Entertainment, Inc. (PENN) Stock Forecasts - Yahoo Finance | PODCAST: Penn State's stock-up recruiting targets | Michigan scouting report (LIVE at 2 pm) - 247Sports"
     },
     {
       "ticker": "FLWS",
@@ -576,32 +542,15 @@
       "float_shares": 9907611,
       "cash_debt_ratio": 0.05,
       "insider_pct": 43.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | 1-800-FLOWERS.COM, Inc. (FLWS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Two brands are set to change hands for about $45 million - Stock Titan"
     },
     {
-      "ticker": "PENN",
-      "score": 41.2,
-      "last_close": 14.52,
-      "rel_volume": 1.14,
-      "price_change_pct": -5.53,
-      "gap_pct": -5.66,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1948083328,
-      "float_shares": 118323854,
-      "cash_debt_ratio": 0.08,
-      "insider_pct": 1.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 108,
-      "recent_news": "Google News | Is PENN Entertainment, Inc. (PENN) Stock Outpacing Its Consumer Discretionary Peers This Year? - Yahoo Finance | Will this aging Eagles legend finally make an impact? Stock report - PennLive.com"
-    },
-    {
       "ticker": "LAC",
-      "score": 40.9,
+      "score": 41.1,
       "last_close": 2.07,
-      "rel_volume": 1.08,
+      "rel_volume": 1.1,
       "price_change_pct": -5.91,
       "gap_pct": -5.23,
       "st_msg_count": null,
@@ -616,9 +565,9 @@
     },
     {
       "ticker": "BBWI",
-      "score": 39.3,
+      "score": 39.4,
       "last_close": 18.95,
-      "rel_volume": 1.2,
+      "rel_volume": 1.21,
       "price_change_pct": 5.28,
       "gap_pct": 4.69,
       "st_msg_count": null,
@@ -629,7 +578,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Bath &amp; Body Works (NYSE:BBWI) Stock Price Up 4.3% - Should You Buy? - MarketBeat | Is It Too Late to Buy Bath &amp; Body Works Inc (BBWI) After 3.4% Ra - GuruFocus"
+      "recent_news": "Google News | Bath &amp; Body Works (NYSE:BBWI) Stock Price Up 4.3% - Should You Buy? - MarketBeat | Bath &amp; Body Works (BBWI) Stock Could Be 31% Undervalued On Cash Flow - Yahoo Finance"
     },
     {
       "ticker": "EVO",
@@ -646,13 +595,13 @@
       "insider_pct": 0.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Director Jan Richard Majlinder owns no shares in M Evo Global Acquisition Corp II (MEVO). - Stock Titan | Preliminary results top expectations, Evotec (EVO) says, while 2026 guidance stays unchanged. - Stock Titan"
+      "recent_news": "Google News | A €2.5109-per-share block trade ends an investment in Evotec SE (EVO). - Stock Titan | Director Jan Richard Majlinder owns no shares in M Evo Global Acquisition Corp II (MEVO). - Stock Titan"
     },
     {
       "ticker": "NOK",
-      "score": 35.2,
+      "score": 36.3,
       "last_close": 9.4,
-      "rel_volume": 0.97,
+      "rel_volume": 1.06,
       "price_change_pct": -4.67,
       "gap_pct": -4.97,
       "st_msg_count": null,
@@ -663,7 +612,24 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Google News | What To Do As Nokia Shares Trade In A Narrow Range (NYSE:NOK) - Seeking Alpha | Nokia Stock Is Falling Monday: What's Going On? - Benzinga"
+      "recent_news": "Google News | NOK Gears Up to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance | What To Do As Nokia Shares Trade In A Narrow Range (NYSE:NOK) - Seeking Alpha"
+    },
+    {
+      "ticker": "AHT-PF",
+      "score": 35.2,
+      "last_close": 3.97,
+      "rel_volume": 0.38,
+      "price_change_pct": 6.15,
+      "gap_pct": 6.15,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 5945047,
+      "cash_debt_ratio": 0.03,
+      "insider_pct": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Google News | A 263-room Embassy Suites changes hands as Ashford Trust (AHT) completes a cash sale. - Stock Titan | Form 8K Ashford Hospitality Trust Inc For: 1 October By Investing.com - Investing.com Nigeria"
     },
     {
       "ticker": "GLAS",
@@ -678,15 +644,32 @@
       "float_shares": 73910627,
       "cash_debt_ratio": 0.26,
       "insider_pct": 7.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 13,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | Glass House Brands (GLAS) Stock Price, News &amp; Analysis - Stock Titan | GLAS Interactive Stock Chart | Glass House Brands Inc. Subordi Stock - Yahoo Finance"
     },
     {
+      "ticker": "LYNX",
+      "score": 33.9,
+      "last_close": 11.41,
+      "rel_volume": 1.03,
+      "price_change_pct": 5.06,
+      "gap_pct": 3.22,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1322982400,
+      "float_shares": 102325730,
+      "cash_debt_ratio": 0.09,
+      "insider_pct": 10.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 9,
+      "recent_news": "Google News | Lyntris Inc. (LYNX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A new St. Paul hub will bring military supply-chain, maintenance and training tools closer to users. - Stock Titan"
+    },
+    {
       "ticker": "NU",
-      "score": 33.4,
+      "score": 33.9,
       "last_close": 14.93,
-      "rel_volume": 0.98,
+      "rel_volume": 1.02,
       "price_change_pct": -4.17,
       "gap_pct": -4.78,
       "st_msg_count": null,
@@ -697,7 +680,7 @@
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
-      "recent_news": "Google News | NU Stock Pullback Has Traders Watching Key Support - Timothy Sykes | NU Stock Pullback Has Active Traders Watching Key Levels - StocksToTrade"
+      "recent_news": "Google News | NU Stock Pullback Has Active Traders Watching Key Levels - StocksToTrade | NU Stock Pullback Has Traders Eyeing Key Support Levels - Timothy Sykes"
     },
     {
       "ticker": "PMT",
@@ -714,13 +697,13 @@
       "insider_pct": 1.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | PennyMac Mortgage Investment Trust (NYSE:PMT) Sets New 52-Week Low - What's Next? - MarketBeat | PennyMac Mortgage Investment Tr (PMT) Stock Forecasts - Yahoo! Finance Canada"
+      "recent_news": "Google News | PennyMac Mortgage Investment Tr (PMT) Stock Forecasts - Yahoo! Finance Canada | PennyMac Mortgage Investment Trust (NYSE:PMT) Sets New 52-Week Low - What's Next? - MarketBeat"
     },
     {
       "ticker": "VISN",
-      "score": 29.7,
+      "score": 29.8,
       "last_close": 5.9,
-      "rel_volume": 0.99,
+      "rel_volume": 1.0,
       "price_change_pct": -3.59,
       "gap_pct": -3.68,
       "st_msg_count": null,
@@ -728,9 +711,9 @@
     },
     {
       "ticker": "RKT",
-      "score": 28.2,
+      "score": 28.3,
       "last_close": 10.53,
-      "rel_volume": 1.28,
+      "rel_volume": 1.29,
       "price_change_pct": -2.77,
       "gap_pct": -2.45,
       "st_msg_count": null,
@@ -757,6 +740,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 24.4,
+      "last_close": 4.73,
+      "rel_volume": 1.02,
+      "price_change_pct": 2.83,
+      "gap_pct": 1.96,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "QDEL",
       "score": 23.3,
       "last_close": 13.87,
@@ -778,9 +771,9 @@
     },
     {
       "ticker": "RIG",
-      "score": 21.5,
+      "score": 22.2,
       "last_close": 5.58,
-      "rel_volume": 1.34,
+      "rel_volume": 1.4,
       "price_change_pct": -1.24,
       "gap_pct": -1.06,
       "st_msg_count": null,
@@ -788,9 +781,9 @@
     },
     {
       "ticker": "GRAB",
-      "score": 20.8,
+      "score": 21.4,
       "last_close": 2.91,
-      "rel_volume": 0.78,
+      "rel_volume": 0.83,
       "price_change_pct": -2.35,
       "gap_pct": -2.35,
       "st_msg_count": null,
@@ -808,9 +801,9 @@
     },
     {
       "ticker": "BBD",
-      "score": 18.7,
+      "score": 18.8,
       "last_close": 4.14,
-      "rel_volume": 1.07,
+      "rel_volume": 1.08,
       "price_change_pct": -1.19,
       "gap_pct": -1.31,
       "st_msg_count": null,
@@ -838,9 +831,9 @@
     },
     {
       "ticker": "ORC",
-      "score": 13.3,
+      "score": 13.6,
       "last_close": 5.08,
-      "rel_volume": 1.02,
+      "rel_volume": 1.04,
       "price_change_pct": 0.4,
       "gap_pct": 0.1,
       "st_msg_count": null,
