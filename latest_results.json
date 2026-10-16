@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-16T05:28:37.559466+00:00",
+  "last_updated_utc": "2026-10-16T10:45:40.200040+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -12,11 +12,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 34759794688,
-      "float_shares": 2878267142,
+      "float_shares": 2835454468,
       "cash_debt_ratio": null,
       "insider_pct": null,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 220,
+      "recent_dilution_filings_90d": 222,
       "recent_news": "Google News | Why Ericsson Stock Soared Today - Yahoo Finance | Why Telefonaktiebolaget LM Ericsson (ERIC) Stock Is Up Today - Quiver Quantitative"
     },
     {
@@ -34,7 +34,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 49 hospitals ordered a bioengineered blood vessel. Several surgeons submitted patient case studies for presentations. - Stock Titan | Humacyte, Inc. (HUMA) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance"
+      "recent_news": "Google News | Humacyte, Inc. (HUMA) Sees a More Significant Dip Than Broader Market: Some Facts to Know - Yahoo Finance | 49 hospitals ordered a bioengineered blood vessel. Several surgeons submitted patient case studies for presentations. - Stock Titan"
     },
     {
       "ticker": "NMRA",
@@ -150,10 +150,10 @@
       "market_cap": 2230887680,
       "float_shares": 518511012,
       "cash_debt_ratio": 8.19,
-      "insider_pct": 2.0,
+      "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Recursion Pharmaceuticals, Inc. (RXRX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Recursion Pharmaceuticals Shares Rise After Hours - Goldman Sachs Group (NYSE:GS), Morgan Stanley (NYSE:M - Benzinga"
+      "recent_news": "Google News | RXRX Stock Soars Pre-Market On Q4 Beat, Recursion CEO Says Company Has ‘Reached An Inflection Point’ - Stocktwits | Recursion Pharmaceuticals Shares Rise After Hours - Goldman Sachs Group (NYSE:GS), Morgan Stanley (NYSE:M - Benzinga"
     },
     {
       "ticker": "OPEN",
@@ -169,8 +169,8 @@
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2776,
-      "recent_news": "Google News | Opendoor (OPEN) Rebounds From Record Low: Two Catalysts That Could Drive Its Next Move - Yahoo Finance | OPEN Stock Can’t Stop Bleeding Yet As Sales Slide, Losses Widen — But Retail Believes CEO's Turnaround Case - Stocktwits"
+      "recent_dilution_filings_90d": 2778,
+      "recent_news": "Google News | Stock Market: Will S&amp;P 500 Open Up or Down Today? - Yahoo Finance | OPEN Stock Can’t Stop Bleeding Yet As Sales Slide, Losses Widen — But Retail Believes CEO's Turnaround Case - Stocktwits"
     },
     {
       "ticker": "UNIT",
@@ -186,7 +186,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3289,
+      "recent_dilution_filings_90d": 3293,
       "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Vesting awards give Enerpac Tool Group (EPAC) CEO 20,779 and 98,194 shares. - Stock Titan"
     },
     {
@@ -201,7 +201,7 @@
       "market_cap": 813216192,
       "float_shares": 346357489,
       "cash_debt_ratio": 0.71,
-      "insider_pct": 7.0,
+      "insider_pct": 6.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "Google News | Lithium Americas (TSX:LAC) - Stock Analysis - Simply Wall Street | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts - Yahoo Finance"
@@ -238,7 +238,7 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Enovix (NASDAQ:ENVX) Stock Jumps 10.9% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance"
     },
     {
       "ticker": "RGTI",
@@ -255,7 +255,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Rigetti Computing, Inc. (RGTI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Rigetti Computing Rises as Government-Funding Story and Quantum Sector Bounce Support Shares - Quiver Quantitative"
+      "recent_news": "Google News | Should You Trim Or Add To Your RGTI Stock Position Now? - Yahoo Finance | Rigetti: No Commercial Traction, No Premium Valuation (NASDAQ:RGTI) - Seeking Alpha"
     },
     {
       "ticker": "FUN",
@@ -271,8 +271,8 @@
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 17,
-      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | $FUN stock is down 15% today. Here's what we see in our data. - Quiver Quantitative"
+      "recent_dilution_filings_90d": 18,
+      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | $FUN stock is down 15% today. Here's what we see in our data. - Quiver Quantitative"
     },
     {
       "ticker": "KD",
@@ -391,7 +391,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Yiren Digital Provides Further Update on Operations - Stock Titan | These stocks have an unusual volume in today's session - ChartMill"
+      "recent_news": "Google News | Yiren Digital Provides Further Update on Operations - Stock Titan | Why is Yiren Digital Stock Surging Wednesday? - Benzinga"
     },
     {
       "ticker": "COMP",
@@ -408,7 +408,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 25,
-      "recent_news": "Google News | 1 Value Stock to Target This Week and 2 That Underwhelm - Yahoo Finance | Why Compass (COMP) Stock Is Down Today - TradingView"
+      "recent_news": "Google News | Compass (NYSE:COMP) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | 1 Value Stock to Target This Week and 2 That Underwhelm - Yahoo Finance"
     },
     {
       "ticker": "EVTL",
@@ -425,7 +425,7 @@
       "insider_pct": 2.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Vertical Aerospace Ltd. (EVTL) stock price, news, quote and history - Yahoo Finance UK | A retired Marine colonel joins Vertical Aerospace’s board as two directors resign - Stock Titan"
+      "recent_news": "Google News | Vertical Aerospace Ltd. (EVTL) stock price, news, quote and history - Yahoo Finance UK | Northrop Grumman's LITEF unit will supply a navigation system for Vertical's electric aircraft - Stock Titan"
     },
     {
       "ticker": "CAPR",
@@ -442,7 +442,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CAPR Stock On Track For Worst Day Ever — Analysts Divided On Deramiocel’s Approval Probability After FDA Documents Paint ‘Ugly Picture’ - Stocktwits | CAPR Nov 2026 7.000 call (CAPR261113C00007000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | CAPR Stock On Track For Worst Week Ever After Regulatory Setback For DMD Therapy - Stocktwits | CAPR Nov 2026 9.000 put (CAPR261120P00009000) stock historical prices and data - Yahoo Finance UK"
     },
     {
       "ticker": "MRVI",
@@ -493,7 +493,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Genius Sports Limited (GENI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Genius Sports Limited (GENI) stock price, news, quote and history - Yahoo Finance Singapore"
+      "recent_news": "Google News | Genius Sports Limited (GENI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | X's NFL feed pairs official scores with clips and creator commentary - Stock Titan"
     },
     {
       "ticker": "SOFI",
@@ -510,7 +510,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi Stock Has Sunk This Year. Why This Analyst Sees 64% Upside. - Barron's | Investors Heavily Search SoFi Technologies, Inc. (SOFI): Here is What You Need to Know - Yahoo Finance"
+      "recent_news": "Google News | SoFi Stock Has Sunk This Year. Why This Analyst Sees 64% Upside. - Barron's | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance"
     },
     {
       "ticker": "TSHA",
@@ -527,7 +527,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Taysha Gene Therapies (TSHA) Stock May Be Above Fair Value On Book Value - Yahoo Finance | Taysha Gene Therapies (TSHA) Stock Retreats As Cash Burn Deepens - Simply Wall Street"
+      "recent_news": "Google News | Taysha Gene Therapies (TSHA) Stock Looks Undervalued After Sharp Three Year Recovery - Yahoo Finance | Taysha Gene Therapies (TSHA) Stock Retreats As Cash Burn Deepens - Simply Wall Street"
     },
     {
       "ticker": "BBAI",
@@ -542,8 +542,8 @@
       "float_shares": 475404405,
       "cash_debt_ratio": 14.03,
       "insider_pct": 0.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Google News | BigBear.ai Trades at a Discount to Industry: Buy the Stock or Hold? - Yahoo Finance | At $2.39 per share, 34,050 BigBear.ai (BBAI) CFO shares were withheld for vesting taxes. - Stock Titan"
     },
     {
@@ -595,7 +595,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rocket Companies (RKT) Positions for Industry Recovery Driven by Tech Scale and Market Share Gains - Yahoo Finance | RKT Stock Rises Overnight: Benchmark Believes Rocket Could Rival Zillow In Online Real Estate - Stocktwits"
+      "recent_news": "Google News | RKT Stock Rises Overnight: Benchmark Believes Rocket Could Rival Zillow In Online Real Estate - Stocktwits | Rocket Companies (RKT) Positions for Industry Recovery Driven by Tech Scale and Market Share Gains - Yahoo Finance"
     },
     {
       "ticker": "NAT",
@@ -612,7 +612,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 32,
-      "recent_news": "Google News | NAT Stock Set For Best Day In 4 Years: Shipping Prices Could Soar On US-Iran Conflict - Stocktwits | Nordic American Tankers (NYSE:NAT) Shares Down 7.2% - Time to Sell? - MarketBeat"
+      "recent_news": "Google News | NAT Stock Set For Best Day In 4 Years: Shipping Prices Could Soar On US-Iran Conflict - Stocktwits | Canadian National Railway Company (CNR.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "MBC",
@@ -646,7 +646,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 35,
-      "recent_news": "Google News | TripAdvisor, Inc. (TRIP) Stock Forecasts - Yahoo! Finance Canada | Tripadvisor (TRIP) Stock May Be Worth A Look Given Its Sales Base - Simply Wall Street"
+      "recent_news": "Google News | Why Is TRIP Stock Jumping In Overnight Trading? - Stocktwits | TripAdvisor, Inc. (TRIP) Stock Forecasts - Yahoo! Finance Canada"
     },
     {
       "ticker": "NRGV",
@@ -680,7 +680,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Daily Florida–Cali flights launch with limited one-way fares from $139 - Stock Titan | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance"
+      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | Daily Florida–Cali flights launch with limited one-way fares from $139 - Stock Titan"
     },
     {
       "ticker": "CCC",
@@ -696,7 +696,7 @@
       "cash_debt_ratio": 0.08,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 88,
+      "recent_dilution_filings_90d": 89,
       "recent_news": "Google News | CCC Intelligent Solutions Holdings Inc. (CCC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | CCC Intelligent Solutions agrees to $6.1 billion take-private deal with GTCR, Elliott - Reuters"
     },
     {
@@ -731,7 +731,7 @@
       "insider_pct": 50.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Skydance Shares Skid Down 22% After Company Issues 471 Million Stock Warrants to Paramount Investors - Variety | Skydance Stock: Here Comes The Flood (NYSE:SKYD) - Seeking Alpha"
+      "recent_news": "Google News | Skydance Shares Skid Down 22% After Company Issues 471 Million Stock Warrants to Paramount Investors - Variety | Skydance (SKYD) Stock Gets Fair Value Trim As Analysts Weigh Synergies And Leverage - Yahoo Finance"
     },
     {
       "ticker": "AAL",
@@ -748,7 +748,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Is American Airlines Stock's Drop A Chance To Buy? - Yahoo Finance | AAL Stock On Track To Hit 4-Month High After Starlink Partnership Announcement - Stocktwits"
+      "recent_news": "Google News | AAL Stock Drops After $2.2B Fuel Costs Spark Full-Year Guidance Cut Despite Q2 Beat - Stocktwits | Is American Airlines Stock’s Drop A Chance To Buy? - Trefis"
     },
     {
       "ticker": "VNET",
@@ -782,7 +782,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Ondas Inc. (ONDS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ONDS Short Interest Has Stayed Above 30% Since March Despite A 24% Drop In Stock Price – Now, Retail’s Betting Against The Bears - Stocktwits"
+      "recent_news": "Google News | Ondas Inc. (ONDS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ONDS Stock Heads For Third Red Week, But Retail Stands Firm On Drone Defense Opportunity — ‘Will Be Epic Like GameStop - TradingView"
     },
     {
       "ticker": "EVH",
