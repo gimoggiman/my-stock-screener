@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-17T11:23:56.945752+00:00",
+  "last_updated_utc": "2026-10-17T15:00:00.583883+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | A voluntary NYSE exit is planned for SITE Centers (NYSE: SITC) common shares. - Stock Titan | SITE Centers: Prudence Dictates Exiting Shares (NYSE:SITC) - Seeking Alpha"
+      "recent_news": "Google News | No new trading venue is lined up for SITE Centers shares as it plans to leave the New York Stock Exchange. - Stock Titan | SITE Centers Shares Jump 18.94% Premarket - SITE Centers (NYSE:SITC) - Benzinga"
     },
     {
       "ticker": "CRGY",
@@ -51,7 +51,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Price Up 4.4% - Here's Why - MarketBeat | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | Crescent Energy (NYSE:CRGY) Stock Price Up 4.4% - Here's Why - MarketBeat"
     },
     {
       "ticker": "OPEN",
@@ -170,7 +170,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | CMPS Stock Rises 23% Pre-Market As Compass Achieves Primary Endpoint In Phase 3 Treatment-Resistant Depression Trial - Stocktwits"
+      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance"
     },
     {
       "ticker": "WULF",
@@ -204,7 +204,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | Daily Florida–Cali flights launch with limited one-way fares from $139 - Stock Titan"
+      "recent_news": "Google News | JetBlue Airways (JBLU) Launches New Routes As Turnaround Hopes Point To More Value - Yahoo Finance | Daily Florida–Cali flights launch with limited one-way fares from $139 - Stock Titan"
     },
     {
       "ticker": "UNIT",
@@ -221,7 +221,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3335,
-      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A 25,000-unit stock grant for PC Connection (CNXN)'s COO vests over four years. - Stock Titan"
+      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | SpaceX Renames AI Unit SpaceXSI as Stock Jumps 5% [2026] - https://tech-insider.org/"
     },
     {
       "ticker": "SRPT",
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Sarepta Therapeutics, Inc. (SRPT) stock price, news, quote and history - Yahoo Finance UK | Morgan Stanley Views Sarepta CEO Transition As A ‘Positive’ – So, Why Is It Cautious On SRPT Stock In The Near Term? - Stocktwits"
+      "recent_news": "Google News | Sarepta Therapeutics, Inc. (SRPT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | DM1 RNA Knockdown Data Might Change The Case For Investing In Sarepta Therapeutics Stock - Simply Wall Street"
     },
     {
       "ticker": "ALXO",
@@ -255,7 +255,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Nov 2026 2.000 call (ALXO261120C00002000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Feb 2027 3.000 call (ALXO270219C00003000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "CIFR",
@@ -272,7 +272,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | What Changed For Cipher Digital Stock, And What Did Not? - Trefis"
+      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | Cipher Digital: After The 70% Wipeout (NASDAQ:CIFR) - Seeking Alpha"
     },
     {
       "ticker": "PAYP",
@@ -289,7 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | PayPay Corporation (PAYP) Stock Price, News &amp; Analysis - Stock Titan | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
     },
     {
       "ticker": "CSIQ",
@@ -306,7 +306,7 @@
       "insider_pct": 29.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Canadian Solar: Not Worth A Second Thought - Seeking Alpha | A solar plant in Spain is operating. Its expected output could power more than 100,000 homes. - Stock Titan"
+      "recent_news": "Google News | CSIQ Nov 2026 13.500 put (CSIQ261106P00013500) Interactive Stock Chart - Yahoo! Finance Canada | Canadian Solar: Not Worth A Second Thought - Seeking Alpha"
     },
     {
       "ticker": "MARA",
@@ -340,7 +340,7 @@
       "insider_pct": 18.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Is Talos Energy Inc (TALO) Overvalued After 4.7% Rally? GF Value Says Overvalued - GuruFocus | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat"
+      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | Is Talos Energy Inc (TALO) Overvalued After 4.7% Rally? GF Value Says Overvalued - GuruFocus"
     },
     {
       "ticker": "METC",
@@ -357,7 +357,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Jan 2029 8.000 call (METC290119C00008000) interactive stock chart - Yahoo Finance UK | More than 95% of gallium comes from China. Ramaco may supply a U.S. semiconductor company - Stock Titan"
+      "recent_news": "Google News | METC Jan 2029 8.000 call (METC290119C00008000) interactive stock chart - Yahoo Finance UK | METC Mar 2027 17.000 put (METC270319P00017000) stock historical prices and data - Yahoo Finance UK"
     },
     {
       "ticker": "GRNT",
@@ -374,7 +374,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Market Movers | Winners: CRGY, ALOY, GRNT | Losers: RXRX, EOSE, OMER - Trefis | TRIN,FFIN,VIRC,GRNT,GAIA,NRGV,AFCG,AUBN,BETR,NTHI,EFOR,SRAD,HERZ,NXRT,AVBC,GO,CULP,BLCO,VSNT,BLIN,SSP,RVSB,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo Finance - Yahoo! Finance Canada"
+      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Market Movers | Winners: CRGY, ALOY, GRNT | Losers: RXRX, EOSE, OMER - Trefis"
     },
     {
       "ticker": "FLNC",
@@ -391,7 +391,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC Jan 2028 42.000 put (FLNC280121P00042000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC Stock Alert: Fluence Production Issues and Subsequent 34% Stock Drop Trigger Securities Fraud Class Action for Investors - Morningstar"
     },
     {
       "ticker": "GPRO",
@@ -408,7 +408,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "Google News | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For' - Stocktwits | GoPro (NASDAQ:GPRO) Stock Moved Up to Hold by Zacks Research - MarketBeat"
+      "recent_news": "Google News | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For' - Stocktwits | GPRO Nov 2026 1.500 call (GPRO261120C00001500) Interactive Stock Chart - Yahoo! Finance Canada"
     },
     {
       "ticker": "ACP",
@@ -493,7 +493,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | PRMB Stock Quote Price and Forecast - CNN | Primo Brands Corporation (PRMB) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | PRMB Stock Quote Price and Forecast - CNN | Primo Brands (PRMB) Opens 200,000 Square Foot Arkansas Factory After 2024 Merger - Yahoo Finance"
     },
     {
       "ticker": "VET",
@@ -510,7 +510,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 19,
-      "recent_news": "Google News | Vermilion Energy (TSX:VET) Stock Still Looks Undervalued On Sales Strength - Yahoo Finance | Vermilion Energy (NYSE:VET) Stock Price Up 4.1% - Time to Buy? - MarketBeat"
+      "recent_news": "Google News | Vermilion Energy (TSX:VET) Stock Still Looks Undervalued On Sales Strength - Yahoo Finance | Price-Driven Insight from (VET) for Rule-Based Strategy - Stock Traders Daily"
     },
     {
       "ticker": "PRPL",
@@ -527,7 +527,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Purple Innovation, Inc. (PRPL) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Purple Innovation (PRPL) warns on going concern amid debt, improved cash flow - Stock Titan"
+      "recent_news": "Google News | Purple Innovation (PRPL) warns on going concern amid debt, improved cash flow - Stock Titan | Why Purple (PRPL) Stock Is Trading Lower Today - Yahoo Finance"
     },
     {
       "ticker": "SOFI",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today? - TradingView"
+      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Stock Is Down 46% Over the Past Year. Buy Now or Wait for Q3? - TIKR.com"
     },
     {
       "ticker": "UAMY",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits | UAMY Jan 2029 2.500 call (UAMY290119C00002500) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits | UAMY Oct 2026 5.000 call (UAMY261023C00005000) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "ORC",
@@ -578,7 +578,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Orca Energy Group Inc. (ORC-B.V) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Orchid Island Capital (ORC) Reaffirms Its Dividend Despite Q3 Losses, Is The Discount Justified? - Simply Wall Street"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Orca Energy Group Inc. (ORC-B.V) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "NOK",
