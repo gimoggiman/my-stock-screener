@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-17T20:10:29.959642+00:00",
+  "last_updated_utc": "2026-10-17T22:55:25.456421+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | OPEN Stock Slumps Below $2 For The First Time In Over A Year: Opendoor CEO Defends Homeownership — ‘Home Is Not Just a Financial Asset’ - Yahoo Finance"
+      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
     },
     {
       "ticker": "SITC",
@@ -45,7 +45,7 @@
       "gap_pct": 9.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5417160704,
+      "market_cap": 4549659136,
       "float_shares": 270970679,
       "cash_debt_ratio": 0.05,
       "insider_pct": 4.0,
@@ -62,13 +62,13 @@
       "gap_pct": -9.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2053857664,
+      "market_cap": 2040418048,
       "float_shares": 953465747,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2809,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Opendoor Technologies (OPEN) Stock Dropped, So What Is Driving Attention Now? - Simply Wall Street"
+      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | OPEN Stock Slumps Below $2 For The First Time In Over A Year: Opendoor CEO Defends Homeownership — ‘Home Is Not Just a Financial Asset’ - Yahoo Finance"
     },
     {
       "ticker": "KPTI",
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI Jan 2028 2.000 put (KPTI280121P00002000) interactive stock chart - Yahoo Finance Australia"
+      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI News | KARYOPHARM THERAPEUTICS INC (NASDAQ:KPTI) - ChartMill"
     },
     {
       "ticker": "FUN",
@@ -119,7 +119,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative | VNET Mar 2027 6.000 put (VNET270319P00006000) stock historical prices and data - Yahoo Finance UK"
     },
     {
       "ticker": "NMRA",
@@ -170,7 +170,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance"
+      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | CMPS Stock Climbs After-Hours: Analyst Sees Depression Drug Approval By H1 2027 Or Sooner After Strong Trial Data - Stocktwits"
     },
     {
       "ticker": "WULF",
@@ -178,7 +178,7 @@
       "last_close": 11.68,
       "rel_volume": 1.75,
       "price_change_pct": -7.45,
-      "gap_pct": -7.17,
+      "gap_pct": -7.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5827954176,
@@ -187,7 +187,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | TeraWulf Stock Gets Analyst Backing After Power Expansion Plans - Yahoo Finance | Why WULF Stock Is Rebounding Today? This Analyst Says Core Data Center Project Avoids New York Permit Freeze - Stocktwits"
+      "recent_news": "Google News | Why WULF Stock Still Has 40% Upside After Nearly 500% Surge In Past 12 Months — Here’s What Citi Says - Stocktwits | TeraWulf Stock Gets Analyst Backing After Power Expansion Plans - Yahoo Finance"
     },
     {
       "ticker": "JBLU",
@@ -204,7 +204,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock May Be A Bargain As BlueFirst Launches - Yahoo Finance | Daily Florida–Cali flights launch with limited one-way fares from $139 - Stock Titan"
+      "recent_news": "Google News | JetBlue (JBLU) Stock May Be A Bargain As BlueFirst Launches - Yahoo Finance | JetBlue Airways (JBLU) Launches BlueFirst And Cali Flights, Is The Stock Cheap? - Simply Wall Street"
     },
     {
       "ticker": "UNIT",
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Sarepta Therapeutics, Inc. (SRPT) stock price, news, quote and history - Yahoo Finance UK | Sarepta Therapeutics, Inc. (SRPT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits | Sarepta (SRPT) Stock Looks Fully Valued As Sales Trail Fair Value - Yahoo Finance"
     },
     {
       "ticker": "ALXO",
@@ -255,7 +255,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Nov 2026 2.000 call (ALXO261120C00002000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "CIFR",
@@ -289,7 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | PayPay Corporation (PAYP) Stock Price, News &amp; Analysis - Stock Titan | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "CSIQ",
@@ -340,7 +340,7 @@
       "insider_pct": 18.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | Is Talos Energy (TALO) Stock Below Fair Value On Sales? - Simply Wall Street"
+      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | A ten percent owner sells Talos Energy (TALO) shares across two consecutive days. - Stock Titan"
     },
     {
       "ticker": "METC",
@@ -408,7 +408,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "Google News | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For' - Stocktwits | GPRO Nov 2026 1.500 call (GPRO261120C00001500) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | GPRO Stock Drops Overnight On Q2 Revenue Miss, But Retail Traders Are Watching One Number: 'What The Company Will Be Sold For' - Stocktwits | Is the Options Market Predicting a Spike in GoPro Stock? - Yahoo Finance"
     },
     {
       "ticker": "ACP",
@@ -442,7 +442,7 @@
       "insider_pct": 40.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | PermRock Royalty Trust Financial Disclosures &amp; SEC Filings - TradingView"
+      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | NextEra Energy (NYSE:NEE.PRT) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "DNOW",
@@ -476,7 +476,7 @@
       "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 92,
-      "recent_news": "Google News | Is There A Risk Hiding In CCC Stock's Recent Quarters? - Yahoo Finance | CCC Intelligent Solutions agrees to $6.1 billion take-private deal with GTCR, Elliott - Reuters"
+      "recent_news": "Google News | CCC Intelligent Solutions Holdings Inc. (CCC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | CCC Intelligent Solutions agrees to $6.1 billion take-private deal with GTCR, Elliott - Reuters"
     },
     {
       "ticker": "PRMB",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Stock Is Down 46% Over the Past Year. Buy Now or Wait for Q3? - TIKR.com"
+      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Stock Hit a 52-Week Low on October 15. Here’s What the October 27 Report Has to Settle - TIKR.com"
     },
     {
       "ticker": "UAMY",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Oct 2026 5.000 call (UAMY261023C00005000) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Jan 2029 10.000 call (UAMY290119C00010000) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "ORC",
@@ -578,7 +578,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | What Orchid Island Capital Stock's Earnings Guidance Means For Shareholders - Yahoo Finance"
+      "recent_news": "Google News | What Orchid Island Capital Stock's Earnings Guidance Means For Shareholders - Yahoo Finance | Orchid Island Capital: The 20% Yield Finally Has Some Backup (NYSE:ORC) - Seeking Alpha"
     },
     {
       "ticker": "NOK",
@@ -612,7 +612,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance Australia | Wall Street Zen Upgrades Kosmos Energy (NYSE:KOS) to Strong-Buy - MarketBeat"
+      "recent_news": "Google News | Why Did Kosmos Energy Stock Surge 10% Pre-Market Today? - Stocktwits | Wall Street Zen Upgrades Kosmos Energy (NYSE:KOS) to Strong-Buy - MarketBeat"
     },
     {
       "ticker": "GENI",
@@ -666,11 +666,11 @@
     },
     {
       "ticker": "AAL",
-      "score": 23.4,
+      "score": 23.3,
       "last_close": 11.88,
       "rel_volume": 0.59,
       "price_change_pct": -3.26,
-      "gap_pct": -3.38,
+      "gap_pct": -3.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
