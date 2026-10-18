@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-18T10:27:03.839760+00:00",
+  "last_updated_utc": "2026-10-18T14:19:48.716319+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
+      "recent_news": "Google News | OPEN Stock Slumps Below $2 For The First Time In Over A Year: Opendoor CEO Defends Homeownership — ‘Home Is Not Just a Financial Asset’ - Yahoo Finance | OPEN Stock Dips For Third Day: CEO Says 4.99% Mortgage Not A ‘Forever’ Deal - Stocktwits"
     },
     {
       "ticker": "SITC",
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | No new trading venue is lined up for SITE Centers shares as it plans to leave the New York Stock Exchange. - Stock Titan | SITE Centers Shares Jump 18.94% Premarket - SITE Centers (NYSE:SITC) - Benzinga"
+      "recent_news": "Google News | A $3-per-share special payout exceeds 25% of SITE Centers' share price. - Stock Titan | SITE Centers stock surges on $3 special dividend - Yahoo Finance"
     },
     {
       "ticker": "CRGY",
@@ -45,7 +45,7 @@
       "gap_pct": 9.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4549659136,
+      "market_cap": 5417160704,
       "float_shares": 270970679,
       "cash_debt_ratio": 0.05,
       "insider_pct": 4.0,
@@ -62,13 +62,13 @@
       "gap_pct": -9.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2040418048,
+      "market_cap": 2053857664,
       "float_shares": 952378125,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2809,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | OPEN Stock Slumps Below $2 For The First Time In Over A Year: Opendoor CEO Defends Homeownership — ‘Home Is Not Just a Financial Asset’ - Yahoo Finance"
+      "recent_news": "Google News | OPEN Stock Slumps Below $2 For The First Time In Over A Year: Opendoor CEO Defends Homeownership — ‘Home Is Not Just a Financial Asset’ - Yahoo Finance | Circular Financing Arrangements, Mounting Risky Debt, and Increased Stock Market Exposure: The AI Bubble is Primed to Pop - Open Markets Institute"
     },
     {
       "ticker": "KPTI",
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI Nov 2026 12.500 put (KPTI261120P00012500) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | KPTI Nov 2026 1.500 put (KPTI261120P00001500) interactive stock chart - Yahoo Finance Australia | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
     },
     {
       "ticker": "FUN",
@@ -102,7 +102,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | Six Flags Entertainment Corporation (FUN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | FUN Stock Heads For Worst Week Since COVID-19 Pandemic: Rider Death, Financial Woes Pile Up Ahead Of Earnings - TradingView"
+      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | FUN Stock Heads For Worst Week Since COVID-19 Pandemic: Rider Death, Financial Woes Pile Up Ahead Of Earnings - TradingView"
     },
     {
       "ticker": "VNET",
@@ -178,7 +178,7 @@
       "last_close": 11.68,
       "rel_volume": 1.75,
       "price_change_pct": -7.45,
-      "gap_pct": -7.13,
+      "gap_pct": -7.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5827954176,
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | SRPT Jun 2027 10.000 call (SRPT270617C00010000) stock historical prices and data - Yahoo Finance UK | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits"
+      "recent_news": "Google News | SRPT Stock Climbs After Sarepta Seeks Permanent FDA Nod For Two Duchenne Therapies - Stocktwits | Sarepta Therapeutics (SRPT) Could Be 22% Undervalued Following SRP 1003 Preclinical Data - Simply Wall Street"
     },
     {
       "ticker": "ALXO",
@@ -255,7 +255,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Feb 2027 3.000 call (ALXO270219C00003000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Nov 2026 2.000 call (ALXO261120C00002000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "CIFR",
@@ -340,7 +340,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK | METC Nov 2026 17.000 call (METC261120C00017000) Stock Historical Prices &amp; Data - Yahoo! Finance Canada"
+      "recent_news": "Google News | METC Mar 2027 17.000 put (METC270319P00017000) stock price, news, quote and history - Yahoo Finance UK | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "GRNT",
@@ -357,7 +357,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TRIN,FLUT,FFIN,BBSI,VIRC,GRNT,GAIA,AFCG,BETR,AUBN,NTHI,SRAD,HERZ,EFOR,NXRT,AVBC,CULP,BLCO,VSNT,BLIN,SSP,CSPI,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
+      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TRIN,FFIN,VIRC,GRNT,GAIA,AFCG,NRGV,AUBN,BETR,NTHI,SRAD,HERZ,EFOR,NXRT,AVBC,GO,BLCO,CULP,VSNT,BLIN,SSP,RVSB,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
     },
     {
       "ticker": "FLNC",
@@ -374,7 +374,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside - Stocktwits | FLNC Stock Alert: Fluence Production Issues and Subsequent 34% Stock Drop Trigger Securities Fraud Class Action for Investors - Morningstar"
+      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC May 2027 17.000 put (FLNC270521P00017000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "GPRO",
@@ -425,7 +425,7 @@
       "insider_pct": 40.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | All Eggs - Ride a Pet [Roblox] Guide - IGN"
+      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | NextEra Energy (NYSE:NEE.PRT) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "DNOW",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027 - Yahoo Finance | Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today? - TradingView"
+      "recent_news": "Google News | Did Profit Growth Concerns Just Shift SoFi Stock Investment Narrative? - Simply Wall Street | SoFi Stock Hit a 52-Week Low on October 15. Here’s What the October 27 Report Has to Settle - TIKR.com"
     },
     {
       "ticker": "UAMY",
@@ -666,11 +666,11 @@
     },
     {
       "ticker": "AAL",
-      "score": 23.3,
+      "score": 23.4,
       "last_close": 11.88,
       "rel_volume": 0.59,
       "price_change_pct": -3.26,
-      "gap_pct": -3.34,
+      "gap_pct": -3.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
