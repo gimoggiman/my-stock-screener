@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-18T05:27:38.585506+00:00",
+  "last_updated_utc": "2026-10-18T10:27:03.839760+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -12,12 +12,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": null,
-      "float_shares": 953465747,
+      "float_shares": 952378125,
       "cash_debt_ratio": 0.46,
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | OPEN Stock Dips For Third Day: CEO Says 4.99% Mortgage Not A ‘Forever’ Deal - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
+      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
     },
     {
       "ticker": "SITC",
@@ -45,13 +45,13 @@
       "gap_pct": 9.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 5417160704,
+      "market_cap": 4549659136,
       "float_shares": 270970679,
       "cash_debt_ratio": 0.05,
       "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | Crescent Energy (CRGY) Stock Forecast and Price Target 2026 $CRGY - MarketBeat"
+      "recent_news": "Google News | Crescent Energy Company $CRGY Shares Bought by Assenagon Asset Management S.A. - MarketBeat | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "OPEN",
@@ -62,8 +62,8 @@
       "gap_pct": -9.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2053857664,
-      "float_shares": 953465747,
+      "market_cap": 2040418048,
+      "float_shares": 952378125,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | KPTI Nov 2026 12.500 put (KPTI261120P00012500) stock price, news, quote and history - Yahoo Finance UK | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
+      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI Nov 2026 12.500 put (KPTI261120P00012500) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "FUN",
@@ -148,7 +148,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2026380800,
-      "float_shares": 534988780,
+      "float_shares": 404064445,
       "cash_debt_ratio": 0.11,
       "insider_pct": 43.9,
       "dilution_risk": "주의",
@@ -178,7 +178,7 @@
       "last_close": 11.68,
       "rel_volume": 1.75,
       "price_change_pct": -7.45,
-      "gap_pct": -7.17,
+      "gap_pct": -7.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5827954176,
@@ -204,7 +204,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | BlueFirst Rollout Could Shape The Case For JetBlue (JBLU) Stock - Yahoo Finance | JetBlue Airways (JBLU) Launches BlueFirst And Cali Flights, Is The Stock Cheap? - Simply Wall Street"
+      "recent_news": "Google News | BlueFirst Rollout Could Shape The Case For JetBlue (JBLU) Stock - Yahoo Finance | JetBlue Airways Corporation $JBLU Stock Bought by Counterpoint Mutual Funds LLC - MarketBeat"
     },
     {
       "ticker": "UNIT",
@@ -221,7 +221,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3335,
-      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | SpaceX Renames AI Unit SpaceXSI as Stock Jumps 5% [2026] - https://tech-insider.org/"
+      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Is Uniti Group (UNIT) A Bargain On Its AI Security Launch? - Simply Wall Street"
     },
     {
       "ticker": "SRPT",
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits | Sarepta Therapeutics (SRPT) Could Be 22% Undervalued Following SRP 1003 Preclinical Data - Simply Wall Street"
+      "recent_news": "Google News | SRPT Jun 2027 10.000 call (SRPT270617C00010000) stock historical prices and data - Yahoo Finance UK | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits"
     },
     {
       "ticker": "ALXO",
@@ -250,12 +250,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 146573600,
-      "float_shares": 94708681,
+      "float_shares": 94963110,
       "cash_debt_ratio": 12.52,
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Feb 2027 3.000 call (ALXO270219C00003000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "CIFR",
@@ -289,7 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay Corporation (PAYP) Stock Price, News &amp; Analysis - Stock Titan | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
     },
     {
       "ticker": "MARA",
@@ -323,7 +323,7 @@
       "insider_pct": 18.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | A ten percent owner sells Talos Energy (TALO) shares across two consecutive days. - Stock Titan"
+      "recent_news": "Google News | Talos Energy Inc. (NYSE:TALO) Stock Has Average Target Price of $19.43 - MarketBeat | A ten percent owner sells Talos Energy (TALO) shares across two consecutive days. - Stock Titan"
     },
     {
       "ticker": "METC",
@@ -340,7 +340,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Oct 2026 16.000 call (METC261016C00016000) interactive stock chart - Yahoo Finance UK | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK | METC Nov 2026 17.000 call (METC261120C00017000) Stock Historical Prices &amp; Data - Yahoo! Finance Canada"
     },
     {
       "ticker": "GRNT",
@@ -357,7 +357,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | NTHI,VITL,TRIN,HERZ,EFOR,SRAD,FFIN,AVBC,NXRT,BBSI,CULP,BLCO,VSNT,VIRC,GRNT,SSP,GAIA,CSPI,AWRE,AFCG,APCX,KLTR,AUBN,BETR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
+      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TRIN,FLUT,FFIN,BBSI,VIRC,GRNT,GAIA,AFCG,BETR,AUBN,NTHI,SRAD,HERZ,EFOR,NXRT,AVBC,CULP,BLCO,VSNT,BLIN,SSP,CSPI,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
     },
     {
       "ticker": "FLNC",
@@ -369,7 +369,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1129044224,
-      "float_shares": 88953264,
+      "float_shares": 89069226,
       "cash_debt_ratio": 0.82,
       "insider_pct": 14.4,
       "dilution_risk": "주의",
@@ -454,7 +454,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1155742848,
-      "float_shares": 109988499,
+      "float_shares": 109877626,
       "cash_debt_ratio": 0.01,
       "insider_pct": 12.7,
       "dilution_risk": "낮음",
@@ -493,7 +493,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | PRMB Stock Quote Price and Forecast - CNN | Primo Brands (PRMB) Stock Looks About Right Following New Factory Opening - Yahoo Finance"
+      "recent_news": "Google News | Primo Brands (PRMB) Stock Looks About Right Following New Factory Opening - Yahoo Finance | Water has topped packaged drinks by volume for 11 years. Primo Brands opens a factory in Arkansas. - Stock Titan"
     },
     {
       "ticker": "VET",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027 - Yahoo Finance"
+      "recent_news": "Google News | SoFi Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027 - Yahoo Finance | Why Did CRWV, OPEN, SOFI Stocks Tumble To 52-Week Lows Today? - TradingView"
     },
     {
       "ticker": "UAMY",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Stock Price and Chart — NYSE:UAMY - TradingView"
+      "recent_news": "Google News | UAMY Stock Price and Chart — NYSE:UAMY - TradingView | CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits"
     },
     {
       "ticker": "ORC",
@@ -578,7 +578,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | What Orchid Island Capital Stock's Earnings Guidance Means For Shareholders - Yahoo Finance | Orchid Island Capital: The 20% Yield Finally Has Some Backup (NYSE:ORC) - Seeking Alpha"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Orca Energy Group Inc. (ORC-B.V) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "NOK",
@@ -590,12 +590,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 51171614720,
-      "float_shares": 4447787214,
+      "float_shares": 4447731228,
       "cash_debt_ratio": 1.53,
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Google News | NOK Stock Heads For Second Straight Weekly Loss — Retail Sees Dip As Buying Chance - Stocktwits | Nokia Stock Is Falling Monday: What's Going On? - Benzinga"
+      "recent_news": "Google News | NOK Stock Gains After-Hours — Nokia Oyj Rejoins Europe's Benchmark Stoxx 50 Index - Stocktwits | NOK Gears Up to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance"
     },
     {
       "ticker": "KOS",
@@ -666,11 +666,11 @@
     },
     {
       "ticker": "AAL",
-      "score": 23.4,
+      "score": 23.3,
       "last_close": 11.88,
       "rel_volume": 0.59,
       "price_change_pct": -3.26,
-      "gap_pct": -3.38,
+      "gap_pct": -3.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
