@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-18T00:41:00.450548+00:00",
+  "last_updated_utc": "2026-10-18T05:27:38.585506+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
+      "recent_news": "Google News | OPEN Stock Dips For Third Day: CEO Says 4.99% Mortgage Not A ‘Forever’ Deal - Stocktwits | Is the stock market open on Columbus Day, Indigenous Peoples Day? - Yahoo Finance"
     },
     {
       "ticker": "SITC",
@@ -45,7 +45,7 @@
       "gap_pct": 9.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4549659136,
+      "market_cap": 5417160704,
       "float_shares": 270970679,
       "cash_debt_ratio": 0.05,
       "insider_pct": 4.0,
@@ -62,7 +62,7 @@
       "gap_pct": -9.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2040418048,
+      "market_cap": 2053857664,
       "float_shares": 953465747,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | KPTI Nov 2026 12.500 put (KPTI261120P00012500) interactive stock chart - Yahoo Finance UK | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
+      "recent_news": "Google News | KPTI Nov 2026 12.500 put (KPTI261120P00012500) stock price, news, quote and history - Yahoo Finance UK | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
     },
     {
       "ticker": "FUN",
@@ -170,7 +170,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits | CMPS Stock Climbs After-Hours: Analyst Sees Depression Drug Approval By H1 2027 Or Sooner After Strong Trial Data - Stocktwits"
+      "recent_news": "Google News | COMPASS Pathways (CMPS) Stock May Trade At A Premium After Positive Phase 3 Results - Yahoo Finance | CMPS Stock Clocks Muted Gains But Analysts Back Psychedelic Drug’s Durability Ahead Of FDA Filing - Stocktwits"
     },
     {
       "ticker": "WULF",
@@ -178,7 +178,7 @@
       "last_close": 11.68,
       "rel_volume": 1.75,
       "price_change_pct": -7.45,
-      "gap_pct": -7.13,
+      "gap_pct": -7.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5827954176,
@@ -255,7 +255,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Feb 2027 3.000 call (ALXO270219C00003000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
       "ticker": "CIFR",
@@ -272,7 +272,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | Cipher Digital: After The 70% Wipeout (NASDAQ:CIFR) - Seeking Alpha"
+      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | Cipher Digital Tumbles 14% on $850M Convertible Note Offering and Share Exchange; Applied Digital Drops 5% - Yahoo Finance"
     },
     {
       "ticker": "PAYP",
@@ -289,7 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | PayPay Corporation (PAYP) Stock Price, News &amp; Analysis - Stock Titan | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "MARA",
@@ -323,7 +323,7 @@
       "insider_pct": 18.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | Is Talos Energy (TALO) Stock Below Fair Value On Sales? - Simply Wall Street"
+      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | A ten percent owner sells Talos Energy (TALO) shares across two consecutive days. - Stock Titan"
     },
     {
       "ticker": "METC",
@@ -340,7 +340,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Dec 2026 6.000 call (METC261218C00006000) stock historical prices and data - Yahoo Finance UK | METC Nov 2026 10.000 call (METC261120C00010000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | METC Oct 2026 16.000 call (METC261016C00016000) interactive stock chart - Yahoo Finance UK | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "GRNT",
@@ -357,7 +357,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Market Movers | Winners: CRGY, ALOY, GRNT | Losers: RXRX, EOSE, OMER - Trefis"
+      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | NTHI,VITL,TRIN,HERZ,EFOR,SRAD,FFIN,AVBC,NXRT,BBSI,CULP,BLCO,VSNT,VIRC,GRNT,SSP,GAIA,CSPI,AWRE,AFCG,APCX,KLTR,AUBN,BETR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
     },
     {
       "ticker": "FLNC",
@@ -425,7 +425,7 @@
       "insider_pct": 40.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | NextEra Energy (NYSE:NEE.PRT) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | 2026 Royalty Stocks List Of All 90+ | Best 5 Royalty Stocks Now - Sure Dividend | All Eggs - Ride a Pet [Roblox] Guide - IGN"
     },
     {
       "ticker": "DNOW",
@@ -459,7 +459,7 @@
       "insider_pct": 12.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Will Asset Sale Gain Change Ladder Capital (LADR) Stock Narrative - Yahoo Finance | Ladder Capital (LADR) Posts Strong Q3 Results, Is The 24% Upside Still There? - Yahoo Finance"
+      "recent_news": "Google News | Ladder Capital (LADR) Stock Climbs As Q3 Results Fuel Credit Debate - Yahoo Finance | Ladder Capital (LADR) Stock Climbs As Q3 Earnings Meet Margin Pressure - Simply Wall Street"
     },
     {
       "ticker": "CCC",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Stock Hit a 52-Week Low on October 15. Here’s What the October 27 Report Has to Settle - TIKR.com"
+      "recent_news": "Google News | SoFi, BNY, Bread Financial, Perella Weinberg, and Morgan Stanley Shares Plummet, What You Need To Know - Yahoo Finance | SoFi Technologies Imploded in 2026: A Wall Street Pro Predicts It Will Double in 2027 - Yahoo Finance"
     },
     {
       "ticker": "UAMY",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Oct 2026 5.000 call (UAMY261023C00005000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Stock Price and Chart — NYSE:UAMY - TradingView"
     },
     {
       "ticker": "ORC",
@@ -595,7 +595,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Google News | NOK Stock Eyes Third Winning Session Amid Google $15B AI Bet, Euro Stoxx 50 Return - Stocktwits | Nokia Stock Is Falling Monday: What's Going On? - Benzinga"
+      "recent_news": "Google News | NOK Stock Heads For Second Straight Weekly Loss — Retail Sees Dip As Buying Chance - Stocktwits | Nokia Stock Is Falling Monday: What's Going On? - Benzinga"
     },
     {
       "ticker": "KOS",
@@ -612,7 +612,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Wall Street Zen Upgrades Kosmos Energy (NYSE:KOS) to Strong-Buy - MarketBeat | Coca-Cola (Stove Tokenized Stock) (KOS) Price Prediction for 2026 to 2031 - Bybit"
+      "recent_news": "Google News | Why Did Kosmos Energy Stock Surge 10% Pre-Market Today? - Stocktwits | Kosmos Energy (NYSE:KOS) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "GENI",
@@ -666,11 +666,11 @@
     },
     {
       "ticker": "AAL",
-      "score": 23.3,
+      "score": 23.4,
       "last_close": 11.88,
       "rel_volume": 0.59,
       "price_change_pct": -3.26,
-      "gap_pct": -3.34,
+      "gap_pct": -3.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
