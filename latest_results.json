@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-17T22:55:25.456421+00:00",
+  "last_updated_utc": "2026-10-18T00:41:00.450548+00:00",
   "tickers_scanned": 55,
   "results": [
     {
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI News | KARYOPHARM THERAPEUTICS INC (NASDAQ:KPTI) - ChartMill"
+      "recent_news": "Google News | KPTI Nov 2026 12.500 put (KPTI261120P00012500) interactive stock chart - Yahoo Finance UK | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
     },
     {
       "ticker": "FUN",
@@ -119,7 +119,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative | VNET Mar 2027 6.000 put (VNET270319P00006000) stock historical prices and data - Yahoo Finance UK"
+      "recent_news": "Google News | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat"
     },
     {
       "ticker": "NMRA",
@@ -204,7 +204,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock May Be A Bargain As BlueFirst Launches - Yahoo Finance | JetBlue Airways (JBLU) Launches BlueFirst And Cali Flights, Is The Stock Cheap? - Simply Wall Street"
+      "recent_news": "Google News | BlueFirst Rollout Could Shape The Case For JetBlue (JBLU) Stock - Yahoo Finance | JetBlue Airways (JBLU) Launches BlueFirst And Cali Flights, Is The Stock Cheap? - Simply Wall Street"
     },
     {
       "ticker": "UNIT",
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits | Sarepta (SRPT) Stock Looks Fully Valued As Sales Trail Fair Value - Yahoo Finance"
+      "recent_news": "Google News | Capricor Or Sarepta: Two DMD Stocks Enter A High-Stakes Week – Which One Has More Upside? - Stocktwits | Sarepta Therapeutics (SRPT) Could Be 22% Undervalued Following SRP 1003 Preclinical Data - Simply Wall Street"
     },
     {
       "ticker": "ALXO",
@@ -255,7 +255,7 @@
       "insider_pct": 1.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Nov 2026 2.000 call (ALXO261120C00002000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | ALXO Feb 2027 3.000 call (ALXO270219C00003000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "CIFR",
@@ -289,24 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay Corporation (PAYP) Stock Price, News &amp; Analysis - Stock Titan | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
-    },
-    {
-      "ticker": "CSIQ",
-      "score": 53.2,
-      "last_close": 9.81,
-      "rel_volume": 1.51,
-      "price_change_pct": -7.19,
-      "gap_pct": -7.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 666067136,
-      "float_shares": 43614955,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 29.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Canadian Solar: Not Worth A Second Thought - Seeking Alpha | Canadian Solar (NASDAQ:CSIQ) Downgraded by Zacks Research to Strong Sell - MarketBeat"
+      "recent_news": "Google News | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
     },
     {
       "ticker": "MARA",
@@ -340,7 +323,7 @@
       "insider_pct": 18.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | A ten percent owner sells Talos Energy (TALO) shares across two consecutive days. - Stock Titan"
+      "recent_news": "Google News | Citigroup Issues Positive Forecast for Talos Energy (NYSE:TALO) Stock Price - MarketBeat | Is Talos Energy (TALO) Stock Below Fair Value On Sales? - Simply Wall Street"
     },
     {
       "ticker": "METC",
@@ -357,7 +340,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Nov 2026 7.000 call (METC261120C00007000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada | Ramaco Resources (METC) Stock Sinks As Coal Losses Deepen Doubts - Simply Wall Street"
+      "recent_news": "Google News | METC Dec 2026 6.000 call (METC261218C00006000) stock historical prices and data - Yahoo Finance UK | METC Nov 2026 10.000 call (METC261120C00010000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "GRNT",
@@ -391,7 +374,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC Stock Alert: Fluence Production Issues and Subsequent 34% Stock Drop Trigger Securities Fraud Class Action for Investors - Morningstar"
+      "recent_news": "Google News | FLNC, CSIQ, NRGV Stocks Get Citi’s Attention Ahead Of Quarterly Earnings – Firm Says Energy Storage Demand To Drive Upside - Stocktwits | FLNC Stock Alert: Fluence Production Issues and Subsequent 34% Stock Drop Trigger Securities Fraud Class Action for Investors - Morningstar"
     },
     {
       "ticker": "GPRO",
@@ -462,6 +445,23 @@
       "recent_news": "Google News | DNOW — Stock Research &amp; Analysis - Fundstrat Direct | DNOW Inc. (DNOW) Stock Forecasts - Yahoo Finance"
     },
     {
+      "ticker": "LADR",
+      "score": 38.2,
+      "last_close": 9.11,
+      "rel_volume": 1.88,
+      "price_change_pct": 3.29,
+      "gap_pct": 3.17,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1155742848,
+      "float_shares": 109988499,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 12.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Will Asset Sale Gain Change Ladder Capital (LADR) Stock Narrative - Yahoo Finance | Ladder Capital (LADR) Posts Strong Q3 Results, Is The 24% Upside Still There? - Yahoo Finance"
+    },
+    {
       "ticker": "CCC",
       "score": 36.2,
       "last_close": 7.61,
@@ -510,7 +510,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 19,
-      "recent_news": "Google News | Vermilion Energy (TSX:VET) Stock Still Looks Undervalued On Sales Strength - Yahoo Finance | Price-Driven Insight from (VET) for Rule-Based Strategy - Stock Traders Daily"
+      "recent_news": "Google News | Vermilion Energy (TSX:VET) Stock Still Looks Undervalued On Sales Strength - Yahoo Finance | Vermilion Energy (NYSE:VET) Stock Price Up 4.1% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "PRPL",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Jan 2029 10.000 call (UAMY290119C00010000) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | MP, CRML, TMC, UAMY Stocks In Focus: Goldman Sachs Sees AI Driving A Global ‘Mine-To-Magnet’ Investment Cycle - Stocktwits | UAMY Oct 2026 5.000 call (UAMY261023C00005000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "ORC",
@@ -612,7 +612,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Did Kosmos Energy Stock Surge 10% Pre-Market Today? - Stocktwits | Wall Street Zen Upgrades Kosmos Energy (NYSE:KOS) to Strong-Buy - MarketBeat"
+      "recent_news": "Google News | Wall Street Zen Upgrades Kosmos Energy (NYSE:KOS) to Strong-Buy - MarketBeat | Coca-Cola (Stove Tokenized Stock) (KOS) Price Prediction for 2026 to 2031 - Bybit"
     },
     {
       "ticker": "GENI",
