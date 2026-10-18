@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-18T14:19:48.716319+00:00",
-  "tickers_scanned": 55,
+  "last_updated_utc": "2026-10-18T17:51:17.409867+00:00",
+  "tickers_scanned": 53,
   "results": [
     {
       "ticker": "OPENW",
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | A $3-per-share special payout exceeds 25% of SITE Centers' share price. - Stock Titan | SITE Centers stock surges on $3 special dividend - Yahoo Finance"
+      "recent_news": "Google News | No new trading venue is lined up for SITE Centers shares as it plans to leave the New York Stock Exchange. - Stock Titan | SITE Centers Shares Jump 18.94% Premarket - SITE Centers (NYSE:SITC) - Benzinga"
     },
     {
       "ticker": "CRGY",
@@ -51,7 +51,7 @@
       "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Crescent Energy Company $CRGY Shares Bought by Assenagon Asset Management S.A. - MarketBeat | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | Crescent Energy (NYSE:CRGY) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | Crescent Energy Company $CRGY Shares Bought by Assenagon Asset Management S.A. - MarketBeat"
     },
     {
       "ticker": "OPEN",
@@ -85,7 +85,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | KPTI Nov 2026 1.500 put (KPTI261120P00001500) interactive stock chart - Yahoo Finance Australia | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits"
+      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI Nov 2026 1.500 put (KPTI261120P00001500) interactive stock chart - Yahoo Finance Australia"
     },
     {
       "ticker": "FUN",
@@ -119,7 +119,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat | $VNET stock is down 15% today. Here's what we see in our data. - Quiver Quantitative"
     },
     {
       "ticker": "NMRA",
@@ -187,7 +187,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why WULF Stock Still Has 40% Upside After Nearly 500% Surge In Past 12 Months — Here’s What Citi Says - Stocktwits | TeraWulf Stock Gets Analyst Backing After Power Expansion Plans - Yahoo Finance"
+      "recent_news": "Google News | Why WULF Stock Still Has 40% Upside After Nearly 500% Surge In Past 12 Months — Here’s What Citi Says - Stocktwits | TeraWulf Stock Keeps Falling, but Morgan Stanley Sees 463% Upside - Barron's"
     },
     {
       "ticker": "JBLU",
@@ -204,7 +204,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | BlueFirst Rollout Could Shape The Case For JetBlue (JBLU) Stock - Yahoo Finance | JetBlue Airways Corporation $JBLU Stock Bought by Counterpoint Mutual Funds LLC - MarketBeat"
+      "recent_news": "Google News | JetBlue Airways Corporation (JBLU) Stock Forecasts - Yahoo Finance | JetBlue Airways Corporation $JBLU Stock Bought by Counterpoint Mutual Funds LLC - MarketBeat"
     },
     {
       "ticker": "UNIT",
@@ -238,7 +238,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | SRPT Stock Climbs After Sarepta Seeks Permanent FDA Nod For Two Duchenne Therapies - Stocktwits | Sarepta Therapeutics (SRPT) Could Be 22% Undervalued Following SRP 1003 Preclinical Data - Simply Wall Street"
+      "recent_news": "Google News | SRPT Stock Climbs After Sarepta Seeks Permanent FDA Nod For Two Duchenne Therapies - Stocktwits | Sarepta (SRPT) Stock Looks Fully Valued As Sales Trail Fair Value - Yahoo Finance"
     },
     {
       "ticker": "ALXO",
@@ -272,7 +272,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is CIFR Stock Rising Despite Q1 Earnings Miss? - Stocktwits | Cipher Digital Tumbles 14% on $850M Convertible Note Offering and Share Exchange; Applied Digital Drops 5% - Yahoo Finance"
+      "recent_news": "Google News | Cipher Digital Tumbles 14% on $850M Convertible Note Offering and Share Exchange; Applied Digital Drops 5% - Yahoo Finance | Cipher Digital Delivers AI Data Center Early, So Why Is CIFR Stock Down? - Stocktwits"
     },
     {
       "ticker": "PAYP",
@@ -289,7 +289,7 @@
       "insider_pct": 90.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | PayPay (NASDAQ:PAYP) Stock Price Up 5.6% - Still a Buy? - MarketBeat | PayPay Corporation - American D (PAYP) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "MARA",
@@ -340,7 +340,7 @@
       "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | METC Mar 2027 17.000 put (METC270319P00017000) stock price, news, quote and history - Yahoo Finance UK | METC Oct 2026 19.000 call (METC261016C00019000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | METC Mar 2027 17.000 put (METC270319P00017000) stock price, news, quote and history - Yahoo Finance UK | Ramaco Resources (METC) Stock Fair Value Moves Lower As Analysts Split On Brook Mine - Yahoo Finance"
     },
     {
       "ticker": "GRNT",
@@ -357,7 +357,7 @@
       "insider_pct": 10.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TRIN,FFIN,VIRC,GRNT,GAIA,AFCG,NRGV,AUBN,BETR,NTHI,SRAD,HERZ,EFOR,NXRT,AVBC,GO,BLCO,CULP,VSNT,BLIN,SSP,RVSB,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
+      "recent_news": "Google News | Granite Ridge Resources, Inc. (GRNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TRIN,FFIN,VIRC,GRNT,GAIA,AFCG,NRGV,THRY,AUBN,BETR,NTHI,EFOR,HERZ,SRAD,GO,AVBC,NXRT,BLCO,CULP,VSNT,BLIN,SSP,AWRE,APCX,KLTR | Stock Prices | Quote Comparison - Yahoo! Finance Canada"
     },
     {
       "ticker": "FLNC",
@@ -374,7 +374,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC May 2027 17.000 put (FLNC270521P00017000) interactive stock chart - Yahoo Finance UK"
+      "recent_news": "Google News | Why Is FLNC Stock Down 25% After-Hours? - Stocktwits | FLNC Stock Alert: Fluence Production Issues and Subsequent 34% Stock Drop Trigger Securities Fraud Class Action for Investors - Morningstar"
     },
     {
       "ticker": "GPRO",
@@ -442,7 +442,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | DNOW — Stock Research &amp; Analysis - Fundstrat Direct | DNOW Inc. (DNOW) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | DNOW (DNOW) Rebrand And Midstream Push Keep Undervalued Narrative Alive - Simply Wall Street | DNOW Inc. (DNOW) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "LADR",
@@ -544,7 +544,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Did Profit Growth Concerns Just Shift SoFi Stock Investment Narrative? - Simply Wall Street | SoFi Stock Hit a 52-Week Low on October 15. Here’s What the October 27 Report Has to Settle - TIKR.com"
+      "recent_news": "Google News | Did Profit Growth Concerns Just Shift SoFi Stock Investment Narrative? - Simply Wall Street | Rising Rate Pressure Tests The Case For SoFi Stock - Yahoo Finance"
     },
     {
       "ticker": "UAMY",
@@ -561,7 +561,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UAMY Stock Price and Chart — NYSE:UAMY - TradingView | CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits"
+      "recent_news": "Google News | CRML, MP, UAMY, USAR, Stocks Gain Premarket: Retail Cheers Trump's Defense Critical Metals Supply Chain Push - Stocktwits | United States Antimony Launches $100M Buyback Program – Here’s What Triggered The Move - Stocktwits"
     },
     {
       "ticker": "ORC",
@@ -578,7 +578,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Orca Energy Group Inc. (ORC-B.V) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | What Orchid Island Capital (ORC)'s Dividend Kept After Loss Means For Shareholders - Simply Wall Street"
     },
     {
       "ticker": "NOK",
@@ -595,7 +595,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Google News | NOK Stock Gains After-Hours — Nokia Oyj Rejoins Europe's Benchmark Stoxx 50 Index - Stocktwits | NOK Gears Up to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance"
+      "recent_news": "Google News | NOK Stock Rises Overnight: JPMorgan Says Investors May Be Underestimating Nokia’s AI Opportunity, Sees 100% Upside - Stocktwits | NOK Gears Up to Report Q3 Earnings: Buy, Sell or Hold the Stock? - Yahoo Finance"
     },
     {
       "ticker": "KOS",
@@ -661,16 +661,6 @@
       "rel_volume": 1.23,
       "price_change_pct": 2.0,
       "gap_pct": 2.09,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "AAL",
-      "score": 23.4,
-      "last_close": 11.88,
-      "rel_volume": 0.59,
-      "price_change_pct": -3.26,
-      "gap_pct": -3.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
