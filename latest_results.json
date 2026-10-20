@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-19T23:20:06.995567+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-10-20T03:30:41.449798+00:00",
+  "tickers_scanned": 66,
   "results": [
     {
       "ticker": "CLF",
@@ -20,6 +20,23 @@
       "recent_news": "Google News | Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon &amp; more - CNBC | CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily"
     },
     {
+      "ticker": "DH",
+      "score": 66.4,
+      "last_close": 1.1,
+      "rel_volume": 2.26,
+      "price_change_pct": 10.0,
+      "gap_pct": 9.5,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 117419184,
+      "float_shares": 38717375,
+      "cash_debt_ratio": 1.1,
+      "insider_pct": 3.7,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | DH: Definitive Healthcare Corp - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Definitive Healthcare (DH) Stock Price Slides As Revenue Shrinks And Losses Linger - Simply Wall Street"
+    },
+    {
       "ticker": "ANNX",
       "score": 61.2,
       "last_close": 4.01,
@@ -37,6 +54,23 @@
       "recent_news": "Google News | ANNX Maintained and Price Target Raised by HC Wainwright &amp; Co. - GuruFocus | More than 8 million people have an eye disease that can cause blindness. Annexon will present trial findings. - Stock Titan"
     },
     {
+      "ticker": "VYGR",
+      "score": 61.1,
+      "last_close": 2.05,
+      "rel_volume": 1.84,
+      "price_change_pct": 7.89,
+      "gap_pct": 8.16,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 126316792,
+      "float_shares": 44467208,
+      "cash_debt_ratio": 3.57,
+      "insider_pct": 14.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | VYGR Nov 2026 3.000 put (VYGR261120P00003000) stock price, news, quote and history - Yahoo Finance UK | Voyager Therapeutics (NasdaqGS:VYGR) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+    },
+    {
       "ticker": "UAMY",
       "score": 58.7,
       "last_close": 3.1,
@@ -51,7 +85,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UAMY Stock Draws Traders As Defense Contract Momentum Builds - Timothy Sykes | Why Did UAMY Stock Jump Nearly 2% After Hours Today? - Stocktwits"
+      "recent_news": "Google News | UAMY Stock Draws Traders As Defense Contract Momentum Builds - Timothy Sykes | UAMY Oct 2026 2.500 put (UAMY261030P00002500) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "CDNL",
@@ -83,15 +117,15 @@
       "float_shares": 92510685,
       "cash_debt_ratio": 0.11,
       "insider_pct": 18.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | 14,756 shares withheld for CFO's taxes at Ribbon Communications (RBBN) - Stock Titan | Stock replaces cash board fees for Ribbon Communications (RBBN) director Bruns H. Grayson - Stock Titan"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Google News | 14,756 shares withheld for CFO's taxes at Ribbon Communications (RBBN) - Stock Titan | Ribbon Communications Inc. (NASDAQ:RBBN) Stock Has Consensus Target Price of $3.30 According to Analysts - MarketBeat"
     },
     {
       "ticker": "GLUE",
-      "score": 55.6,
+      "score": 55.9,
       "last_close": 10.66,
-      "rel_volume": 1.34,
+      "rel_volume": 1.36,
       "price_change_pct": 9.45,
       "gap_pct": 9.24,
       "st_msg_count": null,
@@ -106,9 +140,9 @@
     },
     {
       "ticker": "TSHA",
-      "score": 54.1,
+      "score": 55.5,
       "last_close": 3.94,
-      "rel_volume": 1.21,
+      "rel_volume": 1.33,
       "price_change_pct": 8.84,
       "gap_pct": 8.84,
       "st_msg_count": null,
@@ -119,14 +153,14 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Does Rett Trial Progress Change The Bull Case For Taysha Gene Therapies Stock? - Simply Wall Street | Taysha Gene Therapies (TSHA) Stock May Be Above Fair Value On Book Value - Yahoo Finance"
+      "recent_news": "Google News | Taysha Gene Therapies (TSHA) Stock May Be Above Fair Value On Book Value - Yahoo Finance | Does Rett Trial Progress Change The Bull Case For Taysha Gene Therapies Stock? - Simply Wall Street"
     },
     {
       "ticker": "BLND",
       "score": 53.3,
       "last_close": 0.987,
       "rel_volume": 1.14,
-      "price_change_pct": 9.64,
+      "price_change_pct": 9.67,
       "gap_pct": 10.07,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -153,7 +187,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Applied Digital (APLD) Stock Looks Fully Priced On Current Sales - Yahoo Finance | Applied Digital Reports Fiscal First Quarter 2027 Results - Applied Digital Corporation (APLD)"
+      "recent_news": "Google News | Applied Digital (APLD) Blocks Tokenized Versions Of Its Stock - Yahoo Finance | Applied Digital Reports Fiscal First Quarter 2027 Results - Applied Digital Corporation (APLD)"
     },
     {
       "ticker": "NNBR",
@@ -168,9 +202,26 @@
       "float_shares": 70135102,
       "cash_debt_ratio": 0.08,
       "insider_pct": 5.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | 3 Reasons to Sell NNBR and 1 Stock to Buy Instead - Yahoo Finance | NN adds a fourth product line in 2026 for electrical wiring systems. - Stock Titan"
+    },
+    {
+      "ticker": "CDXS",
+      "score": 51.7,
+      "last_close": 1.32,
+      "rel_volume": 1.42,
+      "price_change_pct": 6.45,
+      "gap_pct": 8.47,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 144547616,
+      "float_shares": 82301248,
+      "cash_debt_ratio": 0.76,
+      "insider_pct": 7.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | NN adds a fourth product line in 2026 for electrical wiring systems. - Stock Titan | 3 Reasons to Sell NNBR and 1 Stock to Buy Instead - Yahoo Finance"
+      "recent_news": "Google News | Officer Alison Moore proposes selling 6,335 Codexis (Nasdaq: CDXS) shares. - Stock Titan | CDXS Oct 2026 1.000 put (CDXS261016P00001000) stock historical prices and data - Yahoo Finance UK"
     },
     {
       "ticker": "OLMA",
@@ -207,6 +258,23 @@
       "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Gen Xers share 17 nostalgic dishes they ate growing up—and still make for dinner - Upworthy"
     },
     {
+      "ticker": "NVCR",
+      "score": 47.9,
+      "last_close": 14.89,
+      "rel_volume": 1.65,
+      "price_change_pct": 5.83,
+      "gap_pct": 5.54,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1733878656,
+      "float_shares": 96424142,
+      "cash_debt_ratio": 1.89,
+      "insider_pct": 10.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | NovoCure Ltd (NVCR) Stock Up 5.8% and Still Undervalued -- GF Sc - GuruFocus | NovoCure (NVCR) Breaks Out on Q2 2026 Earnings - Optune Pax Driving Recovery - TradingKey"
+    },
+    {
       "ticker": "CGEM",
       "score": 47.6,
       "last_close": 13.98,
@@ -237,7 +305,7 @@
       "cash_debt_ratio": 3.85,
       "insider_pct": 0.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
+      "recent_dilution_filings_90d": 4,
       "recent_news": "Google News | DYN Nov 2026 18.000 put (DYN261120P00018000) stock price, news, quote and history - Yahoo Finance UK | DYN Stock Fundamentals &amp; Key Ratios - Pluang"
     },
     {
@@ -275,6 +343,23 @@
       "recent_news": "Google News | CTNM Nov 2026 22.500 call (CTNM261120C00022500) stock price, news, quote and history - Yahoo Finance UK | (CTNM) Volatility Zones as Tactical Triggers - Stock Traders Daily"
     },
     {
+      "ticker": "BDTX",
+      "score": 42.6,
+      "last_close": 1.81,
+      "rel_volume": 1.32,
+      "price_change_pct": 5.23,
+      "gap_pct": 5.81,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 103716208,
+      "float_shares": 52511576,
+      "cash_debt_ratio": 6.51,
+      "insider_pct": 0.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | BLACK DIAMOND THERAPEUTICS I (BDTX) Stock Price &amp; Overview - ChartMill | Black Diamond Therapeutics Stock Price Forecast. Should You Buy BDTX? - StockInvest.us"
+    },
+    {
       "ticker": "SMMT",
       "score": 42.6,
       "last_close": 15.57,
@@ -289,41 +374,7 @@
       "insider_pct": 80.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Summit Therapeutics (SMMT) Stock Fair Value Edges Higher After AstraZeneca Deal And Trial Focus - Yahoo Finance | A kidney cancer study will test four approaches, including standard care - Stock Titan"
-    },
-    {
-      "ticker": "BDTX",
-      "score": 42.5,
-      "last_close": 1.81,
-      "rel_volume": 1.31,
-      "price_change_pct": 5.23,
-      "gap_pct": 5.81,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 103716208,
-      "float_shares": 52511576,
-      "cash_debt_ratio": 6.51,
-      "insider_pct": 0.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BLACK DIAMOND THERAPEUTICS I (BDTX) Stock Price &amp; Overview - ChartMill | Black Diamond Therapeutics Stock Price Forecast. Should You Buy BDTX? - StockInvest.us"
-    },
-    {
-      "ticker": "NVCR",
-      "score": 42.0,
-      "last_close": 14.89,
-      "rel_volume": 1.15,
-      "price_change_pct": 5.83,
-      "gap_pct": 5.54,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1733878656,
-      "float_shares": 96424142,
-      "cash_debt_ratio": 1.89,
-      "insider_pct": 10.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | NVCR Rallies On FDA Approval For Cancer Treatment Device, Analyst Still Sees 275% Potential Upside - Stocktwits | NovoCure (NVCR) Stock Still Looks Cheap After Its 86% Fall - Yahoo Finance"
+      "recent_news": "Google News | Summit Therapeutics Inc. (SMMT) latest stock news and headlines - Yahoo Finance Singapore | A kidney cancer study will test four approaches, including standard care - Stock Titan"
     },
     {
       "ticker": "RC",
@@ -360,6 +411,23 @@
       "recent_news": "Google News | Invesco Mortgage Capital Inc. (IVR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Invesco Mortgage Capital (NYSE:IVR) Sets New 12-Month Low - What's Next? - MarketBeat"
     },
     {
+      "ticker": "RIG",
+      "score": 40.1,
+      "last_close": 5.89,
+      "rel_volume": 1.35,
+      "price_change_pct": 4.8,
+      "gap_pct": 4.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 6578423808,
+      "float_shares": 923615155,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 9.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 38,
+      "recent_news": "Google News | Why Is Transocean (RIG) Stock Rocketing Higher Today - Yahoo Finance | RIG Stock Builds Momentum On Backlog, Merger, And Debt Moves - Timothy Sykes"
+    },
+    {
       "ticker": "HTZ",
       "score": 39.8,
       "last_close": 1.84,
@@ -377,23 +445,6 @@
       "recent_news": "Google News | HTZ Stock Plummets To Record Lows, Drops For The Ninth Session: Sees Highest Ever Short Interest - Stocktwits | Why Is Hertz (HTZ) Stock Rocketing Higher Today - Yahoo Finance"
     },
     {
-      "ticker": "ALXO",
-      "score": 39.6,
-      "last_close": 1.14,
-      "rel_volume": 0.69,
-      "price_change_pct": 7.55,
-      "gap_pct": 4.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 157635776,
-      "float_shares": 94963110,
-      "cash_debt_ratio": 12.52,
-      "insider_pct": 1.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A $0.001-per-share warrant is at the center of ALX Oncology (ALXO)'s agreed share exchange. - Stock Titan | Is ALX Oncology Holdings (ALXO) Stock Outpacing Its Medical Peers This Year? - Yahoo Finance"
-    },
-    {
       "ticker": "OPK",
       "score": 37.9,
       "last_close": 1.61,
@@ -409,40 +460,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Google News | Is OPKO Health (OPK) Pricing In Too Much For Sales? - Yahoo Finance | OPKO Health (NASDAQ:OPK) Stock Rating Raised to Outperform at Barrington Research - MarketBeat"
-    },
-    {
-      "ticker": "RIG",
-      "score": 37.5,
-      "last_close": 5.89,
-      "rel_volume": 1.13,
-      "price_change_pct": 4.8,
-      "gap_pct": 4.98,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 6578423808,
-      "float_shares": 923615155,
-      "cash_debt_ratio": 0.1,
-      "insider_pct": 9.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 38,
-      "recent_news": "Google News | Why Is Transocean (RIG) Stock Rocketing Higher Today - Yahoo Finance | RIG Stock Builds Momentum On Backlog, Merger, And Debt Moves - Timothy Sykes"
-    },
-    {
-      "ticker": "MYGN",
-      "score": 36.1,
-      "last_close": 4.21,
-      "rel_volume": 0.66,
-      "price_change_pct": 5.78,
-      "gap_pct": 5.53,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 402685024,
-      "float_shares": 79285904,
-      "cash_debt_ratio": 0.55,
-      "insider_pct": 4.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Myriad Genetics, Inc. (MYGN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Myriad Genetics, Inc. (MYGN) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "ACRS",
@@ -492,8 +509,8 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3311,
-      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A $0.21 dividend brings an 18-unit stock award for Encompass Health (EHC) director O'Connor. - Stock Titan"
+      "recent_dilution_filings_90d": 3278,
+      "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oracle (ORCL) awards its CEO 446,197 stock units, with vesting subject to continued employment. - Stock Titan"
     },
     {
       "ticker": "WULF",
@@ -542,8 +559,8 @@
       "float_shares": 304172764,
       "cash_debt_ratio": 0.33,
       "insider_pct": 8.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Google News | DNA sequencing and health data will be joined to help train AI - Stock Titan | Why PacBio (PACB) Stock Is Trading Up Today - Yahoo Finance"
     },
     {
@@ -565,9 +582,9 @@
     },
     {
       "ticker": "ORC",
-      "score": 30.5,
+      "score": 30.8,
       "last_close": 4.77,
-      "rel_volume": 0.98,
+      "rel_volume": 1.01,
       "price_change_pct": -4.02,
       "gap_pct": -3.46,
       "st_msg_count": null,
@@ -578,7 +595,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Fed Balance Sheet Debate Puts Orchid Island Capital Stock And Mortgage REITs In Focus - Simply Wall Street | Orchid Island Capital (NYSE:ORC) Hits New 1-Year Low - Here's Why - MarketBeat"
+      "recent_news": "Google News | Fed Balance Sheet Debate Puts Orchid Island Capital Stock And Mortgage REITs In Focus - Simply Wall Street | What Orchid Island Capital Stock's Earnings Guidance Means For Shareholders - Yahoo Finance"
     },
     {
       "ticker": "FUN",
@@ -609,21 +626,11 @@
     },
     {
       "ticker": "AGNC",
-      "score": 28.0,
+      "score": 28.2,
       "last_close": 8.44,
-      "rel_volume": 1.03,
+      "rel_volume": 1.05,
       "price_change_pct": -3.21,
       "gap_pct": -3.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "SRPT",
-      "score": 26.9,
-      "last_close": 17.73,
-      "rel_volume": 0.73,
-      "price_change_pct": 3.68,
-      "gap_pct": 3.68,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -639,9 +646,9 @@
     },
     {
       "ticker": "GENI",
-      "score": 25.2,
+      "score": 25.4,
       "last_close": 6.57,
-      "rel_volume": 0.49,
+      "rel_volume": 0.5,
       "price_change_pct": 3.46,
       "gap_pct": 4.65,
       "st_msg_count": null,
@@ -679,9 +686,9 @@
     },
     {
       "ticker": "OPEN",
-      "score": 21.7,
+      "score": 21.9,
       "last_close": 2.05,
-      "rel_volume": 0.58,
+      "rel_volume": 0.6,
       "price_change_pct": -3.07,
       "gap_pct": -2.84,
       "st_msg_count": null,
@@ -698,20 +705,10 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ACP",
-      "score": 18.0,
-      "last_close": 4.4,
-      "rel_volume": 1.14,
-      "price_change_pct": -0.9,
-      "gap_pct": -1.01,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SOFI",
-      "score": 18.0,
+      "score": 18.1,
       "last_close": 14.3,
-      "rel_volume": 0.84,
+      "rel_volume": 0.85,
       "price_change_pct": -1.72,
       "gap_pct": -1.51,
       "st_msg_count": null,
@@ -748,6 +745,26 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "PENN",
+      "score": 16.6,
+      "last_close": 14.71,
+      "rel_volume": 0.82,
+      "price_change_pct": -1.54,
+      "gap_pct": -1.2,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "TMC",
+      "score": 16.4,
+      "last_close": 2.62,
+      "rel_volume": 0.71,
+      "price_change_pct": 1.55,
+      "gap_pct": 1.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CIFR",
       "score": 16.3,
       "last_close": 8.94,
@@ -758,12 +775,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TMC",
-      "score": 16.3,
-      "last_close": 2.62,
-      "rel_volume": 0.7,
-      "price_change_pct": 1.55,
-      "gap_pct": 1.74,
+      "ticker": "OI",
+      "score": 16.2,
+      "last_close": 5.9,
+      "rel_volume": 0.82,
+      "price_change_pct": 1.2,
+      "gap_pct": 1.54,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -798,22 +815,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "AAL",
+      "score": 14.6,
+      "last_close": 11.68,
+      "rel_volume": 0.56,
+      "price_change_pct": -1.68,
+      "gap_pct": -1.52,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "FLNC",
       "score": 14.6,
       "last_close": 5.86,
       "rel_volume": 0.85,
       "price_change_pct": 1.03,
       "gap_pct": 0.78,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "AAL",
-      "score": 14.5,
-      "last_close": 11.68,
-      "rel_volume": 0.55,
-      "price_change_pct": -1.68,
-      "gap_pct": -1.52,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -849,9 +866,9 @@
     },
     {
       "ticker": "KOS",
-      "score": 12.4,
+      "score": 12.5,
       "last_close": 2.79,
-      "rel_volume": 0.96,
+      "rel_volume": 0.97,
       "price_change_pct": 0.36,
       "gap_pct": 0.04,
       "st_msg_count": null,
@@ -869,9 +886,9 @@
     },
     {
       "ticker": "GPRO",
-      "score": 10.1,
+      "score": 10.2,
       "last_close": 1.04,
-      "rel_volume": 0.61,
+      "rel_volume": 0.62,
       "price_change_pct": -0.95,
       "gap_pct": 0.0,
       "st_msg_count": null,
