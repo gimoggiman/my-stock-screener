@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-21T07:06:26.302758+00:00",
+  "last_updated_utc": "2026-10-21T13:28:35.515450+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 60,
-      "recent_news": "Google News | Lion Finance Group (LSE:BGEO) Stock Looks Reasonable On Current Earnings Value - Yahoo Finance | Why Is Lionsgate Studios Stock Surging Tuesday? - Lionsgate Studios (NYSE:LION) - Benzinga"
+      "recent_news": "Google News | Lion Copper will pay C$38,000 for research; its first report is expected within 3–5 weeks of initial payment. - Stock Titan | Why Is Lionsgate Studios Stock Surging Tuesday? - Lionsgate Studios (NYSE:LION) - Benzinga"
     },
     {
       "ticker": "TLK",
@@ -34,7 +34,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | PT Telekomunikasi Indonesia, Tbk (NYSE:TLK) Shares Gap Up - Should You Buy? - MarketBeat | TLK Stock Plunges As Telekomunikasi Indonesia Leads South Asian Decliners - Timothy Sykes"
+      "recent_news": "Google News | TLK Stock Plunges As Telekomunikasi Indonesia Leads South Asian Decliners - Timothy Sykes | PT Telekomunikasi Indonesia, Tbk (NYSE:TLK) Shares Gap Up - Should You Buy? - MarketBeat"
     },
     {
       "ticker": "ACH",
@@ -68,7 +68,7 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A November 10 board meeting at Hesai Group (HSAI) will consider Q3 and nine-month results. - Stock Titan | Hesai Group (NASDAQ:HSAI) Shares Gap Up - Should You Buy? - MarketBeat"
+      "recent_news": "Google News | Hesai Group (HSAI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Hesai Group (NASDAQ:HSAI) Stock Price Up 7.1% - What's Next? - MarketBeat"
     },
     {
       "ticker": "KVYO",
@@ -85,7 +85,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Klaviyo, Inc. (KVYO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | KVYO Stock Slides As Goldman Downgrade Collides With Key Earnings Catalyst - Timothy Sykes"
+      "recent_news": "Google News | Klaviyo, Inc. (KVYO) stock price, news, quote and history - Yahoo Finance UK | KVYO Stock Slides As Goldman Downgrade Collides With Key Earnings Catalyst - Timothy Sykes"
     },
     {
       "ticker": "XPEV",
@@ -102,7 +102,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | XPEV Stock Falls On $500M AI Bet For Self-Driving Tech — Exec Says Xpeng Is Following Google’s Pixel Playbook - Stocktwits | XPENG (NYSE:XPEV) Shares Gap Up - Here's Why - MarketBeat"
+      "recent_news": "Google News | XPEV Stock Falls On $500M AI Bet For Self-Driving Tech — Exec Says Xpeng Is Following Google’s Pixel Playbook - Stocktwits | XPEV Stock Climbs As Paris G9L Launch Fuels Global Ambitions - Timothy Sykes"
     },
     {
       "ticker": "SLS",
@@ -170,7 +170,7 @@
       "insider_pct": 2.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 38,
-      "recent_news": "Google News | Arbor Realty Trust, Inc. (ABR) stock price, news, quote and history - Yahoo Finance UK | Arbor Realty Trust PFDs Get Sell Ratings (NYSE:ABR.PR.D) - Seeking Alpha"
+      "recent_news": "Google News | Arbor Realty Trust, Inc. (ABR) stock price, news, quote and history - Yahoo Finance UK | Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock, Liquidation Preference $25.00 per Share - TradingView"
     },
     {
       "ticker": "RUN",
@@ -186,8 +186,8 @@
       "cash_debt_ratio": 0.05,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 707,
-      "recent_news": "Google News | Can Micron Stock Keep Climbing After a 10-Fold Run? Here's What Its Past Booms Say. - Yahoo Finance | Sunrun Inc. (NASDAQ:RUN) Stock Has Average Price Target of $14.39 - MarketBeat"
+      "recent_dilution_filings_90d": 709,
+      "recent_news": "Google News | What Did Salesforce Stock Investors Miss Before The Run? - Yahoo Finance | Sunrun Inc. (NASDAQ:RUN) Stock Has Average Price Target of $14.39 - MarketBeat"
     },
     {
       "ticker": "TDOC",
@@ -204,7 +204,7 @@
       "insider_pct": 0.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Understanding Momentum Shifts in (TDOC) - Stock Traders Daily | Teladoc Health (TDOC) Institutional Ownership 2026 - MarketBeat"
+      "recent_news": "Google News | Teladoc Health (TDOC) Institutional Ownership 2026 - MarketBeat | TDOC Oct 2026 9.500 call (TDOC261023C00009500) Interactive Stock Chart - Yahoo! Finance Canada"
     },
     {
       "ticker": "QDEL",
@@ -238,7 +238,7 @@
       "insider_pct": 32.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | EquipmentShare.com (NASDAQ:EQPT) Shares Climb 8.6% - Should You Buy? - MarketBeat | EquipmentShare.com (EQPT) Stock May Be Undervalued As Short Report Fight Continues - Yahoo Finance"
+      "recent_news": "Google News | EquipmentShare.com (EQPT) Stock May Be Undervalued As Short Report Fight Continues - Yahoo Finance | EquipmentShare.com (NASDAQ:EQPT) Shares Climb 8.6% - Should You Buy? - MarketBeat"
     },
     {
       "ticker": "LCID",
@@ -255,7 +255,7 @@
       "insider_pct": 15.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is LCID Stock Soaring 23% Today? - Stocktwits | Lucid (LCID) Stock Still Looks Above Fair Value On A 99% Slump - Simply Wall Street"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Lucid Group, Inc. (LCID) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
       "ticker": "SRPT",
@@ -272,7 +272,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | SRPT Stock Climbs After Sarepta Seeks Permanent FDA Nod For Two Duchenne Therapies - Stocktwits | The Technical Signals Behind (SRPT) That Institutions Follow - Stock Traders Daily"
+      "recent_news": "Google News | SRPT Stock Climbs After Sarepta Seeks Permanent FDA Nod For Two Duchenne Therapies - Stocktwits | SRPT Feb 2027 22.500 call (SRPT270219C00022500) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "BB",
@@ -288,8 +288,8 @@
       "cash_debt_ratio": 1.71,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 338,
-      "recent_news": "Google News | BlackBerry (TSE:BB) Stock Price Breaks Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat | BB Stock Rises Overnight On QNX Backlog Strength: Retail Says ‘Time For The Next Leg Up’ - TradingView"
+      "recent_dilution_filings_90d": 339,
+      "recent_news": "Google News | QNX Backlog Record Might Change The Case For BlackBerry Stock (TSX:BB) - Yahoo Finance | 88% say recalls or failures brought major or moderate changes to car software teams, BlackBerry QNX reports - Stock Titan"
     },
     {
       "ticker": "CRBU",
@@ -306,7 +306,7 @@
       "insider_pct": 8.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CRBU Stock Crashes 35% Premarket — RBC Slashes Target By 90% After Caribou Scraps CAR-T Programs - Yahoo Finance | Why Is CRBU Stock Crashing Today? - Stocktwits"
+      "recent_news": "Google News | CRBU Stock Crashes 35% Premarket — RBC Slashes Target By 90% After Caribou Scraps CAR-T Programs - Yahoo Finance | CRBU News | CARIBOU BIOSCIENCES INC (NASDAQ:CRBU) - ChartMill"
     },
     {
       "ticker": "CMPS",
@@ -323,7 +323,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | COMPASS Pathways (CMPS) Stock May Trade At A Premium After Positive Phase 3 Results - Yahoo Finance | CMPS Stock Rises 23% Pre-Market As Compass Achieves Primary Endpoint In Phase 3 Treatment-Resistant Depression Trial - Stocktwits"
+      "recent_news": "Google News | COMPASS Pathways (CMPS) Stock May Trade At A Premium After Positive Phase 3 Results - Yahoo Finance | CMPS Stock Defies Market Selloff After Compass Pathways Psilocybin Trial Success Pointing To 2027 Launch - Stocktwits"
     },
     {
       "ticker": "NUVB",
@@ -340,7 +340,7 @@
       "insider_pct": 17.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Nuvation Bio Inc. (NUVB) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Nuvation Bio Inc. (NUVB) Latest Stock News &amp; Headlines - Yahoo Finance - Yahoo! Finance Canada"
+      "recent_news": "Google News | Nuvation Bio Inc. (NUVB) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | October 2026's Top Insider-Owned Growth Stocks - Simply Wall Street"
     },
     {
       "ticker": "ULCC",
@@ -424,8 +424,8 @@
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | Six Flags Entertainment (NYSE:FUN) Stock Falls 3.8% - Time to Sell? - MarketBeat | Small Tire Pro Stock Focused on Fast and Fun Season Finale in Indy - Drag Illustrated"
+      "recent_dilution_filings_90d": 19,
+      "recent_news": "Google News | Six Flags Entertainment (NYSE:FUN) Stock Falls 3.8% - Time to Sell? - MarketBeat | How I trade stocks for fun and profit - Darius Foroux"
     },
     {
       "ticker": "ERAS",
@@ -459,7 +459,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | What Investors Got Wrong About VNET Group Before A 58% Slide - Yahoo Finance | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | VNET Group, Inc. (VNET) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | VNET Group (NASDAQ:VNET) Stock Falls 7.4% - Here's What Happened - MarketBeat"
     },
     {
       "ticker": "GLAS",
@@ -476,7 +476,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Google News | Glass House Stock Is Getting Smoked - Yahoo Finance | After raising $18M in share sales, Glass House Brands (GLAS) expects higher Q3 revenue. - Stock Titan"
+      "recent_news": "Google News | Glass House Stock Is Getting Smoked - Yahoo Finance | When Will Glass House Brands Inc. (NYSE:GLAS) Become Profitable? - Simply Wall Street"
     },
     {
       "ticker": "PACB",
@@ -510,7 +510,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | CLF Stock Flashes Buy Signal On Steelmaker's Massive $4 Bil Outlook - Investor's Business Daily | Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon &amp; more - CNBC"
+      "recent_news": "Google News | Cleveland Cliffs (CLF) Stock Sinks As Q3 Earnings Fuel Doubts - Simply Wall Street | Stocks making the biggest moves midday: Sandisk, Marvell, Datadog, Cleveland-Cliffs, Amazon &amp; more - CNBC"
     },
     {
       "ticker": "VYX",
@@ -544,7 +544,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A Dentsply Sirona webcast will review third-quarter results on Nov. 5. - Stock Titan | Dentsply Sirona (XRAY) Stock May Still Trade At A Discount - Yahoo Finance"
+      "recent_news": "Google News | A Dentsply Sirona webcast will review third-quarter results on Nov. 5. - Stock Titan | Great Hill Capital LLC Acquires 126,680 Shares of DENTSPLY SIRONA Inc. $XRAY - MarketBeat"
     },
     {
       "ticker": "RARE",
@@ -561,7 +561,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 297,
-      "recent_news": "Google News | Why Did RARE Stock Slump 46% After-Hours? - Stocktwits | Six parties report the same passive stake above 5% in Ultragenyx (RARE). - Stock Titan"
+      "recent_news": "Google News | Why Did RARE Stock Slump 46% After-Hours? - Stocktwits | Ultragenyx Pharmaceutical Inc. (NASDAQ:RARE) Stock Has Consensus Price Target of $33.65 According to Brokerages - MarketBeat"
     },
     {
       "ticker": "CXM",
@@ -595,7 +595,7 @@
       "insider_pct": 11.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Absci Corporation (ABSI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Absci (NASDAQ:ABSI) Shares Climb 5.8% Following Analyst Upgrade - MarketBeat"
+      "recent_news": "Google News | Absci (ABSI) Stock Seems Rich Against Its Book Value Backdrop - Yahoo Finance | Absci (NASDAQ:ABSI) Stock Gets Price Target Boost from KeyCorp - MarketBeat"
     },
     {
       "ticker": "GPRO",
@@ -612,7 +612,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "Google News | GoPro, Inc. (GPRO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A 6.95-ounce GoPro camera takes interchangeable lenses. TIME named it a 2026 best invention. - Stock Titan"
+      "recent_news": "Google News | GoPro, Inc. (GPRO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A skier descended a 600-meter face, then opened his parachute midair. GoPro follows the feat. - Stock Titan"
     },
     {
       "ticker": "RKT",
@@ -629,7 +629,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rocket Companies, Inc. (RKT) stock price, news, quote and history - Yahoo Finance Australia | RKT Stock Draws Bullish Targets As Rocket Bets On Credit Innovation - Timothy Sykes"
+      "recent_news": "Google News | Rocket Companies, Inc. (RKT) stock price, news, quote and history - Yahoo Finance Australia | Rocket Companies, Inc. $RKT Stock: Blue Jean Financial LLC Grows Position - MarketBeat"
     },
     {
       "ticker": "NVAX",
@@ -646,7 +646,7 @@
       "insider_pct": 5.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Novavax, Inc. (NVAX) latest stock news and headlines - Yahoo Finance Australia | 3 Reasons NVAX is Risky and 1 Stock to Buy Instead - Yahoo Finance"
+      "recent_news": "Google News | Novavax, Inc. (NVAX) stock price, news, quote and history - Yahoo Finance UK | Novavax, Inc. (NVAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "AGNC",
@@ -658,12 +658,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 10432237568,
-      "float_shares": 1177929930,
+      "float_shares": 1253762334,
       "cash_debt_ratio": 0.26,
       "insider_pct": 0.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | AGNC Investment: 3 Key Takeaways for Long-Term Investors - Yahoo Finance | AGNC's Q3: Book Value Is Plunging (NASDAQ:AGNC) - Seeking Alpha"
+      "recent_news": "Google News | AGNC Sees Mortgage Market Recovery Potential Despite Pressure On Fixed Income Securities - Yahoo Finance | AGNC's Q3: Book Value Is Plunging (NASDAQ:AGNC) - Seeking Alpha"
     },
     {
       "ticker": "BBD",
@@ -730,8 +730,8 @@
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 14,
-      "recent_news": "Google News | Why Nubank (NU) Stock Is Up Today - Yahoo Finance | NU Stock Rallies As JPMorgan Lifts Price Target To $23 - Timothy Sykes"
+      "recent_dilution_filings_90d": 15,
+      "recent_news": "Google News | Why Nubank (NU) Stock Is Up Today - Yahoo Finance | What's Going On With Nu Holdings Stock Wednesday? - Benzinga"
     },
     {
       "ticker": "AAL",
