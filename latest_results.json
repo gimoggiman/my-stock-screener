@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-22T07:08:03.911817+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-10-22T13:29:31.020436+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "AHT",
@@ -17,7 +17,7 @@
       "insider_pct": 1.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Unusual Volume Stocks: PRSO, SHFS, AHT Lead Today's Session - ChartMill | Ashford Hospitality Trust (AHT) Shares Rocket 66% After Hours: What’s Behind the Surge? - TradingView"
+      "recent_news": "Google News | Ashford Hospitality Trust (AHT) Stock Forum and Discussion - Moomoo | Unusual Volume Stocks: PRSO, SHFS, AHT Lead Today's Session - ChartMill"
     },
     {
       "ticker": "KYIV",
@@ -32,9 +32,9 @@
       "float_shares": 36188699,
       "cash_debt_ratio": 0.91,
       "insider_pct": 83.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "Google News | Watch US Stocks Rebound Ahead of Earnings; Zelenskyy Says Trump Pushing Kyiv to Yield - Bloomberg.com | Kyivstar Group Ltd. (KYIV) stock price, news, quote and history - Yahoo Finance Australia"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | KYIV Nov 2026 15.000 call (KYIV261120C00015000) stock price, news, quote and history - Yahoo Finance Australia | Watch US Stocks Rebound Ahead of Earnings; Zelenskyy Says Trump Pushing Kyiv to Yield - Bloomberg.com"
     },
     {
       "ticker": "SLQT",
@@ -85,7 +85,7 @@
       "insider_pct": 11.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Unisys Corporation (UIS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | The results call is set for Nov. 5, the morning after Unisys releases its third-quarter numbers. - Stock Titan"
+      "recent_news": "Google News | Unisys (UIS) Shows Fast-paced Momentum But Is Still a Bargain Stock - Yahoo Finance | Unisys (UIS) Stock Sinks As Losses Deepen And Cash Burn Persists - Webull"
     },
     {
       "ticker": "EROC",
@@ -102,7 +102,7 @@
       "insider_pct": 20.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ERock (NYSE:EROC) - Stock Analysis - Simply Wall Street | EROC May 2027 15.000 call (EROC270521C00015000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | ERock, Inc. Class A Common Stock (NYSE:EROC) Stock Quote - FinancialContent | ERock (NYSE:EROC) - Stock Analysis - Simply Wall Street"
     },
     {
       "ticker": "GLXY",
@@ -119,7 +119,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | GLXY Stock Gains, But Retail Traders Stay Bearish Despite AI Data Center Progress - Stocktwits | Galaxy Digital Stock Jumps: What's Going On? - Benzinga"
+      "recent_news": "Google News | Is Galaxy Digital (NasdaqGS:GLXY) Still Undervalued Despite Debt Risk At Its AI Hub? - Yahoo Finance | Galaxy Digital Earnings Are Less Than a Week Away: Here’s What Investors Should Know - Benzinga"
     },
     {
       "ticker": "SKYD",
@@ -136,7 +136,7 @@
       "insider_pct": 50.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is SKYD Stock Plunging Nearly 20% Premarket Today? - Stocktwits | S&amp;P 500, Nasdaq Gain, Powered By Meta, Tesla Stock — SPCX, META, TSLA, SKYD, IBM In Focus - Yahoo Finance"
+      "recent_news": "Google News | Is Skydance Planning a Deal with SpaceX? Skydance (NYSE:SKYD) Stock Surges - TipRanks | Skydance (SKYD) Soars on Potential Billion-Dollar Investment — The Next Key Event to Watch - Yahoo Finance"
     },
     {
       "ticker": "ABSI",
@@ -170,7 +170,7 @@
       "insider_pct": 1.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Amprius Technologies (NYSE:AMPX) - Stock Analysis - Simply Wall Street | AMPX Oct 2026 7.500 call (AMPX261016C00007500) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | Amprius Technologies (NYSE:AMPX) - Stock Analysis - Simply Wall Street | AMPX Apr 2027 14.000 call (AMPX270416C00014000) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "ENVX",
@@ -178,7 +178,7 @@
       "last_close": 2.54,
       "rel_volume": 1.09,
       "price_change_pct": 12.89,
-      "gap_pct": 13.11,
+      "gap_pct": 12.89,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 557399232,
@@ -187,7 +187,24 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Enovix (NASDAQ:ENVX) Stock Price Up 6.9% - Should You Buy? - MarketBeat | ENVX Stock Jumps As Drone Battery Orders Ignite Defense Growth Story - Timothy Sykes"
+      "recent_news": "Google News | Market Movers | Winners: NUAI, ENVX, ABTC | Losers: AVEX, TKNO, RCUS - Trefis | Enovix (NASDAQ:ENVX) Stock Price Up 6.9% - Should You Buy? - MarketBeat"
+    },
+    {
+      "ticker": "CAPR",
+      "score": 51.9,
+      "last_close": 5.88,
+      "rel_volume": 1.02,
+      "price_change_pct": -11.04,
+      "gap_pct": -11.04,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 341857248,
+      "float_shares": 45545503,
+      "cash_debt_ratio": 2.61,
+      "insider_pct": 9.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Capricor Therapeutics, Inc. (CAPR) Stock Price, News, Quote &amp; History - Yahoo Finance | MRNA, LNTH, BMY, CAPR, RARE Stocks In Focus — These FDA Decisions Could Shape August Trading - Stocktwits"
     },
     {
       "ticker": "KPTI",
@@ -204,7 +221,7 @@
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI290119C00002500 Interactive Stock Chart | KPTI Jan 2029 2.500 call Stock - Yahoo Finance"
+      "recent_news": "Google News | Why Is KPTI Stock Down 69% After-Hours Today? - Stocktwits | KPTI Q3'26 Earnings: revenue estimate is 33.54M USD - TradingView"
     },
     {
       "ticker": "EQPT",
@@ -221,7 +238,7 @@
       "insider_pct": 32.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | EQPT Apr 2027 30.000 call (EQPT270416C00030000) stock price, news, quote and history - Yahoo Finance UK | EquipmentShare sued over stock trading after company went public - Columbia Missourian"
+      "recent_news": "Google News | EquipmentShare.com (EQPT) Stock Gets Fair Value Trim After Analysts Reset Targets - Yahoo Finance | EquipmentShare.com (EQPT) Stock May Be Below Fair Value As It Rebuts A Short Report - Yahoo Finance"
     },
     {
       "ticker": "PACB",
@@ -280,7 +297,7 @@
       "last_close": 13.93,
       "rel_volume": 0.71,
       "price_change_pct": 13.16,
-      "gap_pct": 13.28,
+      "gap_pct": 13.48,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3100010752,
@@ -306,7 +323,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Infleqtion (INFQ) Stock Fair Value Edges Lower As Analysts Weigh Quantum Progress And Risks - Yahoo Finance | 2 Millionaire-Maker Quantum Computing Stocks That Wall Street Loves - The Motley Fool"
+      "recent_news": "Google News | Infleqtion, Inc. (INFQ) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Infleqtion, Inc. (INFQ) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "WULF",
@@ -323,7 +340,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | TeraWulf Jumps 8% as CEO Says Power Demand Remains ‘Extremely Strong’; Applied Digital Surges 9%, IREN Climbs 6% - Yahoo Finance | TeraWulf Jumps 8% as CEO Says Power Demand Remains 'Extremely Strong'; Applied Digital Surges 9%, IREN Climbs 6% - 24/7 Wall St."
+      "recent_news": "Google News | WULF Stock Snaps 7-Session Losing Streak — What's The Anthropic Connection? - Stocktwits | WULF Stock Rises Overnight As CEO Reiterates Strong Power Demand For 2028, 2029: Retail Highlights Deep Discount - Yahoo Finance"
     },
     {
       "ticker": "BLND",
@@ -340,7 +357,7 @@
       "insider_pct": 10.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Blend Labs head Nima Ghamsari sells $25,664 in company stock - Investing.com | BLND261016C00002000 Interactive Stock Chart | BLND Oct 2026 2.000 call Stock - Yahoo! Finance Canada"
+      "recent_news": "Google News | British Land (LSE:BLND) Stock Looks Undervalued Following Its 51% Three Year Run - Yahoo Finance | Blend Labs head Nima Ghamsari sells $25,664 in company stock By Investing.com - Investing.com Canada"
     },
     {
       "ticker": "CANG",
@@ -357,7 +374,7 @@
       "insider_pct": 14.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cango (CANG) Stock Forum and Discussion - Moomoo | Cango stock surges over 20% following Buy initiation at Jones Trading - Yahoo Finance"
+      "recent_news": "Google News | New Strong Sell Stocks for October 22nd - Yahoo Finance | Cango (CANG) Stock Forum and Discussion - Moomoo"
     },
     {
       "ticker": "ONL",
@@ -374,7 +391,7 @@
       "insider_pct": 7.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | ON Semiconductor Corporation (ON) stock price, news, quote and history - Yahoo Finance Singapore | ONL Nov 2026 2.500 put (ONL261120P00002500) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | ON Semiconductor Corporation (ON) stock price, news, quote and history - Yahoo Finance Singapore | Orion Stock Makes Progress With Deleveraging As Strategic Review Continues (NYSE:ONL) - Seeking Alpha"
     },
     {
       "ticker": "CHPT",
@@ -425,7 +442,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | United States Antimony (UAMY) Stock May Trade At A Premium Following Delivery Update - Yahoo Finance | United States Antimony Soars 11% While Rare Earth Peers Retreat; USA Rare Earth Drops 3%, Critical Metals Falls 4% - 24/7 Wall St."
+      "recent_news": "Google News | United States Antimony (UAMY) Stock May Trade At A Premium Following Delivery Update - Yahoo Finance | United States Antimony (UAMY) On Grant And Contract Wins With Valuation Questions Still Open - Simply Wall Street"
     },
     {
       "ticker": "SOPH",
@@ -442,7 +459,7 @@
       "insider_pct": 6.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | SOPH Stock Heads For Best Day In Over 8 Months – What’s Driving Today’s Super Rally? - Yahoo Finance | SOPHiA GENETICS Announces Closing of $57.5 Million Public Offering of Ordinary Shares With Full Exercise of the Underwriters' Option to Purchase Additional Shares - PR Newswire"
+      "recent_news": "Google News | Sowell Financial Services LLC Buys 341,889 Shares of SOPHiA GENETICS SA $SOPH - MarketBeat | SOPH Stock Heads For Best Day In Over 8 Months – What’s Driving Today’s Super Rally? - Yahoo Finance"
     },
     {
       "ticker": "RXT",
@@ -462,23 +479,6 @@
       "recent_news": "Google News | Rackspace: The Unhealthy Fixation Over GAAP Losses - Seeking Alpha | Rackspace (RXT) Stock Still Looks Undervalued After Fraud Lawsuit News - Yahoo Finance"
     },
     {
-      "ticker": "CGNT",
-      "score": 38.3,
-      "last_close": 9.33,
-      "rel_volume": 0.79,
-      "price_change_pct": 5.9,
-      "gap_pct": 5.68,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 688976064,
-      "float_shares": 55307868,
-      "cash_debt_ratio": 2.9,
-      "insider_pct": 6.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cognyte Software Ltd. (CGNT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A defense ministry has already ordered more than $10 million from Cognyte - Stock Titan"
-    },
-    {
       "ticker": "OPEN",
       "score": 35.8,
       "last_close": 1.95,
@@ -487,21 +487,38 @@
       "gap_pct": -5.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1893627648,
+      "market_cap": 1881236480,
       "float_shares": 952378125,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2768,
-      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Stock Market: Will S&amp;P 500 Open Up or Down Today? - Benzinga"
+      "recent_dilution_filings_90d": 2769,
+      "recent_news": "Google News | OPEN Stock Posts Best Day In 6 Months, Volume Jumps 2x: Retail Eyes Elusive Breakout - Stocktwits | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - Yahoo Finance"
+    },
+    {
+      "ticker": "TROX",
+      "score": 34.9,
+      "last_close": 3.26,
+      "rel_volume": 1.23,
+      "price_change_pct": -3.83,
+      "gap_pct": -4.57,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 520622112,
+      "float_shares": 118851956,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 25.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Tronox Limited (TROX) stock price, news, quote and history - Yahoo Finance UK | Tronox Holdings plc (TROX) stock price, news, quote and history - Yahoo Finance Australia"
     },
     {
       "ticker": "MRVI",
-      "score": 33.7,
+      "score": 33.8,
       "last_close": 7.57,
       "rel_volume": 0.64,
       "price_change_pct": 5.14,
-      "gap_pct": 5.42,
+      "gap_pct": 5.49,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2803607808,
@@ -510,7 +527,7 @@
       "insider_pct": 7.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Maravai LifeSciences Holdings, Inc. (MRVI) stock price, news, quote and history - Yahoo Finance Singapore | Maravai LifeSciences Holdings Inc. Stock Grades | MRVI - Barron's"
+      "recent_news": "Google News | Maravai LifeSciences Holdings, Inc. (MRVI) stock price, news, quote and history - Yahoo Finance Singapore | Maravai LifeSciences (MRVI) Stock Gets Fair Value Boost On mRNA And CleanCap Optimism - Yahoo Finance"
     },
     {
       "ticker": "BTGO",
@@ -527,24 +544,44 @@
       "insider_pct": 14.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | BitGo Holdings (BTGO) Stock Sees Fair Value Cut After Mixed Q2 Analyst Revisions - Yahoo Finance | Top BTGO (BTGO) Competitors 2026 - MarketBeat"
+      "recent_news": "Google News | An AI-powered card works wherever Visa is accepted, with a personal money assistant. - Stock Titan | BTGO Nov 2026 7.500 call (BTGO261120C00007500) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
-      "ticker": "HSHP",
-      "score": 32.9,
-      "last_close": 16.96,
-      "rel_volume": 0.69,
-      "price_change_pct": 5.08,
-      "gap_pct": 4.77,
+      "ticker": "FEAM",
+      "score": 30.0,
+      "last_close": 2.7,
+      "rel_volume": 0.37,
+      "price_change_pct": 5.06,
+      "gap_pct": 5.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 800003136,
-      "float_shares": 33028373,
-      "cash_debt_ratio": 0.05,
-      "insider_pct": 28.4,
+      "market_cap": 112447904,
+      "float_shares": 16141272,
+      "cash_debt_ratio": 216.11,
+      "insider_pct": 25.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Himalaya Shipping Ltd's Dividend Analysis - Yahoo Finance | Himalaya Shipping Ltd (NYSE:HSHP) Clears Minervini Trend Template and High Growth Momentum Screen - ChartMill"
+      "recent_news": "Google News | 5E Advanced Materials (FEAM) Stock Gets Fair Value Boost After Searles Valley Deal - Yahoo Finance | FEAM Forecast — Price Target — Prediction for 2027 - TradingView"
+    },
+    {
+      "ticker": "UNIT",
+      "score": 27.9,
+      "last_close": 5.35,
+      "rel_volume": 1.09,
+      "price_change_pct": -2.9,
+      "gap_pct": -3.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ULCC",
+      "score": 26.2,
+      "last_close": 5.04,
+      "rel_volume": 1.02,
+      "price_change_pct": 2.86,
+      "gap_pct": 2.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
     },
     {
       "ticker": "CIFR",
@@ -577,16 +614,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "SRPT",
-      "score": 23.8,
-      "last_close": 18.56,
-      "rel_volume": 0.68,
-      "price_change_pct": -3.18,
-      "gap_pct": -3.18,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "VISN",
       "score": 23.7,
       "last_close": 6.11,
@@ -603,6 +630,16 @@
       "rel_volume": 0.75,
       "price_change_pct": 2.79,
       "gap_pct": 3.28,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "QDEL",
+      "score": 23.6,
+      "last_close": 14.08,
+      "rel_volume": 1.64,
+      "price_change_pct": -0.91,
+      "gap_pct": -0.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -757,16 +794,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "LADR",
-      "score": 16.3,
-      "last_close": 8.96,
-      "rel_volume": 0.96,
-      "price_change_pct": -0.99,
-      "gap_pct": -1.05,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SNAP",
       "score": 15.1,
       "last_close": 6.35,
@@ -787,32 +814,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "PMT",
-      "score": 13.8,
-      "last_close": 6.84,
-      "rel_volume": 0.83,
-      "price_change_pct": -1.01,
-      "gap_pct": -0.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "IVR",
       "score": 12.9,
       "last_close": 5.42,
       "rel_volume": 0.81,
       "price_change_pct": 0.56,
       "gap_pct": 0.93,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "METC",
-      "score": 12.7,
-      "last_close": 7.28,
-      "rel_volume": 0.73,
-      "price_change_pct": 0.83,
-      "gap_pct": 0.83,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -853,16 +860,6 @@
       "rel_volume": 0.84,
       "price_change_pct": -0.27,
       "gap_pct": -0.1,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CMPS",
-      "score": 9.8,
-      "last_close": 11.84,
-      "rel_volume": 0.64,
-      "price_change_pct": -0.5,
-      "gap_pct": -0.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
