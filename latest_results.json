@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-23T06:59:32.479108+00:00",
-  "tickers_scanned": 61,
+  "last_updated_utc": "2026-10-23T12:33:46.319409+00:00",
+  "tickers_scanned": 62,
   "results": [
     {
       "ticker": "BHVN",
@@ -46,12 +46,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 509511872,
-      "float_shares": 166591750,
-      "cash_debt_ratio": 0.01,
+      "float_shares": 164142481,
+      "cash_debt_ratio": 0.13,
       "insider_pct": 4.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Brandywine Realty Trust (BDN) Stock Rallies As Q3 Results Ease Debt Fears - Simply Wall Street | Brandywine Realty Trust Is Too Cheap To Ignore (NYSE:BDN) - Seeking Alpha"
+      "recent_news": "Google News | Brandywine Realty Trust (BDN) Stock Rallies As Q3 Results Ease Debt Fears - Simply Wall Street | Brandywine Realty Trust Fund Price Forecast. Should You Buy BDN? - StockInvest.us"
     },
     {
       "ticker": "NOK",
@@ -63,12 +63,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 44117319680,
-      "float_shares": 4447731228,
-      "cash_debt_ratio": 1.53,
-      "insider_pct": 3.0,
+      "float_shares": 4481379630,
+      "cash_debt_ratio": 1.38,
+      "insider_pct": 2.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 27,
-      "recent_news": "Google News | Why Nokia Sank today - Yahoo Finance | Nokia CEO Says Supply Squeeze Is ‘A Structural Cost Increase, Not Just A Shortage': NOK Stock Drops To 6-Month Low Despite Q3 Beat - Stocktwits"
+      "recent_news": "Google News | Why Nokia Sank today - The Motley Fool | Nokia Q3 profit rises on AI-driven network demand, outlook unchanged - Yahoo Finance"
     },
     {
       "ticker": "VNET",
@@ -85,24 +85,24 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | What Investors Got Wrong About VNET Group Before A 58% Slide - Yahoo Finance | $VNET stock is down 13% today. Here's what we see in our data. - Quiver Quantitative"
+      "recent_news": "Google News | What Investors Got Wrong About VNET Group Before A 58% Slide - Yahoo Finance | VNET Group, Inc. - Unsponsored ADR (NASDAQ:VNET) Stock Rated \"Moderate Buy\" by Sell-Side Analysts - MarketBeat"
     },
     {
-      "ticker": "UPWK",
-      "score": 62.8,
-      "last_close": 9.39,
-      "rel_volume": 2.18,
-      "price_change_pct": 7.31,
-      "gap_pct": 7.77,
+      "ticker": "WOOF",
+      "score": 63.4,
+      "last_close": 2.53,
+      "rel_volume": 2.01,
+      "price_change_pct": 9.52,
+      "gap_pct": 9.96,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1172842624,
-      "float_shares": 111119771,
-      "cash_debt_ratio": 1.62,
-      "insider_pct": 5.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Upwork Inc. (UPWK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Upwork Inc (UPWK) Stock Price Today: $9.43 - Pluang"
+      "market_cap": 724640960,
+      "float_shares": 91553947,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 3.3,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Down 12.7% in 4 Weeks, Here's Why You Should You Buy the Dip in Petco (WOOF) - Yahoo Finance | Petco Health and Wellness (NASDAQ:WOOF) Stock Jumps 8.4% - Should You Buy? - MarketBeat"
     },
     {
       "ticker": "HTZ",
@@ -119,7 +119,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is Hertz (HTZ) Stock Soaring Today - Yahoo Finance | HTZ Stock Pops As Oro Mobility Lands $80M Growth Deal - Timothy Sykes"
+      "recent_news": "Google News | Why Is Hertz (HTZ) Stock Soaring Today - Yahoo Finance | Hertz Soars 12% as Oro Mobility Lands $80M Investment; Ryder and Avis Tick Up - 24/7 Wall St."
     },
     {
       "ticker": "WULF",
@@ -136,7 +136,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Yahoo Finance UK | IREN vs. TeraWulf: Which AI Infrastructure Stock Carries Less Risk Now? - Zacks Investment Research"
+      "recent_news": "Google News | WULF Stock Rises Overnight As CEO Reiterates Strong Power Demand For 2028, 2029: Retail Highlights Deep Discount - Yahoo Finance | WULF Stock Snaps 7-Session Losing Streak — What's The Anthropic Connection? - Stocktwits"
     },
     {
       "ticker": "SES",
@@ -151,9 +151,9 @@
       "float_shares": 299387595,
       "cash_debt_ratio": 22.81,
       "insider_pct": 15.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | SES AI Corporation (SES) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | symbol__ Stock Quote Price and Forecast - CNN"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Google News | Why is SES stock gaining today? - Investing.com | What Comes Next For SES AI After A 67% Slide - Yahoo Finance"
     },
     {
       "ticker": "LCID",
@@ -187,7 +187,24 @@
       "insider_pct": 9.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BUR Stock Sinks 37% Following Reports Of A US Appeals Court Ruling — What Is The Argentina Connection? - Stocktwits | Burford Capital (NYSE:BUR) Shares Climb 5.4% - Should You Buy? - MarketBeat"
+      "recent_news": "Google News | BUR Stock Sinks 37% Following Reports Of A US Appeals Court Ruling — What Is The Argentina Connection? - Stocktwits | BUR Nov 2026 5.000 put (BUR261120P00005000) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada"
+    },
+    {
+      "ticker": "DFH",
+      "score": 52.8,
+      "last_close": 10.12,
+      "rel_volume": 1.1,
+      "price_change_pct": 12.2,
+      "gap_pct": 12.53,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 916215424,
+      "float_shares": 26715461,
+      "cash_debt_ratio": 0.11,
+      "insider_pct": 20.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Google News | S&amp;P downgrades Dream Finders to ’B+’ following $2.2B acquisition of Beazer Homes - Yahoo Finance | Problems at Dream Finders Homes (DFH) - Substack"
     },
     {
       "ticker": "HUN",
@@ -204,7 +221,7 @@
       "insider_pct": 5.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Google News | Huntsman (HUN) Stock Sees Fair Value Cut As Analysts Split On Demand And Margins - Yahoo Finance | (HUN) Risk Channels and Responsive Allocation - Stock Traders Daily"
+      "recent_news": "Google News | Huntsman (HUN) Stock Looks Overvalued Even After Its 66% Fall - Simply Wall Street | Huntsman (HUN) Stock Sees Fair Value Cut As Analysts Split On Demand And Margins - Yahoo Finance"
     },
     {
       "ticker": "FLO",
@@ -219,8 +236,8 @@
       "float_shares": 195985586,
       "cash_debt_ratio": 0.03,
       "insider_pct": 8.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
       "recent_news": "Google News | Flowers Foods (NYSE:FLO) Stock Price Up 5.9% - What's Next? - MarketBeat | Flowers Foods (FLO) Stock Looks Fairly Valued With Weak Outlook But Peer Level Earnings - Yahoo Finance"
     },
     {
@@ -238,24 +255,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | LegalZoom.com, Inc. (LZ) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | LegalZoom.com, Inc. (LZ) stock price, news, quote and history - Yahoo Finance Singapore"
-    },
-    {
-      "ticker": "UPB",
-      "score": 49.4,
-      "last_close": 2.99,
-      "rel_volume": 1.5,
-      "price_change_pct": 6.79,
-      "gap_pct": 5.71,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 163765408,
-      "float_shares": 42809593,
-      "cash_debt_ratio": 273.91,
-      "insider_pct": 14.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UPB Nov 2026 2.500 call (UPB261120C00002500) stock price, news, quote and history - Yahoo Finance UK | Why Did UPB Stock Plunge 40% Today? - Stocktwits"
+      "recent_news": "Google News | LegalZoom.com, Inc. (LZ) stock price, news, quote and history - Yahoo Finance UK | LegalZoom.com, Inc. (LZ) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "OI",
@@ -270,9 +270,26 @@
       "float_shares": 150380648,
       "cash_debt_ratio": 0.07,
       "insider_pct": 1.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | Imperial Oil Limited (IMO.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | O-I Glass, Inc. (OI) Stock Forecasts - Yahoo Finance"
+    },
+    {
+      "ticker": "ARHS",
+      "score": 47.9,
+      "last_close": 11.53,
+      "rel_volume": 1.8,
+      "price_change_pct": 5.39,
+      "gap_pct": 5.35,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1631956864,
+      "float_shares": 52187318,
+      "cash_debt_ratio": 0.38,
+      "insider_pct": 4.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | O-I Glass, Inc. (OI) Stock Forecasts - Yahoo Finance | O-I Glass (NYSE:OI) Shares Climb 8.7% - What's Next? - MarketBeat"
+      "recent_news": "Google News | Arhaus (ARHS) Stock Gets Fair Value Bump As Analysts Weigh Growth And Margins - Yahoo Finance | Arhaus (ARHS) stock is up, what you need to know - The Globe and Mail"
     },
     {
       "ticker": "MBC",
@@ -306,7 +323,24 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Third-quarter results will be reported before markets open Nov. 5. - Stock Titan | Bob's Discount Furniture (NYSE:BOBS) Stock Price Up 7% - Here's Why - MarketBeat"
+      "recent_news": "Google News | Top Bob's Discount Furniture (BOBS) Competitors 2026 - MarketBeat | Third-quarter results will be reported before markets open Nov. 5. - Stock Titan"
+    },
+    {
+      "ticker": "ALKT",
+      "score": 44.9,
+      "last_close": 15.95,
+      "rel_volume": 1.5,
+      "price_change_pct": 5.63,
+      "gap_pct": 5.23,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1705724672,
+      "float_shares": 54516883,
+      "cash_debt_ratio": 0.23,
+      "insider_pct": 17.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Alkami Technology, Inc. (ALKT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Alkami Technology (ALKT) Adds Carleton To MANTL As Fair Value Stays In Focus - Yahoo Finance"
     },
     {
       "ticker": "TROX",
@@ -326,6 +360,23 @@
       "recent_news": "Google News | Tronox Holdings plc (TROX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Tronox Limited (TROX) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
+      "ticker": "OPENZ",
+      "score": 44.0,
+      "last_close": 0.053,
+      "rel_volume": 0.34,
+      "price_change_pct": -10.17,
+      "gap_pct": -11.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 952378125,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Opendoor Technologies Inc. (OPENZ) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - 24/7 Wall St."
+    },
+    {
       "ticker": "RKT",
       "score": 43.7,
       "last_close": 11.74,
@@ -340,7 +391,41 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rocket Companies, Inc. (RKT) stock price, news, quote and history - Yahoo Finance Australia | Is Rocket Companies Inc (RKT) Overvalued After 5.7% Rally? GF Va - GuruFocus"
+      "recent_news": "Google News | Rocket Companies, Inc. (RKT) stock price, news, quote and history - Yahoo Finance UK | Rocket Companies, Inc. (RKT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+    },
+    {
+      "ticker": "LDI",
+      "score": 43.6,
+      "last_close": 0.575,
+      "rel_volume": 0.31,
+      "price_change_pct": 8.49,
+      "gap_pct": 8.19,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 255464096,
+      "float_shares": 109574262,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 3.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Google News | LDI Oct 2026 2.000 call (LDI261023C00002000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | loanDepot Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs"
+    },
+    {
+      "ticker": "OPENW",
+      "score": 43.4,
+      "last_close": 0.08,
+      "rel_volume": 0.29,
+      "price_change_pct": -11.11,
+      "gap_pct": -11.11,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 952378125,
+      "cash_debt_ratio": 0.46,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - Yahoo Finance | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - 24/7 Wall St."
     },
     {
       "ticker": "TMC",
@@ -357,7 +442,7 @@
       "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | TMC stock hits 52-week low at 2.47 USD - Investing.com | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - TradingView"
+      "recent_news": "Google News | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - TradingView | TMC stock hits 52-week low at 2.47 USD - Investing.com"
     },
     {
       "ticker": "DEI",
@@ -374,7 +459,7 @@
       "insider_pct": 3.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | iShare.EURO STOXX UCITS ETF DEI (EXSI.MU) Stock Forum &amp; Discussion - Yahoo Finance - Yahoo! Finance Canada | Does Club Studio Expansion Change The Bull Case For Douglas Emmett Stock? - Simply Wall Street"
+      "recent_news": "Google News | Two planned gyms will put group classes, personal training and recovery under one roof. - Stock Titan | DEI policies brought no financial penalty for companies that kept them, study finds - CBS News"
     },
     {
       "ticker": "VYX",
@@ -391,7 +476,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | NCR Voyix Corporation (VYX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | VYX Nov 2026 10.000 call (VYX261120C00010000) interactive stock chart - Yahoo Finance Australia"
+      "recent_news": "Google News | NCR Voyix Corporation (VYX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | VYX Nov 2026 5.000 call (VYX261120C00005000) interactive stock chart - Yahoo Finance UK"
     },
     {
       "ticker": "ESRT",
@@ -411,23 +496,6 @@
       "recent_news": "Google News | Empire State Realty Trust (ESRT) Declines as Observatory Headwinds Overshadow Solid Office Fundamentals - Yahoo Finance | Empire State Realty Trust: An Observatory Problem Makes This A Hold (NYSE:ESRT) - Seeking Alpha"
     },
     {
-      "ticker": "GO",
-      "score": 40.7,
-      "last_close": 13.9,
-      "rel_volume": 1.07,
-      "price_change_pct": 5.7,
-      "gap_pct": 5.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1377274496,
-      "float_shares": 87185435,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 6.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 739,
-      "recent_news": "Google News | Western Digital Earnings Fail to Get Stock Back on Track - Barron's | What Could Go Wrong With Symbotic Stock? - Trefis"
-    },
-    {
       "ticker": "ULCC",
       "score": 40.7,
       "last_close": 5.3,
@@ -443,23 +511,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Will Frontier Group Holdings (ULCC) Report Negative Earnings Next Week? What You Should Know - Yahoo Finance | ULCC Forecast — Price Target — Prediction for 2027 - TradingView"
-    },
-    {
-      "ticker": "JBI",
-      "score": 40.5,
-      "last_close": 4.52,
-      "rel_volume": 1.0,
-      "price_change_pct": 5.85,
-      "gap_pct": 5.62,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 616689792,
-      "float_shares": 129986470,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 5.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Why Janus (JBI) Stock Is Falling Today - Yahoo Finance | JBI Nov 2026 7.500 call (JBI261120C00007500) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "BRBR",
@@ -493,7 +544,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Olin Corporation (OLN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Olin (OLN) Stock May Be Undervalued Given Its Sales Discount - Yahoo Finance"
+      "recent_news": "Google News | Olin (OLN) Stock May Be Undervalued Given Its Sales Discount - Yahoo Finance | Olin Corporation (OLN) Stock forecasts - Yahoo Finance Singapore"
     },
     {
       "ticker": "UAMY",
@@ -511,23 +562,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | United States Antimony (UAMY) Stock May Trade At A Premium Following Delivery Update - Yahoo Finance | United States Antimony Corporation's (NYSE:UAMY) Path To Profitability - Moomoo"
-    },
-    {
-      "ticker": "ADCT",
-      "score": 38.5,
-      "last_close": 1.6,
-      "rel_volume": 0.5,
-      "price_change_pct": 6.67,
-      "gap_pct": 6.33,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 204268320,
-      "float_shares": 88561803,
-      "cash_debt_ratio": 0.5,
-      "insider_pct": 14.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | ADC Therapeutics (ADCT) Stock Fair Value Falls After LOTIS 5 Reshapes Zynlonta Outlook - Yahoo Finance | ADC Therapeutics (NYSE:ADCT) - Stock Analysis - Simply Wall Street"
     },
     {
       "ticker": "NXH",
@@ -578,7 +612,24 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | SueWallSt Reminds Shareholders of a Lead Plaintiff Deadline of November 27, 2026 in Fluence Energy, Inc. Lawsuit - FLNC - Morningstar | BMO Capital Issues a Hold Rating on Fluence Energy (FLNC) - The Globe and Mail"
+      "recent_news": "Google News | SueWallSt Reminds Shareholders of a Lead Plaintiff Deadline of November 27, 2026 in Fluence Energy, Inc. Lawsuit - FLNC - Morningstar | FLNC May 2027 11.000 call (FLNC270521C00011000) stock historical prices and data - Yahoo Finance UK"
+    },
+    {
+      "ticker": "CWH",
+      "score": 32.7,
+      "last_close": 4.53,
+      "rel_volume": 1.16,
+      "price_change_pct": 4.14,
+      "gap_pct": 3.33,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 289140640,
+      "float_shares": 53976108,
+      "cash_debt_ratio": 0.06,
+      "insider_pct": 2.7,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Camping World (CWH) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Bear of the Day: Camping World (CWH) - Yahoo Finance"
     },
     {
       "ticker": "SFIX",
@@ -595,7 +646,7 @@
       "insider_pct": 4.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Stitch Fix, Inc. (SFIX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A 462,963-share award brings the CFO's Stitch Fix (SFIX) holdings to 1,546,562 shares. - Stock Titan"
+      "recent_news": "Google News | Is Stitch Fix’s (SFIX) Turnaround Built to Last? - Yahoo Finance | Mizuho upgrades Stitch Fix stock rating on limited downside risk - Investing.com"
     },
     {
       "ticker": "AAL",
@@ -658,16 +709,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "HAPN",
-      "score": 26.0,
-      "last_close": 14.505,
-      "rel_volume": 1.65,
-      "price_change_pct": -1.46,
-      "gap_pct": -1.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "SKYD",
       "score": 24.6,
       "last_close": 7.79,
@@ -678,12 +719,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GLAS",
-      "score": 23.5,
-      "last_close": 2.28,
+      "ticker": "UNIT",
+      "score": 24.2,
+      "last_close": 5.19,
       "rel_volume": 0.82,
-      "price_change_pct": -2.15,
-      "gap_pct": -3.86,
+      "price_change_pct": -2.99,
+      "gap_pct": -2.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -778,12 +819,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "METC",
-      "score": 13.3,
-      "last_close": 7.23,
-      "rel_volume": 0.87,
-      "price_change_pct": -0.69,
-      "gap_pct": -0.55,
+      "ticker": "EVH",
+      "score": 13.8,
+      "last_close": 4.89,
+      "rel_volume": 0.58,
+      "price_change_pct": 1.24,
+      "gap_pct": 1.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -844,16 +885,6 @@
       "rel_volume": 0.87,
       "price_change_pct": 0.39,
       "gap_pct": 0.39,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ARCO",
-      "score": 11.3,
-      "last_close": 8.02,
-      "rel_volume": 0.56,
-      "price_change_pct": -0.87,
-      "gap_pct": -1.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
