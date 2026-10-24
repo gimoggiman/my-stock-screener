@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-24T14:16:28.399553+00:00",
+  "last_updated_utc": "2026-10-24T17:51:06.397006+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Enovix (NASDAQ:ENVX) Stock Price Up 9.4% - Time to Buy? - MarketBeat"
+      "recent_news": "Google News | ENVX Apr 2027 7.000 put (ENVX270416P00007000) interactive stock chart - Yahoo Finance UK | Enovix Corporation Estimates – NASDAQ:ENVX - TradingView"
     },
     {
       "ticker": "LZM",
@@ -34,7 +34,7 @@
       "insider_pct": 57.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView | Lifezone Announces the Appointment of Ken Chernin as Senior Vice President, Investor Relations and Capital Markets - Stock Titan"
+      "recent_news": "Google News | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView | Lifezone Metals Confirms Advanced Negotiations with Orion CMC on Kabanga Nickel Project - Yahoo Finance"
     },
     {
       "ticker": "RITM",
@@ -238,7 +238,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | STLA Nov 2026 2.000 call (STLA261113C00002000) stock historical prices and data - Yahoo Finance UK | Stellantis Stock Drops to New 52-Week Low: What's Happening? - Benzinga"
+      "recent_news": "Google News | Stellantis (NYSE:STLA) Stock Gets Downgrade from Wall Street Zen - MarketBeat | Stellantis Stock Drops to New 52-Week Low: What's Happening? - Benzinga"
     },
     {
       "ticker": "SID",
@@ -323,7 +323,7 @@
       "insider_pct": 11.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 96,
-      "recent_news": "Google News | Sable Offshore (NYSE:SOC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | SOC Stock Reverses 8 Sessions Of Losses After Pricing $300M Offering – This Analyst Highlights The Need For Additional Financing - Stocktwits"
+      "recent_news": "Google News | Sable Offshore (NYSE:SOC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | Sable Offshore Corp. (NYSE:SOC) Stock Has Consensus Target Price of $11.40 According to Analysts - MarketBeat"
     },
     {
       "ticker": "ULCC",
@@ -493,7 +493,7 @@
       "insider_pct": 20.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia | HawkEye 360: Allied Budgets Are Paying For The Growth - Seeking Alpha"
+      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia | Ramp Turns Tony Hawk Into Tony Stock - WeRSM"
     },
     {
       "ticker": "BKSY",
@@ -510,7 +510,7 @@
       "insider_pct": 8.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BlackSky Technology Inc. (BKSY) stock price, news, quote and history - Yahoo Finance Singapore | BlackSky Technology Inc. Estimates – NYSE:BKSY - TradingView"
+      "recent_news": "Google News | BlackSky Technology Inc. Estimates – NYSE:BKSY - TradingView | BKSY Jan 2029 20.000 call (BKSY290119C00020000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "BBD",
@@ -561,7 +561,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Humacyte, Inc. (HUMA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance | Humacyte, Inc. Estimates – NASDAQ:HUMA - TradingView"
+      "recent_news": "Google News | Humacyte, Inc. (HUMA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance | Humacyte(HUMA) Stock Options Chain | Quotes &amp; News - Moomoo"
     },
     {
       "ticker": "NAT",
