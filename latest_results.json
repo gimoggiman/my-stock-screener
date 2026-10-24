@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-24T10:20:20.084986+00:00",
+  "last_updated_utc": "2026-10-24T14:16:28.399553+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -20,6 +20,23 @@
       "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Enovix (NASDAQ:ENVX) Stock Price Up 9.4% - Time to Buy? - MarketBeat"
     },
     {
+      "ticker": "LZM",
+      "score": 68.5,
+      "last_close": 3.47,
+      "rel_volume": 2.44,
+      "price_change_pct": 13.03,
+      "gap_pct": 13.03,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 312003520,
+      "float_shares": 28978563,
+      "cash_debt_ratio": 0.53,
+      "insider_pct": 57.9,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView | Lifezone Announces the Appointment of Ken Chernin as Senior Vice President, Investor Relations and Capital Markets - Stock Titan"
+    },
+    {
       "ticker": "RITM",
       "score": 66.8,
       "last_close": 9.39,
@@ -34,24 +51,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rithm Capital Corp (RITM) Q3 2026 Earnings Call Highlights: EAD of $0. ... - Yahoo Finance | Rithm Capital (RITM) Stock Jumps As Q3 Earnings Back Dividend Cover - Simply Wall Street"
-    },
-    {
-      "ticker": "DOUG",
-      "score": 64.6,
-      "last_close": 1.59,
-      "rel_volume": 2.86,
-      "price_change_pct": 6.0,
-      "gap_pct": 6.67,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 144515856,
-      "float_shares": 73912133,
-      "cash_debt_ratio": 1.08,
-      "insider_pct": 18.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | Doug Jones questions Tommy Tuberville’s stock trades and data center stance - wvtm | Jones challenges Tuberville on data centers, stock trading and ethics - Alabama Daily News"
+      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital: Sell Before This 11.7% Yield Turns Into A Loss (NYSE:RITM) - Seeking Alpha"
     },
     {
       "ticker": "UWMC",
@@ -68,7 +68,7 @@
       "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | UWM Holdings Corporation (UWMC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | UWM Holdings: Why An 80% Decline Still May Not Be Enough (NYSE:UWMC) - Seeking Alpha"
+      "recent_news": "Google News | UWM Holdings: Why An 80% Decline Still May Not Be Enough (NYSE:UWMC) - Seeking Alpha | UWM Holdings (UWMC) Stock Looks Fully Priced As Shares Fell 79% - Yahoo Finance"
     },
     {
       "ticker": "OSUR",
@@ -85,7 +85,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | OraSure Technologies (NASDAQ:OSUR) Stock Breaks Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat | OraSure (OSUR) Returns To Profit, But Growth Remains Elusive - Yahoo Finance"
+      "recent_news": "Google News | OraSure Technologies (NASDAQ:OSUR) Stock Breaks Above Two Hundred Day Moving Average - Should You Sell? - MarketBeat | OraSure Technologies, Inc. Estimates – NASDAQ:OSUR - TradingView"
     },
     {
       "ticker": "OPTU",
@@ -123,14 +123,14 @@
     },
     {
       "ticker": "INFY",
-      "score": 60.7,
+      "score": 60.6,
       "last_close": 12.35,
       "rel_volume": 2.31,
       "price_change_pct": -6.58,
-      "gap_pct": -7.03,
+      "gap_pct": -7.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 50021961728,
+      "market_cap": 50022150144,
       "float_shares": 7775396972,
       "cash_debt_ratio": 4.47,
       "insider_pct": null,
@@ -173,23 +173,6 @@
       "recent_news": "Google News | Hesai Group (HSAI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | U.S. Stock Market Movements | Hesai (HSAI.US) Rises Nearly 8% After Securing Exclusive Designation for LiDAR on Li Auto's New Generation Intelligent Driving Platform - Moomoo"
     },
     {
-      "ticker": "EAF",
-      "score": 54.9,
-      "last_close": 8.51,
-      "rel_volume": 1.28,
-      "price_change_pct": 14.23,
-      "gap_pct": 14.16,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 221667504,
-      "float_shares": 18993920,
-      "cash_debt_ratio": 0.11,
-      "insider_pct": 41.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | GrafTech International (EAF) Reports Q3 Loss, Beats Revenue Estimates - Yahoo Finance | GrafTech (EAF) Stock Jumps As Q3 Results Hint At Pricing Turnaround - Simply Wall Street"
-    },
-    {
       "ticker": "HOS",
       "score": 54.3,
       "last_close": 7.1,
@@ -204,7 +187,7 @@
       "insider_pct": 9.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Hornbeck Offshore Services, Inc (HOS) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | Hornbeck Offshore Services, Inc. Estimates – NYSE:HOS - TradingView | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "BORR",
@@ -255,7 +238,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Stellantis Stock Drops to New 52-Week Low: What's Happening? - Benzinga | STLA Oct 2026 10.500 call (STLA261023C00010500) Stock Historical Prices &amp; Data - Yahoo Finance - Yahoo! Finance Canada"
+      "recent_news": "Google News | STLA Nov 2026 2.000 call (STLA261113C00002000) stock historical prices and data - Yahoo Finance UK | Stellantis Stock Drops to New 52-Week Low: What's Happening? - Benzinga"
     },
     {
       "ticker": "SID",
@@ -272,7 +255,7 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Companhia Siderúrgica Nacional: A Successful Asset Sale Still Leaves Little Upside (SID) - Seeking Alpha | National Steel (NYSE:SID) Shares Climb 7.2% - What's Next? - MarketBeat"
+      "recent_news": "Google News | Companhia Siderurgica Nacional ADR Research &amp; Ratings | SID - Barron's | National Steel (NYSE:SID) Shares Climb 7.2% - What's Next? - MarketBeat"
     },
     {
       "ticker": "MLCO",
@@ -340,24 +323,7 @@
       "insider_pct": 11.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 96,
-      "recent_news": "Google News | Sable Offshore (NYSE:SOC) Shares Gap Up - Here's Why - MarketBeat | Why Is Sable Offshore (NYSE:SOC) Penny Stock Down in a Month Despite an Upbeat Restart Update? - kalkine.ca"
-    },
-    {
-      "ticker": "PENN",
-      "score": 45.6,
-      "last_close": 14.5,
-      "rel_volume": 1.29,
-      "price_change_pct": -6.21,
-      "gap_pct": -5.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1945399936,
-      "float_shares": 118228343,
-      "cash_debt_ratio": 0.08,
-      "insider_pct": 1.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 111,
-      "recent_news": "Google News | PENN Entertainment Inc. stock underperforms Friday when compared to competitors - MarketWatch | Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet? - Yahoo Finance"
+      "recent_news": "Google News | Sable Offshore (NYSE:SOC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street | SOC Stock Reverses 8 Sessions Of Losses After Pricing $300M Offering – This Analyst Highlights The Need For Additional Financing - Stocktwits"
     },
     {
       "ticker": "ULCC",
@@ -442,7 +408,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | Valaris (VAL) Stock May Be 48% Undervalued As Brazil Clears Its Sale - Yahoo Finance | Why Is Rigetti Computing Stock Falling? - Trefis"
+      "recent_news": "Google News | Valaris (VAL) Stock May Be 48% Undervalued As Brazil Clears Its Sale - Yahoo Finance | Transocean Gains 14.7% in 3 Months: Should Investors Buy the Stock? - TradingView"
     },
     {
       "ticker": "LDI",
@@ -471,7 +437,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 276720576,
-      "float_shares": 175043507,
+      "float_shares": 175071889,
       "cash_debt_ratio": 21.97,
       "insider_pct": 9.9,
       "dilution_risk": "낮음",
@@ -504,30 +470,13 @@
       "gap_pct": 5.94,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 384121824,
+      "market_cap": 677423168,
       "float_shares": 44551958,
       "cash_debt_ratio": 0.09,
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Google News | Braskem (BAK) Stock Forum and Discussion - Moomoo | Braskem (NYSE:BAK) Stock Price Up 7.2% - What's Next? - MarketBeat"
-    },
-    {
-      "ticker": "HAPN",
-      "score": 37.4,
-      "last_close": 14.09,
-      "rel_volume": 1.98,
-      "price_change_pct": -2.86,
-      "gap_pct": -2.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1626091136,
-      "float_shares": 111646335,
-      "cash_debt_ratio": 80.29,
-      "insider_pct": 3.1,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Happen, Inc. (HAPN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Happen, Inc. Estimates – NASDAQ:HAPN - TradingView"
     },
     {
       "ticker": "HAWK",
@@ -545,6 +494,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
       "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Australia | HawkEye 360: Allied Budgets Are Paying For The Growth - Seeking Alpha"
+    },
+    {
+      "ticker": "BKSY",
+      "score": 34.7,
+      "last_close": 17.58,
+      "rel_volume": 0.74,
+      "price_change_pct": 5.33,
+      "gap_pct": 5.03,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 719458816,
+      "float_shares": 35303000,
+      "cash_debt_ratio": 1.06,
+      "insider_pct": 8.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | BlackSky Technology Inc. (BKSY) stock price, news, quote and history - Yahoo Finance Singapore | BlackSky Technology Inc. Estimates – NYSE:BKSY - TradingView"
     },
     {
       "ticker": "BBD",
@@ -595,7 +561,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Humacyte, Inc. (HUMA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance | Humacyte, Inc. (HUMA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance"
+      "recent_news": "Google News | Humacyte, Inc. (HUMA) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Finance | Humacyte, Inc. Estimates – NASDAQ:HUMA - TradingView"
     },
     {
       "ticker": "NAT",
@@ -768,6 +734,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 15.3,
+      "last_close": 4.8,
+      "rel_volume": 0.54,
+      "price_change_pct": -1.84,
+      "gap_pct": -1.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "TMC",
       "score": 15.1,
       "last_close": 2.43,
@@ -854,6 +830,16 @@
       "rel_volume": 0.89,
       "price_change_pct": -0.09,
       "gap_pct": -0.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ANGX",
+      "score": 9.8,
+      "last_close": 3.49,
+      "rel_volume": 0.65,
+      "price_change_pct": 0.29,
+      "gap_pct": -0.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
