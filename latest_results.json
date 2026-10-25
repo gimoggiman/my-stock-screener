@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-25T18:09:20.205920+00:00",
-  "tickers_scanned": 63,
+  "last_updated_utc": "2026-10-25T21:27:59.440253+00:00",
+  "tickers_scanned": 64,
   "results": [
     {
       "ticker": "ENVX",
@@ -17,24 +17,7 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | ENVX Nov 2026 4.500 put (ENVX261113P00004500) stock price, news, quote and history - Yahoo Finance UK | Enovix Corporation Estimates – NASDAQ:ENVX - TradingView"
-    },
-    {
-      "ticker": "LZM",
-      "score": 68.5,
-      "last_close": 3.47,
-      "rel_volume": 2.44,
-      "price_change_pct": 13.03,
-      "gap_pct": 13.03,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 312003520,
-      "float_shares": 28978563,
-      "cash_debt_ratio": 0.53,
-      "insider_pct": 57.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lifezone Metals Limited (LZM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView"
+      "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Enovix Corporation (ENVX) Stock Is Trending After Hours: Here's Why - TradingView"
     },
     {
       "ticker": "RITM",
@@ -51,7 +34,24 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital Q3 earnings top consensus, as net servicing revenue surges (RITM:NYSE) - Seeking Alpha"
+      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital: Sell Before This 11.7% Yield Turns Into A Loss (NYSE:RITM) - Seeking Alpha"
+    },
+    {
+      "ticker": "DOUG",
+      "score": 64.6,
+      "last_close": 1.59,
+      "rel_volume": 2.86,
+      "price_change_pct": 6.0,
+      "gap_pct": 6.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 144515856,
+      "float_shares": 73912133,
+      "cash_debt_ratio": 1.08,
+      "insider_pct": 18.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 18,
+      "recent_news": "Google News | Doug Jones questions Tommy Tuberville’s stock trades and data center stance - wvtm | Jones challenges Tuberville on data centers, stock trading and ethics - Alabama Daily News"
     },
     {
       "ticker": "UWMC",
@@ -123,11 +123,11 @@
     },
     {
       "ticker": "INFY",
-      "score": 60.6,
+      "score": 60.7,
       "last_close": 12.35,
       "rel_volume": 2.31,
       "price_change_pct": -6.58,
-      "gap_pct": -7.0,
+      "gap_pct": -7.03,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 50022150144,
@@ -170,7 +170,24 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Hesai Group (2525.HK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | U.S. Stock Market Movements | Hesai (HSAI.US) Rises Nearly 8% After Securing Exclusive Designation for LiDAR on Li Auto's New Generation Intelligent Driving Platform - Moomoo"
+      "recent_news": "Google News | Hesai (HSAI) Stock Trades Below Fair Value Following Its 74% Run - Yahoo Finance | U.S. Stock Market Movements | Hesai (HSAI.US) Rises Nearly 8% After Securing Exclusive Designation for LiDAR on Li Auto's New Generation Intelligent Driving Platform - Moomoo"
+    },
+    {
+      "ticker": "EAF",
+      "score": 54.9,
+      "last_close": 8.51,
+      "rel_volume": 1.28,
+      "price_change_pct": 14.23,
+      "gap_pct": 14.16,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 228897488,
+      "float_shares": 18993920,
+      "cash_debt_ratio": 0.11,
+      "insider_pct": 41.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | GrafTech (EAF) Stock Rallies While Q3 Earnings Deepen Losses - Yahoo Finance"
     },
     {
       "ticker": "HOS",
@@ -272,7 +289,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Melco Resorts &amp; Entertainment Limited (MLCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Melco Resorts &amp; Entertainment Limited (MLCO) stock price, news, quote and history - Yahoo Finance Singapore"
+      "recent_news": "Google News | Melco Resorts &amp; Entertainment Limited (MLCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Melco Resorts &amp; Entertainment Limited (MLCO) stock price, news, quote and history - Yahoo Finance Australia"
     },
     {
       "ticker": "OIS",
@@ -306,7 +323,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance UK"
+      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance UK | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance Australia"
     },
     {
       "ticker": "SOC",
@@ -324,6 +341,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 96,
       "recent_news": "Google News | SOC Stock Rises Pre-Market After Energy Secretary Order Restarts Sable’s California Oil Pipeline - Stocktwits | Sable Offshore (NYSE:SOC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+    },
+    {
+      "ticker": "PENN",
+      "score": 45.6,
+      "last_close": 14.5,
+      "rel_volume": 1.29,
+      "price_change_pct": -6.21,
+      "gap_pct": -5.95,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1945399936,
+      "float_shares": 118228343,
+      "cash_debt_ratio": 0.08,
+      "insider_pct": 1.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 111,
+      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Mid Penn Bancorp (MPB) Stock Drops After Q3 Earnings Margin Softens - Yahoo Finance"
     },
     {
       "ticker": "ULCC",
@@ -408,7 +442,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | RIG Oct 2026 1.000 put (RIG261030P00001000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Is Rigetti Computing Stock Falling? - Trefis"
+      "recent_news": "Google News | Why Is Transocean (RIG) Stock Rocketing Higher Today - Yahoo Finance | A drilling rig sank off Gabon. Five people remain unaccounted for. - Stock Titan"
     },
     {
       "ticker": "LDI",
@@ -462,6 +496,40 @@
       "recent_news": "Google News | VAALCO Energy, Inc. (EGY) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | EGY: VAALCO Energy, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
+      "ticker": "BAK",
+      "score": 37.6,
+      "last_close": 1.7,
+      "rel_volume": 0.59,
+      "price_change_pct": 6.25,
+      "gap_pct": 5.94,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 384121824,
+      "float_shares": 44551958,
+      "cash_debt_ratio": 0.09,
+      "insider_pct": 0.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Google News | Braskem (BAK) Stock Forum and Discussion - Moomoo | Is Braskem (BAK) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance"
+    },
+    {
+      "ticker": "HAPN",
+      "score": 37.4,
+      "last_close": 14.09,
+      "rel_volume": 1.98,
+      "price_change_pct": -2.86,
+      "gap_pct": -2.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1626091136,
+      "float_shares": 111646335,
+      "cash_debt_ratio": 80.29,
+      "insider_pct": 3.1,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Happen, Inc. (HAPN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Happen, Inc. (HAPN) stock price, news, quote and history - Yahoo Finance Singapore"
+    },
+    {
       "ticker": "HAWK",
       "score": 36.6,
       "last_close": 12.28,
@@ -479,23 +547,6 @@
       "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Singapore | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
-      "ticker": "BKSY",
-      "score": 34.7,
-      "last_close": 17.58,
-      "rel_volume": 0.74,
-      "price_change_pct": 5.33,
-      "gap_pct": 5.03,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 719458816,
-      "float_shares": 35333284,
-      "cash_debt_ratio": 1.06,
-      "insider_pct": 8.0,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BlackSky Technology Inc. Estimates – NYSE:BKSY - TradingView | BKSY Jan 2029 17.500 call (BKSY290119C00017500) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada"
-    },
-    {
       "ticker": "BBD",
       "score": 32.7,
       "last_close": 4.07,
@@ -510,7 +561,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Banco Bradesco Sa (BBD) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Bank Bradesco SA (BBD) (Q3 2026) Earnings Call Highlights: Resilient Profit Growth, 11. ... - Yahoo Finance"
     },
     {
       "ticker": "AAL",
@@ -717,16 +768,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "EVH",
-      "score": 15.3,
-      "last_close": 4.8,
-      "rel_volume": 0.54,
-      "price_change_pct": -1.84,
-      "gap_pct": -1.74,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "TMC",
       "score": 15.1,
       "last_close": 2.43,
@@ -813,16 +854,6 @@
       "rel_volume": 0.89,
       "price_change_pct": -0.09,
       "gap_pct": -0.3,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ANGX",
-      "score": 9.8,
-      "last_close": 3.49,
-      "rel_volume": 0.65,
-      "price_change_pct": 0.29,
-      "gap_pct": -0.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
