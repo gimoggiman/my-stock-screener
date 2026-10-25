@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-25T14:50:03.714281+00:00",
-  "tickers_scanned": 64,
+  "last_updated_utc": "2026-10-25T18:09:20.205920+00:00",
+  "tickers_scanned": 63,
   "results": [
     {
       "ticker": "ENVX",
@@ -17,7 +17,7 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Enovix Corporation Estimates – NASDAQ:ENVX - TradingView"
+      "recent_news": "Google News | ENVX Nov 2026 4.500 put (ENVX261113P00004500) stock price, news, quote and history - Yahoo Finance UK | Enovix Corporation Estimates – NASDAQ:ENVX - TradingView"
     },
     {
       "ticker": "LZM",
@@ -34,7 +34,7 @@
       "insider_pct": 57.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lifezone Metals Limited (LZM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Talks on a significant investment in Tanzania's nickel project have reached an advanced stage. - Stock Titan"
+      "recent_news": "Google News | Lifezone Metals Limited (LZM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView"
     },
     {
       "ticker": "RITM",
@@ -51,7 +51,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital: Sell Before This 11.7% Yield Turns Into A Loss (NYSE:RITM) - Seeking Alpha"
+      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital Q3 earnings top consensus, as net servicing revenue surges (RITM:NYSE) - Seeking Alpha"
     },
     {
       "ticker": "UWMC",
@@ -68,7 +68,7 @@
       "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | UWM Holdings (UWMC) Stock Forum and Discussion - Moomoo | UWM Holdings (UWMC) Stock Looks Fully Priced As Shares Fell 79% - Yahoo Finance"
+      "recent_news": "Google News | UWM Holdings (UWMC) Stock Forum and Discussion - Moomoo | UWM Holdings (UWMC) Stock Fair Value Falls After Analyst Target Cuts - Yahoo Finance"
     },
     {
       "ticker": "OSUR",
@@ -136,7 +136,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Ahead of Infosys Earnings, Here's What Barchart Data Says Comes Next for INFY Stock - Barchart.com | Infosys (INFY) Stock Forecast &amp; Analyst Ratings - Moomoo"
+      "recent_news": "Google News | Infosys Limited (INFY) Stock Forecasts - Yahoo Finance | Ahead of Infosys Earnings, Here's What Barchart Data Says Comes Next for INFY Stock - Barchart.com"
     },
     {
       "ticker": "VG",
@@ -153,7 +153,7 @@
       "insider_pct": 2.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Google News | This LNG Stock Just Broke Out – And A Massive Project Is Behind It - Stocktwits | Should Investors Buy VG Stock for Its Strong LNG Growth Prospects? - Yahoo Finance"
+      "recent_news": "Google News | Should Investors Buy VG Stock for Its Strong LNG Growth Prospects? - Yahoo Finance | Should You Buy Venture Global Stock At This Price? - Trefis"
     },
     {
       "ticker": "HSAI",
@@ -255,7 +255,7 @@
       "insider_pct": null,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Companhia Siderúrgica Nacional: A Successful Asset Sale Still Leaves Little Upside (SID) - Seeking Alpha | Companhia Siderurgica Nacional ADR Research &amp; Ratings | SID - Barron's"
+      "recent_news": "Google News | Companhia Siderurgica Nacional S.A. Estimates – NYSE:SID - TradingView | Companhia Siderúrgica Nacional: A Successful Asset Sale Still Leaves Little Upside (SID) - Seeking Alpha"
     },
     {
       "ticker": "MLCO",
@@ -289,7 +289,7 @@
       "insider_pct": 7.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Google News | Oil States International, Inc. (OIS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | After-Hours Movers: Oct. 23 Postmarket Gainers and Losers - ChartMill"
+      "recent_news": "Google News | Oil States International, Inc. (OIS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oil States International (NYSE:OIS) Shares Climb 6.3% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "KOS",
@@ -408,7 +408,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | RIG Oct 2026 1.500 put (RIG261030P00001500) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Is Rigetti Computing Stock Falling? - Trefis"
+      "recent_news": "Google News | RIG Oct 2026 1.000 put (RIG261030P00001000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Is Rigetti Computing Stock Falling? - Trefis"
     },
     {
       "ticker": "LDI",
@@ -462,23 +462,6 @@
       "recent_news": "Google News | VAALCO Energy, Inc. (EGY) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | EGY: VAALCO Energy, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
-      "ticker": "BAK",
-      "score": 37.6,
-      "last_close": 1.7,
-      "rel_volume": 0.59,
-      "price_change_pct": 6.25,
-      "gap_pct": 5.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 677423168,
-      "float_shares": 44551958,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | The Bank of Nova Scotia (BNS.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Braskem (BAK) Stock Forum and Discussion - Moomoo"
-    },
-    {
       "ticker": "HAWK",
       "score": 36.6,
       "last_close": 12.28,
@@ -493,7 +476,7 @@
       "insider_pct": 20.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Singapore | HawkEye 360: Allied Budgets Are Paying For The Growth - Seeking Alpha"
+      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Singapore | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "BKSY",
@@ -527,7 +510,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Bank Bradesco SA (BBD) (Q3 2026) Earnings Call Highlights: Resilient Profit Growth, 11. ... - Yahoo Finance"
+      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Banco Bradesco Sa (BBD) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "AAL",
