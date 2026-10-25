@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-25T21:27:59.440253+00:00",
+  "last_updated_utc": "2026-10-25T23:50:27.715392+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -136,7 +136,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Infosys Limited (INFY) Stock Forecasts - Yahoo Finance | Ahead of Infosys Earnings, Here's What Barchart Data Says Comes Next for INFY Stock - Barchart.com"
+      "recent_news": "Google News | Ahead of Infosys Earnings, Here's What Barchart Data Says Comes Next for INFY Stock - Barchart.com | Infosys’ U.S. shares tumble after revenue outlook cut - Yahoo Finance"
     },
     {
       "ticker": "VG",
@@ -170,7 +170,7 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Hesai (HSAI) Stock Trades Below Fair Value Following Its 74% Run - Yahoo Finance | U.S. Stock Market Movements | Hesai (HSAI.US) Rises Nearly 8% After Securing Exclusive Designation for LiDAR on Li Auto's New Generation Intelligent Driving Platform - Moomoo"
+      "recent_news": "Google News | Hesai (HSAI) Stock Trades Below Fair Value Following Its 74% Run - Yahoo Finance | Hesai Group (NasdaqGS:HSAI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "EAF",
@@ -185,9 +185,9 @@
       "float_shares": 18993920,
       "cash_debt_ratio": 0.11,
       "insider_pct": 41.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | GrafTech (EAF) Stock Rallies While Q3 Earnings Deepen Losses - Yahoo Finance"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Where GrafTech International Goes After A 50% Drop - Yahoo Finance"
     },
     {
       "ticker": "HOS",
@@ -238,7 +238,7 @@
       "insider_pct": 36.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 40,
-      "recent_news": "Google News | Crude Oil Dec 26 (CL=F) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - 24/7 Wall St."
+      "recent_news": "Google News | Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - Yahoo Finance | Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance"
     },
     {
       "ticker": "STLA",
@@ -357,7 +357,7 @@
       "insider_pct": 1.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 111,
-      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Mid Penn Bancorp (MPB) Stock Drops After Q3 Earnings Margin Softens - Yahoo Finance"
+      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet? - Yahoo Finance"
     },
     {
       "ticker": "ULCC",
@@ -406,9 +406,9 @@
       "float_shares": 86668055,
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 21,
-      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | FUN Stock Heads For 4th Week Of Loss: Analyst Sees 29% Downside Ahead Of Earnings As Mounting Debt, Weak Sales Loom - TradingView"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | FUN Stock Heads For 4th Week Of Loss: Analyst Sees 29% Downside Ahead Of Earnings As Mounting Debt, Weak Sales Loom - Stocktwits"
     },
     {
       "ticker": "ACDC",
@@ -442,7 +442,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | Why Is Transocean (RIG) Stock Rocketing Higher Today - Yahoo Finance | A drilling rig sank off Gabon. Five people remain unaccounted for. - Stock Titan"
+      "recent_news": "Google News | RIG Oct 2026 1.000 put (RIG261030P00001000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Is Rigetti Computing Stock Falling? - Trefis"
     },
     {
       "ticker": "LDI",
@@ -510,7 +510,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Braskem (BAK) Stock Forum and Discussion - Moomoo | Is Braskem (BAK) Stock Outpacing Its Basic Materials Peers This Year? - Yahoo Finance"
+      "recent_news": "Google News | Braskem (BAK) Stock Forum and Discussion - Moomoo | Down 29.6% in 4 Weeks, Here's Why Braskem (BAK) Looks Ripe for a Turnaround - Yahoo Finance"
     },
     {
       "ticker": "HAPN",
@@ -561,7 +561,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Bank Bradesco SA (BBD) (Q3 2026) Earnings Call Highlights: Resilient Profit Growth, 11. ... - Yahoo Finance"
+      "recent_news": "Google News | BBD: Banco Bradesco S.A. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | Banco Bradesco Sa (BBD) Stock Forecasts - Yahoo Finance"
     },
     {
       "ticker": "AAL",
