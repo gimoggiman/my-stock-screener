@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-25T23:50:27.715392+00:00",
+  "last_updated_utc": "2026-10-26T03:20:10.957879+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 0.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital: Sell Before This 11.7% Yield Turns Into A Loss (NYSE:RITM) - Seeking Alpha"
+      "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital Q3 earnings top consensus, as net servicing revenue surges (RITM:NYSE) - Seeking Alpha"
     },
     {
       "ticker": "DOUG",
@@ -50,7 +50,7 @@
       "cash_debt_ratio": 1.08,
       "insider_pct": 18.5,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
+      "recent_dilution_filings_90d": 17,
       "recent_news": "Google News | Doug Jones questions Tommy Tuberville’s stock trades and data center stance - wvtm | Jones challenges Tuberville on data centers, stock trading and ethics - Alabama Daily News"
     },
     {
@@ -170,7 +170,7 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Hesai (HSAI) Stock Trades Below Fair Value Following Its 74% Run - Yahoo Finance | Hesai Group (NasdaqGS:HSAI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
+      "recent_news": "Google News | Hesai Group (2525.HK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Hesai Group (NasdaqGS:HSAI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "EAF",
@@ -185,8 +185,8 @@
       "float_shares": 18993920,
       "cash_debt_ratio": 0.11,
       "insider_pct": 41.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
       "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Where GrafTech International Goes After A 50% Drop - Yahoo Finance"
     },
     {
@@ -255,7 +255,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits | Stellantis Stock Drops to New 52-Week Low: What's Happening? - TradingView"
+      "recent_news": "Google News | STLA Jun 2027 6.000 call (STLA270617C00006000) interactive stock chart - Yahoo Finance UK | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits"
     },
     {
       "ticker": "SID",
@@ -305,7 +305,7 @@
       "cash_debt_ratio": 0.55,
       "insider_pct": 7.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
+      "recent_dilution_filings_90d": 6,
       "recent_news": "Google News | Oil States International, Inc. (OIS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oil States International (NYSE:OIS) Shares Climb 6.3% - Time to Buy? - MarketBeat"
     },
     {
@@ -323,7 +323,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance UK | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance Australia"
+      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance UK | KOSMOS ENERGY LTD (KOS) Equity Price and Quote - London Stock Exchange"
     },
     {
       "ticker": "SOC",
@@ -356,8 +356,8 @@
       "cash_debt_ratio": 0.08,
       "insider_pct": 1.6,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 111,
-      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Is PENN Entertainment (PENN) Stock a Buy After Its Latest Multi-Million Dollar Bet? - Yahoo Finance"
+      "recent_dilution_filings_90d": 108,
+      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Mid Penn Bancorp (MPB) Stock Drops After Q3 Earnings Margin Softens - Yahoo Finance"
     },
     {
       "ticker": "ULCC",
@@ -406,8 +406,8 @@
       "float_shares": 86668055,
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 21,
       "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | FUN Stock Heads For 4th Week Of Loss: Analyst Sees 29% Downside Ahead Of Earnings As Mounting Debt, Weak Sales Loom - Stocktwits"
     },
     {
@@ -442,7 +442,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | RIG Oct 2026 1.000 put (RIG261030P00001000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Is Rigetti Computing Stock Falling? - Trefis"
+      "recent_news": "Google News | Valaris (VAL) Stock May Be 48% Undervalued As Brazil Clears Its Sale - Yahoo Finance | Why Is Rigetti Computing Stock Falling? - Trefis"
     },
     {
       "ticker": "LDI",
@@ -476,7 +476,7 @@
       "insider_pct": 9.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Blend Labs, Inc. (BLND) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Blend Labs (NYSE:BLND) Stock Gets Downgrade from Wall Street Zen - MarketBeat"
+      "recent_news": "Google News | Blend Labs, Inc. (BLND) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Blend Labs, Inc. Estimates – NYSE:BLND - TradingView"
     },
     {
       "ticker": "EGY",
@@ -493,7 +493,7 @@
       "insider_pct": 3.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VAALCO Energy, Inc. (EGY) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | EGY: VAALCO Energy, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
+      "recent_news": "Google News | EGY: VAALCO Energy, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | EGY Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
       "ticker": "BAK",
