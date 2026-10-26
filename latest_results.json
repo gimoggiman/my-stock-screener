@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-10-26T03:20:10.957879+00:00",
-  "tickers_scanned": 64,
+  "last_updated_utc": "2026-10-26T09:44:17.498578+00:00",
+  "tickers_scanned": 63,
   "results": [
     {
       "ticker": "ENVX",
@@ -20,6 +20,23 @@
       "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Enovix Corporation (ENVX) Stock Is Trending After Hours: Here's Why - TradingView"
     },
     {
+      "ticker": "LZM",
+      "score": 68.5,
+      "last_close": 3.47,
+      "rel_volume": 2.44,
+      "price_change_pct": 13.03,
+      "gap_pct": 13.03,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 312003520,
+      "float_shares": 28978563,
+      "cash_debt_ratio": 0.53,
+      "insider_pct": 57.9,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Lifezone Metals Limited (LZM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Lifezone Metals Limited Estimates – NYSE:LZM/W - TradingView"
+    },
+    {
       "ticker": "RITM",
       "score": 66.8,
       "last_close": 9.39,
@@ -35,23 +52,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Rithm Capital (RITM) Stock Price Jumps After Q3 Earnings Beat - Yahoo Finance | Rithm Capital Q3 earnings top consensus, as net servicing revenue surges (RITM:NYSE) - Seeking Alpha"
-    },
-    {
-      "ticker": "DOUG",
-      "score": 64.6,
-      "last_close": 1.59,
-      "rel_volume": 2.86,
-      "price_change_pct": 6.0,
-      "gap_pct": 6.67,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 144515856,
-      "float_shares": 73912133,
-      "cash_debt_ratio": 1.08,
-      "insider_pct": 18.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 17,
-      "recent_news": "Google News | Doug Jones questions Tommy Tuberville’s stock trades and data center stance - wvtm | Jones challenges Tuberville on data centers, stock trading and ethics - Alabama Daily News"
     },
     {
       "ticker": "UWMC",
@@ -119,15 +119,15 @@
       "insider_pct": 8.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Neighborhood Intelligence, Inc. (NXH) stock price, news, quote and history - Yahoo Finance UK | symbol__ Stock Quote Price and Forecast - CNN"
+      "recent_news": "Google News | Neighborhood Intelligence, Inc. (NXH) stock price, news, quote and history - Yahoo Finance UK | Neighborhood Intelligence, Inc. (NXH) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
       "ticker": "INFY",
-      "score": 60.7,
+      "score": 60.6,
       "last_close": 12.35,
       "rel_volume": 2.31,
       "price_change_pct": -6.58,
-      "gap_pct": -7.03,
+      "gap_pct": -7.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 50022150144,
@@ -136,7 +136,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Ahead of Infosys Earnings, Here's What Barchart Data Says Comes Next for INFY Stock - Barchart.com | Infosys’ U.S. shares tumble after revenue outlook cut - Yahoo Finance"
+      "recent_news": "Google News | Infosys shares dip as lower growth outlook offsets strong deal wins - Investing.com | Infosys stock falls nearly 3% after Q2 earnings miss, guidance cut; brokerages see margin pressure - TradingView"
     },
     {
       "ticker": "VG",
@@ -170,24 +170,7 @@
       "insider_pct": 4.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Hesai Group (2525.HK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Hesai Group (NasdaqGS:HSAI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
-    },
-    {
-      "ticker": "EAF",
-      "score": 54.9,
-      "last_close": 8.51,
-      "rel_volume": 1.28,
-      "price_change_pct": 14.23,
-      "gap_pct": 14.16,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 228897488,
-      "float_shares": 18993920,
-      "cash_debt_ratio": 0.11,
-      "insider_pct": 41.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | GrafTech International Ltd. (EAF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Where GrafTech International Goes After A 50% Drop - Yahoo Finance"
+      "recent_news": "Google News | Hesai (HSAI) Stock Trades Below Fair Value Following Its 74% Run - Yahoo Finance | Hesai Group (NasdaqGS:HSAI) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
     },
     {
       "ticker": "HOS",
@@ -221,7 +204,7 @@
       "insider_pct": 14.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Borr Drilling Limited (BORR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | A drilling rig sank off Gabon. Five people remain unaccounted for. - Stock Titan"
+      "recent_news": "Google News | Borr Drilling Limited (BORR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why is Borr Drilling stock sliding today? - Investing.com"
     },
     {
       "ticker": "WTI",
@@ -238,7 +221,7 @@
       "insider_pct": 36.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 40,
-      "recent_news": "Google News | Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - Yahoo Finance | Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance"
+      "recent_news": "Google News | Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - Yahoo Finance | Oil Stocks Rally as WTI Crude Price Tops $103: Devon Energy and Diamondback Energy Gain 5%, Occidental Petroleum Rises 3% - 24/7 Wall St."
     },
     {
       "ticker": "STLA",
@@ -255,7 +238,7 @@
       "insider_pct": 25.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | STLA Jun 2027 6.000 call (STLA270617C00006000) interactive stock chart - Yahoo Finance UK | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits"
+      "recent_news": "Google News | STLA Oct 2026 10.000 call (STLA261030C00010000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Did STLA, OLLI, SMR Stocks Hit 52-Week Lows Today? - Stocktwits"
     },
     {
       "ticker": "SID",
@@ -289,7 +272,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Melco Resorts &amp; Entertainment Limited (MLCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Melco Resorts &amp; Entertainment Limited (MLCO) stock price, news, quote and history - Yahoo Finance Australia"
+      "recent_news": "Google News | Melco Resorts &amp; Entertainment Limited (MLCO) stock price, news, quote and history - Yahoo Finance Australia | Fund contributions will fulfill non-gaming obligations, Melco Resorts (MLCO) says. - Stock Titan"
     },
     {
       "ticker": "OIS",
@@ -306,7 +289,7 @@
       "insider_pct": 7.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Oil States International, Inc. (OIS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oil States International (NYSE:OIS) Shares Climb 6.3% - Time to Buy? - MarketBeat"
+      "recent_news": "Google News | OIS Nov 2026 7.500 call (OIS261120C00007500) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Oil States International (NYSE:OIS) Shares Climb 6.3% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "KOS",
@@ -341,23 +324,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 96,
       "recent_news": "Google News | SOC Stock Rises Pre-Market After Energy Secretary Order Restarts Sable’s California Oil Pipeline - Stocktwits | Sable Offshore (NYSE:SOC) Stock Forecast &amp; Analyst Predictions - Simply Wall Street"
-    },
-    {
-      "ticker": "PENN",
-      "score": 45.6,
-      "last_close": 14.5,
-      "rel_volume": 1.29,
-      "price_change_pct": -6.21,
-      "gap_pct": -5.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1945399936,
-      "float_shares": 118228343,
-      "cash_debt_ratio": 0.08,
-      "insider_pct": 1.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 108,
-      "recent_news": "Google News | PENN Stock Slips Overnight After Year's High: CEO Says Employment Matters More Than Gas Prices For Casino Visits - Stocktwits | Mid Penn Bancorp (MPB) Stock Drops After Q3 Earnings Margin Softens - Yahoo Finance"
     },
     {
       "ticker": "ULCC",
@@ -442,7 +408,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 43,
-      "recent_news": "Google News | Valaris (VAL) Stock May Be 48% Undervalued As Brazil Clears Its Sale - Yahoo Finance | Why Is Rigetti Computing Stock Falling? - Trefis"
+      "recent_news": "Google News | Borr Drilling, BW Energy, Panoro shares slump after Gabon rig sinking - Investing.com | Transocean Gains 14.7% in 3 Months: Should Investors Buy the Stock? - Yahoo Finance"
     },
     {
       "ticker": "LDI",
@@ -476,7 +442,7 @@
       "insider_pct": 9.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Blend Labs, Inc. (BLND) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Blend Labs, Inc. Estimates – NYSE:BLND - TradingView"
+      "recent_news": "Google News | Blend Labs, Inc. (BLND) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Blend Labs (BLND) Stock Price, News &amp; Analysis - MarketBeat"
     },
     {
       "ticker": "EGY",
@@ -496,40 +462,6 @@
       "recent_news": "Google News | EGY: VAALCO Energy, Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits | EGY Forecast — Price Target — Prediction for 2027 - TradingView"
     },
     {
-      "ticker": "BAK",
-      "score": 37.6,
-      "last_close": 1.7,
-      "rel_volume": 0.59,
-      "price_change_pct": 6.25,
-      "gap_pct": 5.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 384121824,
-      "float_shares": 44551958,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Braskem (BAK) Stock Forum and Discussion - Moomoo | Down 29.6% in 4 Weeks, Here's Why Braskem (BAK) Looks Ripe for a Turnaround - Yahoo Finance"
-    },
-    {
-      "ticker": "HAPN",
-      "score": 37.4,
-      "last_close": 14.09,
-      "rel_volume": 1.98,
-      "price_change_pct": -2.86,
-      "gap_pct": -2.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1626091136,
-      "float_shares": 111646335,
-      "cash_debt_ratio": 80.29,
-      "insider_pct": 3.1,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Happen, Inc. (HAPN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Happen, Inc. (HAPN) stock price, news, quote and history - Yahoo Finance Singapore"
-    },
-    {
       "ticker": "HAWK",
       "score": 36.6,
       "last_close": 12.28,
@@ -544,7 +476,24 @@
       "insider_pct": 20.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Singapore | symbol__ Stock Quote Price and Forecast - CNN"
+      "recent_news": "Google News | HawkEye 360, Inc. (HAWK) stock price, news, quote and history - Yahoo Finance Singapore | HawkEye 360: Allied Budgets Are Paying For The Growth - Seeking Alpha"
+    },
+    {
+      "ticker": "BKSY",
+      "score": 34.7,
+      "last_close": 17.58,
+      "rel_volume": 0.74,
+      "price_change_pct": 5.33,
+      "gap_pct": 5.03,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 719458816,
+      "float_shares": 35333284,
+      "cash_debt_ratio": 1.06,
+      "insider_pct": 8.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Planet Labs vs. BlackSky: Which Space Stock Is the Better Pick? - Yahoo Finance | BlackSky CEO Brian O’Toole sells $337,200 in company stock - Investing.com"
     },
     {
       "ticker": "BBD",
@@ -578,7 +527,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | American sets new revenue records amid historic fuel cost pressure - American Airlines | Why American Airlines (AAL) stock is down today - Yahoo Finance"
+      "recent_news": "Google News | American Airlines (AAL) Stock Drops As Q3 Earnings Deepen Loss Concerns - Yahoo Finance | Why American Airlines (AAL) stock is down today - TradingView"
     },
     {
       "ticker": "HUMA",
@@ -768,6 +717,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 15.3,
+      "last_close": 4.8,
+      "rel_volume": 0.54,
+      "price_change_pct": -1.84,
+      "gap_pct": -1.74,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "TMC",
       "score": 15.1,
       "last_close": 2.43,
@@ -854,6 +813,16 @@
       "rel_volume": 0.89,
       "price_change_pct": -0.09,
       "gap_pct": -0.3,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "ANGX",
+      "score": 9.8,
+      "last_close": 3.49,
+      "rel_volume": 0.65,
+      "price_change_pct": 0.29,
+      "gap_pct": -0.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
