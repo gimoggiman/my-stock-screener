@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-28T04:06:18.776686+00:00",
+  "last_updated_utc": "2026-10-28T10:59:25.391199+00:00",
   "tickers_scanned": 64,
   "results": [
     {
@@ -17,7 +17,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | 3 Canadian Bank Stocks Facing A Bank Of Canada Rate Reset - Yahoo Finance | Jim Cramer explains why even strong bank earnings couldn't save their stocks - CNBC"
+      "recent_news": "Google News | Why is Deutsche Bank stock rallying today? - Investing.com | 3 Canadian Bank Stocks Facing A Bank Of Canada Rate Reset - Yahoo Finance"
     },
     {
       "ticker": "MFIC",
@@ -34,7 +34,7 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Ares Capital seals $2.6 billion deal for Apollo's MFIC as consolidation continues - Reuters | $HAREHOLDER ALERT: The M&amp;A Class Action Firm Announces An Investigation of MidCap Financial Investment Corporation (NASDAQ: MFIC) - Morningstar"
+      "recent_news": "Google News | Ares Capital Buys Apollo’s MFIC - Markets Media | Ares Capital seals $2.6 billion deal for Apollo's MFIC as consolidation continues - Reuters"
     },
     {
       "ticker": "OPENZ",
@@ -51,7 +51,7 @@
       "insider_pct": null,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Gap-Up and Gap-Down Stocks in Today's Session - ChartMill | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - Yahoo Finance"
+      "recent_news": "Google News | Gap-Up and Gap-Down Stocks in Today's Session - ChartMill | Opendoor (OPEN) Rebounds From Record Low: Two Catalysts That Could Drive Its Next Move - Yahoo Finance"
     },
     {
       "ticker": "SOFI",
@@ -63,11 +63,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 21181753344,
-      "float_shares": 1271344333,
-      "cash_debt_ratio": 0.99,
+      "float_shares": 1276312298,
+      "cash_debt_ratio": 0.71,
       "insider_pct": 1.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Earnings live updates: Boeing stock falls on mixed Q3 turnaround picture, SoFi surges - Yahoo Finance | SoFi Stock: SoFi Earnings Top Views. Fintech Hikes 2026 Revenue Guidance. - Investor's Business Daily"
     },
     {
@@ -81,7 +81,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 701203328,
       "float_shares": 86637698,
-      "cash_debt_ratio": 0.21,
+      "cash_debt_ratio": 0.22,
       "insider_pct": 0.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -97,12 +97,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2391083264,
-      "float_shares": 60072837,
-      "cash_debt_ratio": 0.0,
+      "float_shares": 59985123,
+      "cash_debt_ratio": 0.01,
       "insider_pct": 4.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Custom Truck One Source, Inc. (CTOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Custom Truck One Source (CTOS) Stock Can Q3 Earnings Justify Its Rally - Simply Wall Street"
+      "recent_news": "Google News | Custom Truck One Source, Inc. (CTOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Custom Truck One Source (NYSE:CTOS) Stock Price Breaks Above 50 Day Moving Average - Should You Sell? - MarketBeat"
     },
     {
       "ticker": "JBLU",
@@ -114,12 +114,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1064020352,
-      "float_shares": 337913243,
-      "cash_debt_ratio": 0.22,
+      "float_shares": 337948773,
+      "cash_debt_ratio": 0.16,
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue stock surges as company outlook calms investors - CNBC | JetBlue stock rises despite Q3 loss, as demand remains 'resilient' - Yahoo Finance"
+      "recent_news": "Google News | JetBlue stock surges as company outlook calms investors - CNBC | JetBlue Brings Some Relief to Investors With Third-Quarter Performance - WSJ"
     },
     {
       "ticker": "BBAI",
@@ -136,7 +136,7 @@
       "insider_pct": 0.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Here's What Investors Must Know Ahead of BigBear.ai's Q3 Earnings - Yahoo Finance | BBAI: Revenue growth and contract wins lifted guidance despite an impairment-driven net loss - TradingView"
+      "recent_news": "Google News | BBAI Stock Drops Overnight: Retail Shrugs Off BigBear's Profit Concerns, Focused On 'Growth' - Yahoo Finance | BBAI Stock Drops Overnight: Retail Shrugs Off BigBear's Profit Concerns, Focused On 'Growth' - Stocktwits"
     },
     {
       "ticker": "ENVX",
@@ -153,7 +153,7 @@
       "insider_pct": 11.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | After 2,221 shares were withheld for taxes, Enovix (ENVX) legal chief reports 569,998 shares held. - Stock Titan"
+      "recent_news": "Google News | Enovix (ENVX) Stock Fair Value Moves Lower After Analyst Target Cuts - Yahoo Finance | Market Movers | Winners: ENVX, HRI, MFIC | Losers: INOD, FLXS, XYL - Trefis"
     },
     {
       "ticker": "CHRN",
@@ -168,9 +168,9 @@
       "float_shares": 4109889,
       "cash_debt_ratio": 0.14,
       "insider_pct": 99.9,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | ChronoScale Holdings Corporation (CHRN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ChronoScale Holdings (Nasdaq:CHRN) - Stock Analysis - Simply Wall Street"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | ChronoScale Holdings Corporation (CHRN) stock price, news, quote and history - Yahoo Finance Singapore | ChronoScale Holdings (Nasdaq:CHRN) - Stock Analysis - Simply Wall Street"
     },
     {
       "ticker": "ULCC",
@@ -187,7 +187,7 @@
       "insider_pct": 43.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Frontier Group Holdings, Inc. (ULCC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | 68,359 shares were withheld for taxes as Frontier Group (ULCC) CEO's stock award vested. - Stock Titan"
+      "recent_news": "Google News | Frontier Group Holdings, Inc. (ULCC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Frontier Group (ULCC) settles 26,042 stock awards; 11,393 shares are withheld for taxes. - Stock Titan"
     },
     {
       "ticker": "UWMC",
@@ -221,7 +221,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 63,
-      "recent_news": "Google News | How Will TE Connectivity Stock React To Its Upcoming Earnings? - Trefis | Earnings Beat Hopes Could Be A Game Changer For TE Connectivity Stock (TEL) - Yahoo Finance"
+      "recent_news": "Google News | Hyperscalers Are Still Spending. TE Connectivity Earnings Top Estimates. - Barron's | T1 Energy (TE) Stock Could Be Trading At A Discount Despite A 61% Slide - Yahoo Finance"
     },
     {
       "ticker": "USAR",
@@ -236,8 +236,8 @@
       "float_shares": 182194114,
       "cash_debt_ratio": 478.77,
       "insider_pct": 33.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | Is USA Rare Earth Stock a Once-in-a-Generation Reshoring Opportunity? - Yahoo Finance | Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8% - 24/7 Wall St."
     },
     {
@@ -253,9 +253,9 @@
       "float_shares": 86668055,
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 21,
-      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | FUN Investor Investigation: Six Flags Investors Are Alerted to the Securities Fraud Investigation after Safety Issues Lead to 14% Stock Drop - Morningstar"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Why Six Flags Entertainment (FUN) Shares Dropped And What Investors Are Watching - Yahoo Finance | Why Is FUN Stock Plunging Nearly 11% Overnight? - Stocktwits"
     },
     {
       "ticker": "NRGV",
@@ -270,9 +270,9 @@
       "float_shares": 147128214,
       "cash_debt_ratio": 0.38,
       "insider_pct": 17.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Energy Vault (NYSE:NRGV) Stock Jumps 9.7% - What's Next? - MarketBeat | NRGV Nov 2026 5.500 put (NRGV261120P00005500) stock price, news, quote and history - Yahoo Finance UK"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Energy Vault Holdings (NRGV) Stock Gets Fair Value Boost After Contract And Analyst Revisions - Yahoo Finance | Energy Vault (NYSE:NRGV) Stock Jumps 9.7% - What's Next? - MarketBeat"
     },
     {
       "ticker": "SES",
@@ -357,7 +357,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Infleqtion (INFQ) Unveils Chip Scale Quantum Sensor, Is It A Bargain? - Yahoo Finance | 2 Millionaire-Maker Quantum Computing Stocks That Wall Street Loves - The Motley Fool"
+      "recent_news": "Google News | Infleqtion (INFQ) Stock Fair Value Edges Lower As Analysts Weigh Quantum Progress And Risks - Yahoo Finance | 2 Millionaire-Maker Quantum Computing Stocks That Wall Street Loves - The Motley Fool"
     },
     {
       "ticker": "UAMY",
@@ -391,7 +391,7 @@
       "insider_pct": 7.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | How AI Power Board Launches At Navitas Semiconductor (NVTS) Has Changed Its Investment Story - Yahoo Finance | NVTS Stock Falls After-Hours As Navitas’ Wider-Than-Expected Loss Overshadows Revenue Beat — But Retail Bulls Stay Focused On AI Growth - Stocktwits"
+      "recent_news": "Google News | Navitas Semiconductor Corporation (NVTS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | NVTS 270319 6.00C (NVTS270319C6000) Stock Options Chain | Quotes &amp; News - Moomoo"
     },
     {
       "ticker": "CIFR",
@@ -408,7 +408,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Is Cipher Digital Stock Surging on Tuesday? - Benzinga | Why IREN, CIFR, DKNG Stocks Crashed To 52-Week Lows Last Week - Stocktwits"
+      "recent_news": "Google News | Cipher Digital Inc. (CIFR) Stock Dips While Market Gains: Key Facts - Yahoo Finance | Why Is Cipher Digital Stock Surging on Tuesday? - Benzinga"
     },
     {
       "ticker": "FLNC",
@@ -425,7 +425,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Fluence Energy (FLNC) Stock Is Nosediving - Yahoo Finance | Fluence stock gains on major German battery storage deal - Investing.com"
+      "recent_news": "Google News | Why Fluence Energy (FLNC) Stock Is Nosediving - Yahoo Finance | FLNC Stock Tumbles After-Hours As Houston Plant Delays Force Another Guidance Cut - Stocktwits"
     },
     {
       "ticker": "CABA",
@@ -440,8 +440,8 @@
       "float_shares": 141483978,
       "cash_debt_ratio": 8.75,
       "insider_pct": 1.0,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | BlackRock updates its Cabaletta Bio (CABA) stake report, with sole voting power over 12.8M shares. - Stock Titan | Cabaletta Bio: 40% Sell-Off Creates An Opportunity Despite Cash Concerns - Seeking Alpha"
     },
     {
@@ -459,7 +459,7 @@
       "insider_pct": 10.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Butterfly Network's healthcare conference presentation will be webcast Nov. 10 - Stock Titan | Is VCOM Ultrasound Deal Altering The Investment Case For Butterfly Network (BFLY)? - Yahoo Finance"
+      "recent_news": "Google News | Butterfly Network, Inc. (BFLY) stock price, news, quote and history - Yahoo Finance Singapore | Butterfly Network's healthcare conference presentation will be webcast Nov. 10 - Stock Titan"
     },
     {
       "ticker": "TMC",
@@ -510,7 +510,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Drone Stocks Rally as High-Beta Small Caps Lead: Red Cat Jumps 10%, Ondas Climbs 8%, AeroVironment Ticks Up - 24/7 Wall St. | What Is The Case For Waiting On Ondas Stock? - Trefis"
+      "recent_news": "Google News | What Is The Case For Waiting On Ondas Stock? - Trefis | Drone Stocks Rally as High-Beta Small Caps Lead: Red Cat Jumps 10%, Ondas Climbs 8%, AeroVironment Ticks Up - 24/7 Wall St."
     },
     {
       "ticker": "LDI",
@@ -527,7 +527,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | LDI Forecast — Price Target — Prediction for 2027 - TradingView | loanDepot (LDI) Stock Holds Near $1 As Liquidity Questions Linger - Simply Wall Street"
+      "recent_news": "Google News | LDI Jan 2027 4.500 call (LDI270115C00004500) Interactive Stock Chart - Yahoo Finance - Yahoo! Finance Canada | loanDepot Number of Employees 2026 | Employee Count &amp; Headcount Data - Revelio Labs"
     },
     {
       "ticker": "IBRX",
@@ -544,7 +544,7 @@
       "insider_pct": 62.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | IBRX Stock Rises Overnight: Jim Cramer Backs ImmunityBio As A ‘Very Good Spec’ Amid Biotech Takeover Wave - Yahoo Finance | SLS, IBRX Stocks Draw Retail Chatter As MRNA Lands A Nasdaq-100 Spot – ‘It Will Be SLS Next’ - Stocktwits"
+      "recent_news": "Google News | IBRX Stock Rises Overnight: Jim Cramer Backs ImmunityBio As A ‘Very Good Spec’ Amid Biotech Takeover Wave - Yahoo Finance | IBRX Stock Racks Up 3 Straight Quarterly Wins: Q3 Filings Reveal BlackRock Closing In On Vanguard With A Bigger Bet - Stocktwits"
     },
     {
       "ticker": "LAC",
@@ -561,7 +561,7 @@
       "insider_pct": 6.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts - Yahoo Finance"
+      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts - Yahoo Finance | Here's Why Lithium Americas Corp. (LAC) Fell More Than Broader Market - Yahoo Finance"
     },
     {
       "ticker": "CAPR",
@@ -578,7 +578,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Did CAPR Stock Jump 20% After-Hours Today? - Stocktwits | CAPR Nov 2026 19.000 call (CAPR261120C00019000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | CAPR Stock Clocks Best Day In Over A Month As 24-Month Duchenne Data Airs At Medical Conference In Japan - Yahoo Finance | Why Did CAPR Stock Jump 20% After-Hours Today? - Stocktwits"
     },
     {
       "ticker": "CMPS",
@@ -595,7 +595,7 @@
       "insider_pct": 7.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance | CMPS Stock Defies Market Selloff After Compass Pathways Psilocybin Trial Success Pointing To 2027 Launch - Stocktwits"
+      "recent_news": "Google News | COMPASS Pathways (CMPS) Could Be 49% Below Fair Value Following Its Phase III Progress - Yahoo Finance | Compass Pathways: A Compelling Opportunity In A Large And Underserved Market (NASDAQ:CMPS) - Seeking Alpha"
     },
     {
       "ticker": "NVAX",
@@ -629,7 +629,7 @@
       "insider_pct": 3.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Happen, Inc. (HAPN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | LendingClub (HAPN) Set to Report Q3 Earnings Amid Modest Overval - GuruFocus"
+      "recent_news": "Google News | Happen Bank (HAPN) to report earnings tomorrow: here is what to expect - Yahoo Finance | LendingClub (HAPN) Set to Report Q3 Earnings Amid Modest Overval - GuruFocus"
     },
     {
       "ticker": "AMPX",
@@ -663,7 +663,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Richard Branson's Virgin Galactic Reopened Ticket Sales at $750,000 a Seat in 2026, Up From the $600,000 It Charged for 700 Previously Sold Seats. Is SPCE Stock's Pricing Power Finally Catching Up to Its Cash Burn? - Yahoo Finance | Richard Branson's Virgin Galactic Reopened Ticket Sales at $750,000 a Seat in 2026, Up From the $600,000 It Charged for 700 Previously Sold Seats. Is SPCE Stock's Pricing Power Finally Catching Up to Its Cash Burn? - The Motley Fool"
+      "recent_news": "Google News | Richard Branson's Virgin Galactic Reopened Ticket Sales at $750,000 a Seat in 2026, Up From the $600,000 It Charged for 700 Previously Sold Seats. Is SPCE Stock's Pricing Power Finally Catching Up to Its Cash Burn? - Yahoo Finance | How to Buy Virgin Galactic Stock (SPCE) in 2026 - The Motley Fool"
     },
     {
       "ticker": "XP",
@@ -678,8 +678,8 @@
       "float_shares": 403154708,
       "cash_debt_ratio": 1.8,
       "insider_pct": 0.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Google News | XP (XP) Stock Still Appears Undervalued After the 48% Slide - Yahoo Finance | XP shares nearly halve on Brazil election shock, and other early market movers - MarketWatch"
     },
     {
@@ -697,7 +697,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VNET Announces Repurchase of 30% of Its Convertible Senior Notes due 2027 - Yahoo Finance | VNET Group (NASDAQ:VNET) Stock Falls 5.3% - Here's Why - MarketBeat"
+      "recent_news": "Google News | VNET Group (VNET) Stock May Be Undervalued After A 100% Run - Yahoo Finance | VNET Group, Inc. Stock 12‑Month Price Target Cut to $13.67, Implies 268% Upside - TradingView"
     },
     {
       "ticker": "UNIT",
@@ -713,7 +713,7 @@
       "cash_debt_ratio": 0.06,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3267,
+      "recent_dilution_filings_90d": 3278,
       "recent_news": "Google News | Uniti Group Inc. (UNIT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Uniti Group Inc. (UNIT) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
@@ -731,7 +731,7 @@
       "insider_pct": 48.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | More than 1 million shares are bought back by Brightstar Lottery (BRSL) under its $500M program. - Stock Titan | Brightstar Lottery (BRSL) After Cash Pop Launches Is The Undervalued Case Back On Track - Simply Wall Street"
+      "recent_news": "Google News | More than 1 million shares are bought back by Brightstar Lottery (BRSL) under its $500M program. - Stock Titan | How Brightstar Lottery’s (BRSL) EUR 500 Million Refinancing Could Shape Its Investment Story - Yahoo Finance"
     },
     {
       "ticker": "SNAP",
@@ -765,7 +765,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Coursera (COUR) reports earnings tomorrow: what to expect - TradingView | Coursera (COUR) Stock Looks Undervalued Against Its Sales Base - Yahoo Finance"
+      "recent_news": "Google News | Coursera (COUR) reports earnings tomorrow: what to expect - Yahoo Finance | The New York Times’ former marketing chief will join Coursera Nov. 30 - Stock Titan"
     },
     {
       "ticker": "VISN",
@@ -782,7 +782,7 @@
       "insider_pct": 3.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VISN Feb 2027 9.000 call (VISN270219C00009000) Stock Historical Prices &amp; Data - Yahoo Finance - Yahoo! Finance Canada | Vistance Networks, Inc. Estimates – NASDAQ:VISN - TradingView"
+      "recent_news": "Google News | Vistance Networks (VISN) Expands Buyback As Valuation Debate Turns To Aurora Networks - Yahoo Finance | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "OLN",
@@ -799,7 +799,7 @@
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Olin Corporation (OLN) Was Sold by Madison Small Cap Fund as Chlor-Alkali Downcycle Persists - Yahoo Finance | Olin Corporation (OLN) stock forecast and price target - Yahoo Finance UK"
+      "recent_news": "Google News | Olin Corporation (OLN) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Olin (OLN) Stock Climbed, So What Is Driving Attention Now? - Simply Wall Street"
     },
     {
       "ticker": "VALE",
