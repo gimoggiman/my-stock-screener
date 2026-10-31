@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-10-31T06:39:26.888269+00:00",
+  "last_updated_utc": "2026-10-31T13:19:33.456647+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -11,13 +11,13 @@
       "gap_pct": 24.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 507691616,
-      "float_shares": 88042035,
-      "cash_debt_ratio": 0.11,
+      "market_cap": 507878304,
+      "float_shares": 89751639,
+      "cash_debt_ratio": 0.18,
       "insider_pct": 2.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Acco Brands Corporation (ACCO) stock price, news, quote and history - Yahoo Finance Australia | ACCO Brands (ACCO) Reports Q3 2026 Results, Raises Full-Year Gui - GuruFocus"
+      "recent_news": "Google News | Acco Brands Corporation (ACCO) stock price, news, quote and history - Yahoo Finance Australia | ACCO Brands (NYSE:ACCO) Q3 EPS Beat Relies on Tariff Refund as Revenue Lags - ChartMill"
     },
     {
       "ticker": "NFE",
@@ -45,7 +45,7 @@
       "gap_pct": -20.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 99015760,
+      "market_cap": 110360624,
       "float_shares": null,
       "cash_debt_ratio": 0.23,
       "insider_pct": 6.3,
@@ -68,7 +68,7 @@
       "insider_pct": 15.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Mammoth Energy Services, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance | Mammoth Energy Services, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:TUSK) 2026-10-30 - Seeking Alpha"
+      "recent_news": "Google News | Mammoth Energy Services, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance | Mammoth Energy Services (NASDAQ:TUSK) Share Price Breaks Above 50-Day Moving Average - Should You Sell? - MarketBeat"
     },
     {
       "ticker": "MLYS",
@@ -96,13 +96,13 @@
       "gap_pct": 15.85,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2144391296,
-      "float_shares": 110615983,
+      "market_cap": 1930572544,
+      "float_shares": 100589042,
       "cash_debt_ratio": 0.08,
       "insider_pct": 2.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Capri Holdings Limited (CPRI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Capri Shoots Up as Michael Kors Turnaround Gains Traction - WWD"
+      "recent_news": "Google News | Capri Holdings Limited (CPRI) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Capri Holdings (CPRI) Stock Forum and Discussion - Moomoo"
     },
     {
       "ticker": "BOOM",
@@ -119,7 +119,7 @@
       "insider_pct": 7.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
-      "recent_news": "Google News | Why isn’t China’s AI and tech boom saving its stock markets? - CNN | DMC Global (BOOM) Upgraded to Strong Buy: Here's Why - Yahoo Finance"
+      "recent_news": "Google News | Tech stocks wipe out $1 trillion in value as concerns deepen about the AI boom - NBC News | Weak domestic returns fuel India's overseas retail investing boom - Reuters"
     },
     {
       "ticker": "FMC",
@@ -130,9 +130,9 @@
       "gap_pct": 28.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 964385152,
-      "float_shares": 92726717,
-      "cash_debt_ratio": 0.11,
+      "market_cap": 964462080,
+      "float_shares": 98482510,
+      "cash_debt_ratio": 0.18,
       "insider_pct": 20.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
@@ -153,7 +153,7 @@
       "insider_pct": 5.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Torrid Holdings (CURV) Stock Gets Fair Value Boost After Mixed Analyst Revisions - Yahoo Finance | Torrid Holdings Inc. Estimates – NYSE:CURV - TradingView"
+      "recent_news": "Google News | Torrid (NYSE:CURV) Stock Price Crosses Above Fifty Day Moving Average - Here's Why - MarketBeat | Torrid Holdings (CURV) Stock Gets Fair Value Boost After Mixed Analyst Revisions - Yahoo Finance"
     },
     {
       "ticker": "XPOF",
@@ -187,7 +187,7 @@
       "insider_pct": 15.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Lithium Argentina AG (LAR.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Where are the Opportunities in (LAR) (LAR:CA) - Stock Traders Daily"
+      "recent_news": "Google News | Is Lithium Argentina AG (LAR) among the Best Steel and Metal Stocks to Buy for Energy Infrastructure? - Yahoo Finance | Lithium Argentina: Real Production, But Still A Lot Of Uncertainty (NYSE:LAR) - Seeking Alpha"
     },
     {
       "ticker": "ANVS",
@@ -204,7 +204,7 @@
       "insider_pct": 11.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Annovis Bio, Inc. Receives Continued Listing Standard Notice from the NYSE - markets.businessinsider.com | Annovis Bio (ANVS) Loses 26.5% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner - Yahoo Finance"
+      "recent_news": "Google News | ANVS - Annovis Bio Inc. stock news, filings &amp; ratings - Quantisnow | Annovis Bio, Inc. Receives Continued Listing Standard Notice from the NYSE - markets.businessinsider.com"
     },
     {
       "ticker": "REAL",
@@ -215,13 +215,13 @@
       "gap_pct": 5.68,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1455186560,
-      "float_shares": 101719486,
-      "cash_debt_ratio": 0.26,
-      "insider_pct": 7.2,
+      "market_cap": 1491567872,
+      "float_shares": 104262588,
+      "cash_debt_ratio": 0.28,
+      "insider_pct": 7.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2097,
-      "recent_news": "Google News | Real REMAX Group Inc. (REAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Brazil stocks, real tumble as Lula win shifts investor focus - Reuters"
+      "recent_news": "Google News | Is 50% Crash Risk For Iovance Stock Real? - Yahoo Finance | Is Nike Stock A Real Bargain? - Trefis"
     },
     {
       "ticker": "OLN",
@@ -233,8 +233,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2006091776,
-      "float_shares": 107559577,
-      "cash_debt_ratio": 0.05,
+      "float_shares": 107576100,
+      "cash_debt_ratio": 0.06,
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -249,13 +249,13 @@
       "gap_pct": 4.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 17605984256,
-      "float_shares": 945409556,
-      "cash_debt_ratio": 0.99,
-      "insider_pct": 34.5,
+      "market_cap": 17748840448,
+      "float_shares": 953080652,
+      "cash_debt_ratio": 1.01,
+      "insider_pct": 34.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC | Why Is Rivian Automotive Stock Surging 7.2% Today? - Yahoo Finance"
+      "recent_news": "Google News | Why is Rivian (RIVN) stock soaring today - Yahoo Finance | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC"
     },
     {
       "ticker": "KOS",
@@ -289,7 +289,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Earnings Preview: TeraWulf Inc. (WULF) Q3 Earnings Expected to Decline - Yahoo Finance | WULF Stock Set For Biggest Weekly Loss Of 2026, Morgan Stanley Says Shares Are ‘Mispriced’ - Stocktwits"
+      "recent_news": "Google News | Cipher Digital And TeraWulf Vs. CoreWeave: Less Debt, More Upside (NASDAQ:CIFR) - Seeking Alpha | TeraWulf (WULF) Stock May Be Overvalued On Its AI Leasing Deal - Yahoo Finance"
     },
     {
       "ticker": "CIFR",
@@ -301,12 +301,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3025573888,
-      "float_shares": 323408540,
+      "float_shares": 325213923,
       "cash_debt_ratio": 0.15,
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cipher Digital (CIFR) Faces Earnings Pressure As Undervalued Narrative Gets Tested - Yahoo Finance | Should You Wait Before Buying Cipher Digital Stock? - Trefis"
+      "recent_news": "Google News | Has Cipher Digital (CIFR) Fallen Far Enough On Sales? - Yahoo Finance | Should You Wait Before Buying Cipher Digital Stock? - Trefis"
     },
     {
       "ticker": "NOK",
@@ -323,7 +323,7 @@
       "insider_pct": 2.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 22,
-      "recent_news": "Google News | Nokia Oyj (NOK) stock price, news, quote and history - Yahoo Finance UK | Most Active Stocks on Oct. 30, 2026: Intel, ChowChow Cloud and Acumen in Focus - ChartMill"
+      "recent_news": "Google News | Nokia Oyj (NOK) stock price, news, quote and history - Yahoo Finance UK | Nokia Corporation (NYSE:NOK) Stock Now Rated \"Moderate Buy\" by Wall Street Analysts - MarketBeat"
     },
     {
       "ticker": "HUN",
@@ -340,7 +340,7 @@
       "insider_pct": 5.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | Huntsman (HUN) Earnings Expected to Grow: Should You Buy? - Yahoo Finance | Huntsman (NYSE:HUN) Shares Up 5.7% - Time to Buy? - MarketBeat"
+      "recent_news": "Google News | Here's Why You Should Hold HUN Stock in Your Portfolio Now - Yahoo Finance | Huntsman (NYSE:HUN) Shares Up 5.7% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "RKT",
@@ -351,13 +351,13 @@
       "gap_pct": 6.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 36245024768,
-      "float_shares": 1881031744,
-      "cash_debt_ratio": 0.1,
+      "market_cap": 36325076992,
+      "float_shares": 1886274625,
+      "cash_debt_ratio": 0.09,
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rocket Companies, Inc. (RKT) Stock Forecasts - Yahoo! Finance Canada | Rocket Companies Inc (RKT) Shares Surge 7.4% -- What GF Score of 67 Tells Investors - GuruFocus"
+      "recent_news": "Google News | Rocket Companies (RKT) Q3 Earnings and Revenues Beat Estimates - Yahoo Finance | Rocket Companies Inc (RKT) Shares Surge 7.4% -- What GF Score of 67 Tells Investors - GuruFocus"
     },
     {
       "ticker": "ACH",
@@ -371,10 +371,10 @@
       "market_cap": 19549176,
       "float_shares": 56165812,
       "cash_debt_ratio": 0.0,
-      "insider_pct": 8.0,
+      "insider_pct": 7.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 102,
-      "recent_news": "Google News | ACH Nov 2026 1.000 call (ACH261120C00001000) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ACH Q3'26 Earnings: revenue estimate is 618.33M USD - TradingView"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Accendra Health (ACH) is One of The 15 Best NYSE Penny Stocks According to Hedge Funds - Yahoo Finance"
     },
     {
       "ticker": "OIS",
@@ -385,13 +385,13 @@
       "gap_pct": 5.73,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 579097152,
-      "float_shares": 55503445,
-      "cash_debt_ratio": 0.55,
+      "market_cap": 574158336,
+      "float_shares": 53439069,
+      "cash_debt_ratio": 0.61,
       "insider_pct": 7.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Oil States International: Q3 Earnings Snapshot - Yahoo Finance | Orders on the books at Oil States hit $482 million, highest since December 2014. - Stock Titan"
+      "recent_news": "Google News | Oil States International: Q3 Earnings Snapshot - Yahoo Finance | Oil States International (NYSE:OIS) Shares Break Above Two Hundred Day Moving Average - Here's What Happened - MarketBeat"
     },
     {
       "ticker": "TMC",
@@ -408,7 +408,7 @@
       "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Google News | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - TradingView | TMC The Metals (TMC) Stock Looks Stretched With Book Value Unclear - Yahoo Finance"
+      "recent_news": "Google News | TMC The Metals (TMC) Following NORI Study Faces A Valuation Test - Yahoo Finance | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - Stocktwits"
     },
     {
       "ticker": "GPRO",
@@ -425,7 +425,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | Is the Options Market Predicting a Spike in GoPro Stock? - Yahoo Finance | GoPro stock soars after YouTube star Markiplier becomes large shareholder: How high will GPRO go? - Fast Company"
+      "recent_news": "Google News | GoPro (NASDAQ:GPRO) Stock Breaks Below 200-Day Moving Average - Time to Sell? - MarketBeat | Is the Options Market Predicting a Spike in GoPro Stock? - Yahoo Finance"
     },
     {
       "ticker": "OPTU",
@@ -437,7 +437,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 278445056,
-      "float_shares": 277642261,
+      "float_shares": 277430279,
       "cash_debt_ratio": 0.05,
       "insider_pct": 12.1,
       "dilution_risk": "낮음",
@@ -459,7 +459,7 @@
       "insider_pct": 22.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | A massive trade just happened in surging shares of Snap - CNBC | Snap Inc. (SNAP) is Attracting Investor Attention: Here is What You Should Know - Yahoo Finance"
+      "recent_news": "Google News | A massive trade just happened in surging shares of Snap - CNBC | Was There Any Sign Snap Stock Would Run? - Trefis"
     },
     {
       "ticker": "PAL",
@@ -476,7 +476,7 @@
       "insider_pct": 14.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | Palfinger (WBAG:PAL) Stock Catches Interest As Q3 Earnings Rebuild Confidence - Yahoo Finance | A co-founder joins Proficient Auto Logistics (PAL)'s board and waives director pay. - Stock Titan"
+      "recent_news": "Google News | Proficient Auto Logistics, Inc. (PAL) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Palfinger (WBAG:PAL) Stock Catches Interest As Q3 Earnings Rebuild Confidence - Yahoo Finance"
     },
     {
       "ticker": "KVUE",
@@ -487,13 +487,13 @@
       "gap_pct": -1.71,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 37090136064,
-      "float_shares": 1917988345,
+      "market_cap": 37109346304,
+      "float_shares": 1918981882,
       "cash_debt_ratio": 0.13,
       "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kenvue Inc. (KVUE) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | How major US stock indexes fared Friday 10/30/2026 - KVUE"
+      "recent_news": "Google News | Kenvue Inc. (KVUE) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Kenvue (KVUE) Delisting as Kimberly-Clark Acquisition Completes, Dividend Sustainability in Focus - GuruFocus"
     },
     {
       "ticker": "VNET",
@@ -510,7 +510,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VNET Group, Inc. (VNET) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | VNET Group, Inc. Stock 12‑Month Price Target Cut to $13.67, Implies 268% Upside - TradingView"
+      "recent_news": "Google News | VNET Group (VNET) Stock Gets Fair Value Trim After Analysts Cut Targets - Yahoo Finance | VNET Group, Inc. (VNET) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "JBLU",
@@ -522,12 +522,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1075452672,
-      "float_shares": 337933679,
+      "float_shares": 337937453,
       "cash_debt_ratio": 0.16,
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock Sees Fair Value Cut As Analysts Flag Fuel And Leverage Risks - Yahoo Finance | JetBlue stock surges as company outlook calms investors - CNBC"
+      "recent_news": "Google News | JetBlue (JBLU) Stock May Be A Bargain As BlueFirst Launches - Yahoo Finance | JetBlue stock surges as company outlook calms investors - CNBC"
     },
     {
       "ticker": "LZM",
@@ -539,8 +539,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 345369600,
-      "float_shares": 28978563,
-      "cash_debt_ratio": 0.53,
+      "float_shares": 30709274,
+      "cash_debt_ratio": 0.3,
       "insider_pct": 57.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
@@ -561,7 +561,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Fluence Energy, Inc. (FLNC) stock price, news, quote and history - Yahoo Finance Singapore | FLNC UPCOMING DEADLINE: SueWallSt Alerts Fluence Energy, Inc. Stockholders of Securities Class Action - Morningstar"
+      "recent_news": "Google News | Fluence Energy, Inc. (FLNC) stock price, news, quote and history - Yahoo Finance Singapore | FLNC Shareholder Alert: Fluence Energy, Inc. Securities Class Action Lawsuit - Investors Should Contact Levi &amp; Korsinsky - Morningstar"
     },
     {
       "ticker": "ITG",
@@ -595,7 +595,7 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UAMY Stock Rises Overnight As United States Antimony Sees $314M Worth Gold-Antimony Prospects In Alaska - Yahoo Finance | Critical Minerals Stocks Rally as Sector Bid Broadens: United States Antimony and USA Rare Earth Jump 11%, Critical Metals Climbs 8% - 24/7 Wall St."
+      "recent_news": "Google News | UAMY Stock Rises Overnight As United States Antimony Sees $314M Worth Gold-Antimony Prospects In Alaska - Yahoo Finance | Alcoa Gains 8%, United States Antimony Jumps 10% After Alcoa's Q3 Beat and Data Center Site Sale; Cleveland-Cliffs Rises 2% - 24/7 Wall St."
     },
     {
       "ticker": "OI",
@@ -612,7 +612,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Imperial Oil Limited (IMO.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Indian stocks could see November rebound; oil, AI trade pose risks - Reuters"
+      "recent_news": "Google News | O-I Glass, Inc. (OI) Stock Forecasts - Yahoo Finance | Owens-Illinois (OI) Stock Forum and Discussion - Moomoo"
     },
     {
       "ticker": "PWP",
@@ -626,10 +626,10 @@
       "market_cap": 1433661184,
       "float_shares": 66128507,
       "cash_debt_ratio": null,
-      "insider_pct": 4.2,
+      "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Perella Weinberg Partners (PWP) stock price, news, quote and history - Yahoo Finance Singapore | Perella Weinberg Partners (NASDAQ:PWP) Stock Rating Raised to \"Buy\" at Wall Street Zen - MarketBeat"
+      "recent_news": "Google News | Perella Weinberg Partners (PWP) stock price, news, quote and history - Yahoo Finance Singapore | PWP: Perella Weinberg Partners - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
       "ticker": "SOFI",
@@ -641,7 +641,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 21731307520,
-      "float_shares": 1276312298,
+      "float_shares": 1276390095,
       "cash_debt_ratio": 0.71,
       "insider_pct": 1.4,
       "dilution_risk": "높음",
@@ -663,7 +663,7 @@
       "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | UWM Holdings Corporation (UWMC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | UWMC Stock News: UWM Holdings Sued for Securities Fraud over Alleged Misrepresentations and Corresponding 34% Stock Drop - Morningstar"
+      "recent_news": "Google News | UWM Holdings (UWMC) Stock Fair Value Falls After Analysts Turn More Cautious - Yahoo Finance | UWM Holdings(UWMC) Stock Options Chain | Quotes &amp; News - Moomoo"
     },
     {
       "ticker": "OPEN",
@@ -680,7 +680,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2794,
-      "recent_news": "Google News | The Open Question Under Coca-Cola Stock's Price - Yahoo Finance | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - 24/7 Wall St."
+      "recent_news": "Google News | 3 Reasons to Sell OPEN and 1 Stock to Buy Instead - Yahoo Finance | Opendoor Is Now Down 64% This Year: Is OPEN Stock a Falling Knife or Poised for a Comeback? - 24/7 Wall St."
     },
     {
       "ticker": "LAC",
@@ -697,7 +697,7 @@
       "insider_pct": 6.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why JPMorgan Is Betting That Lithium Americas Stock Will Double. - Barchart.com"
+      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance | Lithium Americas Corp. (LAC) Stock Forecast &amp; Price Prediction 2026–2030 - CoinCodex"
     },
     {
       "ticker": "ADT",
@@ -708,13 +708,13 @@
       "gap_pct": 0.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 7203313664,
+      "market_cap": 7203036672,
       "float_shares": 527149637,
       "cash_debt_ratio": 0.0,
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Was There Any Sign ADT Stock Would Run? - Yahoo Finance | ADT to be acquired by Thrive Holdings in $15B deal (ADT:NYSE) - Seeking Alpha"
+      "recent_news": "Google News | Was There Any Sign ADT Stock Would Run? - Trefis | ADT stock surges to 5-year high after Thrive Holdings agrees to $7.6 billion buyout deal - Yahoo Finance"
     },
     {
       "ticker": "INTR",
@@ -731,7 +731,7 @@
       "insider_pct": 24.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Inter &amp; Co, Inc. (INTR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | MGM Resorts International stock outperforms competitors on strong trading day - MarketWatch"
+      "recent_news": "Google News | Inter &amp; Co, Inc. (INTR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Schwab International Equity ETF vs. Vanguard Total International Stock ETF: Two Low-Cost International ETFs, but One Offers More Growth Potential for the Next Decade - The Motley Fool"
     },
     {
       "ticker": "CAPR",
@@ -748,7 +748,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Postmarket Movers: After-Hours Gainers and Losers - ChartMill | CAPR Stock Rises Nearly 5% As Capricor Presents Heart Data For Deramiocel Ahead Of November FDA Decision - Yahoo Finance"
+      "recent_news": "Google News | CAPR Stock on Track For Worst Month Since July AdCom Vote On Deramiocel As November FDA Decision Nears - Stocktwits | Postmarket Movers: After-Hours Gainers and Losers - ChartMill"
     },
     {
       "ticker": "NU",
@@ -760,7 +760,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 56084295680,
-      "float_shares": 3725330480,
+      "float_shares": 3725668628,
       "cash_debt_ratio": 2.57,
       "insider_pct": 2.1,
       "dilution_risk": "높음",
