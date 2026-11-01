@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-01T08:44:34.156266+00:00",
+  "last_updated_utc": "2026-11-01T15:46:50.352542+00:00",
   "tickers_scanned": 57,
   "results": [
     {
@@ -12,12 +12,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 507878304,
-      "float_shares": 89751639,
+      "float_shares": 88074412,
       "cash_debt_ratio": 0.18,
       "insider_pct": 2.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Acco Brands Corporation (ACCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ACCO: 3 Key Takeaways for Long-Term Investors - The Motley Fool"
+      "recent_news": "Google News | Acco Brands Corporation (ACCO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | ACCO Brands (ACCO) Stock Forum and Discussion - Moomoo"
     },
     {
       "ticker": "NFE",
@@ -34,7 +34,7 @@
       "insider_pct": 11.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | A turbine lease has an initial five-year term; a gas liquefier is expected back in service in Q4 2026. - Stock Titan | Four hidden stories in the New Fortress Energy bankruptcy - Institute for Energy Economics and Financial Analysis (IEEFA)"
+      "recent_news": "Google News | Strategic Value Partners, L.P.'s New Fortress Energy Inc(NFE) Holding History - GuruFocus | A turbine lease has an initial five-year term; a gas liquefier is expected back in service in Q4 2026. - Stock Titan"
     },
     {
       "ticker": "NPKI",
@@ -81,7 +81,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 153045728,
       "float_shares": 36005209,
-      "cash_debt_ratio": 15.37,
+      "cash_debt_ratio": 9.9,
       "insider_pct": 15.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -114,7 +114,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1930572544,
-      "float_shares": 100589042,
+      "float_shares": 100589234,
       "cash_debt_ratio": 0.08,
       "insider_pct": 2.6,
       "dilution_risk": "낮음",
@@ -132,7 +132,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 192057872,
       "float_shares": 18156556,
-      "cash_debt_ratio": 0.73,
+      "cash_debt_ratio": 0.4,
       "insider_pct": 7.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
@@ -148,12 +148,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 964462080,
-      "float_shares": 98482510,
-      "cash_debt_ratio": 0.18,
+      "float_shares": 115186328,
+      "cash_debt_ratio": 0.17,
       "insider_pct": 20.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Why FMC Corporation Rallied Today - Yahoo Finance"
+      "recent_news": "Google News | FMC (FMC) Stock Stays Cheap Despite A 93% Five Year Slide - Yahoo Finance | FMC (FMC) Stock Fair Value Moves Lower After Analyst Target Cuts And Guidance Reset - Yahoo Finance"
     },
     {
       "ticker": "CURV",
@@ -170,7 +170,7 @@
       "insider_pct": 5.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Torrid (CURV) Stock Forum and Discussion - Moomoo | Torrid Holdings (CURV) Stock Gets Fair Value Boost After Mixed Analyst Revisions - Yahoo Finance"
+      "recent_news": "Google News | Torrid (CURV) Stock Forum and Discussion - Moomoo | Torrid (NYSE:CURV) Beats Q1 CY2026 Sales Expectations, Stock Soars - Yahoo Finance"
     },
     {
       "ticker": "XPOF",
@@ -187,7 +187,7 @@
       "insider_pct": 6.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Xponential Fitness, Inc. (XPOF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Xponential Fitness (XPOF) Shares Surge 17% on Take-Private Inter - GuruFocus"
+      "recent_news": "Google News | Xponential Fitness, Inc. (XPOF) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | XPOF: Xponential Fitness Inc - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
       "ticker": "ANVS",
@@ -204,7 +204,7 @@
       "insider_pct": 11.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | ANVS - Annovis Bio Inc. stock news, filings &amp; ratings - Quantisnow"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Annovis Bio Addresses NYSE Non-Compliance Listing Notice - The Globe and Mail"
     },
     {
       "ticker": "REAL",
@@ -221,7 +221,7 @@
       "insider_pct": 7.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2097,
-      "recent_news": "Google News | RealReal (REAL) Raised Guidance On Strong Q3 Results, Is The Stock Still Undervalued? - Yahoo Finance | The Stock Market May Have Just Discovered The Real Cost Of The AI Boom - Mott Capital Management"
+      "recent_news": "Google News | Real REMAX Group Inc. (REAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Is Boeing Stock A Real Bargain? - Trefis"
     },
     {
       "ticker": "OLN",
@@ -233,12 +233,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2006091776,
-      "float_shares": 107576100,
+      "float_shares": 107581503,
       "cash_debt_ratio": 0.06,
       "insider_pct": 0.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Olin (OLN) Stock May Be Undervalued Given Its Sales Discount - Yahoo Finance | Olin (OLN) Stock Rallies After Q3 Earnings Even As Leverage Lingers - Simply Wall St"
+      "recent_news": "Google News | Olin (OLN) Stock May Be Undervalued Given Its Sales Discount - Yahoo Finance | Olin Corporation 2026 Q3 - Results - Earnings Call Presentation (NYSE:OLN) 2026-10-30 - Seeking Alpha"
     },
     {
       "ticker": "RIVN",
@@ -255,7 +255,7 @@
       "insider_pct": 34.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC | RIVN Stock Rises 4% After-Hours — Rivian Says R2 Is Exceeding Internal Expectations, Attracting Former Tesla Owners And New EV Buyers - Stocktwits"
+      "recent_news": "Google News | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC | Why is Rivian (RIVN) stock soaring today - Yahoo Finance"
     },
     {
       "ticker": "KOS",
@@ -272,7 +272,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Kosmos Energy (KOS) to report earnings tomorrow: here is what to expect - TradingView"
+      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance Australia | Kosmos Energy Ltd. (KOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
     },
     {
       "ticker": "WULF",
@@ -306,7 +306,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Should You Wait Before Buying Cipher Digital Stock? - Trefis | Cipher Digital (CIFR) Faces Earnings Pressure As Undervalued Narrative Gets Tested - Yahoo Finance"
+      "recent_news": "Google News | How Big Could Cipher Digital Stock’s Next Fall Be? - Trefis | Cipher Digital (CIFR) Faces Earnings Pressure As Undervalued Narrative Gets Tested - Yahoo Finance"
     },
     {
       "ticker": "NOK",
@@ -323,7 +323,7 @@
       "insider_pct": 2.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 22,
-      "recent_news": "Google News | NOK Stock Gains After-Hours — Nokia Oyj Rejoins Europe's Benchmark Stoxx 50 Index - Stocktwits | ERIC vs. NOK: Which 5G Infrastructure Stock is the Better Buy Now? - Yahoo Finance"
+      "recent_news": "Google News | Nokia Oyj (NOK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Nokia Oyj (NOK) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "HUN",
@@ -340,7 +340,7 @@
       "insider_pct": 5.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | Here's Why You Should Hold HUN Stock in Your Portfolio Now - Yahoo Finance | Huntsman (HUN) Stock Could Be 15% Undervalued After Its Sharp Weekly Sell Off - Yahoo Finance"
+      "recent_news": "Google News | Here's Why You Should Hold HUN Stock in Your Portfolio Now - Yahoo Finance | Huntsman (NYSE:HUN) Shares Up 5.7% - Time to Buy? - MarketBeat"
     },
     {
       "ticker": "RKT",
@@ -352,7 +352,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 36325076992,
-      "float_shares": 1886274625,
+      "float_shares": 1885186309,
       "cash_debt_ratio": 0.09,
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
@@ -420,12 +420,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 199664416,
-      "float_shares": 136407800,
+      "float_shares": 137883835,
       "cash_debt_ratio": 0.32,
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "Google News | Is the Options Market Predicting a Spike in GoPro Stock? - Yahoo Finance | GoPro CEO Nick Woodman to depart after merger that was almost upended by a YouTube star - The Business Journals"
+      "recent_news": "Google News | GPRO Stock Jumps 55% Overnight: Retail Calls YouTuber's Nearly $10M Investment Momentum 'Only Getting Started' - Stocktwits | GPRO Stock Heads For Best Week Ever: GoPro Targets A Bigger Future Beyond Cameras In Defense And AI – 'Starman Optical Has The Resources' - Stocktwits"
     },
     {
       "ticker": "OPTU",
@@ -459,7 +459,7 @@
       "insider_pct": 22.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Is SNAP Stock Past Its Bottom? Retail Bulls Slowly Emerge Even As Insider Selling Keeps Pressure On - Stocktwits | A massive trade just happened in surging shares of Snap - CNBC"
+      "recent_news": "Google News | What Needs To Be True To Buy Snap Stock Now? - Trefis | A massive trade just happened in surging shares of Snap - CNBC"
     },
     {
       "ticker": "PAL",
@@ -493,7 +493,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kenvue Inc. (KVUE) stock price, news, quote and history - Yahoo Finance UK | Kenvue (KVUE) Stock Slips After Q3 Earnings Expose Valuation Limits - Simply Wall St"
+      "recent_news": "Google News | Kenvue Inc. (KVUE) stock price, news, quote and history - Yahoo Finance Singapore | How major US stock indexes fared Friday 10/30/2026 - KVUE"
     },
     {
       "ticker": "VNET",
@@ -527,7 +527,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue (JBLU) Stock May Be A Bargain As BlueFirst Launches - Yahoo Finance | JetBlue stock surges as company outlook calms investors - CNBC"
+      "recent_news": "Google News | JetBlue (JBLU) Stock Gets Fair Value Trim As Analysts Turn More Mixed - Yahoo Finance | JetBlue stock surges as company outlook calms investors - CNBC"
     },
     {
       "ticker": "LZM",
@@ -539,8 +539,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 345369600,
-      "float_shares": 30709274,
-      "cash_debt_ratio": 0.3,
+      "float_shares": 29138526,
+      "cash_debt_ratio": 0.31,
       "insider_pct": 57.9,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
@@ -561,7 +561,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Why Is FLNC Stock Rising Today? - Stocktwits | Fluence Energy, Inc. (FLNC) stock price, news, quote and history - Yahoo Finance Singapore"
+      "recent_news": "Google News | FLNC Stock Tumbles After-Hours As Houston Plant Delays Force Another Guidance Cut - Stocktwits | Fluence Energy, Inc. (FLNC) stock price, news, quote and history - Yahoo Finance Singapore"
     },
     {
       "ticker": "ITG",
@@ -578,7 +578,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | ITG (Nasdaq:ITG) - Stock Analysis - Simply Wall St | symbol__ Stock Quote Price and Forecast - CNN"
+      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | ITG (ITG) Stock Sees Fair Value Falls As Analysts Cut Targets On Execution Risks - Yahoo Finance"
     },
     {
       "ticker": "UAMY",
@@ -607,12 +607,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 788187264,
-      "float_shares": 150657699,
+      "float_shares": 150663857,
       "cash_debt_ratio": 0.08,
       "insider_pct": 1.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | O-I Glass, Inc. (OI) Stock Forecasts - Yahoo Finance | O-I Glass, Inc. (NYSE:OI) Stock Has Average Price Target of $8.81 According to Analysts - MarketBeat"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | O-I Glass, Inc. (OI) Stock Forecasts - Yahoo Finance | Indian stocks could see November rebound; oil, AI trade pose risks - Reuters"
     },
     {
       "ticker": "PWP",
@@ -624,12 +624,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1433661184,
-      "float_shares": 66128507,
-      "cash_debt_ratio": null,
+      "float_shares": 76896324,
+      "cash_debt_ratio": 0.84,
       "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | Perella Weinberg Partners (PWP) Stock Rallies As Q3 Results Expose Margin Strain - Yahoo Finance | PWP: Perella Weinberg Partners - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
+      "recent_news": "Google News | Perella Weinberg Partners (PWP) stock price, news, quote and history - Yahoo Finance Singapore | PWP: Perella Weinberg Partners - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits"
     },
     {
       "ticker": "SOFI",
@@ -646,7 +646,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Google News | SoFi Stock Is Ready for Its Next Big Move. Here's Why. - Barchart.com | SOFI Stock Heads For Best Week In 6 Months After Q3 Print Impresses Wall Street: Retail’s Ecstatic - Yahoo Finance"
+      "recent_news": "Google News | SoFi Stock Is Ready for Its Next Big Move. Here's Why. - Barchart.com | SoFi Just Made a Big Move Into Blockchain Payments. Here's What Investors Need to Know. - Yahoo Finance"
     },
     {
       "ticker": "UWMC",
@@ -697,7 +697,7 @@
       "insider_pct": 6.7,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why JPMorgan Is Betting That Lithium Americas Stock Will Double. - Barchart.com"
+      "recent_news": "Google News | Lithium Americas Corp. (LAC) Stock Declines While Market Improves: Some Information for Investors - Yahoo Finance | Why JPMorgan Is Betting That Lithium Americas Stock Will Double. - Barchart.com"
     },
     {
       "ticker": "ADT",
@@ -714,7 +714,7 @@
       "insider_pct": 1.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | ADT stock surges to 5-year high after Thrive Holdings agrees to $7.6 billion buyout deal - Yahoo Finance | Was There Any Sign ADT Stock Would Run? - Trefis"
+      "recent_news": "Google News | ADT (ADT) Stock Sees Fair Value Lift After Thrive Deal Sparks Analyst Debate - Yahoo Finance | What Changed For ADT Stock, And What Did Not? - Trefis"
     },
     {
       "ticker": "INTR",
@@ -731,7 +731,7 @@
       "insider_pct": 24.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Inter &amp; Co, Inc. (INTR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Inter &amp; Co (Nasdaq:INTR) - Stock Analysis - Simply Wall St"
+      "recent_news": "Google News | Inter &amp; Co, Inc. (INTR) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Inter &amp; Co (NasdaqGS:INTR) Stock Forecast &amp; Analyst Predictions - Simply Wall St"
     },
     {
       "ticker": "CAPR",
@@ -748,7 +748,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CAPR Stock on Track For Worst Month Since July AdCom Vote On Deramiocel As November FDA Decision Nears - Stocktwits | CAPR Stock Rises Nearly 5% As Capricor Presents Heart Data For Deramiocel Ahead Of November FDA Decision - Yahoo Finance"
+      "recent_news": "Google News | Why Is CAPR Stock Rising Today? - Stocktwits | CAPR Stock On Track For Worst Week Ever After Regulatory Setback For DMD Therapy - Stocktwits"
     },
     {
       "ticker": "NU",
