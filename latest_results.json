@@ -1,13 +1,13 @@
 {
-  "last_updated_utc": "2026-11-03T00:33:39.860149+00:00",
-  "tickers_scanned": 61,
+  "last_updated_utc": "2026-11-03T07:35:09.302025+00:00",
+  "tickers_scanned": 60,
   "results": [
     {
       "ticker": "ABOS",
       "score": 75.0,
       "last_close": 0.24,
-      "rel_volume": 11.29,
-      "price_change_pct": 14.14,
+      "rel_volume": 10.98,
+      "price_change_pct": 14.29,
       "gap_pct": 11.62,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -17,13 +17,13 @@
       "insider_pct": 6.8,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | ABOS Stock Quote Price and Forecast - CNN | Acumen Pharmaceuticals, Inc. (ABOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | Acumen Pharmaceuticals, Inc. (ABOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Acumen Pharmaceuticals(ABOS) Stock Options Chain | Quotes &amp; News - Moomoo"
     },
     {
       "ticker": "EVGO",
       "score": 75.0,
       "last_close": 1.85,
-      "rel_volume": 22.58,
+      "rel_volume": 22.56,
       "price_change_pct": 46.83,
       "gap_pct": 47.62,
       "st_msg_count": null,
@@ -68,13 +68,30 @@
       "insider_pct": 1.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | UBS Adjusts Newell Brands Price Target to $5.75 From $5.50, Maintains Neutral Rating - Yahoo Finance | Newell Brands soars 15% on Q3 sales beat, raised outlook (NWL:NASDAQ) - Seeking Alpha"
+      "recent_news": "Google News | Newell Brands (NWL) Rockets 15% Higher Alongside Outlook; Analyst Hikes Price Target - Yahoo Finance | Newell Brands soars 15% on Q3 sales beat, raised outlook (NWL:NASDAQ) - Seeking Alpha"
+    },
+    {
+      "ticker": "PERI",
+      "score": 75.0,
+      "last_close": 11.41,
+      "rel_volume": 34.72,
+      "price_change_pct": 31.15,
+      "gap_pct": 31.21,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 471265952,
+      "float_shares": 36338880,
+      "cash_debt_ratio": 12.12,
+      "insider_pct": 0.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Google News | Perion Network Ltd. (PERI) stock price, news, quote and history - Yahoo Finance UK | Perion agreed to a roughly $420 million buyout. Closing is expected in early 2027. - Stock Titan"
     },
     {
       "ticker": "PGEN",
       "score": 75.0,
       "last_close": 5.14,
-      "rel_volume": 3.99,
+      "rel_volume": 3.98,
       "price_change_pct": -25.94,
       "gap_pct": -26.15,
       "st_msg_count": null,
@@ -85,7 +102,7 @@
       "insider_pct": 12.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings - Yahoo Finance | Precigen (PGEN) Shares Drop 25% After Inovio's FDA Nod for Compe - GuruFocus"
+      "recent_news": "Google News | Can Precigen (PGEN) Justify Its Valuation As Inovio Approval Tests Papzimeos? - Yahoo Finance | PGEN Stock Crashes Premarket: Retail Sees Buyout Opening As Inovio Rival Crashes The Party Before Earnings - TradingView"
     },
     {
       "ticker": "REPL",
@@ -102,7 +119,24 @@
       "insider_pct": 1.6,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Wall Street Analysts Believe Replimune Group (REPL) Could Rally 26.8%: Here's is How to Trade - Yahoo Finance | REPL Stock Clocks Worst Day In Over 3 Months — New FDA Documents Leave Wall Street Awaiting Another Rejection For Cancer Drug - Stocktwits"
+      "recent_news": "Google News | REPL Stock Clocks Worst Day In Over 3 Months — New FDA Documents Leave Wall Street Awaiting Another Rejection For Cancer Drug - Stocktwits | Wall Street Analysts Believe Replimune Group (REPL) Could Rally 26.8%: Here's is How to Trade - Yahoo Finance"
+    },
+    {
+      "ticker": "NMRA",
+      "score": 74.0,
+      "last_close": 0.496,
+      "rel_volume": 2.91,
+      "price_change_pct": 35.15,
+      "gap_pct": 38.86,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 93140000,
+      "float_shares": 116412791,
+      "cash_debt_ratio": 2.19,
+      "insider_pct": 23.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Google News | Why Neumora Therapeutics, Inc. (NMRA) Is One of the Best Get Rich Quick Stocks to Buy - Yahoo Finance | NMRA Stock On Track For Worst Day In 1.5 Years — Neumora Therapeutics' Lead Depression Drug Fails Late Stage Trials - Stocktwits"
     },
     {
       "ticker": "KOS",
@@ -119,7 +153,7 @@
       "insider_pct": 2.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Kosmos Energy (KOS) stock trades down, here is why - TradingView"
+      "recent_news": "Google News | Kosmos Energy Ltd. (KOS) stock price, news, quote and history - Yahoo Finance Australia | Kosmos Energy (KOS) stock trades down, here is why - TradingView"
     },
     {
       "ticker": "RIVN",
@@ -136,7 +170,7 @@
       "insider_pct": 34.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC | RIVN Stock Upgraded By UBS – Firm Calls 19% Sell-Off A Buying Opportunity Ahead Of R2 Ramp - Yahoo Finance"
+      "recent_news": "Google News | Why Rivian Stock Popped Today - Yahoo Finance | Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise - CNBC"
     },
     {
       "ticker": "ULCC",
@@ -153,13 +187,13 @@
       "insider_pct": 43.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Frontier (ULCC) stock is trading up today - Yahoo Finance | Two Frontier Airlines executives will leave Nov. 13; a new COO starts Nov. 30. - Stock Titan"
+      "recent_news": "Google News | ULCC Q3 deep dive: premium product rollouts and disciplined network drive revenue growth - Yahoo Finance | Two Frontier Airlines executives will leave Nov. 13; a new COO starts Nov. 30. - Stock Titan"
     },
     {
       "ticker": "UPWK",
-      "score": 65.6,
+      "score": 65.2,
       "last_close": 9.72,
-      "rel_volume": 2.82,
+      "rel_volume": 2.79,
       "price_change_pct": 6.23,
       "gap_pct": 7.05,
       "st_msg_count": null,
@@ -170,7 +204,7 @@
       "insider_pct": 5.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Upwork Inc. (UPWK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Why Upwork Stock Is Soaring Monday - Benzinga"
+      "recent_news": "Google News | Upwork Inc. (UPWK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Upwork (UPWK) Stock Price, News &amp; Analysis - 24/7 Wall St."
     },
     {
       "ticker": "FLNC",
@@ -187,7 +221,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | FLNC Stock Slides After Fluence Energy Announces Leadership Changes – What Investors Need To Know - TradingView | Fluence Energy appoints interim CEO and CFO as Nebreda and Pasha step down (FLNC:NASDAQ) - Seeking Alpha"
+      "recent_news": "Google News | FLNC Stock Slides After Fluence Energy Announces Leadership Changes – What Investors Need To Know - Yahoo Finance | FLNC Stock Slides After Fluence Energy Announces Leadership Changes – What Investors Need To Know - TradingView"
     },
     {
       "ticker": "REAL",
@@ -202,15 +236,15 @@
       "float_shares": 104286284,
       "cash_debt_ratio": 0.28,
       "insider_pct": 7.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Real REMAX Group Inc. (REAX) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Dirt Cheap Real Asset Dividend Machines Buying Back Stock Hand-Over-Fist - Seeking Alpha"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2071,
+      "recent_news": "Google News | True North Commercial Real Estate Investment Trust (TNT-UN.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Dirt Cheap Real Asset Dividend Machines Buying Back Stock Hand-Over-Fist - Seeking Alpha"
     },
     {
       "ticker": "RUN",
-      "score": 61.8,
+      "score": 61.7,
       "last_close": 8.25,
-      "rel_volume": 1.87,
+      "rel_volume": 1.86,
       "price_change_pct": 10.29,
       "gap_pct": 10.76,
       "st_msg_count": null,
@@ -221,7 +255,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 714,
-      "recent_news": "Google News | UMS Integration (SGX:558) Stock Looks Reasonably Priced Despite Its 141% Run - Yahoo Finance | Not Newmont. Not Barrick. This Gold Stock Collects Cash Without Running a Mine. - The Motley Fool"
+      "recent_news": "Google News | Sunrun (RUN) Heads Into Q3 Earnings With Shares Up 10.3%: What to Expect - Yahoo Finance | This cybersecurity stock has doubled in 2026, and still has room to run, Deutsche Bank says - CNBC"
     },
     {
       "ticker": "COUR",
@@ -238,7 +272,7 @@
       "insider_pct": 3.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Google News | Coursera (COUR) Stock Slides As Q3 Earnings Expose Growth Strain - Yahoo Finance | Coursera (NYSE:COUR) Stock Jumps 9.4% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | Coursera (COUR) Stock Slides As Q3 Earnings Expose Growth Strain - Yahoo Finance | Bayer Shares Rise After Win in First Roundup Trial Since Supreme Court Ruling - WSJ"
     },
     {
       "ticker": "NXH",
@@ -255,7 +289,7 @@
       "insider_pct": 8.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Google News | Neighborhood Intelligence, Inc. (NXH) stock price, news, quote and history - Yahoo Finance Australia | A proposed deal puts tZERO, a platform for regulated digital assets, at $350 million before the merger. - Stock Titan"
+      "recent_news": "Google News | Neighborhood Intelligence, Inc. (NXH) stock price, news, quote and history - Yahoo Finance Australia | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "CWK",
@@ -272,7 +306,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Cushman &amp; Wakefield Limited (CWK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Cushman &amp; Wakefield (NYSE:CWK) Shares Climb 8.8% - Still a Buy? - MarketBeat"
+      "recent_news": "Google News | Cushman &amp; Wakefield Limited (CWK) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Earnings to watch: Cushman &amp; Wakefield (CWK) reports Q3 results tomorrow - TradingView"
     },
     {
       "ticker": "CAPR",
@@ -289,7 +323,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | CAPR Stock Rallies Into FDA Decision Month: Retail Spots Approval ‘Tea Leaves’ In Capricor’s Launch Team Hiring - Yahoo Finance | CAPR Stock on Track For Worst Month Since July AdCom Vote On Deramiocel As November FDA Decision Nears - Stocktwits"
+      "recent_news": "Google News | CAPR Stock Rallies Into FDA Decision Month: Retail Spots Approval ‘Tea Leaves’ In Capricor’s Launch Team Hiring - Yahoo Finance | Why Did CAPR Stock Jump 20% After-Hours Today? - Stocktwits"
     },
     {
       "ticker": "IMNM",
@@ -306,7 +340,7 @@
       "insider_pct": 6.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Immunome, Inc. (IMNM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Immunome's Nov. 10 conference presentation will stream live - Stock Titan"
+      "recent_news": "Google News | Immunome, Inc. (IMNM) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Immunome, Inc. (IMNM) stock price, news, quote and history - Yahoo Finance UK"
     },
     {
       "ticker": "PMT",
@@ -323,7 +357,7 @@
       "insider_pct": 1.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Google News | PennyMac Mortgage Investment Trust (PMT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | PMT Upgraded by Keefe, Bruyette &amp; Woods -- Price Target Lowered to $10.00 - GuruFocus"
+      "recent_news": "Google News | PennyMac Mortgage Investment Trust (PMT) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | What PennyMac Mortgage Investment Trust (PMT) Said on Its Q3 Earnings Call - TradingView"
     },
     {
       "ticker": "FLO",
@@ -340,7 +374,7 @@
       "insider_pct": 8.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | Flowers Foods, Inc. (FLO) Stock forecasts - Yahoo Finance Singapore | Flowers Foods and Inter Parfums shares are soaring, what you need to know - StockStory"
+      "recent_news": "Google News | Flowers Foods (FLO) Stock Could Be 40% Undervalued On Cash Flow Views - Yahoo Finance | Flowers Foods and Inter Parfums shares are soaring, what you need to know - StockStory"
     },
     {
       "ticker": "PLAY",
@@ -357,13 +391,13 @@
       "insider_pct": 5.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 677,
-      "recent_news": "Google News | Here's How to Play NuScale Stock Before Q3 Earnings Release - Yahoo Finance | How to Play AAPL Stock as Apple Acquires an Agentic AI Startup - Barchart.com"
+      "recent_news": "Google News | Dave &amp; Buster's Entertainment, Inc. (PLAY) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | How to Play AAPL Stock as Apple Acquires an Agentic AI Startup - Barchart.com"
     },
     {
       "ticker": "JBLU",
-      "score": 53.3,
+      "score": 53.2,
       "last_close": 3.17,
-      "rel_volume": 1.14,
+      "rel_volume": 1.13,
       "price_change_pct": 11.23,
       "gap_pct": 10.35,
       "st_msg_count": null,
@@ -374,7 +408,7 @@
       "insider_pct": 10.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | JetBlue Airways climbs 11% as airlines rise and oil prices drop (JBLU:NASDAQ) - Seeking Alpha | JetBlue Soars 11%, United Rallies 6% as Oil Drops on Iran Peace Talk Hopes; American Airlines Gains 5% - Yahoo Finance"
+      "recent_news": "Google News | JBLU Stock Rises Overnight: JetBlue Board Chairman Buys Shares Amid Debt Concerns - Yahoo Finance | JetBlue Airways climbs 11% as airlines rise and oil prices drop (JBLU:NASDAQ) - Seeking Alpha"
     },
     {
       "ticker": "TRLV",
@@ -391,13 +425,13 @@
       "insider_pct": 1.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | symbol__ Stock Quote Price and Forecast - CNN | Trulieve Cannabis Corp. (TRLV) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada"
+      "recent_news": "Google News | What Just Happened With Trulieve Cannabis (TRLV) Shares? - Yahoo Finance | symbol__ Stock Quote Price and Forecast - CNN"
     },
     {
       "ticker": "RIG",
-      "score": 52.6,
+      "score": 52.5,
       "last_close": 6.23,
-      "rel_volume": 1.08,
+      "rel_volume": 1.07,
       "price_change_pct": -10.23,
       "gap_pct": -10.09,
       "st_msg_count": null,
@@ -406,9 +440,9 @@
       "float_shares": 923615155,
       "cash_debt_ratio": 0.1,
       "insider_pct": 9.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Google News | Transocean (NYSE:RIG) reports sales below analyst estimates in Q3 2026 earnings - Yahoo Finance | Transocean says it has about $8 billion in offshore drilling work booked. - Stock Titan"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 40,
+      "recent_news": "Google News | Transocean (NYSE:RIG) reports sales below analyst estimates in Q3 2026 earnings - Yahoo Finance | Transocean (RIG) Reports Break-Even Earnings for Q3 - Yahoo Finance"
     },
     {
       "ticker": "ALKT",
@@ -445,23 +479,6 @@
       "recent_news": "Google News | BUR Stock Sinks 37% Following Reports Of A US Appeals Court Ruling — What Is The Argentina Connection? - Stocktwits | Is Burford Capital Limited (BUR) A Good Stock To Buy Now? - Yahoo Finance"
     },
     {
-      "ticker": "TWI",
-      "score": 51.5,
-      "last_close": 4.97,
-      "rel_volume": 1.48,
-      "price_change_pct": 6.88,
-      "gap_pct": 6.77,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 321094624,
-      "float_shares": 51980507,
-      "cash_debt_ratio": 0.26,
-      "insider_pct": 5.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Why Titan International (TWI) shares are falling today - Yahoo Finance | Titan International (TWI) Stock Forecast &amp; Analyst Ratings - Moomoo"
-    },
-    {
       "ticker": "NAT",
       "score": 51.4,
       "last_close": 7.29,
@@ -476,7 +493,7 @@
       "insider_pct": 5.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 34,
-      "recent_news": "Google News | Nordic American Tankers Stock Price Forecast. Should You Buy NAT? - StockInvest.us | Nordic American Tankers (NYSE:NAT) Stock Falls 7.8% - What's Next? - MarketBeat"
+      "recent_news": "Google News | Nordic American Tankers Stock Price Forecast. Should You Buy NAT? - StockInvest.us | Nordic American Tankers: Grab That 13% Yield While The Tanker Boom Lasts (NYSE:NAT) - Seeking Alpha"
     },
     {
       "ticker": "RKT",
@@ -493,13 +510,47 @@
       "insider_pct": 0.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | What Is Behind The Move In Rocket Companies Stock? - Trefis | Rocket Companies, Inc. (RKT) Stock Forecasts - Yahoo Finance"
+      "recent_news": "Google News | Rocket Companies, Inc. (RKT) Stock Forecasts - Yahoo Finance | What Is Behind The Move In Rocket Companies Stock? - Trefis"
+    },
+    {
+      "ticker": "GLAS",
+      "score": 50.5,
+      "last_close": 2.36,
+      "rel_volume": 0.97,
+      "price_change_pct": 8.26,
+      "gap_pct": 7.57,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 222412304,
+      "float_shares": 73839003,
+      "cash_debt_ratio": 0.26,
+      "insider_pct": 7.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 13,
+      "recent_news": "Google News | Glass House Stock Is Getting Smoked - Yahoo Finance | Glass House Brands (GLAS) Stock Price, News &amp; Analysis - Stock Titan"
+    },
+    {
+      "ticker": "TMC",
+      "score": 49.7,
+      "last_close": 2.33,
+      "rel_volume": 0.83,
+      "price_change_pct": -10.38,
+      "gap_pct": -9.81,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1027845632,
+      "float_shares": 240842328,
+      "cash_debt_ratio": null,
+      "insider_pct": 46.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "Google News | TMC the metals company Inc. (TMC) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | TMC Stock Hits Fresh 52-Week Lows But CEO Says Selloff Isn’t Fundamental: ‘...Negativity Can Feed On Itself’ - TradingView"
     },
     {
       "ticker": "CWH",
-      "score": 47.9,
+      "score": 47.8,
       "last_close": 5.35,
-      "rel_volume": 1.12,
+      "rel_volume": 1.11,
       "price_change_pct": 7.0,
       "gap_pct": 6.9,
       "st_msg_count": null,
@@ -527,24 +578,7 @@
       "insider_pct": 8.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | Portillo's Inc. (PTLO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada | Portillo's Stock Price Forecast. Should You Buy PTLO? - StockInvest.us"
-    },
-    {
-      "ticker": "NPKI",
-      "score": 47.2,
-      "last_close": 9.16,
-      "rel_volume": 3.63,
-      "price_change_pct": -2.03,
-      "gap_pct": -3.1,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 768735744,
-      "float_shares": 79688360,
-      "cash_debt_ratio": 0.12,
-      "insider_pct": 4.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | NPKI SHAREHOLDER INVESTIGATION: SueWallSt Notifies Investors of Potential Securities Claims Involving NPK International - Morningstar | NPK International (NPKI) Stock Sinks As Q3 Results Trigger Guidance Fears - Yahoo Finance"
+      "recent_news": "Google News | Portillo's Stock Price Forecast. Should You Buy PTLO? - StockInvest.us | 3 Reasons to Avoid PTLO and 1 Stock to Buy Instead - Yahoo Finance"
     },
     {
       "ticker": "QDEL",
@@ -564,27 +598,10 @@
       "recent_news": "Google News | QuidelOrtho Corporation (QDEL) stock price, news, quote and history - Yahoo Finance Australia | QuidelOrtho(QDEL) Stock Options Chain | Quotes &amp; News - Moomoo"
     },
     {
-      "ticker": "BLND",
-      "score": 44.2,
-      "last_close": 1.2,
-      "rel_volume": 0.8,
-      "price_change_pct": 7.14,
-      "gap_pct": 6.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 283816000,
-      "float_shares": 175093175,
-      "cash_debt_ratio": 21.97,
-      "insider_pct": 9.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | British Land (LSE:BLND) Stock Looks Undervalued Following Its 51% Three Year Run - Yahoo Finance | Blend Labs(BLND) Stock Options Chain | Quotes &amp; News - Moomoo"
-    },
-    {
       "ticker": "CIFR",
-      "score": 43.7,
+      "score": 43.2,
       "last_close": 6.86,
-      "rel_volume": 1.27,
+      "rel_volume": 1.23,
       "price_change_pct": -5.9,
       "gap_pct": -5.56,
       "st_msg_count": null,
@@ -612,7 +629,24 @@
       "insider_pct": 0.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | VYX Nov 2026 15.000 put (VYX261120P00015000) stock price, news, quote and history - Yahoo Finance Australia | NCR Voyix (NYSE:VYX) Shares Up 8.1% - Here's What Happened - MarketBeat"
+      "recent_news": "Google News | NCR Voyix Corporation (VYX) Stock Forecasts - Yahoo Finance | VYX Stock Price and Chart — NYSE:VYX - TradingView"
+    },
+    {
+      "ticker": "JBI",
+      "score": 42.7,
+      "last_close": 4.89,
+      "rel_volume": 1.4,
+      "price_change_pct": 5.39,
+      "gap_pct": 5.06,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 667171008,
+      "float_shares": 129986470,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": 5.2,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Google News | Why Janus (JBI) Stock Is Falling Today - Yahoo Finance | Third-quarter results are due Nov. 10; Janus will hold a call at 10 a.m. ET. - Stock Titan"
     },
     {
       "ticker": "TRTX",
@@ -629,24 +663,7 @@
       "insider_pct": 3.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | TPG RE Finance Trust (TRTX) Stock Can Q3 Earnings Rebuild Confidence? - Yahoo Finance | Tpg Re Finance Trust Stock Price Forecast. Should You Buy TRTX? - StockInvest.us"
-    },
-    {
-      "ticker": "KVUE",
-      "score": 42.2,
-      "last_close": 19.31,
-      "rel_volume": 3.66,
-      "price_change_pct": -1.28,
-      "gap_pct": -1.71,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 37109346304,
-      "float_shares": 1918981882,
-      "cash_debt_ratio": 0.12,
-      "insider_pct": 0.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | How major US stock indexes fared Monday 11/2/2026 - KVUE | Kenvue Is Leaving the S&amp;P 500: Here’s What It Means for Investors - 24/7 Wall St."
+      "recent_news": "Google News | TPG RE Finance Trust (TRTX) Stock Can Q3 Earnings Rebuild Confidence? - Yahoo Finance | TPG RE Finance Trust: Funding Costs Are A Cause For Concern (NYSE:TRTX) - Seeking Alpha"
     },
     {
       "ticker": "VNET",
@@ -667,9 +684,9 @@
     },
     {
       "ticker": "FMC",
-      "score": 40.0,
+      "score": 39.9,
       "last_close": 6.5,
-      "rel_volume": 1.55,
+      "rel_volume": 1.54,
       "price_change_pct": 4.84,
       "gap_pct": 3.63,
       "st_msg_count": null,
@@ -684,9 +701,9 @@
     },
     {
       "ticker": "GRAB",
-      "score": 39.0,
+      "score": 38.8,
       "last_close": 2.86,
-      "rel_volume": 1.0,
+      "rel_volume": 0.98,
       "price_change_pct": 5.54,
       "gap_pct": 5.35,
       "st_msg_count": null,
@@ -697,7 +714,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "Google News | Grab Holdings Limited (GRAB) Stock Falls Amid Market Uptick: What Investors Need to Know - Yahoo Finance | Grab: Discount To Uber Makes Little Sense (NASDAQ:GRAB) - Seeking Alpha"
+      "recent_news": "Google News | Grab Holdings (GRAB) Stock Is Trending After Hours: Here's What's Happening - Benzinga | Earnings call transcript: Grab posts first all-segment profit in Q3 2026 - Investing.com"
     },
     {
       "ticker": "ACCO",
@@ -717,6 +734,40 @@
       "recent_news": "Google News | ACCO Brands(ACCO) Stock Options Chain | Quotes &amp; News - Moomoo | Acco Brands (ACCO) Tops Q3 Earnings Estimates - Yahoo Finance"
     },
     {
+      "ticker": "PLCE",
+      "score": 37.0,
+      "last_close": 0.42,
+      "rel_volume": 21.98,
+      "price_change_pct": 0.0,
+      "gap_pct": 1.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 9437412,
+      "float_shares": 8094070,
+      "cash_debt_ratio": 0.01,
+      "insider_pct": 4.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | Children's Place(PLCE) Stock Options Chain | Quotes &amp; News - Moomoo | The Children's Place to file for bankruptcy -- Bloomberg (PLCE:NASDAQ) - Seeking Alpha"
+    },
+    {
+      "ticker": "FWRG",
+      "score": 36.1,
+      "last_close": 12.95,
+      "rel_volume": 2.53,
+      "price_change_pct": 1.65,
+      "gap_pct": 0.78,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 799176064,
+      "float_shares": 60647278,
+      "cash_debt_ratio": 0.02,
+      "insider_pct": 1.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Google News | First Watch earnings: what to look for from FWRG - Yahoo Finance | Earnings To Watch: First Watch Restaurant Group Inc (FWRG) Q3 2026 -- GF Value Sees 102% Upside - Yahoo Finance"
+    },
+    {
       "ticker": "AAL",
       "score": 34.9,
       "last_close": 13.08,
@@ -731,7 +782,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Google News | Marvell Technology to buy Lumentum in all-stock deal - CNBC | Marvell Agrees to Buy Lumentum in $115 Billion All-Stock Deal - Yahoo Finance"
+      "recent_news": "Google News | Stock Market Today, Nov. 2: Marvell Announces $115 Billion All-Stock Acquisition of Lumentum - Yahoo Finance | Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell - CNBC"
     },
     {
       "ticker": "UAMY",
@@ -748,42 +799,15 @@
       "insider_pct": 8.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Google News | United States Antimony (UAMY) Stock May Trade At A Premium Following Delivery Update - Yahoo Finance | UAMY Stock Heads Toward Biggest Single Day Loss In Over 9 Months – But H.C. Wainwright Still Has A ‘Buy’ Rating - Stocktwits"
+      "recent_news": "Google News | UAMY Stock Rises Overnight As United States Antimony Sees $314M Worth Gold-Antimony Prospects In Alaska - Yahoo Finance | UAMY Stock Heads Toward Biggest Single Day Loss In Over 9 Months – But H.C. Wainwright Still Has A ‘Buy’ Rating - Stocktwits"
     },
     {
       "ticker": "LAC",
-      "score": 30.1,
+      "score": 29.8,
       "last_close": 1.96,
-      "rel_volume": 1.02,
+      "rel_volume": 1.0,
       "price_change_pct": -3.45,
       "gap_pct": -3.94,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 711564160,
-      "float_shares": 346252207,
-      "cash_debt_ratio": 0.71,
-      "insider_pct": 6.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Google News | Lithium Americas Corp. (LAC) Falls More Steeply Than Broader Market: What Investors Need to Know - Yahoo Finance | Why JPMorgan Is Betting That Lithium Americas Stock Will Double. - Barchart.com"
-    },
-    {
-      "ticker": "OXSQ",
-      "score": 28.9,
-      "last_close": 0.937,
-      "rel_volume": 1.68,
-      "price_change_pct": 1.86,
-      "gap_pct": 1.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GPRO",
-      "score": 28.0,
-      "last_close": 0.955,
-      "rel_volume": 1.17,
-      "price_change_pct": 2.72,
-      "gap_pct": 3.12,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -798,22 +822,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GPRO",
+      "score": 26.9,
+      "last_close": 0.955,
+      "rel_volume": 1.08,
+      "price_change_pct": 2.69,
+      "gap_pct": 3.12,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "FUN",
       "score": 26.3,
       "last_close": 7.73,
       "rel_volume": 0.9,
       "price_change_pct": 3.34,
       "gap_pct": 2.87,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EVH",
-      "score": 25.4,
-      "last_close": 4.45,
-      "rel_volume": 0.74,
-      "price_change_pct": 3.49,
-      "gap_pct": 3.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -844,16 +868,6 @@
       "rel_volume": 0.77,
       "price_change_pct": -3.04,
       "gap_pct": -2.69,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "UNIT",
-      "score": 21.7,
-      "last_close": 4.94,
-      "rel_volume": 0.91,
-      "price_change_pct": -2.37,
-      "gap_pct": -1.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -894,16 +908,6 @@
       "rel_volume": 0.73,
       "price_change_pct": 0.5,
       "gap_pct": 0.5,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "HAPN",
-      "score": 9.9,
-      "last_close": 15.57,
-      "rel_volume": 0.72,
-      "price_change_pct": 0.26,
-      "gap_pct": 0.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
