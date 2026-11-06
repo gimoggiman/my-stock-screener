@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-06T00:46:30.442767+00:00",
-  "tickers_scanned": 61,
+  "last_updated_utc": "2026-11-06T07:41:03.110672+00:00",
+  "tickers_scanned": 62,
   "results": [
     {
       "ticker": "ADMA",
@@ -34,15 +34,15 @@
       "insider_pct": 23.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Ardent Health (ARDT) Q3 2026 Earnings Call Transcript | Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates | Ardent Health (ARDT) Stock Looks Like A Bargain As It Gains 43% YTD"
+      "recent_news": "Lovelace parent turns $45 million profit, trims labor costs | Ardent Health (ARDT) Q3 2026 Earnings Call Transcript | Ardent Health, Inc. (ARDT) Beats Q3 Earnings and Revenue Estimates"
     },
     {
       "ticker": "DNUT",
       "score": 75.0,
       "last_close": 4.6,
-      "rel_volume": 10.84,
+      "rel_volume": 10.86,
       "price_change_pct": 30.68,
-      "gap_pct": 29.83,
+      "gap_pct": 29.69,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 798099968,
@@ -51,7 +51,7 @@
       "insider_pct": 45.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Krispy Kreme's turnaround is gaining momentum: CEO | Krispy Kreme, Inc. Q3 2026 Earnings Call Summary | Krispy Kreme Inc (DNUT) (Q3 2026) Earnings Call Highlights: Margin Expansion and Raised Revenue ..."
+      "recent_news": "Krispy Kreme's turnaround is gaining momentum: CEO | Why Krispy Kreme Stock Crushed It Today | Krispy Kreme, Inc. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "LYNX",
@@ -73,9 +73,9 @@
     {
       "ticker": "PLCE",
       "score": 75.0,
-      "last_close": 0.336,
-      "rel_volume": 34.77,
-      "price_change_pct": 40.04,
+      "last_close": 0.34,
+      "rel_volume": 34.89,
+      "price_change_pct": 41.67,
       "gap_pct": 35.75,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -85,7 +85,7 @@
       "insider_pct": 4.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "BC-Most Active Stocks | 57-year-old children's chain considers Chapter 11, liquidation | Children’s Place weighs bankruptcy sale or liquidation, Bloomberg reports"
+      "recent_news": "What Is Really Behind Nike Stock's Run? | BC-Most Active Stocks | 57-year-old children's chain considers Chapter 11, liquidation"
     },
     {
       "ticker": "PTLO",
@@ -102,18 +102,18 @@
       "insider_pct": 7.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Portillo's Q3 Earnings Call Highlights | Portillo's Stock Surges After Major Strategy Reset | Portillo’s to shutter five to nine restaurants outside Chicago"
+      "recent_news": "Portillos Inc (PTLO) (Q3 2026) Earnings Call Highlights: Margin Expansion and Raised EBITDA ... | Portillo's Q3 Earnings Call Highlights | Portillo's Stock Surges After Major Strategy Reset"
     },
     {
       "ticker": "RUN",
       "score": 75.0,
       "last_close": 9.87,
-      "rel_volume": 3.74,
+      "rel_volume": 3.83,
       "price_change_pct": 12.29,
       "gap_pct": 13.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2377159680,
+      "market_cap": 2354481408,
       "float_shares": 220924120,
       "cash_debt_ratio": 0.05,
       "insider_pct": 2.8,
@@ -122,15 +122,32 @@
       "recent_news": "Solar Stocks Pop And Plunge; Analysts Think They Know Why | Is First Solar Stock Still Worth Owning After Its Quarter? | Sunrun (RUN) Q3 2026 Earnings Call Transcript"
     },
     {
+      "ticker": "TBI",
+      "score": 75.0,
+      "last_close": 12.36,
+      "rel_volume": 7.61,
+      "price_change_pct": 25.61,
+      "gap_pct": 21.49,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 376292096,
+      "float_shares": 27646509,
+      "cash_debt_ratio": 0.17,
+      "insider_pct": 7.7,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "TrueBlue (TBI) Q3 2026 Earnings Call Transcript | TrueBlue Inc (TBI) Q3 2026 Earnings Call Highlights: Fifth Straight Quarter of Growth as ... | TrueBlue (TBI) Tops Q3 Earnings and Revenue Estimates"
+    },
+    {
       "ticker": "VERX",
       "score": 75.0,
       "last_close": 17.59,
-      "rel_volume": 3.45,
+      "rel_volume": 3.6,
       "price_change_pct": 10.49,
       "gap_pct": 10.36,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2846359808,
+      "market_cap": 2853414400,
       "float_shares": 70881146,
       "cash_debt_ratio": 0.66,
       "insider_pct": 7.0,
@@ -142,7 +159,7 @@
       "ticker": "XERS",
       "score": 75.0,
       "last_close": 13.08,
-      "rel_volume": 4.03,
+      "rel_volume": 4.13,
       "price_change_pct": 25.05,
       "gap_pct": 24.28,
       "st_msg_count": null,
@@ -154,6 +171,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Xeris Biopharma Holdings, Inc. Q3 2026 Earnings Call Summary | Xeris Biopharma (XERS) Q3 2026 Earnings Call Transcript | Xeris CEO Sees Recorlev Nearing $1B In Annual Sales 3 To 4 Years Earlier Than Expected – XERS Stock On Track To Hit Over 7-Year Highs"
+    },
+    {
+      "ticker": "ZVIA",
+      "score": 75.0,
+      "last_close": 1.36,
+      "rel_volume": 4.7,
+      "price_change_pct": 13.33,
+      "gap_pct": 13.75,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 98105656,
+      "float_shares": 49534703,
+      "cash_debt_ratio": 92.14,
+      "insider_pct": 6.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Zevia PBC (ZVIA) Q3 2026 Earnings Call Transcript | Zevia PBC (ZVIA) (Q3 2026) Earnings Call Highlights: Strong 18. ... | Zevia (ZVIA) Reports Q3 Loss, Tops Revenue Estimates"
     },
     {
       "ticker": "AESI",
@@ -176,7 +210,7 @@
       "ticker": "PLTK",
       "score": 72.4,
       "last_close": 2.31,
-      "rel_volume": 3.11,
+      "rel_volume": 3.14,
       "price_change_pct": 8.96,
       "gap_pct": 6.6,
       "st_msg_count": null,
@@ -187,13 +221,13 @@
       "insider_pct": 85.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Playtika (PLTK) Q3 2026 Earnings Call Transcript | Playtika (PLTK) Reports Q3 Earnings: What Key Metrics Have to Say | Playtika Holding (PLTK) Tops Q3 Earnings and Revenue Estimates"
+      "recent_news": "Playtika Holding Corp (PLTK) (Q3 2026) Earnings Call Highlights: Record Adjusted EBITDA Margin ... | Playtika (PLTK) Q3 2026 Earnings Call Transcript | Playtika (PLTK) Reports Q3 Earnings: What Key Metrics Have to Say"
     },
     {
       "ticker": "BKSY",
-      "score": 71.8,
+      "score": 72.0,
       "last_close": 19.12,
-      "rel_volume": 2.73,
+      "rel_volume": 2.74,
       "price_change_pct": 14.01,
       "gap_pct": 12.88,
       "st_msg_count": null,
@@ -204,7 +238,24 @@
       "insider_pct": 8.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "BlackSky Technology Inc. Q3 2026 Earnings Call Summary | BlackSky (BKSY) Q3 2026 Earnings Call Transcript | BlackSky Technology Inc. (BKSY) Reports Q3 Loss, Tops Revenue Estimates"
+      "recent_news": "BlackSky Technology Inc (BKSY) Q3 2026 Earnings Call Highlights: Record Revenue Surge and ... | BlackSky Technology Inc. Q3 2026 Earnings Call Summary | BlackSky (BKSY) Q3 2026 Earnings Call Transcript"
+    },
+    {
+      "ticker": "BCRX",
+      "score": 71.0,
+      "last_close": 7.63,
+      "rel_volume": 2.82,
+      "price_change_pct": -7.4,
+      "gap_pct": -8.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1954180352,
+      "float_shares": 218196539,
+      "cash_debt_ratio": null,
+      "insider_pct": 1.3,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "BioCryst Pharmaceuticals Inc (BCRX) (Q3 2026) Earnings Call Highlights: ORLADEYO Revenue Climbs ... | BioCryst Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary | BioCryst (BCRX) Q3 2026 Earnings Call Transcript"
     },
     {
       "ticker": "ASPN",
@@ -224,44 +275,10 @@
       "recent_news": "Aspen Aerogels Inc (ASPN) Q3 2026 Earnings Call Highlights: Revenue and Adjusted EBITDA Crush ... | Aspen Aerogels (ASPN) Q3 2026 Earnings Call Transcript | Aspen Aerogels (ASPN) Beats Q3 Earnings and Revenue Estimates"
     },
     {
-      "ticker": "BCRX",
-      "score": 69.7,
-      "last_close": 7.63,
-      "rel_volume": 2.71,
-      "price_change_pct": -7.4,
-      "gap_pct": -8.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1954180352,
-      "float_shares": 218196539,
-      "cash_debt_ratio": null,
-      "insider_pct": 1.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "BioCryst Pharmaceuticals Inc (BCRX) (Q3 2026) Earnings Call Highlights: ORLADEYO Revenue Climbs ... | BioCryst Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary | BioCryst (BCRX) Q3 2026 Earnings Call Transcript"
-    },
-    {
-      "ticker": "CPIX",
-      "score": 69.1,
-      "last_close": 5.01,
-      "rel_volume": 2.49,
-      "price_change_pct": 12.84,
-      "gap_pct": 13.18,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 75065368,
-      "float_shares": 8699342,
-      "cash_debt_ratio": 0.82,
-      "insider_pct": 41.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Cumberland Pharmaceuticals Begins Rolling FDA NDA for Dyscorban in Duchenne Cardiomyopathy | Cumberland Pharmaceuticals stock tumbles on trial results | Cumberland Pharmaceuticals Inc (CPIX) (Q2 2026) Earnings Call Highlights: Strategic ..."
-    },
-    {
       "ticker": "IREN",
-      "score": 68.0,
+      "score": 68.5,
       "last_close": 18.03,
-      "rel_volume": 2.4,
+      "rel_volume": 2.44,
       "price_change_pct": -16.95,
       "gap_pct": -13.91,
       "st_msg_count": null,
@@ -272,7 +289,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
-      "recent_news": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects | A Tale of Two Data Center Stocks: Why Akamai Fell and Iren Popped on Earnings | The Stocks That Most Fear a Data-Center Freeze"
+      "recent_news": "IREN Ltd (IREN) Q1 2027 Earnings Call Highlights: AI Cloud Revenue Nearly Triples to $200 ... | CleanSpark Sinks Another 17%, IREN Down 17% as Bitcoin Tumbles and AI Data Center Selloff Deepens | A Tale of Two Data Center Stocks: Why Akamai Stalled and Iren Popped on Earnings"
     },
     {
       "ticker": "CMTG",
@@ -306,7 +323,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Applied Digital Sinks 15% as Data Center Rout Deepens: “Remain in Gridlock” | Google could take stake in TeraWulf’s $19B AI project | Dear TeraWulf Stock Fans, Mark Your Calendars for November 6"
+      "recent_news": "Runway Growth Finance Corp. (RWAY) Q3 Earnings and Revenues Beat Estimates | Applied Digital Sinks 15% as Data Center Rout Deepens: “Remain in Gridlock” | Google could take stake in TeraWulf’s $19B AI project"
     },
     {
       "ticker": "FUN",
@@ -324,23 +341,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
       "recent_news": "Six Flags Entertainment Corporation Q3 2026 Earnings Call Summary | Six Flags Could Sell Off More Parks | Six Flags Reports $366 Million in Losses After Goliath Coaster Death and Ride Closures"
-    },
-    {
-      "ticker": "ADEA",
-      "score": 64.7,
-      "last_close": 14.82,
-      "rel_volume": 2.12,
-      "price_change_pct": -12.41,
-      "gap_pct": -12.35,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1634351872,
-      "float_shares": 107738639,
-      "cash_debt_ratio": 0.33,
-      "insider_pct": 2.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
-      "recent_news": "Adeia Inc. Q3 2026 Earnings Call Summary | Adeia Inc (ADEA) (Q3 2026) Earnings Call Highlights: Non-Pay TV Revenue Jumps 48% as Deal ... | Adeia (ADEA) Q3 2026 Earnings Call Transcript"
     },
     {
       "ticker": "CARS",
@@ -374,7 +374,7 @@
       "insider_pct": 22.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Snap earnings analysis: questions answered and next catalysts | Snap's Q3 Print Saw Advertising Revenue Growth Slowing as Upper-Funnel Brand Declined, UBS Says | Snap: Q3 Ad Growth Underwhelms CEO"
+      "recent_news": "Do You Like Cash? Consider Reddit Stock | Snap earnings analysis: questions answered and next catalysts | Snap's Q3 Print Saw Advertising Revenue Growth Slowing as Upper-Funnel Brand Declined, UBS Says"
     },
     {
       "ticker": "IRWD",
@@ -391,7 +391,41 @@
       "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Ironwood (IRWD) Q3 2026 Earnings Call Transcript | What Ironwood Pharmaceuticals (IRWD) Said on Its Q3 Earnings Call | Ironwood Pharmaceuticals (IRWD) Beats Q3 Earnings Estimates"
+      "recent_news": "Ironwood Pharmaceuticals Inc (IRWD) (Q3 2026) Earnings Call Highlights: Record LINZESS Sales ... | Ironwood (IRWD) Q3 2026 Earnings Call Transcript | What Ironwood Pharmaceuticals (IRWD) Said on Its Q3 Earnings Call"
+    },
+    {
+      "ticker": "SITC",
+      "score": 62.6,
+      "last_close": 0.57,
+      "rel_volume": 3.76,
+      "price_change_pct": -4.03,
+      "gap_pct": 505.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 187399216,
+      "float_shares": 42142254,
+      "cash_debt_ratio": null,
+      "insider_pct": 0.4,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Site Centers Delists From NYSE as It Winds Down Operations | Site Centers To Stop Trading As It Winds Up Operations | SITE Centers stock surges on $3 special dividend"
+    },
+    {
+      "ticker": "CRNT",
+      "score": 62.5,
+      "last_close": 2.11,
+      "rel_volume": 4.58,
+      "price_change_pct": 5.5,
+      "gap_pct": 5.5,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 192601872,
+      "float_shares": 79493401,
+      "cash_debt_ratio": 1.21,
+      "insider_pct": 14.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Ceragon Networks (CRNT) Q3 2026 Earnings Call Transcript | What Ceragon Networks (CRNT) Said on Its Q3 Earnings Call | Ceragon: Q3 Earnings Snapshot"
     },
     {
       "ticker": "KURA",
@@ -429,9 +463,9 @@
     },
     {
       "ticker": "VNET",
-      "score": 60.9,
+      "score": 61.0,
       "last_close": 3.15,
-      "rel_volume": 1.79,
+      "rel_volume": 1.8,
       "price_change_pct": -10.51,
       "gap_pct": -10.94,
       "st_msg_count": null,
@@ -442,7 +476,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Has VNET Group (NasdaqGS:VNET) Fallen Far Enough on Sales? | What Investors Got Wrong About VNET Group Before A 68% Slide | VNET Group (VNET) Stock Gets Fair Value Trim After Analysts Cut Targets"
+      "recent_news": "VNET Group (VNET) Reports Strong Revenue Growth, Is The Debt Risk Priced In? | BlackLine (BL) Q3 Earnings Top Estimates | Has VNET Group (NasdaqGS:VNET) Fallen Far Enough on Sales?"
     },
     {
       "ticker": "CLVT",
@@ -462,21 +496,21 @@
       "recent_news": "Clarivate PLC (CLVT) (Q3 2026) Earnings Call Highlights: Recurring Revenue Growth Hits Highest ... | Clarivate (CLVT) Following Its Asset Sale And AI Push Still Looks Undervalued | What Clarivate (CLVT) Said on Its Q3 Earnings Call"
     },
     {
-      "ticker": "ONT",
+      "ticker": "BTU",
       "score": 60.2,
-      "last_close": 19.42,
-      "rel_volume": 1.73,
-      "price_change_pct": 20.4,
-      "gap_pct": 19.09,
+      "last_close": 16.02,
+      "rel_volume": 2.66,
+      "price_change_pct": -5.88,
+      "gap_pct": -5.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 681980352,
-      "float_shares": 30645571,
-      "cash_debt_ratio": 0.03,
-      "insider_pct": 8.2,
+      "market_cap": 1952838016,
+      "float_shares": 112586346,
+      "cash_debt_ratio": 1.16,
+      "insider_pct": 1.0,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 8,
-      "recent_news": "Onterris Inc (ONT) (Q3 2026) Earnings Call Highlights: Record Margins and Long-Term Growth Targets | Onterris (ONT) Q3 2026 Earnings Call Transcript | Onterris (ONT) Surpasses Q3 Earnings and Revenue Estimates"
+      "recent_dilution_filings_90d": 21,
+      "recent_news": "Peabody Energy Corp (BTU) Q3 2026 Earnings Call Highlights: Centurion Faulting Drags on Results ... | What Peabody Energy (BTU) Said on Its Q3 Earnings Call | Peabody Energy Corporation Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "CIFR",
@@ -493,7 +527,7 @@
       "insider_pct": 3.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Applied Digital Plunges 17%, Cipher Digital Sinks 14%, TeraWulf Tumbles 13% as Texas Data Center Fears Deepen | Cipher Digital Sinks Another 21% as AI Data Center Selloff Deepens After Midterms | BC-Most Active Stocks"
+      "recent_news": "Should You Trim Or Add To Your Cipher Digital Position Now? | Applied Digital Plunges 17%, Cipher Digital Sinks 14%, TeraWulf Tumbles 13% as Texas Data Center Fears Deepen | Cipher Digital Sinks Another 21% as AI Data Center Selloff Deepens After Midterms"
     },
     {
       "ticker": "LFTO",
@@ -514,9 +548,9 @@
     },
     {
       "ticker": "FLNC",
-      "score": 58.4,
+      "score": 58.6,
       "last_close": 5.095,
-      "rel_volume": 1.58,
+      "rel_volume": 1.59,
       "price_change_pct": -15.92,
       "gap_pct": -15.02,
       "st_msg_count": null,
@@ -535,7 +569,7 @@
       "last_close": 2.07,
       "rel_volume": 1.57,
       "price_change_pct": -10.39,
-      "gap_pct": -9.96,
+      "gap_pct": -10.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 913150400,
@@ -545,23 +579,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
       "recent_news": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger | 4 Critical Minerals Stocks That Could Benefit as the U.S. Reduces Reliance on China | TMC The Metals (TMC) Following NORI Study Faces A Valuation Test"
-    },
-    {
-      "ticker": "METC",
-      "score": 57.5,
-      "last_close": 6.2,
-      "rel_volume": 1.5,
-      "price_change_pct": -11.17,
-      "gap_pct": -11.25,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 394835520,
-      "float_shares": 43742684,
-      "cash_debt_ratio": 0.5,
-      "insider_pct": 9.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Ramaco (METC) Q3 2026 Earnings Call Transcript | Here's Why Ramaco Resources (METC) Is a Great 'Buy the Bottom' Stock Now | Ramaco Resources, Inc. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "CERT",
@@ -582,9 +599,9 @@
     },
     {
       "ticker": "SMR",
-      "score": 56.0,
+      "score": 56.1,
       "last_close": 4.37,
-      "rel_volume": 1.37,
+      "rel_volume": 1.38,
       "price_change_pct": -14.81,
       "gap_pct": -13.26,
       "st_msg_count": null,
@@ -595,7 +612,24 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here’s What Friday’s Report Has to Settle | NuScale's Modular Reactors Offer Flexible Clean Energy Supply | NuScale Power (SMR) Stock Looks Undervalued As Book Value Sets The Tone"
+      "recent_news": "NuScale Power (SMR) Q3 2026 Earnings Call Transcript | NuScale Power Corporation (SMR) Reports Q3 Loss, Lags Revenue Estimates | Oklo Sank 10% a Day After the Democratic Sweep Rattled AI Power Stocks. Here’s What Friday’s Report Has to Settle"
+    },
+    {
+      "ticker": "ONDS",
+      "score": 55.4,
+      "last_close": 4.52,
+      "rel_volume": 1.32,
+      "price_change_pct": -14.23,
+      "gap_pct": -12.81,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 2632008192,
+      "float_shares": 533397973,
+      "cash_debt_ratio": 33.69,
+      "insider_pct": 1.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback? | Liberty Capital Corporation (GLIBA) Q3 Earnings Miss Estimates | Ondas (ONDS) Wins Counter UAS Deals Following A Narrative That Says It Looks Undervalued"
     },
     {
       "ticker": "FIP",
@@ -615,29 +649,29 @@
       "recent_news": "FTAI Infrastructure (NASDAQ:FIP) surprises with Q3 2026 sales | 2 profitable stocks with competitive advantages and 1 that underwhelm | Energy products and services stocks Q2 highlights: FTAI Infrastructure (NASDAQ:FIP)"
     },
     {
-      "ticker": "ONDS",
-      "score": 55.3,
-      "last_close": 4.52,
-      "rel_volume": 1.31,
-      "price_change_pct": -14.23,
-      "gap_pct": -12.81,
+      "ticker": "OPTU",
+      "score": 54.8,
+      "last_close": 0.57,
+      "rel_volume": 1.27,
+      "price_change_pct": -17.39,
+      "gap_pct": -14.49,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2632008192,
-      "float_shares": 533397973,
-      "cash_debt_ratio": 33.69,
-      "insider_pct": 1.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "Ondas Just Dropped 38% in a Month: Is ONDS Stock a Falling Knife or Poised for a Comeback? | Liberty Capital Corporation (GLIBA) Q3 Earnings Miss Estimates | Ondas (ONDS) Wins Counter UAS Deals Following A Narrative That Says It Looks Undervalued"
+      "market_cap": 217225280,
+      "float_shares": 277430279,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 12.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "What Optimum Communications Investors Missed Before A 60% Fall | Oracle upgraded, Reddit downgraded: Wall Street's top analyst calls | Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen"
     },
     {
       "ticker": "SOFI",
-      "score": 55.1,
+      "score": 54.8,
       "last_close": 16.04,
-      "rel_volume": 1.48,
+      "rel_volume": 1.49,
       "price_change_pct": -7.71,
-      "gap_pct": -7.34,
+      "gap_pct": -7.13,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 20797743104,
@@ -646,7 +680,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Could $1,000 in XRP Today Be Worth $10,000 by 2030? | How Much Will One Bitcoin Be Worth in 2030? | Robinhood Sinks 10%, SoFi Down 8% as Bitcoin Slides and Fintech Stocks Sell Off"
+      "recent_news": "What Affirm (AFRM) Said on Its Q1 Earnings Call | Could $1,000 in XRP Today Be Worth $10,000 by 2030? | How Much Will One Bitcoin Be Worth in 2030?"
     },
     {
       "ticker": "NOK",
@@ -667,28 +701,28 @@
     },
     {
       "ticker": "OPEN",
-      "score": 54.6,
+      "score": 54.7,
       "last_close": 1.79,
-      "rel_volume": 1.25,
+      "rel_volume": 1.26,
       "price_change_pct": -9.6,
       "gap_pct": -10.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1726878592,
+      "market_cap": 1738252928,
       "float_shares": 952378125,
       "cash_debt_ratio": 0.46,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2726,
-      "recent_news": "Opendoor (NASDAQ:OPEN) misses Q3 2026 sales expectations | Why Opendoor Stock Jumped 13.8% Today | Why Opendoor Stock Dropped 20% in October"
+      "recent_news": "Opendoor (OPEN) Q3 2026 Earnings Call Transcript | Opendoor Technologies Inc. (OPEN) Reports Q3 Loss, Misses Revenue Estimates | Opendoor Technologies (OPEN) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates"
     },
     {
       "ticker": "ANGI",
-      "score": 52.4,
+      "score": 52.1,
       "last_close": 7.32,
       "rel_volume": 1.67,
       "price_change_pct": 7.02,
-      "gap_pct": 5.85,
+      "gap_pct": 5.7,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 299838688,
@@ -701,9 +735,9 @@
     },
     {
       "ticker": "UAMY",
-      "score": 52.0,
+      "score": 52.1,
       "last_close": 2.59,
-      "rel_volume": 1.03,
+      "rel_volume": 1.04,
       "price_change_pct": -13.09,
       "gap_pct": -12.08,
       "st_msg_count": null,
@@ -718,9 +752,9 @@
     },
     {
       "ticker": "GPRO",
-      "score": 51.0,
+      "score": 51.1,
       "last_close": 0.86,
-      "rel_volume": 1.03,
+      "rel_volume": 1.04,
       "price_change_pct": -8.99,
       "gap_pct": -7.46,
       "st_msg_count": null,
@@ -731,7 +765,7 @@
       "insider_pct": 13.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "US Futures Mixed After Rally On Wednesday — MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus | Why GoPro, Inc. (GPRO) Became a Costly Bet for One Investor | Why Oura really pulled its IPO at the last minute"
+      "recent_news": "Fox Factory Q3 Earnings Call Highlights | US Futures Mixed After Rally On Wednesday — MU, TSLA, AAPL, MSFT, APP, NVDA, IREN In Focus | Why GoPro, Inc. (GPRO) Became a Costly Bet for One Investor"
     },
     {
       "ticker": "RIG",
@@ -751,23 +785,6 @@
       "recent_news": "Transocean (RIG) Dropped, So What Is Behind Its Latest Update? | Transocean (RIG) Stock Looks Fairly Priced Against Future Cash Flow | Transocean Q3 Earnings Call Highlights"
     },
     {
-      "ticker": "CRMT",
-      "score": 47.2,
-      "last_close": 1.52,
-      "rel_volume": 0.62,
-      "price_change_pct": 20.63,
-      "gap_pct": 19.84,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 12674486,
-      "float_shares": 5895137,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 7.5,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "2 of Wall Street’s favorite stocks for long-term investors and 1 that underwhelm | 3 Reasons to sell CRMT and 1 stock to buy instead | America’s Car-Mart in sale talks as debt pressures mount - Bloomberg"
-    },
-    {
       "ticker": "NAT",
       "score": 46.7,
       "last_close": 6.53,
@@ -785,27 +802,10 @@
       "recent_news": "Record Charter Deal Might Change The Case For Investing In Nordic American Tankers (NAT) | Are Transportation Stocks Lagging  DHL AG (DHLGY) This Year? | Should Zacks’ Breakout Spotlight on Nordic American Tankers’ Earnings Narrative Require Action From NAT Investors?"
     },
     {
-      "ticker": "CWH",
-      "score": 45.4,
-      "last_close": 5.1,
-      "rel_volume": 1.2,
-      "price_change_pct": -5.9,
-      "gap_pct": -6.92,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 527115584,
-      "float_shares": 54028579,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 2.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "What Camping World (CWH) Said on Its Q3 Earnings Call | Camping World Holdings Inc (CWH) Q3 2026 Earnings Call Highlights: Cost Cuts and Cash Flow ... | Camping World Holdings, Inc. Q3 2026 Earnings Call Summary"
-    },
-    {
       "ticker": "LAC",
-      "score": 43.8,
+      "score": 43.9,
       "last_close": 1.84,
-      "rel_volume": 1.54,
+      "rel_volume": 1.55,
       "price_change_pct": -5.64,
       "gap_pct": -4.36,
       "st_msg_count": null,
@@ -814,15 +814,15 @@
       "float_shares": 346252207,
       "cash_debt_ratio": 0.71,
       "insider_pct": 6.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Lithium Americas Corp. (LAC) Falls More Steeply Than Broader Market: What Investors Need to Know | Lithium Americas And 2 Other Canadian Lithium Stocks To Watch | Lithium Americas Corp. (LAC) Stock Dips While Market Gains: Key Facts"
     },
     {
       "ticker": "GRAB",
-      "score": 43.4,
+      "score": 43.6,
       "last_close": 3.48,
-      "rel_volume": 2.21,
+      "rel_volume": 2.23,
       "price_change_pct": 3.57,
       "gap_pct": 3.42,
       "st_msg_count": null,
@@ -833,31 +833,31 @@
       "insider_pct": 14.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "BC-Most Active Stocks | GRAB Q3 Earnings Call Highlights Raised Outlook and Lending Growth | Uber Climbs 7% Despite Soft Profit Outlook as Delivery Strength Shines; Lyft Jumps 11%, DoorDash Gains 7%"
+      "recent_news": "Grab Stock Jumped 28% This Week. Its CFO Says AI Use Rose 60% Without Denting Margins | BC-Most Active Stocks | GRAB Q3 Earnings Call Highlights Raised Outlook and Lending Growth"
     },
     {
-      "ticker": "CSIQ",
-      "score": 40.9,
-      "last_close": 10.31,
-      "rel_volume": 1.76,
-      "price_change_pct": -4.36,
-      "gap_pct": -3.62,
+      "ticker": "EVMN",
+      "score": 39.4,
+      "last_close": 6.37,
+      "rel_volume": 1.06,
+      "price_change_pct": 5.46,
+      "gap_pct": 5.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 700015552,
-      "float_shares": 43729039,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": 29.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Is First Solar Stock Still Worth Owning After Its Quarter? | Canadian Solar (CSIQ) Surges 6.7%: Is This an Indication of Further Gains? | Can First Solar Stock Jump 50%?"
+      "market_cap": 231180752,
+      "float_shares": 19881908,
+      "cash_debt_ratio": 23.27,
+      "insider_pct": 3.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Evommune signs $1.1bn licence deal with Hinova for EVO570 | EADV26: Key late-stage readouts from the conference | Evommune (EVMN) Drops EVO756 for Eczema. Can EVO301 Carry the Pipeline?"
     },
     {
       "ticker": "ACH",
-      "score": 36.2,
-      "last_close": 0.298,
-      "rel_volume": 0.67,
-      "price_change_pct": 6.46,
+      "score": 38.5,
+      "last_close": 0.3,
+      "rel_volume": 0.68,
+      "price_change_pct": 7.14,
       "gap_pct": -4.38,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -912,7 +912,7 @@
       "gap_pct": -3.72,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 991500032,
+      "market_cap": 1073844864,
       "float_shares": 226972309,
       "cash_debt_ratio": 47.0,
       "insider_pct": 3.3,
@@ -922,9 +922,9 @@
     },
     {
       "ticker": "CAPR",
-      "score": 31.3,
+      "score": 31.4,
       "last_close": 8.6,
-      "rel_volume": 1.29,
+      "rel_volume": 1.3,
       "price_change_pct": -3.59,
       "gap_pct": -2.69,
       "st_msg_count": null,
@@ -965,6 +965,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "BBD",
+      "score": 20.9,
+      "last_close": 2.51,
+      "rel_volume": 0.86,
+      "price_change_pct": -2.18,
+      "gap_pct": -2.18,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "JBLU",
       "score": 19.1,
       "last_close": 3.49,
@@ -986,10 +996,10 @@
     },
     {
       "ticker": "MERC",
-      "score": 6.0,
-      "last_close": 0.249,
+      "score": 5.2,
+      "last_close": 0.25,
       "rel_volume": 0.25,
-      "price_change_pct": -0.28,
+      "price_change_pct": 0.0,
       "gap_pct": -1.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
