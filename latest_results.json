@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-07T19:53:55.245412+00:00",
-  "tickers_scanned": 66,
+  "last_updated_utc": "2026-11-07T23:26:55.089014+00:00",
+  "tickers_scanned": 65,
   "results": [
     {
       "ticker": "ANVS",
@@ -34,7 +34,7 @@
       "insider_pct": 8.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Guggenheim Expected $400 Million of Predictions Spending. DraftKings Now Plans Up to $700 Million | DraftKings (DKNG) Stock May Be Undervalued As Q3 Miss Resets Outlook | DraftKings Sinks on Weak 2027 Guidance. How Analysts Recommend Playing DKNG Stock From Here."
+      "recent_news": "DraftKings: 3 Key Takeaways for Long-Term Investors | DraftKings (DKNG) Sees Texas Betting Hopes Rise As Prediction Markets Draw Scrutiny | Guggenheim Expected $400 Million of Predictions Spending. DraftKings Now Plans Up to $700 Million"
     },
     {
       "ticker": "SITC",
@@ -510,7 +510,7 @@
       "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger | 4 Critical Minerals Stocks That Could Benefit as the U.S. Reduces Reliance on China | TMC The Metals (TMC) Following NORI Study Faces A Valuation Test"
+      "recent_news": "TMC The Metals (TMC) Stock Leaves Valuation Unclear After Its 127% Run | Tesla Optimus Rival Agility Robotics Begins Trading After SPAC Merger | 4 Critical Minerals Stocks That Could Benefit as the U.S. Reduces Reliance on China"
     },
     {
       "ticker": "TROX",
@@ -578,7 +578,7 @@
       "insider_pct": 15.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off | Lucid Jumped 12% After the Midterms. Monday’s Report Has to Show Cash Burn Is Shrinking | What Can Make Tesla Stock A Buy?"
+      "recent_news": "Lucid Stock is $3. That Doesn’t Mean It’s Cheap. | Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off | Lucid Jumped 12% After the Midterms. Monday’s Report Has to Show Cash Burn Is Shrinking"
     },
     {
       "ticker": "NVAX",
@@ -816,7 +816,7 @@
       "insider_pct": 10.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "JetBlue hikes checked-bag fees to as much as $70, costing a family of four up to $680 round-trip over the holidays | Is LUV Stock Worth Buying as Growth Outruns Execution Risks? | Why JetBlue Airways Bears Were Right Before The Drop"
+      "recent_news": "JetBlue Airways (JBLU) Climbed, What Is Driving Attention Now? | JetBlue hikes checked-bag fees to as much as $70, costing a family of four up to $680 round-trip over the holidays | Is LUV Stock Worth Buying as Growth Outruns Execution Risks?"
     },
     {
       "ticker": "ULCC",
