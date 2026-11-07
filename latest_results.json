@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-07T08:21:25.995939+00:00",
+  "last_updated_utc": "2026-11-07T15:26:05.985479+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 8.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "DraftKings (DKNG) Stock May Be Undervalued As Q3 Miss Resets Outlook | DraftKings Sinks on Weak 2027 Guidance. How Analysts Recommend Playing DKNG Stock From Here. | Stocks to Watch Recap: DraftKings, Airbnb, Iren, CoreWeave"
+      "recent_news": "Guggenheim Expected $400 Million of Predictions Spending. DraftKings Now Plans Up to $700 Million | DraftKings (DKNG) Stock May Be Undervalued As Q3 Miss Resets Outlook | DraftKings Sinks on Weak 2027 Guidance. How Analysts Recommend Playing DKNG Stock From Here."
     },
     {
       "ticker": "SITC",
@@ -46,7 +46,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 35065176,
-      "float_shares": 42142254,
+      "float_shares": 42145404,
       "cash_debt_ratio": null,
       "insider_pct": 0.4,
       "dilution_risk": "주의",
@@ -63,12 +63,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5673273856,
-      "float_shares": 383382583,
-      "cash_debt_ratio": 0.5,
+      "float_shares": 385228877,
+      "cash_debt_ratio": 0.3,
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Is TeraWulf (WULF) Fairly Valued After Strong Q3 Earnings And HPC Lease Growth? | Google-backed miner reveals $710M profit, operating loss surges 257% | Why Google’s Backstop Just De-Risked TeraWulf’s $19B Anthropic Deal"
+      "recent_news": "TeraWulf: 3 Key Takeaways for Long-Term Investors | WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified | Is TeraWulf (WULF) Fairly Valued After Strong Q3 Earnings And HPC Lease Growth?"
     },
     {
       "ticker": "PPTA",
@@ -96,13 +96,13 @@
       "gap_pct": 15.98,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2771268608,
-      "float_shares": 176066720,
-      "cash_debt_ratio": 0.42,
+      "market_cap": 2777040384,
+      "float_shares": 176479102,
+      "cash_debt_ratio": 0.58,
       "insider_pct": 3.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Xeris Biopharma Q3 Earnings Call Highlights | Xeris Biopharma Holdings Inc (XERS) (Q3 2026) Earnings Call Highlights: Revenue Surges 44% as ... | Can You Justify Buying Corcept Stock Today?"
+      "recent_news": "Xeris Biopharma (XERS) Adds Menassie M. Taddese To Its Board | Xeris Biopharma Q3 Earnings Call Highlights | Xeris Biopharma Holdings Inc (XERS) (Q3 2026) Earnings Call Highlights: Revenue Surges 44% as ..."
     },
     {
       "ticker": "HIMX",
@@ -130,9 +130,9 @@
       "gap_pct": 8.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 725403392,
-      "float_shares": 136757537,
-      "cash_debt_ratio": 0.2,
+      "market_cap": 726767808,
+      "float_shares": 136472049,
+      "cash_debt_ratio": 0.26,
       "insider_pct": 3.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
@@ -153,7 +153,7 @@
       "insider_pct": 6.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 98,
-      "recent_news": "Does The Fall In Cipher Digital Stock Change Anything? | MARA Fell 4% as Riot Landed a $28 Billion AI Lease. Here’s What November 9 Must Show | Bitcoin set for weekly loss on post-midterms regulatory uncertainty, jobs report"
+      "recent_news": "What Just Happened To Applied Digital Stock On Friday? | Does The Fall In Cipher Digital Stock Change Anything? | MARA Fell 4% as Riot Landed a $28 Billion AI Lease. Here’s What November 9 Must Show"
     },
     {
       "ticker": "SPCE",
@@ -181,13 +181,13 @@
       "gap_pct": -21.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1350631296,
+      "market_cap": 1302334464,
       "float_shares": 912313215,
       "cash_debt_ratio": 0.3,
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2780,
-      "recent_news": "Opendoor Technologies Inc (OPEN) (Q3 2026) Earnings Call Highlights: Revenue Tops $1 Billion as ... | Is Opendoor Technologies (OPEN) Undervalued On Weak Q3 Results And Soft Guidance? | Opendoor Plunges 21% After Q3 Miss and Soft Revenue Guidance; Zillow Group Slides 2%, Rocket Companies Holds Steady"
+      "recent_news": "Opendoor (OPEN) Stock Could Be Undervalued As Shares Fell 94% | Opendoor Technologies Inc (OPEN) (Q3 2026) Earnings Call Highlights: Revenue Tops $1 Billion as ... | Is Opendoor Technologies (OPEN) Undervalued On Weak Q3 Results And Soft Guidance?"
     },
     {
       "ticker": "RGTI",
@@ -204,7 +204,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Infleqtion (INFQ) Mirrors Quantum, Tech Rally on Rosy Growth Prospects, Shares Climb 19.5% | Rigetti Computing (RGTI) Q3 Earnings Loom, Shares Surge 19% | Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”"
+      "recent_news": "Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday | Here’s Why Rigetti Computing (RGTI) Shares Surged 19% On Friday | Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”"
     },
     {
       "ticker": "OPTU",
@@ -216,8 +216,8 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 286874656,
-      "float_shares": 277430279,
-      "cash_debt_ratio": 0.05,
+      "float_shares": 193343044,
+      "cash_debt_ratio": 0.04,
       "insider_pct": 12.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -249,13 +249,13 @@
       "gap_pct": 6.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1023163136,
+      "market_cap": 1023098240,
       "float_shares": 86668055,
       "cash_debt_ratio": 0.03,
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Six Flags Entertainment Q3 Earnings Call Highlights | Six Flags Entertainment Corp (FUN) (Q3 2026) Earnings Call Highlights: Strong Cash Flow and ... | 3 U.S. Consumer Stocks That Could Benefit From Lower Gas Prices And Rates"
+      "recent_news": "Six Flags plans to sell more parks as $5-billion debt, fatal Georgia accident and brain injury lawsuits pummel stock | Six Flags Entertainment Q3 Earnings Call Highlights | Six Flags Entertainment Corp (FUN) (Q3 2026) Earnings Call Highlights: Strong Cash Flow and ..."
     },
     {
       "ticker": "CIFR",
@@ -267,7 +267,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2986909696,
-      "float_shares": 357616830,
+      "float_shares": 368387047,
       "cash_debt_ratio": 0.12,
       "insider_pct": 3.3,
       "dilution_risk": "낮음",
@@ -289,7 +289,7 @@
       "insider_pct": 9.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Infleqtion (INFQ) Mirrors Quantum, Tech Rally on Rosy Growth Prospects, Shares Climb 19.5% | Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32% | How This Under-the-Radar Quantum Stock Could More Than Double"
+      "recent_news": "Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday | Quantum Stocks Tumble as Wall Street Bank Slashes Price Targets by Up to 32% | How This Under-the-Radar Quantum Stock Could More Than Double"
     },
     {
       "ticker": "HNST",
@@ -300,7 +300,7 @@
       "gap_pct": 4.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 501018048,
+      "market_cap": 509425664,
       "float_shares": 98260241,
       "cash_debt_ratio": 77.7,
       "insider_pct": 14.5,
@@ -334,13 +334,13 @@
       "gap_pct": 14.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2084778752,
+      "market_cap": 2085550208,
       "float_shares": 403728162,
       "cash_debt_ratio": null,
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Jensen Huang Says AI Needs 1,000 Times More Power. Here's Why Oklo and NuScale Power May Still Suffer. | NuScale: We’re “Not Reliant on Data Centers” | NuScale Power Has Lost 67% of Its Value in 2026. Is It Finally Time to Buy?"
+      "recent_news": "Oklo Soars 23% on a Narrower Loss and Forging Capacity for 27 Reactors It Hasn’t Sold Yet | NuScale Stock Now Trades for About the Cash on Its Books. Should You Buy It Now? | What Is Behind The Move In Oklo Stock?"
     },
     {
       "ticker": "RDW",
@@ -351,9 +351,9 @@
       "gap_pct": 16.56,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1803805824,
-      "float_shares": 246278076,
-      "cash_debt_ratio": 5.44,
+      "market_cap": 1804081280,
+      "float_shares": 246315868,
+      "cash_debt_ratio": 5.43,
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -369,7 +369,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 4238398720,
-      "float_shares": 174122379,
+      "float_shares": 174464455,
       "cash_debt_ratio": 60.98,
       "insider_pct": 75.4,
       "dilution_risk": "높음",
@@ -437,7 +437,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 474404064,
-      "float_shares": 54028579,
+      "float_shares": 54038162,
       "cash_debt_ratio": 0.07,
       "insider_pct": 2.7,
       "dilution_risk": "주의",
@@ -521,9 +521,9 @@
       "gap_pct": -5.56,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 400847072,
+      "market_cap": 400858688,
       "float_shares": 118855404,
-      "cash_debt_ratio": 0.04,
+      "cash_debt_ratio": 0.05,
       "insider_pct": 25.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -544,7 +544,7 @@
       "insider_pct": 1.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Ondas Inc. (ONDS) Key Business Updates Expected Next Week, Shares Climb 18% | Ondas Surges 15% as Drone Stocks Rebound Ahead of Its Earnings Report; Red Cat Jumps 14%, AeroVironment Surges 9% | Ondas to Report Q3 Earnings: Can Orders and Acquisitions Fuel Growth?"
+      "recent_news": "Here’s Why Ondas Inc. (ONDS) Shares Climbed 18% on Friday | Ondas Surges 15% as Drone Stocks Rebound Ahead of Its Earnings Report; Red Cat Jumps 14%, AeroVironment Surges 9% | Ondas to Report Q3 Earnings: Can Orders and Acquisitions Fuel Growth?"
     },
     {
       "ticker": "HUMA",
@@ -589,9 +589,9 @@
       "gap_pct": 9.92,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1778114944,
-      "float_shares": 146211190,
-      "cash_debt_ratio": 2.42,
+      "market_cap": 1778797056,
+      "float_shares": 146267286,
+      "cash_debt_ratio": 2.11,
       "insider_pct": 5.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
@@ -624,7 +624,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1951769472,
-      "float_shares": 160174007,
+      "float_shares": 160144632,
       "cash_debt_ratio": 0.07,
       "insider_pct": 2.0,
       "dilution_risk": "낮음",
@@ -692,7 +692,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 875793792,
-      "float_shares": 115189439,
+      "float_shares": 115194106,
       "cash_debt_ratio": 0.17,
       "insider_pct": 20.7,
       "dilution_risk": "높음",
@@ -731,7 +731,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Coeur Mining Q3 Earnings Call Highlights | Coeur Q3 Earnings Call Highlights the Need for a Strong Finish | Coeur Mining Inc (CDE) Q3 2026 Earnings Call Highlights: Record EBITDA, Strong Free Cash Flow, ..."
+      "recent_news": "What Should Coeur Mining Stock Investors Be Watching Now? | Coeur Mining Q3 Earnings Call Highlights | Coeur Q3 Earnings Call Highlights the Need for a Strong Finish"
     },
     {
       "ticker": "IQ",
@@ -828,7 +828,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1712002432,
-      "float_shares": 70189794,
+      "float_shares": 70102236,
       "cash_debt_ratio": 0.19,
       "insider_pct": 43.4,
       "dilution_risk": "낮음",
