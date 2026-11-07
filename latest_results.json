@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-07T15:26:05.985479+00:00",
+  "last_updated_utc": "2026-11-07T19:53:55.245412+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -68,7 +68,7 @@
       "insider_pct": 23.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "TeraWulf: 3 Key Takeaways for Long-Term Investors | WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified | Is TeraWulf (WULF) Fairly Valued After Strong Q3 Earnings And HPC Lease Growth?"
+      "recent_news": "Fluor (FLR) Lands Nuclear Mining Venezuela And Data Center Project Wins | TeraWulf: 3 Key Takeaways for Long-Term Investors | WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified"
     },
     {
       "ticker": "PPTA",
@@ -102,7 +102,7 @@
       "insider_pct": 3.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Xeris Biopharma (XERS) Adds Menassie M. Taddese To Its Board | Xeris Biopharma Q3 Earnings Call Highlights | Xeris Biopharma Holdings Inc (XERS) (Q3 2026) Earnings Call Highlights: Revenue Surges 44% as ..."
+      "recent_news": "Why Xeris Biopharma Holdings (XERS) Is Up 16.2% And What's Next | Is Xeris Biopharma Holdings (XERS) Overpriced After Its Q3 Beat And 2026 Outlook Raise? | Xeris Biopharma (XERS) Adds Menassie M. Taddese To Its Board"
     },
     {
       "ticker": "HIMX",
@@ -187,7 +187,7 @@
       "insider_pct": 4.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2780,
-      "recent_news": "Opendoor (OPEN) Stock Could Be Undervalued As Shares Fell 94% | Opendoor Technologies Inc (OPEN) (Q3 2026) Earnings Call Highlights: Revenue Tops $1 Billion as ... | Is Opendoor Technologies (OPEN) Undervalued On Weak Q3 Results And Soft Guidance?"
+      "recent_news": "Why Opendoor Stock Is Down 21.8% And What's Next | Opendoor (OPEN) Stock Could Be Undervalued As Shares Fell 94% | Opendoor Technologies Inc (OPEN) (Q3 2026) Earnings Call Highlights: Revenue Tops $1 Billion as ..."
     },
     {
       "ticker": "RGTI",
@@ -204,7 +204,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday | Here’s Why Rigetti Computing (RGTI) Shares Surged 19% On Friday | Rigetti Soars 17%, D-Wave Up 17% as IonQ Raises Guidance to “An Industry Record”"
+      "recent_news": "Where Will Rigetti Computing Stock Be in 3 Years? | Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday | Here’s Why Rigetti Computing (RGTI) Shares Surged 19% On Friday"
     },
     {
       "ticker": "OPTU",
@@ -255,7 +255,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 18,
-      "recent_news": "Six Flags plans to sell more parks as $5-billion debt, fatal Georgia accident and brain injury lawsuits pummel stock | Six Flags Entertainment Q3 Earnings Call Highlights | Six Flags Entertainment Corp (FUN) (Q3 2026) Earnings Call Highlights: Strong Cash Flow and ..."
+      "recent_news": "Six Flags Stock Price Focuses On Fatal Ride Accident Review And Legal Probe | Six Flags plans to sell more parks as $5-billion debt, fatal Georgia accident and brain injury lawsuits pummel stock | Six Flags Entertainment Q3 Earnings Call Highlights"
     },
     {
       "ticker": "CIFR",
@@ -340,7 +340,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "Oklo Soars 23% on a Narrower Loss and Forging Capacity for 27 Reactors It Hasn’t Sold Yet | NuScale Stock Now Trades for About the Cash on Its Books. Should You Buy It Now? | What Is Behind The Move In Oklo Stock?"
+      "recent_news": "NuScale Jumps 16% as CEO Hails Shift “From Development to Physical Production” | Oklo Soars 23% on a Narrower Loss and Forging Capacity for 27 Reactors It Hasn’t Sold Yet | NuScale Stock Now Trades for About the Cash on Its Books. Should You Buy It Now?"
     },
     {
       "ticker": "RDW",
@@ -357,7 +357,7 @@
       "insider_pct": 1.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "RDW Q3 Earnings Call Highlights Backlog Growth and Revenue Delays | Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock | Redwire Corp (RDW) Q3 2026 Earnings Call Transcript"
+      "recent_news": "Redwire Q3 Earnings Call Highlights | RDW Q3 Earnings Call Highlights Backlog Growth and Revenue Delays | Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock"
     },
     {
       "ticker": "XE",
@@ -374,7 +374,7 @@
       "insider_pct": 75.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "X Energy stock surges on Fluor partnership for Washington SMR | X Energy (XE) Stock Still Looks Expensive Despite Its 69% Slump | X-Energy (XE) Wins NRC Review But Is The Valuation Already Priced In"
+      "recent_news": "Fluor (FLR) Lands Nuclear Mining Venezuela And Data Center Project Wins | X Energy stock surges on Fluor partnership for Washington SMR | X Energy (XE) Stock Still Looks Expensive Despite Its 69% Slump"
     },
     {
       "ticker": "SID",
@@ -595,7 +595,7 @@
       "insider_pct": 5.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Moderna Climbs 5% as Surprise Profit and Raised Outlook Beat Forecasts; Pfizer Dips, BioNTech Edges Higher | NVAX Stock Falls 8% Despite Q3 Earnings & Sales Beat, Costs Decline | Novavax Q3 Earnings Call Highlights"
+      "recent_news": "Novavax (NVAX) Looks Cheap After Sanofi Milestone And Stronger Q3 Results | Moderna Climbs 5% as Surprise Profit and Raised Outlook Beat Forecasts; Pfizer Dips, BioNTech Edges Higher | NVAX Stock Falls 8% Despite Q3 Earnings & Sales Beat, Costs Decline"
     },
     {
       "ticker": "UAMY",
@@ -629,7 +629,7 @@
       "insider_pct": 2.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions | Liberty Energy: 3 Key Takeaways for Long-Term Investors | LBRT Stock Down 8.2% YTD: Should Investors Hold or Buy the Dip?"
+      "recent_news": "Surprised By Liberty Energy's Slide? What Investors Overlooked | CLB Q3 Earnings Miss Estimates on Higher Costs and Disruptions | Liberty Energy: 3 Key Takeaways for Long-Term Investors"
     },
     {
       "ticker": "NIO",
