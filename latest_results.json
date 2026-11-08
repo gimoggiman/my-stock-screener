@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-08T17:38:43.126570+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-11-08T21:43:02.454194+00:00",
+  "tickers_scanned": 63,
   "results": [
     {
       "ticker": "ANVS",
@@ -204,7 +204,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
-      "recent_news": "Should You Forget IonQ and Buy These 2 Quantum Computing Stocks Instead? | Where Will Rigetti Computing Stock Be in 3 Years? | Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday"
+      "recent_news": "Rigetti Gained 19% Friday. Its $100 Million CHIPS Award Hasn’t Reached Revenue Yet | Should You Forget IonQ and Buy These 2 Quantum Computing Stocks Instead? | Where Will Rigetti Computing Stock Be in 3 Years?"
     },
     {
       "ticker": "OPTU",
@@ -340,7 +340,7 @@
       "insider_pct": 1.7,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 15,
-      "recent_news": "NuScale Has Lost 84% in a Year. Cantor Fitzgerald Still Sees $15 | NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone? | NuScale Jumps 16% as CEO Hails Shift “From Development to Physical Production”"
+      "recent_news": "What NuScale Power (SMR) Said on Its Q3 Earnings Call | NuScale Has Lost 84% in a Year. Cantor Fitzgerald Still Sees $15 | NuScale Just Hit a New 52-Week Low After Losing 26% in a Week. Is the Selling Overdone?"
     },
     {
       "ticker": "RDW",
@@ -426,23 +426,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Absci (ABSI) Stock Could Be Overvalued Given Its Book Value Gap | Verastem (VSTM) Reports Q3 Loss, Misses Revenue Estimates | What Recursion Pharmaceuticals (RXRX) Said on Its Q3 Earnings Call"
-    },
-    {
-      "ticker": "CWH",
-      "score": 51.9,
-      "last_close": 4.59,
-      "rel_volume": 1.02,
-      "price_change_pct": -10.0,
-      "gap_pct": -9.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 474404064,
-      "float_shares": 54038270,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 2.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "What Camping World (CWH) Said on Its Q3 Earnings Call | Camping World Holdings Inc (CWH) Q3 2026 Earnings Call Highlights: Cost Cuts and Cash Flow ... | Camping World Holdings, Inc. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "ENVX",
@@ -715,23 +698,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Precigen (PGEN) Stock Looks Fully Priced On Current Earnings | 5 Best Small-Cap Value Stocks to Invest In Now | Precigen (PGEN) Q3 2026 Earnings Call Transcript"
-    },
-    {
-      "ticker": "CDE",
-      "score": 42.7,
-      "last_close": 15.47,
-      "rel_volume": 1.17,
-      "price_change_pct": 5.74,
-      "gap_pct": 5.91,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 15808846848,
-      "float_shares": 1011224584,
-      "cash_debt_ratio": 1.65,
-      "insider_pct": 0.6,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "What Should Coeur Mining Stock Investors Be Watching Now? | Coeur Mining Q3 Earnings Call Highlights | Coeur Q3 Earnings Call Highlights the Need for a Strong Finish"
     },
     {
       "ticker": "IQ",
