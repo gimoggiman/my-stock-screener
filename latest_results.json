@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-07T23:26:55.089014+00:00",
-  "tickers_scanned": 65,
+  "last_updated_utc": "2026-11-08T04:32:55.434771+00:00",
+  "tickers_scanned": 66,
   "results": [
     {
       "ticker": "ANVS",
@@ -54,12 +54,29 @@
       "recent_news": "Site Centers Delists From NYSE as It Winds Down Operations | Site Centers To Stop Trading As It Winds Up Operations | SITE Centers stock surges on $3 special dividend"
     },
     {
+      "ticker": "ACDC",
+      "score": 72.4,
+      "last_close": 3.005,
+      "rel_volume": 2.78,
+      "price_change_pct": 10.89,
+      "gap_pct": 10.89,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 547278912,
+      "float_shares": 30756892,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 84.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "ProFrac Holding Corp (ACDC) (Q3 2026) Earnings Call Highlights: Tight Pumping Market and ... | ProFrac Holding Corp. (ACDC) Reports Q3 Loss, Misses Revenue Estimates | ProFrac Holding Corp. (ACDC) Reports Q3 Earnings: What Key Metrics Have to Say"
+    },
+    {
       "ticker": "WULF",
       "score": 68.6,
       "last_close": 11.37,
       "rel_volume": 2.45,
       "price_change_pct": 12.8,
-      "gap_pct": 12.55,
+      "gap_pct": 12.5,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5673273856,
@@ -153,7 +170,7 @@
       "insider_pct": 6.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 98,
-      "recent_news": "What Just Happened To Applied Digital Stock On Friday? | Does The Fall In Cipher Digital Stock Change Anything? | MARA Fell 4% as Riot Landed a $28 Billion AI Lease. Here’s What November 9 Must Show"
+      "recent_news": "Riot Platforms (RIOT) Stock Gets Fair Value Trim As Analysts Weigh Lease Wins And Funding Costs | What Just Happened To Applied Digital Stock On Friday? | Does The Fall In Cipher Digital Stock Change Anything?"
     },
     {
       "ticker": "SPCE",
@@ -205,23 +222,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Where Will Rigetti Computing Stock Be in 3 Years? | Here’s Why Infleqtion (INFQ) Shares Skyrocketed on Friday | Here’s Why Rigetti Computing (RGTI) Shares Surged 19% On Friday"
-    },
-    {
-      "ticker": "OPTU",
-      "score": 62.4,
-      "last_close": 0.752,
-      "rel_volume": 1.92,
-      "price_change_pct": 31.93,
-      "gap_pct": 31.73,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 286874656,
-      "float_shares": 193343044,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 12.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Optimum Communications (NYSE:OPTU) posts Q3 2026 sales in line with estimates | What Optimum Communications Investors Missed Before A 60% Fall | Oracle upgraded, Reddit downgraded: Wall Street's top analyst calls"
     },
     {
       "ticker": "QBTS",
@@ -360,6 +360,23 @@
       "recent_news": "Redwire Q3 Earnings Call Highlights | RDW Q3 Earnings Call Highlights Backlog Growth and Revenue Delays | Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock"
     },
     {
+      "ticker": "CMPS",
+      "score": 53.1,
+      "last_close": 8.61,
+      "rel_volume": 1.12,
+      "price_change_pct": 10.24,
+      "gap_pct": 9.92,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1220126080,
+      "float_shares": 109466996,
+      "cash_debt_ratio": 8.16,
+      "insider_pct": 7.4,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Is COMPASS Pathways (CMPS) Pricing In Too Much On Book Value? | How Investors May Respond To COMPASS Pathways (CMPS) Smaller Loss And FDA Progress | Compass Pathways: 3 Key Takeaways for Long-Term Investors"
+    },
+    {
       "ticker": "XE",
       "score": 53.1,
       "last_close": 10.43,
@@ -411,40 +428,6 @@
       "recent_news": "US Clean Energy Stocks Investors Are Watching As Washington Backs Solar And Storage | Amprius Technologies (AMPX) Stock May Look Stretched Following Drone Battery Push | Amprius CEO Tom Stepien at AUSA ‘It’s Going to Be the Decade of the Drone’"
     },
     {
-      "ticker": "ABSI",
-      "score": 51.9,
-      "last_close": 10.17,
-      "rel_volume": 1.02,
-      "price_change_pct": 8.31,
-      "gap_pct": 8.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1745314560,
-      "float_shares": 163609933,
-      "cash_debt_ratio": 52.53,
-      "insider_pct": 11.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Absci (ABSI) Stock Could Be Overvalued Given Its Book Value Gap | Verastem (VSTM) Reports Q3 Loss, Misses Revenue Estimates | What Recursion Pharmaceuticals (RXRX) Said on Its Q3 Earnings Call"
-    },
-    {
-      "ticker": "CWH",
-      "score": 51.9,
-      "last_close": 4.59,
-      "rel_volume": 1.02,
-      "price_change_pct": -10.0,
-      "gap_pct": -9.51,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 474404064,
-      "float_shares": 54038162,
-      "cash_debt_ratio": 0.07,
-      "insider_pct": 2.7,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "What Camping World (CWH) Said on Its Q3 Earnings Call | Camping World Holdings Inc (CWH) Q3 2026 Earnings Call Highlights: Cost Cuts and Cash Flow ... | Camping World Holdings, Inc. Q3 2026 Earnings Call Summary"
-    },
-    {
       "ticker": "ENVX",
       "score": 51.8,
       "last_close": 2.76,
@@ -476,24 +459,7 @@
       "insider_pct": 22.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Molson Coors downgraded, SiTime upgraded: Wall Street's top analyst calls | Buy, Sell, or Hold? Friday’s Top Upgrades and Downgrades: Becton Dickinson, BJ’s Wholesale Club, Cogent Communications, Fervo Energy, JinkoSolar, Molson-Coors, Pfizer, SiTime, Steven Madden, and More | 3 US Infrastructure Stocks Retail Investors Are Watching As Data Center Plans Shift"
-    },
-    {
-      "ticker": "KURA",
-      "score": 51.3,
-      "last_close": 7.27,
-      "rel_volume": 1.58,
-      "price_change_pct": 6.91,
-      "gap_pct": 6.03,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 646743680,
-      "float_shares": 70528868,
-      "cash_debt_ratio": 21.22,
-      "insider_pct": 1.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 6,
-      "recent_news": "Kura Oncology (KURA) Loses 35.4% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Agios Pharmaceuticals (AGIO) Reports Q3 Loss, Beats Revenue Estimates | Cytek Biosciences, Inc. (CTKB) Reports Q3 Loss, Tops Revenue Estimates"
+      "recent_news": "Why Wall Street Is Betting a ‘Shale Revolution’ Can Make Fervo Stock a Huge Winner | Molson Coors downgraded, SiTime upgraded: Wall Street's top analyst calls | Buy, Sell, or Hold? Friday’s Top Upgrades and Downgrades: Becton Dickinson, BJ’s Wholesale Club, Cogent Communications, Fervo Energy, JinkoSolar, Molson-Coors, Pfizer, SiTime, Steven Madden, and More"
     },
     {
       "ticker": "TMC",
@@ -572,7 +538,7 @@
       "gap_pct": 9.4,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1283944832,
+      "market_cap": 1296490880,
       "float_shares": 156485267,
       "cash_debt_ratio": 0.21,
       "insider_pct": 15.4,
@@ -586,7 +552,7 @@
       "last_close": 10.78,
       "rel_volume": 0.81,
       "price_change_pct": 10.22,
-      "gap_pct": 9.92,
+      "gap_pct": 9.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1778797056,
@@ -649,6 +615,23 @@
       "recent_news": "What Could NIO (NIO) CEO's Call For EV Weight Limits Mean In China? | NIO Soars 6%, XPeng Up 7% as EV Stocks Bounce Back After Midterm Sell-Off | Nio Climbs 6%, Tesla and Lucid Rise 5% as EV Stocks Rebound From Election Sell-Off"
     },
     {
+      "ticker": "PUMP",
+      "score": 45.2,
+      "last_close": 6.39,
+      "rel_volume": 1.18,
+      "price_change_pct": 6.32,
+      "gap_pct": 6.24,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 785090304,
+      "float_shares": 106132173,
+      "cash_debt_ratio": 0.82,
+      "insider_pct": 2.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 88,
+      "recent_news": "PUMP Q3 deep dive: completions demand and PROPWR expansion drive positive outlook | 5 insightful analyst questions from ProPetro’s Q3 earnings call | 3 energy stocks we approach with caution"
+    },
+    {
       "ticker": "SES",
       "score": 45.2,
       "last_close": 0.833,
@@ -664,6 +647,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
       "recent_news": "Atmus Filtration Technologies (ATMU) Q3 Earnings and Revenues Beat Estimates | What SES AI Doubters Saw Before A 60% Fall | BorgWarner (BWA) Tops Q3 Earnings Estimates"
+    },
+    {
+      "ticker": "CCCC",
+      "score": 43.8,
+      "last_close": 3.1,
+      "rel_volume": 1.58,
+      "price_change_pct": 5.08,
+      "gap_pct": 5.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 407084192,
+      "float_shares": 94501758,
+      "cash_debt_ratio": 4.46,
+      "insider_pct": 0.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "C4 Therapeutics, Inc. (CCCC) Reports Q3 Loss, Lags Revenue Estimates | Acadia Pharmaceuticals (ACAD) Tops Q3 Earnings and Revenue Estimates | C4 Therapeutics, Inc. (CCCC) Expected to Beat Earnings Estimates: What to Know Ahead of Q3 Release"
     },
     {
       "ticker": "SOC",
@@ -836,26 +836,6 @@
       "recent_news": "How Investors May Respond To Frontier Airlines Stock As Losses Widen | Deutsche Bank upgrades Frontier, JetBlue to Buy on improving backdrop | Nike downgraded, Circle Internet upgraded: Wall Street's top analyst calls"
     },
     {
-      "ticker": "GPRO",
-      "score": 29.4,
-      "last_close": 0.901,
-      "rel_volume": 0.46,
-      "price_change_pct": 4.77,
-      "gap_pct": 4.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "UNIT",
-      "score": 27.4,
-      "last_close": 5.22,
-      "rel_volume": 1.24,
-      "price_change_pct": -2.7,
-      "gap_pct": -2.42,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "VISN",
       "score": 27.3,
       "last_close": 5.495,
@@ -866,22 +846,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GRAB",
-      "score": 27.2,
-      "last_close": 3.41,
-      "rel_volume": 1.4,
-      "price_change_pct": -2.01,
-      "gap_pct": -2.44,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "FLNC",
       "score": 27.0,
       "last_close": 5.27,
       "rel_volume": 0.81,
       "price_change_pct": 3.43,
       "gap_pct": 3.63,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GRAB",
+      "score": 26.9,
+      "last_close": 3.41,
+      "rel_volume": 1.4,
+      "price_change_pct": -2.01,
+      "gap_pct": -2.3,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -902,6 +882,16 @@
       "rel_volume": 0.64,
       "price_change_pct": 2.68,
       "gap_pct": 2.7,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "BTU",
+      "score": 20.1,
+      "last_close": 16.03,
+      "rel_volume": 1.57,
+      "price_change_pct": 0.06,
+      "gap_pct": 0.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -932,6 +922,26 @@
       "rel_volume": 0.48,
       "price_change_pct": 2.12,
       "gap_pct": 1.98,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "HE",
+      "score": 15.6,
+      "last_close": 8.42,
+      "rel_volume": 1.19,
+      "price_change_pct": -0.24,
+      "gap_pct": 0.53,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GENI",
+      "score": 15.1,
+      "last_close": 5.97,
+      "rel_volume": 1.07,
+      "price_change_pct": 0.84,
+      "gap_pct": 0.0,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
