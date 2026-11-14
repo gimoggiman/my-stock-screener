@@ -1,24 +1,7 @@
 {
-  "last_updated_utc": "2026-11-14T05:00:39.203359+00:00",
-  "tickers_scanned": 69,
+  "last_updated_utc": "2026-11-14T12:03:10.953780+00:00",
+  "tickers_scanned": 68,
   "results": [
-    {
-      "ticker": "BIRD",
-      "score": 75.0,
-      "last_close": 1.43,
-      "rel_volume": 5.15,
-      "price_change_pct": 28.83,
-      "gap_pct": 28.83,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 16887146,
-      "float_shares": 7501554,
-      "cash_debt_ratio": 2.58,
-      "insider_pct": 10.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 36,
-      "recent_news": "Blackbird confirms CEO succession with Sumit Rai taking the reins | Blackbird appoints Youri Hazanov as interim chair | WSG Brands Acquires Sanctuary, Positioning Contemporary Brand for Global Growth"
-    },
     {
       "ticker": "CDNL",
       "score": 75.0,
@@ -31,9 +14,9 @@
       "market_cap": 138071232,
       "float_shares": 18189495,
       "cash_debt_ratio": 1.47,
-      "insider_pct": 8.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "insider_pct": 9.9,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Implied Volatility Surging for Cardinal Infrastructure Group Stock Options | Cardinal Infra (CDNL) Q3 2026 Earnings Call Transcript | What Cardinal Infrastructure Group (CDNL) Said on Its Q3 Earnings Call"
     },
     {
@@ -48,10 +31,10 @@
       "market_cap": 1779054464,
       "float_shares": 68170096,
       "cash_debt_ratio": 24.27,
-      "insider_pct": 20.4,
+      "insider_pct": 20.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 19,
-      "recent_news": "HawkEye 360 (HAWK) Stock Looks Overvalued After Its 47% Jump | HawkEye 360 (HAWK) Adds Former CIA Director William J Burns To Its Board | Why HawkEye 360 Stock Took Flight Friday"
+      "recent_news": "HawkEye 360 (HAWK) Jumped, So What Is Driving Attention Now? | HawkEye 360 (HAWK) Shares Take Flight on These 2 Developments | HawkEye 360 (HAWK) Stock Looks Overvalued After Its 47% Jump"
     },
     {
       "ticker": "KLC",
@@ -65,27 +48,10 @@
       "market_cap": 162368336,
       "float_shares": 30830426,
       "cash_debt_ratio": 0.05,
-      "insider_pct": 5.9,
+      "insider_pct": 6.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "What KinderCare Learning Companies (KLC) Said on Its Q3 Earnings Call | KinderCare Learning Companies, Inc. (KLC) Reports Q3 Loss, Lags Revenue Estimates | American Public Education (APEI) Q3 Earnings and Revenues Top Estimates"
-    },
-    {
-      "ticker": "NCMI",
-      "score": 75.0,
-      "last_close": 1.87,
-      "rel_volume": 4.37,
-      "price_change_pct": 10.0,
-      "gap_pct": 8.53,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 176504624,
-      "float_shares": 65912675,
-      "cash_debt_ratio": 0.1,
-      "insider_pct": 1.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "National CineMedia (NCMI) Stock Fair Value Moves Lower After Analyst Target Cuts | National CineMedia Inc (NCMI) Q3 2026 Earnings Call Highlights: Captivate Acquisition Expands ... | National CineMedia, Inc. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "NMAX",
@@ -97,12 +63,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1237358976,
-      "float_shares": 30951276,
+      "float_shares": 30953860,
       "cash_debt_ratio": 13.03,
-      "insider_pct": 21.9,
+      "insider_pct": 22.5,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Why Newsmax Stock Popped on Friday | Newsmax Q3 Earnings Call Highlights | Newsmax (NMAX) Q3 2026 Earnings Call Transcript"
+      "recent_news": "Newsmax (NMAX) is on Fire. Investors Are Betting on This | Why Newsmax Stock Popped on Friday | Newsmax Q3 Earnings Call Highlights"
     },
     {
       "ticker": "FRMI",
@@ -114,12 +80,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1686420608,
-      "float_shares": 349464604,
-      "cash_debt_ratio": 0.11,
-      "insider_pct": 43.9,
+      "float_shares": 353003675,
+      "cash_debt_ratio": 0.28,
+      "insider_pct": 44.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Fermi Q3 Earnings Call Highlights | Fermi Inc. Common Stock Q3 2026 Earnings Call Summary | Fermi’s New AI Deal Softens the Blow of a $6.5 Billion Setback"
+      "recent_news": "Fermi (FRMI) is Regaining Its Power Thanks to This Tech Giant | Fermi Q3 Earnings Call Highlights | Fermi Inc. Common Stock Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "AGRO",
@@ -133,7 +99,7 @@
       "market_cap": 1314413184,
       "float_shares": 32721583,
       "cash_debt_ratio": 0.23,
-      "insider_pct": 73.6,
+      "insider_pct": 73.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
       "recent_news": "Adecoagro (AGRO) Q3 2026 Earnings Call Transcript | What Adecoagro (AGRO) Said on Its Q3 Earnings Call | Adecoagro: Q3 Earnings Snapshot"
@@ -150,7 +116,7 @@
       "market_cap": 151804816,
       "float_shares": 138427517,
       "cash_debt_ratio": 0.04,
-      "insider_pct": 10.3,
+      "insider_pct": 11.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 100,
       "recent_news": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries? | Sable Offshore Corp (SOC) (Q3 2026) Earnings Call Highlights: Surging Volumes, Hondo Restart ... | Why Did SOC, OPEN, TRIP Stocks Plunge To 52-Week Lows Today?"
@@ -167,7 +133,7 @@
       "market_cap": 5232409088,
       "float_shares": 196139502,
       "cash_debt_ratio": 2.75,
-      "insider_pct": 21.9,
+      "insider_pct": 22.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Klarna Group (KLAR) is Surging as 2 Developments Draw Attention | Klarna Looks to Turn Things Around Ahead of Holidays With C-Suite Shakeup | AtlasClear Holdings, Inc. (ATCH) Reports Q1 Loss, Lags Revenue Estimates"
@@ -182,9 +148,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6337564,
-      "float_shares": 8094070,
+      "float_shares": 7594181,
       "cash_debt_ratio": 0.01,
-      "insider_pct": 4.8,
+      "insider_pct": 6.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "The Children's Place in Summit Mall begins sales before nationwide closure | What Is Nike Stock's Biggest Opportunity? | All Children’s Place, Gymboree stores closing in Chapter 11"
@@ -201,24 +167,24 @@
       "market_cap": 793926976,
       "float_shares": 55743912,
       "cash_debt_ratio": 1.72,
-      "insider_pct": 9.1,
+      "insider_pct": 10.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "YSS Stock Sinks To Record Low: Jefferies Slashes Price Target By 60%, Sees ‘Materially Longer Path To Positive EBITDA’ | Why York Space Systems Stock Just Crashed | Space Stocks Are Complex. York Sinks, AST and AT&T Make Historic Satellite Call."
     },
     {
       "ticker": "CHA",
-      "score": 61.9,
+      "score": 62.1,
       "last_close": 14.37,
       "rel_volume": 2.53,
       "price_change_pct": 6.37,
-      "gap_pct": 6.66,
+      "gap_pct": 6.74,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2741268992,
       "float_shares": 37457522,
       "cash_debt_ratio": 5.13,
-      "insider_pct": 17.9,
+      "insider_pct": 18.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 93,
       "recent_news": "Can Keurig Dr Pepper's Planned 2027 Split Drive Long-Term Value? | Can Primo Brands' Purified Water Sales Accelerate Further? | Primo Brands' Spring Water Sales Increase 4.1%: What's Driving Growth?"
@@ -250,9 +216,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1563469312,
-      "float_shares": 22434522,
+      "float_shares": 22445669,
       "cash_debt_ratio": 0.0,
-      "insider_pct": 0.1,
+      "insider_pct": 0.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "ITG Inc (ITG) (Q3 2026) Earnings Call Highlights: Record Revenue, 49% Growth, and a $1. ... | ITG, Inc. (ITG) Q3 2026 Earnings Call Transcript | What ITG (ITG) Said on Its Q3 Earnings Call"
@@ -269,7 +235,7 @@
       "market_cap": 63861706752,
       "float_shares": 3727845324,
       "cash_debt_ratio": 2.45,
-      "insider_pct": 2.1,
+      "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 14,
       "recent_news": "Nu Holdings (NU) is Surging by Double Digits. Here’s What’s Driving the Rally | Nubank U.S. reaches all 50 states in first weeks of launch | Nu Holdings (NU) Stock Rallies On Q3 Results As Profit Strength Counters Credit Risk"
@@ -280,33 +246,16 @@
       "last_close": 4.88,
       "rel_volume": 1.72,
       "price_change_pct": 13.49,
-      "gap_pct": 12.44,
+      "gap_pct": 12.56,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1184994944,
       "float_shares": 179031356,
       "cash_debt_ratio": 0.07,
-      "insider_pct": 1.9,
+      "insider_pct": 2.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3123,
-      "recent_news": "Fiber Expansion Could Change The Case For Uniti Group Stock (UNIT) | Uniti Group (UNIT) Stock Fair Value Falls After Mixed Analyst Target Changes | Uniti Group Inc (UNIT) (Q3 2026) Earnings Call Highlights: Record Fiber Growth Offset by EBITDA ..."
-    },
-    {
-      "ticker": "OPTU",
-      "score": 60.0,
-      "last_close": 0.525,
-      "rel_volume": 1.71,
-      "price_change_pct": -17.58,
-      "gap_pct": -16.45,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 200060848,
-      "float_shares": 144410883,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 20.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Optimum Communications (NYSE:OPTU) reports Q3 2026 in line with expectations but stock drops | Optimum Communications (NYSE:OPTU) posts Q3 2026 sales in line with estimates | What Optimum Communications Investors Missed Before A 60% Fall"
+      "recent_news": "Uniti Group (UNIT) is Soaring as This Highly-Anticipated Event Nears | Fiber Expansion Could Change The Case For Uniti Group Stock (UNIT) | Uniti Group (UNIT) Stock Fair Value Falls After Mixed Analyst Target Changes"
     },
     {
       "ticker": "LAB",
@@ -318,7 +267,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 279274752,
-      "float_shares": 186680608,
+      "float_shares": 187845240,
       "cash_debt_ratio": 17.18,
       "insider_pct": 1.8,
       "dilution_risk": "높음",
@@ -337,7 +286,7 @@
       "market_cap": 4315432960,
       "float_shares": 49018402,
       "cash_debt_ratio": 0.25,
-      "insider_pct": 1.8,
+      "insider_pct": 2.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Broader Biologics Growth Strengthens Stevanato’s (STVN) Long-Term Outlook | UBS turns cautious on Schott Pharma as glass syringe demand risks mount | SCHOTT Pharma shares slip as RBC downgrade flags GLP-1 order risks"
@@ -357,7 +306,7 @@
       "insider_pct": 17.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 655,
-      "recent_news": "TOP Financial Group Stock In Focus After Stronger Quarterly Earnings | TOP Financial Group (TOP) Reports Mixed Earnings, Is Its Premium Valuation Justified? | TOP Financial Group (TOP) Stock Looks Rich Following Its 203% Run"
+      "recent_news": "Is TOP Financial Group (TOP) Overvalued After A 237% Rise? | TOP Financial Group Stock In Focus After Stronger Quarterly Earnings | TOP Financial Group (TOP) Reports Mixed Earnings, Is Its Premium Valuation Justified?"
     },
     {
       "ticker": "ECC",
@@ -388,7 +337,7 @@
       "market_cap": 863198400,
       "float_shares": 182065656,
       "cash_debt_ratio": 19.46,
-      "insider_pct": 3.5,
+      "insider_pct": 5.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Vistance Networks (VISN) Could Be 74% Undervalued After CEO Exit And Cash Return Plans | Vistance Networks (VISN) Stock Could Trade Below Fair Value After Recent Falls | Vistance Networks Inc (VISN) (Q3 2026) Earnings Call Highlights: $4 Billion Returned to ..."
@@ -402,10 +351,10 @@
       "gap_pct": 7.6,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 2371311616,
-      "float_shares": 221044460,
+      "market_cap": 2332358144,
+      "float_shares": 218405831,
       "cash_debt_ratio": 1.42,
-      "insider_pct": 15.1,
+      "insider_pct": 15.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
       "recent_news": "Almonty Industries (ALM) is Surging. Here’s What’s Happening | Almonty Industries Inc. (ALM) Misses Q3 Earnings and Revenue Estimates | Integra Resources Corp. (ITRG) Q3 Earnings Meet Estimates"
@@ -422,10 +371,27 @@
       "market_cap": 39843156,
       "float_shares": 35920821,
       "cash_debt_ratio": null,
-      "insider_pct": 16.2,
+      "insider_pct": 16.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Annovis Bio (ANVS) Loses 26.5% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Annovis Bio Targets March 2027 Alzheimer’s Readout, Prepares Rolling NDA | Annovis Bio Enrolls Over 850 Patients for Its Next Alzheimer's Disease Trial"
+    },
+    {
+      "ticker": "RC",
+      "score": 49.1,
+      "last_close": 0.82,
+      "rel_volume": 0.78,
+      "price_change_pct": -9.89,
+      "gap_pct": -9.41,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 132340352,
+      "float_shares": 140442117,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 17.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 18,
+      "recent_news": "Ready Capital (RC) Stock Sees Fair Value Moves Lower As Analysts Cut Targets | Ready Capital: 3 Key Takeaways for Long-Term Investors | What Ready Capital (RC) Said on Its Q3 Earnings Call"
     },
     {
       "ticker": "UAMY",
@@ -439,10 +405,10 @@
       "market_cap": 462478368,
       "float_shares": 131672722,
       "cash_debt_ratio": 112.2,
-      "insider_pct": 8.5,
+      "insider_pct": 10.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "United States Antimony (UAMY) Reports Higher Sales And Wider Losses, Is The Valuation Too Cheap? | Critical Metals Rises 3% as Rare Earth Stocks Extend Rally; USA Rare Earth Climbs 3%, MP Materials Gains 2% | What United States Antimony (UAMY) Said on Its Q3 Earnings Call"
+      "recent_news": "United States Antimony (UAMY) Stock Trades At A Premium On Its 9x Three Year Run | United States Antimony (UAMY) Reports Higher Sales And Wider Losses, Is The Valuation Too Cheap? | Critical Metals Rises 3% as Rare Earth Stocks Extend Rally; USA Rare Earth Climbs 3%, MP Materials Gains 2%"
     },
     {
       "ticker": "NRGV",
@@ -456,7 +422,7 @@
       "market_cap": 704881088,
       "float_shares": 148374725,
       "cash_debt_ratio": 0.64,
-      "insider_pct": 17.5,
+      "insider_pct": 20.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "5 Best Renewable & Clean Energy Stocks To Buy According to Analysts | What Energy Vault (NRGV) Said on Its Q3 Earnings Call | Energy Vault Holdings Inc (NRGV) (Q3 2026) Earnings Call Highlights: Record $2. ..."
@@ -473,7 +439,7 @@
       "market_cap": 901964416,
       "float_shares": 111509523,
       "cash_debt_ratio": 0.58,
-      "insider_pct": 3.9,
+      "insider_pct": 4.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Angel Studios Inc (ANGX) (Q3 2026) Earnings Call Highlights: Revenue Doubles to $159 Million as ... | What Angel Studios (ANGX) Said on Its Q3 Earnings Call | Angel Studios, Inc. (ANGX) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates"
@@ -490,7 +456,7 @@
       "market_cap": 7266434560,
       "float_shares": 1898771577,
       "cash_debt_ratio": 1.49,
-      "insider_pct": 0.1,
+      "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
       "recent_news": "Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump. | NIO Inc. (NIO) Stock Dips While Market Gains: Key Facts | NIO vs. Ferrari: Which Luxury Car Stock Is a Better Buy for 2027?"
@@ -507,7 +473,7 @@
       "market_cap": 7710573568,
       "float_shares": 416073925,
       "cash_debt_ratio": 0.34,
-      "insider_pct": 6.2,
+      "insider_pct": 7.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
       "recent_news": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks | Nebius Plummeted 33% in 3 Months: High Target Price Predicting 220% Gains Holds Steady Ahead of Q3 Earnings as Firm Avoids Nvidia Entanglement | BC-Most Active Stocks"
@@ -524,7 +490,7 @@
       "market_cap": 554094336,
       "float_shares": 45547951,
       "cash_debt_ratio": 2.14,
-      "insider_pct": 9.4,
+      "insider_pct": 11.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Buy Alert: 5 Stocks Analysts Upgraded on Wednesday | CAPR Stock Rallies: Investors Scrutinize Labeling Hints Before FDA Decision On Cell Therapy This Month | Capricor Therapeutics, Inc. Q3 2026 Earnings Call Summary"
@@ -541,7 +507,7 @@
       "market_cap": 2219367680,
       "float_shares": 25063548,
       "cash_debt_ratio": 0.09,
-      "insider_pct": 0.4,
+      "insider_pct": 0.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
       "recent_news": "McGraw Hill: 3 Key Takeaways for Long-Term Investors | What Should McGraw Hill (MH) Investors Watch In Its AI And Leadership Push? | McGraw Hill (MH) Stock Looks About Right With AI In Focus"
@@ -558,7 +524,7 @@
       "market_cap": 2875243264,
       "float_shares": null,
       "cash_debt_ratio": 0.04,
-      "insider_pct": 90.1,
+      "insider_pct": 90.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "Accelevation Q3 Earnings Call Highlights | Accelevation Holdings Corp. (ACCV) Positioned to Benefit from its “SkyBridge” Family of Modular Infrastructure Systems | 3 Reasons Accelevation Holdings (ACCV) Looks Fully Valued As IPO Excitement Fades"
@@ -582,17 +548,17 @@
     },
     {
       "ticker": "PLTK",
-      "score": 44.0,
+      "score": 44.3,
       "last_close": 2.64,
       "rel_volume": 1.22,
       "price_change_pct": 6.02,
-      "gap_pct": 5.82,
+      "gap_pct": 6.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1010261632,
       "float_shares": 79584889,
       "cash_debt_ratio": 0.24,
-      "insider_pct": 85.2,
+      "insider_pct": 85.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "What’s Behind Playtika Holding (PLTK) and Its Latest Move? | Playtika Stock What Changed After It Chose To Stay Independent | Playtika (PLTK) Stock Still Looks Like A Bargain Today"
@@ -607,29 +573,29 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2045385856,
-      "float_shares": 304834123,
+      "float_shares": 304853232,
       "cash_debt_ratio": 0.9,
-      "insider_pct": 3.8,
+      "insider_pct": 4.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
       "recent_news": "StubHub earnings analysis: questions answered and next catalysts | StubHub: 3 Key Takeaways for Long-Term Investors | StubHub Holdings, Inc. Q3 2026 Earnings Call Summary"
     },
     {
-      "ticker": "SOS",
-      "score": 42.4,
-      "last_close": 0.206,
-      "rel_volume": 0.72,
-      "price_change_pct": -6.36,
-      "gap_pct": -7.55,
+      "ticker": "SENS",
+      "score": 41.8,
+      "last_close": 10.58,
+      "rel_volume": 1.36,
+      "price_change_pct": 5.38,
+      "gap_pct": 4.88,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 3989179,
-      "float_shares": 12399840,
-      "cash_debt_ratio": 116539.0,
-      "insider_pct": 1.1,
+      "market_cap": 579577792,
+      "float_shares": 45580122,
+      "cash_debt_ratio": 2.02,
+      "insider_pct": 11.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
-      "recent_news": "Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "Senseonics Revenue Surges 140% as New Pump Integration Nears Launch | Is DexCom Stock Cheaper Now That Its Multiple Has Fallen? | Senseonics Holdings Sees $100 Million-Plus in 2027 Sales, Eyes New Eversense Launches"
     },
     {
       "ticker": "COLD",
@@ -643,7 +609,7 @@
       "market_cap": 4788110336,
       "float_shares": 284655464,
       "cash_debt_ratio": 0.01,
-      "insider_pct": 0.1,
+      "insider_pct": 0.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 295,
       "recent_news": "Lineage sees cold storage inventories stabilize after capacity reductions | What Americold Realty Trust (COLD) Said on Its Q3 Earnings Call | Americold Realty Trust Inc (COLD) (Q3 2026) Earnings Call Highlights: Record Handling Margins, ..."
@@ -654,13 +620,13 @@
       "last_close": 0.24,
       "rel_volume": 0.12,
       "price_change_pct": -7.69,
-      "gap_pct": -8.5,
+      "gap_pct": -8.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 16070924,
       "float_shares": 48294535,
       "cash_debt_ratio": 0.04,
-      "insider_pct": 41.9,
+      "insider_pct": 42.3,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
       "recent_news": "BC-Most Active Stocks | Giant toilet paper supplier files Chapter 11 bankruptcy | Mercer International Files for Chapter 11 Bankruptcy Protection Under Debt Recapitalization Plan"
@@ -677,10 +643,44 @@
       "market_cap": 155122464,
       "float_shares": 250790573,
       "cash_debt_ratio": 0.97,
-      "insider_pct": 5.7,
+      "insider_pct": 6.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Humacyte (HUMA) Q3 2026 Earnings Call Transcript | Humacyte, Inc. Q3 2026 Earnings Call Summary | Humacyte Q3 Earnings Call Highlights"
+    },
+    {
+      "ticker": "CTKB",
+      "score": 39.4,
+      "last_close": 5.84,
+      "rel_volume": 0.91,
+      "price_change_pct": 5.8,
+      "gap_pct": 5.71,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 763778368,
+      "float_shares": 105798998,
+      "cash_debt_ratio": 10.37,
+      "insider_pct": 8.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Cytek Biosciences (CTKB) Q3 2026 Earnings Call Transcript | Cytek Biosciences, Inc. Q3 2026 Earnings Call Summary | Cytek Biosciences Inc (CTKB) Q3 2026 Earnings Call Highlights: U.S. ..."
+    },
+    {
+      "ticker": "SOS",
+      "score": 39.4,
+      "last_close": 0.206,
+      "rel_volume": 0.72,
+      "price_change_pct": -6.36,
+      "gap_pct": -5.95,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 3989179,
+      "float_shares": 12399840,
+      "cash_debt_ratio": 116539.0,
+      "insider_pct": 1.2,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
       "ticker": "DNUT",
@@ -694,7 +694,7 @@
       "market_cap": 680120000,
       "float_shares": 91604530,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 45.5,
+      "insider_pct": 45.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Understanding Krispy Kreme (DNUT) Reliance on International Revenue | Krispy Kreme’s Leaner Business Delivers Results | Is Krispy Kreme a Buy After Its Latest Earnings Report?"
@@ -709,9 +709,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 210309408,
-      "float_shares": 106083787,
+      "float_shares": 106086450,
       "cash_debt_ratio": 1.12,
-      "insider_pct": 5.9,
+      "insider_pct": 6.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "ThredUp makes a major move as holiday shopping heats up | Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes | ThredUp revenue growth slows despite record number of buyers"
@@ -728,7 +728,7 @@
       "market_cap": 135965024,
       "float_shares": 137883835,
       "cash_debt_ratio": 0.32,
-      "insider_pct": 11.1,
+      "insider_pct": 11.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 10,
       "recent_news": "GoPro: A Brand That Ran Out of Runway | S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus | Why Is GPRO Down 7% Overnight?"
@@ -745,27 +745,10 @@
       "market_cap": 1674211584,
       "float_shares": 95023993,
       "cash_debt_ratio": 33.32,
-      "insider_pct": 13.8,
+      "insider_pct": 14.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Safer Crypto Access Through HUB24 Stock And Other Regulated Platforms | ‘Dumb! Really Dumb!’: Dave Ramsey names the 3 financial mistakes that drive him crazy on his show | Federal Reserve issues chilling warning to 3.1M US homeowners and every American with a credit card — act before Oct. 28"
-    },
-    {
-      "ticker": "HLLY",
-      "score": 33.4,
-      "last_close": 2.48,
-      "rel_volume": 0.69,
-      "price_change_pct": 5.08,
-      "gap_pct": 5.08,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 301684768,
-      "float_shares": 80339154,
-      "cash_debt_ratio": 0.09,
-      "insider_pct": 5.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Holley (HLLY) Stock Sees Fair Value Cut After Analysts Lower Targets On Q3 Concerns | Holley Q3 Earnings Call Highlights | Holley Inc (HLLY) (Q3 2026) Earnings Call Highlights: Core Sales Accelerate, Margins Top ..."
     },
     {
       "ticker": "VYX",
@@ -779,20 +762,10 @@
       "market_cap": 1423815936,
       "float_shares": 109125717,
       "cash_debt_ratio": 0.21,
-      "insider_pct": 1.0,
+      "insider_pct": 1.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "NCR Voyix Q3 Earnings Call Highlights | NCR Voyix (VYX) Could Be 24% Undervalued On Earnings And Turnaround Progress | NCR Voyix Transition Sets Up 2027 Returns as Services Revenue Weighs, RBC Says"
-    },
-    {
-      "ticker": "VNET",
-      "score": 28.9,
-      "last_close": 2.98,
-      "rel_volume": 0.87,
-      "price_change_pct": -3.56,
-      "gap_pct": -4.05,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
     },
     {
       "ticker": "OPEN",
@@ -805,22 +778,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "VNET",
+      "score": 28.6,
+      "last_close": 2.98,
+      "rel_volume": 0.87,
+      "price_change_pct": -3.56,
+      "gap_pct": -3.88,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GLAS",
+      "score": 28.0,
+      "last_close": 1.27,
+      "rel_volume": 1.39,
+      "price_change_pct": 1.6,
+      "gap_pct": 3.6,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CIFR",
       "score": 27.4,
       "last_close": 6.86,
       "rel_volume": 0.73,
       "price_change_pct": -4.06,
       "gap_pct": -3.29,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "WULF",
-      "score": 25.8,
-      "last_close": 12.62,
-      "rel_volume": 0.84,
-      "price_change_pct": -3.22,
-      "gap_pct": -3.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -841,6 +824,16 @@
       "rel_volume": 1.01,
       "price_change_pct": -3.01,
       "gap_pct": -2.07,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "WULF",
+      "score": 24.0,
+      "last_close": 12.62,
+      "rel_volume": 0.84,
+      "price_change_pct": -3.22,
+      "gap_pct": -2.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -895,32 +888,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "TROX",
+      "score": 17.9,
+      "last_close": 2.62,
+      "rel_volume": 1.44,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.57,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "ICMB",
       "score": 17.5,
       "last_close": 1.04,
       "rel_volume": 0.5,
       "price_change_pct": -1.89,
       "gap_pct": -3.08,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "IRWD",
-      "score": 16.6,
-      "last_close": 4.83,
-      "rel_volume": 1.26,
-      "price_change_pct": -0.41,
-      "gap_pct": -0.31,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GO",
-      "score": 16.0,
-      "last_close": 12.65,
-      "rel_volume": 0.72,
-      "price_change_pct": -1.56,
-      "gap_pct": -1.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -985,32 +968,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "ARLO",
+      "score": 12.3,
+      "last_close": 11.86,
+      "rel_volume": 0.91,
+      "price_change_pct": 0.25,
+      "gap_pct": 0.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GRAB",
+      "score": 10.7,
+      "last_close": 3.24,
+      "rel_volume": 0.84,
+      "price_change_pct": 0.0,
+      "gap_pct": 0.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "JBLU",
       "score": 10.6,
       "last_close": 3.76,
       "rel_volume": 0.54,
       "price_change_pct": -1.31,
       "gap_pct": -0.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GRAB",
-      "score": 10.1,
-      "last_close": 3.24,
-      "rel_volume": 0.84,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.15,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "HE",
-      "score": 10.0,
-      "last_close": 8.61,
-      "rel_volume": 0.81,
-      "price_change_pct": -0.12,
-      "gap_pct": -0.12,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
