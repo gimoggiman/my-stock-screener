@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-11-14T18:40:03.424035+00:00",
-  "tickers_scanned": 68,
+  "last_updated_utc": "2026-11-14T22:53:27.751442+00:00",
+  "tickers_scanned": 70,
   "results": [
+    {
+      "ticker": "BIRD",
+      "score": 75.0,
+      "last_close": 1.43,
+      "rel_volume": 5.15,
+      "price_change_pct": 28.83,
+      "gap_pct": 28.83,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 17138886,
+      "float_shares": 7501554,
+      "cash_debt_ratio": 2.58,
+      "insider_pct": 14.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 36,
+      "recent_news": "Blackbird confirms CEO succession with Sumit Rai taking the reins | Blackbird appoints Youri Hazanov as interim chair | WSG Brands Acquires Sanctuary, Positioning Contemporary Brand for Global Growth"
+    },
     {
       "ticker": "CDNL",
       "score": 75.0,
@@ -52,6 +69,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
       "recent_news": "KinderCare Learning Companies, Inc. Q3 2026 Earnings Call Summary | What KinderCare Learning Companies (KLC) Said on Its Q3 Earnings Call | KinderCare Learning Companies, Inc. (KLC) Reports Q3 Loss, Lags Revenue Estimates"
+    },
+    {
+      "ticker": "NCMI",
+      "score": 75.0,
+      "last_close": 1.87,
+      "rel_volume": 4.37,
+      "price_change_pct": 10.0,
+      "gap_pct": 8.53,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 176504624,
+      "float_shares": 65912675,
+      "cash_debt_ratio": 0.1,
+      "insider_pct": 1.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "National CineMedia (NCMI) Stock Fair Value Moves Lower After Analyst Target Cuts | National CineMedia Inc (NCMI) Q3 2026 Earnings Call Highlights: Captivate Acquisition Expands ... | National CineMedia, Inc. Q3 2026 Earnings Call Summary"
     },
     {
       "ticker": "NMAX",
@@ -174,11 +208,11 @@
     },
     {
       "ticker": "CHA",
-      "score": 62.1,
+      "score": 61.9,
       "last_close": 14.37,
       "rel_volume": 2.53,
       "price_change_pct": 6.37,
-      "gap_pct": 6.74,
+      "gap_pct": 6.66,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2741268992,
@@ -246,7 +280,7 @@
       "last_close": 4.88,
       "rel_volume": 1.72,
       "price_change_pct": 13.49,
-      "gap_pct": 12.56,
+      "gap_pct": 12.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1184994944,
@@ -256,6 +290,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3123,
       "recent_news": "Uniti Group (UNIT) is Soaring as This Highly-Anticipated Event Nears | Fiber Expansion Could Change The Case For Uniti Group Stock (UNIT) | Uniti Group (UNIT) Stock Fair Value Falls After Mixed Analyst Target Changes"
+    },
+    {
+      "ticker": "OPTU",
+      "score": 60.0,
+      "last_close": 0.525,
+      "rel_volume": 1.71,
+      "price_change_pct": -17.58,
+      "gap_pct": -16.45,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 200060848,
+      "float_shares": 144410883,
+      "cash_debt_ratio": 0.04,
+      "insider_pct": 20.1,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Optimum Communications (NYSE:OPTU) reports Q3 2026 in line with expectations but stock drops | Optimum Communications (NYSE:OPTU) posts Q3 2026 sales in line with estimates | What Optimum Communications Investors Missed Before A 60% Fall"
     },
     {
       "ticker": "LAB",
@@ -377,23 +428,6 @@
       "recent_news": "Annovis Bio (ANVS) Loses 26.5% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner | Annovis Bio Targets March 2027 Alzheimer’s Readout, Prepares Rolling NDA | Annovis Bio Enrolls Over 850 Patients for Its Next Alzheimer's Disease Trial"
     },
     {
-      "ticker": "RC",
-      "score": 49.1,
-      "last_close": 0.82,
-      "rel_volume": 0.78,
-      "price_change_pct": -9.89,
-      "gap_pct": -9.41,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 132340352,
-      "float_shares": 140442117,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 17.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 18,
-      "recent_news": "Ready Capital (RC) Stock Sees Fair Value Moves Lower As Analysts Cut Targets | Ready Capital: 3 Key Takeaways for Long-Term Investors | What Ready Capital (RC) Said on Its Q3 Earnings Call"
-    },
-    {
       "ticker": "UAMY",
       "score": 47.2,
       "last_close": 3.09,
@@ -476,7 +510,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks | Nebius Plummeted 33% in 3 Months: High Target Price Predicting 220% Gains Holds Steady Ahead of Q3 Earnings as Firm Avoids Nvidia Entanglement | BC-Most Active Stocks"
+      "recent_news": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings | Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks | Nebius Plummeted 33% in 3 Months: High Target Price Predicting 220% Gains Holds Steady Ahead of Q3 Earnings as Firm Avoids Nvidia Entanglement"
     },
     {
       "ticker": "CAPR",
@@ -548,11 +582,11 @@
     },
     {
       "ticker": "PLTK",
-      "score": 44.3,
+      "score": 44.0,
       "last_close": 2.64,
       "rel_volume": 1.22,
       "price_change_pct": 6.02,
-      "gap_pct": 6.02,
+      "gap_pct": 5.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1010261632,
@@ -581,21 +615,21 @@
       "recent_news": "StubHub earnings analysis: questions answered and next catalysts | StubHub: 3 Key Takeaways for Long-Term Investors | StubHub Holdings, Inc. Q3 2026 Earnings Call Summary"
     },
     {
-      "ticker": "SENS",
-      "score": 41.8,
-      "last_close": 10.58,
-      "rel_volume": 1.36,
-      "price_change_pct": 5.38,
-      "gap_pct": 4.88,
+      "ticker": "SOS",
+      "score": 42.4,
+      "last_close": 0.206,
+      "rel_volume": 0.72,
+      "price_change_pct": -6.36,
+      "gap_pct": -7.55,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 579577792,
-      "float_shares": 45580122,
-      "cash_debt_ratio": 2.02,
-      "insider_pct": 11.3,
+      "market_cap": 3989179,
+      "float_shares": 12399840,
+      "cash_debt_ratio": 116539.0,
+      "insider_pct": 1.2,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "Senseonics Revenue Surges 140% as New Pump Integration Nears Launch | Is DexCom Stock Cheaper Now That Its Multiple Has Fallen? | Senseonics Holdings Sees $100 Million-Plus in 2027 Sales, Eyes New Eversense Launches"
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
       "ticker": "COLD",
@@ -620,7 +654,7 @@
       "last_close": 0.24,
       "rel_volume": 0.12,
       "price_change_pct": -7.69,
-      "gap_pct": -8.46,
+      "gap_pct": -8.5,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 16070924,
@@ -647,40 +681,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Humacyte (HUMA) Q3 2026 Earnings Call Transcript | Humacyte, Inc. Q3 2026 Earnings Call Summary | Humacyte Q3 Earnings Call Highlights"
-    },
-    {
-      "ticker": "CTKB",
-      "score": 39.4,
-      "last_close": 5.84,
-      "rel_volume": 0.91,
-      "price_change_pct": 5.8,
-      "gap_pct": 5.71,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 763778368,
-      "float_shares": 105798998,
-      "cash_debt_ratio": 10.37,
-      "insider_pct": 8.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Cytek Biosciences (CTKB) Q3 2026 Earnings Call Transcript | Cytek Biosciences, Inc. Q3 2026 Earnings Call Summary | Cytek Biosciences Inc (CTKB) Q3 2026 Earnings Call Highlights: U.S. ..."
-    },
-    {
-      "ticker": "SOS",
-      "score": 39.4,
-      "last_close": 0.206,
-      "rel_volume": 0.72,
-      "price_change_pct": -6.36,
-      "gap_pct": -5.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 3989179,
-      "float_shares": 12399840,
-      "cash_debt_ratio": 116539.0,
-      "insider_pct": 1.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
-      "recent_news": "Why Sosandar Plc (LON:SOS) Could Be Worth Watching"
     },
     {
       "ticker": "DNUT",
@@ -751,6 +751,23 @@
       "recent_news": "Safer Crypto Access Through HUB24 Stock And Other Regulated Platforms | ‘Dumb! Really Dumb!’: Dave Ramsey names the 3 financial mistakes that drive him crazy on his show | Federal Reserve issues chilling warning to 3.1M US homeowners and every American with a credit card — act before Oct. 28"
     },
     {
+      "ticker": "HLLY",
+      "score": 33.4,
+      "last_close": 2.48,
+      "rel_volume": 0.69,
+      "price_change_pct": 5.08,
+      "gap_pct": 5.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 301684768,
+      "float_shares": 80339154,
+      "cash_debt_ratio": 0.09,
+      "insider_pct": 5.5,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Holley (HLLY) Stock Sees Fair Value Cut After Analysts Lower Targets On Q3 Concerns | Holley Q3 Earnings Call Highlights | Holley Inc (HLLY) (Q3 2026) Earnings Call Highlights: Core Sales Accelerate, Margins Top ..."
+    },
+    {
       "ticker": "VYX",
       "score": 32.7,
       "last_close": 10.48,
@@ -768,6 +785,16 @@
       "recent_news": "NCR Voyix Q3 Earnings Call Highlights | NCR Voyix (VYX) Could Be 24% Undervalued On Earnings And Turnaround Progress | NCR Voyix Transition Sets Up 2027 Returns as Services Revenue Weighs, RBC Says"
     },
     {
+      "ticker": "VNET",
+      "score": 28.9,
+      "last_close": 2.98,
+      "rel_volume": 0.87,
+      "price_change_pct": -3.56,
+      "gap_pct": -4.05,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "OPEN",
       "score": 28.8,
       "last_close": 1.19,
@@ -778,32 +805,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "VNET",
-      "score": 28.6,
-      "last_close": 2.98,
-      "rel_volume": 0.87,
-      "price_change_pct": -3.56,
-      "gap_pct": -3.88,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GLAS",
-      "score": 28.0,
-      "last_close": 1.27,
-      "rel_volume": 1.39,
-      "price_change_pct": 1.6,
-      "gap_pct": 3.6,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CIFR",
       "score": 27.4,
       "last_close": 6.86,
       "rel_volume": 0.73,
       "price_change_pct": -4.06,
       "gap_pct": -3.29,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "WULF",
+      "score": 25.8,
+      "last_close": 12.62,
+      "rel_volume": 0.84,
+      "price_change_pct": -3.22,
+      "gap_pct": -3.18,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -824,16 +841,6 @@
       "rel_volume": 1.01,
       "price_change_pct": -3.01,
       "gap_pct": -2.07,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "WULF",
-      "score": 24.0,
-      "last_close": 12.62,
-      "rel_volume": 0.84,
-      "price_change_pct": -3.22,
-      "gap_pct": -2.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -878,6 +885,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "EVH",
+      "score": 21.1,
+      "last_close": 4.9,
+      "rel_volume": 0.71,
+      "price_change_pct": 2.73,
+      "gap_pct": 2.31,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NOK",
       "score": 20.4,
       "last_close": 8.07,
@@ -888,22 +905,32 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "TROX",
-      "score": 17.9,
-      "last_close": 2.62,
-      "rel_volume": 1.44,
-      "price_change_pct": 0.0,
-      "gap_pct": 0.57,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "ICMB",
       "score": 17.5,
       "last_close": 1.04,
       "rel_volume": 0.5,
       "price_change_pct": -1.89,
       "gap_pct": -3.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "IRWD",
+      "score": 16.6,
+      "last_close": 4.83,
+      "rel_volume": 1.26,
+      "price_change_pct": -0.41,
+      "gap_pct": -0.31,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "GO",
+      "score": 16.0,
+      "last_close": 12.65,
+      "rel_volume": 0.72,
+      "price_change_pct": -1.56,
+      "gap_pct": -1.44,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -968,16 +995,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ARLO",
-      "score": 12.3,
-      "last_close": 11.86,
-      "rel_volume": 0.91,
-      "price_change_pct": 0.25,
-      "gap_pct": 0.46,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "GRAB",
       "score": 10.7,
       "last_close": 3.24,
@@ -994,6 +1011,16 @@
       "rel_volume": 0.54,
       "price_change_pct": -1.31,
       "gap_pct": -0.13,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "HE",
+      "score": 10.0,
+      "last_close": 8.61,
+      "rel_volume": 0.81,
+      "price_change_pct": -0.12,
+      "gap_pct": -0.12,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
