@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-15T10:25:34.858942+00:00",
+  "last_updated_utc": "2026-11-15T17:34:30.415782+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -493,7 +493,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone? | Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump. | NIO Inc. (NIO) Stock Dips While Market Gains: Key Facts"
+      "recent_news": "NIO Needs About 42,900 Cars a Month to Hit Its Q4 Goal. October Delivered 34,246 | NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone? | Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump."
     },
     {
       "ticker": "IREN",
@@ -510,7 +510,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings | Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks | Nebius Plummeted 33% in 3 Months: High Target Price Predicting 220% Gains Holds Steady Ahead of Q3 Earnings as Firm Avoids Nvidia Entanglement"
+      "recent_news": "IREN Is Down 63% in a Year. Is It Time to Sell, or Load Up? | 5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings | Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks"
     },
     {
       "ticker": "CAPR",
@@ -640,7 +640,7 @@
       "gap_pct": 4.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 4788110336,
+      "market_cap": 4788334080,
       "float_shares": 284655464,
       "cash_debt_ratio": 0.01,
       "insider_pct": 0.5,
@@ -765,7 +765,7 @@
       "insider_pct": 14.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Safer Crypto Access Through HUB24 Stock And Other Regulated Platforms | ‘Dumb! Really Dumb!’: Dave Ramsey names the 3 financial mistakes that drive him crazy on his show | Federal Reserve issues chilling warning to 3.1M US homeowners and every American with a credit card — act before Oct. 28"
+      "recent_news": "This Simple ETF Strategy Generates Billions in Tax Losses for Investors | Safer Crypto Access Through HUB24 Stock And Other Regulated Platforms | ‘Dumb! Really Dumb!’: Dave Ramsey names the 3 financial mistakes that drive him crazy on his show"
     },
     {
       "ticker": "HLLY",
