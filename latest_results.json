@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-16T02:35:01.082499+00:00",
+  "last_updated_utc": "2026-11-16T10:40:11.799754+00:00",
   "tickers_scanned": 70,
   "results": [
     {
@@ -34,7 +34,7 @@
       "insider_pct": 9.9,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Cardinal Infrastructure Group Inc. Class A Common Stock Q3 2026 Earnings Call Summary | Implied Volatility Surging for Cardinal Infrastructure Group Stock Options | Cardinal Infra (CDNL) Q3 2026 Earnings Call Transcript"
+      "recent_news": "Cardinal Infrastructure Group (CDNL) Stock Sees Fair Value Cut As Margin Concerns Deepen | Cardinal Infrastructure Group Inc. Class A Common Stock Q3 2026 Earnings Call Summary | Implied Volatility Surging for Cardinal Infrastructure Group Stock Options"
     },
     {
       "ticker": "HAWK",
@@ -46,7 +46,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1803602688,
-      "float_shares": 68677934,
+      "float_shares": 68747456,
       "cash_debt_ratio": 24.27,
       "insider_pct": 20.9,
       "dilution_risk": "높음",
@@ -199,7 +199,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 783591104,
-      "float_shares": 54626333,
+      "float_shares": 54840533,
       "cash_debt_ratio": 1.72,
       "insider_pct": 10.2,
       "dilution_risk": "낮음",
@@ -272,7 +272,7 @@
       "insider_pct": 2.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
-      "recent_news": "Nu Holdings: 3 Key Takeaways for Long-Term Investors | Nu Holdings (NU) is Surging by Double Digits. Here’s What’s Driving the Rally | Nubank U.S. reaches all 50 states in first weeks of launch"
+      "recent_news": "Which of These 6 Fintech Stocks Has the Clearest Path to Profit? | Nu Holdings: 3 Key Takeaways for Long-Term Investors | Nu Holdings (NU) is Surging by Double Digits. Here’s What’s Driving the Rally"
     },
     {
       "ticker": "UNIT",
@@ -493,7 +493,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "NIO Needs About 42,900 Cars a Month to Hit Its Q4 Goal. October Delivered 34,246 | NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone? | Nio’s Deliveries Are Up 38.5% This Year. But It Just Hit a Speed Bump."
+      "recent_news": "NIO Stock Hits 6-Year Low: BlackRock Cuts Stake By 73%, But One Chinese EV Rival Saw Its Biggest Boost In 5 Years | NIO Needs About 42,900 Cars a Month to Hit Its Q4 Goal. October Delivered 34,246 | NIO Sinks 14% in a Week to a New 52-Week Low. Is the Selling Overdone?"
     },
     {
       "ticker": "IREN",
@@ -510,7 +510,7 @@
       "insider_pct": 7.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
-      "recent_news": "IREN Is Down 63% in a Year. Is It Time to Sell, or Load Up? | 5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings | Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks"
+      "recent_news": "5 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers | IREN Is Down 63% in a Year. Is It Time to Sell, or Load Up? | 5 AI Infrastructure Stocks to Watch After CoreWeave’s Earnings"
     },
     {
       "ticker": "CAPR",
@@ -522,12 +522,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 554094336,
-      "float_shares": 45548532,
+      "float_shares": 49641737,
       "cash_debt_ratio": 2.14,
       "insider_pct": 11.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "SMMT Stock Plunges Overnight On FDA Rejection — CAPR Holders Feel The Jitters Ahead Of Their Own FDA Test | Buy Alert: 5 Stocks Analysts Upgraded on Wednesday | CAPR Stock Rallies: Investors Scrutinize Labeling Hints Before FDA Decision On Cell Therapy This Month"
+      "recent_news": "FDA Decision Watch: Capricor’s DMD Therapy Faces Make-Or-Break Decision, Savara’s Lung Disease Drug In The Spotlight This Week | SMMT Stock Plunges Overnight On FDA Rejection — CAPR Holders Feel The Jitters Ahead Of Their Own FDA Test | Buy Alert: 5 Stocks Analysts Upgraded on Wednesday"
     },
     {
       "ticker": "MH",
@@ -557,7 +557,7 @@
       "short_volume_ratio_pct": null,
       "market_cap": 2875243264,
       "float_shares": null,
-      "cash_debt_ratio": 0.04,
+      "cash_debt_ratio": 0.15,
       "insider_pct": 90.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2,
@@ -607,7 +607,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2045385856,
-      "float_shares": 307254703,
+      "float_shares": 307863311,
       "cash_debt_ratio": 0.91,
       "insider_pct": 4.5,
       "dilution_risk": "높음",
@@ -624,7 +624,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 3989179,
-      "float_shares": 12399840,
+      "float_shares": 11457284,
       "cash_debt_ratio": 116539.0,
       "insider_pct": 1.2,
       "dilution_risk": "높음",
@@ -726,7 +726,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1832404480,
-      "float_shares": 246226578,
+      "float_shares": 246239825,
       "cash_debt_ratio": 0.34,
       "insider_pct": 24.7,
       "dilution_risk": "낮음",
