@@ -1,12 +1,12 @@
 {
-  "last_updated_utc": "2026-11-21T00:38:43.794992+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-11-21T08:00:14.324454+00:00",
+  "tickers_scanned": 58,
   "results": [
     {
       "ticker": "CNF",
       "score": 75.0,
       "last_close": 2.33,
-      "rel_volume": 11.95,
+      "rel_volume": 11.96,
       "price_change_pct": 12.56,
       "gap_pct": 14.98,
       "st_msg_count": null,
@@ -18,6 +18,23 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Wednesday Trading | Asian Equities Traded in the US as American Depositary Receipts Fall in Friday Trading | Asian Equities Traded in US as ADRs Fall in Tuesday Trading"
+    },
+    {
+      "ticker": "CSIQ",
+      "score": 75.0,
+      "last_close": 6.02,
+      "rel_volume": 5.28,
+      "price_change_pct": -24.94,
+      "gap_pct": -25.75,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 408738432,
+      "float_shares": 47561060,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": 29.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Can T1 Energy's Growing Order Book Drive US Solar Expansion? | Did The Market Read First Solar Stock Right? | Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?"
     },
     {
       "ticker": "LVWR",
@@ -83,9 +100,9 @@
       "float_shares": 481637754,
       "cash_debt_ratio": 0.06,
       "insider_pct": 8.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Medical Properties Trust Yields 22%, but Its Stock Has Crashed 65% | Treasuries Now Yield 5.1%. These High-Yield Dividend Stocks Could Be in Trouble | Is Return To Profit Altering The Investment Case For Medical Properties Trust Stock?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 4,
+      "recent_news": "Why Medical Properties (MPT) Is Shining Bright Amid Market Chaos | Medical Properties Trust Yields 22%, but Its Stock Has Crashed 65% | Treasuries Now Yield 5.1%. These High-Yield Dividend Stocks Could Be in Trouble"
     },
     {
       "ticker": "OPEN",
@@ -102,7 +119,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 2777,
-      "recent_news": "Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism? | Opendoor Director Dana Hamilton Just Cast a Vote of Confidence Near the Stock’s Low | BC-Most Active Stocks"
+      "recent_news": "Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism? | Opendoor Director Dana Hamilton Just Cast a Vote of Confidence Near the Stock’s Low"
     },
     {
       "ticker": "NIO",
@@ -160,7 +177,7 @@
       "score": 60.6,
       "last_close": 0.493,
       "rel_volume": 1.77,
-      "price_change_pct": -10.96,
+      "price_change_pct": -11.01,
       "gap_pct": -10.42,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -191,9 +208,9 @@
     },
     {
       "ticker": "LITB",
-      "score": 60.3,
+      "score": 60.2,
       "last_close": 2.76,
-      "rel_volume": 1.74,
+      "rel_volume": 1.73,
       "price_change_pct": 15.97,
       "gap_pct": 16.41,
       "st_msg_count": null,
@@ -242,9 +259,9 @@
     },
     {
       "ticker": "WULF",
-      "score": 54.5,
+      "score": 54.4,
       "last_close": 9.85,
-      "rel_volume": 1.24,
+      "rel_volume": 1.23,
       "price_change_pct": -14.94,
       "gap_pct": -14.85,
       "st_msg_count": null,
@@ -287,8 +304,8 @@
       "float_shares": 84979352,
       "cash_debt_ratio": 0.22,
       "insider_pct": 13.3,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Intuit Sinks 13% on Revenue Guidance Cut as CEO Calls AI Tools “New Front Doors for Discovery” | 3 Growth Stocks To Watch In November 2026 | Exclusive: Upstart CEO sees path to high growth as business transforms"
     },
     {
@@ -338,15 +355,15 @@
       "float_shares": 1277542222,
       "cash_debt_ratio": 0.71,
       "insider_pct": 1.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 7,
-      "recent_news": "PayPal vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027? | How Much XRP Do You Need to Retire by 2040? | $1,000 in Anthropic or Bitcoin: Which Could Be Worth More by 2030?"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "SoFi (SOFI) Stock May Be Fairly Priced After SoFiUSD Expansion | PayPal vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027? | How Much XRP Do You Need to Retire by 2040?"
     },
     {
       "ticker": "TRIB",
-      "score": 53.2,
+      "score": 53.3,
       "last_close": 6.24,
-      "rel_volume": 1.13,
+      "rel_volume": 1.14,
       "price_change_pct": 13.66,
       "gap_pct": 12.93,
       "st_msg_count": null,
@@ -355,8 +372,8 @@
       "float_shares": 559322,
       "cash_debt_ratio": 0.04,
       "insider_pct": 13.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "European Equities Traded in the US as American Depositary Receipts Tumble in Tuesday Trading | European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading | European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading"
     },
     {
@@ -425,14 +442,14 @@
       "insider_pct": 3.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "CleanSpark Just Dropped 40% in a Month on Bitcoin and Texas. Is It Time to Sell, or Load Up? | Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff | “Ridiculously Cheap” Micron Soars 7% on Revived AI Trade"
+      "recent_news": "What Is Cipher Digital (CIFR) Really Getting From $16.6 Billion In HPC Contracts? | CleanSpark Just Dropped 40% in a Month on Bitcoin and Texas. Is It Time to Sell, or Load Up? | Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff"
     },
     {
       "ticker": "HUMA",
       "score": 51.2,
       "last_close": 0.445,
       "rel_volume": 0.96,
-      "price_change_pct": -17.97,
+      "price_change_pct": -18.05,
       "gap_pct": -16.76,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -449,7 +466,7 @@
       "score": 50.0,
       "last_close": 0.606,
       "rel_volume": 0.86,
-      "price_change_pct": -9.64,
+      "price_change_pct": -9.69,
       "gap_pct": -9.24,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -510,7 +527,7 @@
       "insider_pct": 14.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 12,
-      "recent_news": "BC-Most Active Stocks | BC-Most Active Stocks | BC-Most Active Stocks"
+      "recent_news": "Grab Holdings (GRAB) AI Push Puts Its Undervalued Narrative Back In Focus | BC-Most Active Stocks | BC-Most Active Stocks"
     },
     {
       "ticker": "UAMY",
@@ -530,21 +547,21 @@
       "recent_news": "Why United States Antimony Stock Is Tumbling Lower Today | Washington eyes Chad–Cameroon antimony corridor as China’s US export ban suspension nears expiry | MP Materials Is Down 27% This Year. Can Needham’s Magnet Call Get MP Stock Back to $48?"
     },
     {
-      "ticker": "FEDU",
-      "score": 46.8,
-      "last_close": 10.51,
-      "rel_volume": 1.84,
-      "price_change_pct": 5.1,
-      "gap_pct": 5.0,
+      "ticker": "OXSQ",
+      "score": 46.7,
+      "last_close": 0.6,
+      "rel_volume": 0.81,
+      "price_change_pct": 7.14,
+      "gap_pct": 7.95,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 23767488,
-      "float_shares": 502424,
-      "cash_debt_ratio": 2.16,
-      "insider_pct": 28.9,
+      "market_cap": 72554464,
+      "float_shares": null,
+      "cash_debt_ratio": 0.29,
+      "insider_pct": 5.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading | With EPS Growth And More, Four Seasons Education (Cayman) (NYSE:FEDU) Makes An Interesting Case | Asian Equities Traded in US as ADRs Decline in Friday Trading"
+      "recent_news": "Oxford Square Capital Corp (OXSQ) (Q3 2026) Earnings Call Highlights: Income Rises as NAV Slips ... | Oxford Square Capital Corp. Q3 2026 Earnings Call Summary | Oxford Square Capital (OXSQ) Q3 2026 Earnings Call Transcript"
     },
     {
       "ticker": "AAL",
@@ -562,23 +579,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
       "recent_news": "Should Investors Avoid Copa Holdings Despite Q3 Earnings Beat? | American Airlines (AAL) Locks In Miami Deal Backing 650 Jobs And Airport Upgrades | American Airlines (AAL) Stock May Be Reasonable After Its 33% Five Year Slide"
-    },
-    {
-      "ticker": "OXSQ",
-      "score": 45.7,
-      "last_close": 0.598,
-      "rel_volume": 0.81,
-      "price_change_pct": 6.84,
-      "gap_pct": 7.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 72554464,
-      "float_shares": null,
-      "cash_debt_ratio": 0.29,
-      "insider_pct": 5.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Oxford Square Capital Corp (OXSQ) (Q3 2026) Earnings Call Highlights: Income Rises as NAV Slips ... | Oxford Square Capital Corp. Q3 2026 Earnings Call Summary | Oxford Square Capital (OXSQ) Q3 2026 Earnings Call Transcript"
     },
     {
       "ticker": "MXCT",
@@ -599,10 +599,10 @@
     },
     {
       "ticker": "SID",
-      "score": 44.0,
+      "score": 43.9,
       "last_close": 0.51,
       "rel_volume": 0.64,
-      "price_change_pct": -7.31,
+      "price_change_pct": -7.27,
       "gap_pct": -7.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -616,10 +616,10 @@
     },
     {
       "ticker": "TRXB",
-      "score": 43.0,
-      "last_close": 10.315,
+      "score": 43.1,
+      "last_close": 10.32,
       "rel_volume": 0.77,
-      "price_change_pct": 6.12,
+      "price_change_pct": 6.17,
       "gap_pct": 7.92,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -680,7 +680,7 @@
       "insider_pct": 0.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "What Could Send Rocket Lab Stock Higher? | How Much Downside Is Left In Rocket Lab Stock? | A $5.9 Billion Fund Dumps These 3 Stocks"
+      "recent_news": "Rocket Companies (RKT) Just Got a Major Win — Wall Street Is Reacting | What Could Send Rocket Lab Stock Higher? | How Much Downside Is Left In Rocket Lab Stock?"
     },
     {
       "ticker": "CAPR",
@@ -734,6 +734,23 @@
       "recent_news": "Brazil-based Nubank gets banking license on home turf | Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027? | MercadoLibre grew sales 44%—so why did the stock crash 28%?"
     },
     {
+      "ticker": "YSS",
+      "score": 32.0,
+      "last_close": 3.65,
+      "rel_volume": 1.84,
+      "price_change_pct": 1.96,
+      "gap_pct": 2.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 494828288,
+      "float_shares": 54841889,
+      "cash_debt_ratio": 1.72,
+      "insider_pct": 9.2,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "5 Stocks Analysts Upgraded On Monday | YSS Stock Sinks To Record Low: Jefferies Slashes Price Target By 60%, Sees ‘Materially Longer Path To Positive EBITDA’ | Why York Space Systems Stock Just Crashed"
+    },
+    {
       "ticker": "JBLU",
       "score": 29.0,
       "last_close": 3.32,
@@ -750,16 +767,6 @@
       "rel_volume": 0.97,
       "price_change_pct": 3.6,
       "gap_pct": 3.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "ULCC",
-      "score": 28.2,
-      "last_close": 7.67,
-      "rel_volume": 0.83,
-      "price_change_pct": -3.4,
-      "gap_pct": -4.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -870,16 +877,6 @@
       "rel_volume": 0.73,
       "price_change_pct": -0.58,
       "gap_pct": -0.58,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "MERC",
-      "score": 2.6,
-      "last_close": 0.18,
-      "rel_volume": 0.14,
-      "price_change_pct": 0.0,
-      "gap_pct": -0.5,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
