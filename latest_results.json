@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-21T16:04:38.967457+00:00",
+  "last_updated_utc": "2026-11-21T22:02:47.277740+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -340,7 +340,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 17,
-      "recent_news": "European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week | CIEN Targets a $50B Market: How AI Could Expand Its Growth Opportunity | Is Nokia Oyj (HLSE:NOKIA) Trading At A Premium On Earnings?"
+      "recent_news": "If NVIDIA Tightens Its Wallet, These 3 Stocks Could Feel It | European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week | CIEN Targets a $50B Market: How AI Could Expand Its Growth Opportunity"
     },
     {
       "ticker": "SOFI",
@@ -357,7 +357,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? | How Low Could XRP Go if Bitcoin Falls to $50,000? | Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?"
+      "recent_news": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? | ChatGPT AI Predicts XRP’s Price for the End of 2029 | Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030?"
     },
     {
       "ticker": "TRIB",
@@ -493,7 +493,7 @@
       "insider_pct": 5.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "The Container Store is back online after cybersecurity incident | Neighborhood Intelligence (NXH) Stock Fair Value Falls After Hold Downgrade And Funding Concerns | Neighborhood Intelligence stock rises on $25M buyback plan"
+      "recent_news": "Once-bankrupt home goods retailer returns, brings back beloved discount coupons | The Container Store is back online after cybersecurity incident | Neighborhood Intelligence (NXH) Stock Fair Value Falls After Hold Downgrade And Funding Concerns"
     },
     {
       "ticker": "FMC",
