@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-21T08:00:14.324454+00:00",
-  "tickers_scanned": 58,
+  "last_updated_utc": "2026-11-21T16:04:38.967457+00:00",
+  "tickers_scanned": 59,
   "results": [
     {
       "ticker": "CNF",
@@ -97,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1030574976,
-      "float_shares": 481637754,
+      "float_shares": 481643643,
       "cash_debt_ratio": 0.06,
       "insider_pct": 8.9,
       "dilution_risk": "높음",
@@ -136,7 +136,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Cold Weather Battery Swaps Could Be A Game Changer For NIO (NIO) | Congress Finalizing Bill To Officially Ban Chinese Cars In U.S. | NIO (NIO) Pushes Back On Rumors As The Bull Case Turns To Value"
+      "recent_news": "NIO And 2 More EV Stocks To Watch | Ford Sold 34,000 China-Built Lincolns in 2025. Congress Is Closing In on a Chinese Car Ban | Cold Weather Battery Swaps Could Be A Game Changer For NIO (NIO)"
     },
     {
       "ticker": "FLNC",
@@ -170,7 +170,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Investis Holding (SWX:IREN) Stock Looks Pricey As Its 67% Run Draws Focus | Tesla Sinks 8%, SpaceX Down 7%, Rivian Down 8% as AI Sell-Off Swamps HSBC Upgrade | SpaceX’s New ‘Game Plan’ Could Pay Off, Says Top Analyst"
+      "recent_news": "Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates” | Lenders Fear SpaceX Could “Shoot the Valuable Chips” Into Space. SpaceX Sinks After Its $32 Billion Debt Sale | 5 Most Overvalued AI Stocks According to Short Sellers"
     },
     {
       "ticker": "IQ",
@@ -199,9 +199,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 271731776,
-      "float_shares": 54789205,
+      "float_shares": 54900259,
       "cash_debt_ratio": 0.3,
-      "insider_pct": 17.7,
+      "insider_pct": 17.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Lesaka Technologies Q1 Earnings Call Highlights | Lesaka (LSAK) Q1 2027 Earnings Call Transcript | Lesaka Technologies (LSAK) Q1 Earnings Top Estimates"
@@ -250,7 +250,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 7855924736,
-      "float_shares": 1153974838,
+      "float_shares": 1153681320,
       "cash_debt_ratio": 0.67,
       "insider_pct": 21.9,
       "dilution_risk": "높음",
@@ -272,7 +272,7 @@
       "insider_pct": 23.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10% | Could Applied Digital Actually Climb 265%? Or Is B. Riley Totally Wrong? | Riot Platforms Is the Real Winner of Anthropic’s IPO: Its Tenant on $37 Billion of Leases"
+      "recent_news": "5 Most Overvalued AI Stocks According to Short Sellers | Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10% | Could Applied Digital Actually Climb 265%? Or Is B. Riley Totally Wrong?"
     },
     {
       "ticker": "EVCM",
@@ -304,8 +304,8 @@
       "float_shares": 84979352,
       "cash_debt_ratio": 0.22,
       "insider_pct": 13.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Intuit Sinks 13% on Revenue Guidance Cut as CEO Calls AI Tools “New Front Doors for Discovery” | 3 Growth Stocks To Watch In November 2026 | Exclusive: Upstart CEO sees path to high growth as business transforms"
     },
     {
@@ -335,7 +335,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 38933479424,
-      "float_shares": 4512718209,
+      "float_shares": 4511643012,
       "cash_debt_ratio": 1.48,
       "insider_pct": 1.4,
       "dilution_risk": "높음",
@@ -352,12 +352,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 16197047296,
-      "float_shares": 1277542222,
+      "float_shares": 1277594136,
       "cash_debt_ratio": 0.71,
       "insider_pct": 1.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "SoFi (SOFI) Stock May Be Fairly Priced After SoFiUSD Expansion | PayPal vs. SoFi Technologies: Which Financial Stock Is a Better Buy for 2027? | How Much XRP Do You Need to Retire by 2040?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 7,
+      "recent_news": "Anthropic Is Now Worth More Than Bitcoin: Could Bitcoin Pass It by 2030? | How Low Could XRP Go if Bitcoin Falls to $50,000? | Anthropic and Bitcoin Are Both Falling: Where Is the Money Going?"
     },
     {
       "ticker": "TRIB",
@@ -372,8 +372,8 @@
       "float_shares": 559322,
       "cash_debt_ratio": 0.04,
       "insider_pct": 13.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "European Equities Traded in the US as American Depositary Receipts Tumble in Tuesday Trading | European Equities Traded in the US as American Depositary Receipts Decline in Thursday Trading | European Equities Traded in the US as American Depositary Receipts Decline in Tuesday Trading"
     },
     {
@@ -403,7 +403,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 231571760,
-      "float_shares": 118821866,
+      "float_shares": 118796313,
       "cash_debt_ratio": 0.05,
       "insider_pct": 25.6,
       "dilution_risk": "낮음",
@@ -420,9 +420,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 294541024,
-      "float_shares": 76962024,
+      "float_shares": 76900357,
       "cash_debt_ratio": 0.03,
-      "insider_pct": 4.9,
+      "insider_pct": 5.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "B&G taps into fiber craze with Cream of Wheat | B&G Foods: 3 Key Takeaways for Long-Term Investors | Can Medifast's Coaching Model Complement GLP-1 Weight-Loss Drugs?"
@@ -442,7 +442,7 @@
       "insider_pct": 3.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "What Is Cipher Digital (CIFR) Really Getting From $16.6 Billion In HPC Contracts? | CleanSpark Just Dropped 40% in a Month on Bitcoin and Texas. Is It Time to Sell, or Load Up? | Cipher Digital Sinks 5%, CoreWeave Down 7% as Anthropic’s Debut Fails to Stop AI Selloff"
+      "recent_news": "Is Cipher Digital Inc. (CIFR) Among the Most Overvalued AI Infrastructure Stocks? | What Is Cipher Digital (CIFR) Really Getting From $16.6 Billion In HPC Contracts? | CleanSpark Just Dropped 40% in a Month on Bitcoin and Texas. Is It Time to Sell, or Load Up?"
     },
     {
       "ticker": "HUMA",
@@ -522,7 +522,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 11101750272,
-      "float_shares": 2962350600,
+      "float_shares": 2962390970,
       "cash_debt_ratio": 2.85,
       "insider_pct": 14.5,
       "dilution_risk": "높음",
@@ -547,6 +547,23 @@
       "recent_news": "Why United States Antimony Stock Is Tumbling Lower Today | Washington eyes Chad–Cameroon antimony corridor as China’s US export ban suspension nears expiry | MP Materials Is Down 27% This Year. Can Needham’s Magnet Call Get MP Stock Back to $48?"
     },
     {
+      "ticker": "FEDU",
+      "score": 46.9,
+      "last_close": 10.51,
+      "rel_volume": 1.85,
+      "price_change_pct": 5.1,
+      "gap_pct": 5.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 23767488,
+      "float_shares": 502424,
+      "cash_debt_ratio": 2.16,
+      "insider_pct": 28.9,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Thursday Trading | With EPS Growth And More, Four Seasons Education (Cayman) (NYSE:FEDU) Makes An Interesting Case | Asian Equities Traded in US as ADRs Decline in Friday Trading"
+    },
+    {
       "ticker": "OXSQ",
       "score": 46.7,
       "last_close": 0.6,
@@ -558,7 +575,7 @@
       "market_cap": 72554464,
       "float_shares": null,
       "cash_debt_ratio": 0.29,
-      "insider_pct": 5.6,
+      "insider_pct": 5.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Oxford Square Capital Corp (OXSQ) (Q3 2026) Earnings Call Highlights: Income Rises as NAV Slips ... | Oxford Square Capital Corp. Q3 2026 Earnings Call Summary | Oxford Square Capital (OXSQ) Q3 2026 Earnings Call Transcript"
@@ -590,7 +607,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 141452896,
-      "float_shares": 93760558,
+      "float_shares": 93660405,
       "cash_debt_ratio": 6.0,
       "insider_pct": 1.9,
       "dilution_risk": "주의",
@@ -726,12 +743,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 54530281472,
-      "float_shares": 3731380893,
+      "float_shares": 3733558233,
       "cash_debt_ratio": 2.52,
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "Brazil-based Nubank gets banking license on home turf | Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027? | MercadoLibre grew sales 44%—so why did the stock crash 28%?"
+      "recent_news": "MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside | Brazil-based Nubank gets banking license on home turf | Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027?"
     },
     {
       "ticker": "YSS",
