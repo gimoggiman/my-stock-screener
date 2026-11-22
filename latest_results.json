@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-22T02:50:12.891950+00:00",
+  "last_updated_utc": "2026-11-22T10:45:19.415305+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -165,7 +165,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 5015904256,
-      "float_shares": 408134198,
+      "float_shares": 383241394,
       "cash_debt_ratio": 0.34,
       "insider_pct": 6.5,
       "dilution_risk": "높음",
@@ -522,7 +522,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 11101750272,
-      "float_shares": 2962390970,
+      "float_shares": 2962431340,
       "cash_debt_ratio": 2.85,
       "insider_pct": 14.5,
       "dilution_risk": "높음",
@@ -539,7 +539,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 333004640,
-      "float_shares": 131627923,
+      "float_shares": 131618963,
       "cash_debt_ratio": 112.2,
       "insider_pct": 8.6,
       "dilution_risk": "낮음",
@@ -644,8 +644,8 @@
       "float_shares": 685389,
       "cash_debt_ratio": 461.19,
       "insider_pct": 39.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls"
     },
     {
@@ -692,7 +692,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 39021076480,
-      "float_shares": 1888364753,
+      "float_shares": 472254367,
       "cash_debt_ratio": 0.09,
       "insider_pct": 0.6,
       "dilution_risk": "높음",
