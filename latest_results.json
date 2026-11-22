@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-22T10:45:19.415305+00:00",
+  "last_updated_utc": "2026-11-22T18:14:48.199224+00:00",
   "tickers_scanned": 59,
   "results": [
     {
@@ -102,7 +102,7 @@
       "insider_pct": 8.9,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 4,
-      "recent_news": "Why Medical Properties (MPT) Is Shining Bright Amid Market Chaos | Medical Properties Trust Yields 22%, but Its Stock Has Crashed 65% | Treasuries Now Yield 5.1%. These High-Yield Dividend Stocks Could Be in Trouble"
+      "recent_news": "These Dividend Yield Traps Are Hiding in 3 Sectors Retirees Trust | Why Medical Properties (MPT) Is Shining Bright Amid Market Chaos | Medical Properties Trust Yields 22%, but Its Stock Has Crashed 65%"
     },
     {
       "ticker": "OPEN",
@@ -170,7 +170,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates” | Lenders Fear SpaceX Could “Shoot the Valuable Chips” Into Space. SpaceX Sinks After Its $32 Billion Debt Sale | 5 Most Overvalued AI Stocks According to Short Sellers"
+      "recent_news": "Warning for CoreWeave: Satya Nadella Says “Selling to One or Two Customers Is Not a Business” | Texas County Balks at SpaceX’s $24 Billion Data Center Tax Break. SpaceX Says Computing Equipment “Rapidly Depreciates” | Lenders Fear SpaceX Could “Shoot the Valuable Chips” Into Space. SpaceX Sinks After Its $32 Billion Debt Sale"
     },
     {
       "ticker": "IQ",
@@ -306,7 +306,7 @@
       "insider_pct": 13.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Intuit Sinks 13% on Revenue Guidance Cut as CEO Calls AI Tools “New Front Doors for Discovery” | 3 Growth Stocks To Watch In November 2026 | Exclusive: Upstart CEO sees path to high growth as business transforms"
+      "recent_news": "SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them | MarketBeat Week in Review – 11/16 - 11/20 | Intuit Sinks 13% on Revenue Guidance Cut as CEO Calls AI Tools “New Front Doors for Discovery”"
     },
     {
       "ticker": "AESI",
@@ -357,7 +357,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner | $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years? | ChatGPT AI Predicts XRP’s Price for the End of 2029"
+      "recent_news": "SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them | At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner | $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?"
     },
     {
       "ticker": "TRIB",
@@ -644,8 +644,8 @@
       "float_shares": 685389,
       "cash_debt_ratio": 461.19,
       "insider_pct": 39.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Cloudflare upgraded, Marvell downgraded: Wall Street's top analyst calls"
     },
     {
@@ -748,7 +748,7 @@
       "insider_pct": 2.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 11,
-      "recent_news": "MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside | Brazil-based Nubank gets banking license on home turf | Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027?"
+      "recent_news": "Red Violet And 2 High Growth Insider Stocks To Watch | MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside | Brazil-based Nubank gets banking license on home turf"
     },
     {
       "ticker": "YSS",
