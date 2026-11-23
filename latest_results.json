@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-23T00:00:58.113629+00:00",
+  "last_updated_utc": "2026-11-23T07:21:01.336887+00:00",
   "tickers_scanned": 58,
   "results": [
     {
@@ -66,8 +66,8 @@
       "float_shares": 58872182,
       "cash_debt_ratio": 3.19,
       "insider_pct": 10.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
       "recent_news": "Pyxis Oncology Catalysts on Track With Upcoming Trial Results in Head, Neck Cancer Treatment, RBC Says | Pyxis Oncology stock falls on public offering announcement | Pyxis Oncology shares fall 7% despite updated MICVO trial results"
     },
     {
@@ -136,7 +136,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "NIO And 2 More EV Stocks To Watch | Ford Sold 34,000 China-Built Lincolns in 2025. Congress Is Closing In on a Chinese Car Ban | Cold Weather Battery Swaps Could Be A Game Changer For NIO (NIO)"
+      "recent_news": "Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet | NIO And 2 More EV Stocks To Watch | Ford Sold 34,000 China-Built Lincolns in 2025. Congress Is Closing In on a Chinese Car Ban"
     },
     {
       "ticker": "FLNC",
@@ -202,8 +202,8 @@
       "float_shares": 54900259,
       "cash_debt_ratio": 0.3,
       "insider_pct": 17.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Lesaka Technologies Q1 Earnings Call Highlights | Lesaka (LSAK) Q1 2027 Earnings Call Transcript | Lesaka Technologies (LSAK) Q1 Earnings Top Estimates"
     },
     {
@@ -272,7 +272,7 @@
       "insider_pct": 23.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "5 Most Overvalued AI Stocks According to Short Sellers | Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10% | Could Applied Digital Actually Climb 265%? Or Is B. Riley Totally Wrong?"
+      "recent_news": "WULF Stock In Focus As CEO Says He Won't Rush A Muskie Lease Deal In A ‘Terrible Market’ | 5 Most Overvalued AI Stocks According to Short Sellers | Applied Digital and Core Scientific Sink 12% as AI Infrastructure Sell-Off Deepens; TeraWulf Tumbles 10%"
     },
     {
       "ticker": "EVCM",
@@ -340,7 +340,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 17,
-      "recent_news": "If NVIDIA Tightens Its Wallet, These 3 Stocks Could Feel It | European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week | CIEN Targets a $50B Market: How AI Could Expand Its Growth Opportunity"
+      "recent_news": "Nokia vs. AT&T: Which Telecom Stock Is a Better Buy for 2027? | If NVIDIA Tightens Its Wallet, These 3 Stocks Could Feel It | European Equities Traded in the US as American Depositary Receipts Track Lower in Friday Trading; Down More Than 7% for Week"
     },
     {
       "ticker": "SOFI",
@@ -729,9 +729,9 @@
       "float_shares": 3733558233,
       "cash_debt_ratio": 2.52,
       "insider_pct": 2.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Red Violet And 2 High Growth Insider Stocks To Watch | MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside | Brazil-based Nubank gets banking license on home turf"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 11,
+      "recent_news": "5 Best High-Growth Stocks to Diversify Away From Big Tech | Red Violet And 2 High Growth Insider Stocks To Watch | MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside"
     },
     {
       "ticker": "YSS",
