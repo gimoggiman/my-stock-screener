@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-22T18:14:48.199224+00:00",
-  "tickers_scanned": 59,
+  "last_updated_utc": "2026-11-23T00:00:58.113629+00:00",
+  "tickers_scanned": 58,
   "results": [
     {
       "ticker": "CNF",
@@ -66,8 +66,8 @@
       "float_shares": 58872182,
       "cash_debt_ratio": 3.19,
       "insider_pct": 10.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Pyxis Oncology Catalysts on Track With Upcoming Trial Results in Head, Neck Cancer Treatment, RBC Says | Pyxis Oncology stock falls on public offering announcement | Pyxis Oncology shares fall 7% despite updated MICVO trial results"
     },
     {
@@ -118,7 +118,7 @@
       "cash_debt_ratio": 0.3,
       "insider_pct": 5.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2777,
+      "recent_dilution_filings_90d": 2729,
       "recent_news": "Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism? | Opendoor Director Dana Hamilton Just Cast a Vote of Confidence Near the Stock’s Low"
     },
     {
@@ -186,7 +186,7 @@
       "cash_debt_ratio": 0.28,
       "insider_pct": 0.3,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 56,
+      "recent_dilution_filings_90d": 54,
       "recent_news": "iQiyi: 3 Key Takeaways for Long-Term Investors | iQIYI (IQ) Stock Sees Fair Value Cut After Analysts Lower Targets | Asian Equities Traded in the US as American Depositary Receipts Decline in Wednesday Trading"
     },
     {
@@ -202,8 +202,8 @@
       "float_shares": 54900259,
       "cash_debt_ratio": 0.3,
       "insider_pct": 17.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Lesaka Technologies Q1 Earnings Call Highlights | Lesaka (LSAK) Q1 2027 Earnings Call Transcript | Lesaka Technologies (LSAK) Q1 Earnings Top Estimates"
     },
     {
@@ -306,7 +306,7 @@
       "insider_pct": 13.3,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them | MarketBeat Week in Review – 11/16 - 11/20 | Intuit Sinks 13% on Revenue Guidance Cut as CEO Calls AI Tools “New Front Doors for Discovery”"
+      "recent_news": "Upstart Is Yesterday's News. Is This Fintech Stock the Better Buy? | SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them | MarketBeat Week in Review – 11/16 - 11/20"
     },
     {
       "ticker": "AESI",
@@ -357,7 +357,7 @@
       "insider_pct": 1.4,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them | At 74, a Machinist Planned to Pay for His Nursing Home With $150,000 in Bitcoin. After the Crash It’s Worth About $90,000, and the Loss Will Get Him Onto Medicaid About 5½ Months Sooner | $1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?"
+      "recent_news": "Upstart Is Yesterday's News. Is This Fintech Stock the Better Buy? | XRP’s Next 10 Years: Is It One to Buy, Hold or Avoid? | Can Bitcoin Still Reach $1 Million by 2035?"
     },
     {
       "ticker": "TRIB",
@@ -445,23 +445,6 @@
       "recent_news": "Is Cipher Digital Inc. (CIFR) Among the Most Overvalued AI Infrastructure Stocks? | What Is Cipher Digital (CIFR) Really Getting From $16.6 Billion In HPC Contracts? | CleanSpark Just Dropped 40% in a Month on Bitcoin and Texas. Is It Time to Sell, or Load Up?"
     },
     {
-      "ticker": "HUMA",
-      "score": 51.2,
-      "last_close": 0.445,
-      "rel_volume": 0.96,
-      "price_change_pct": -18.05,
-      "gap_pct": -16.76,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 123731280,
-      "float_shares": 250790573,
-      "cash_debt_ratio": 0.96,
-      "insider_pct": 5.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Humacyte (HUMA) Q3 2026 Earnings Call Transcript | Humacyte, Inc. Q3 2026 Earnings Call Summary | Humacyte Q3 Earnings Call Highlights"
-    },
-    {
       "ticker": "OPTU",
       "score": 50.0,
       "last_close": 0.606,
@@ -480,11 +463,11 @@
     },
     {
       "ticker": "NXH",
-      "score": 49.7,
+      "score": 49.6,
       "last_close": 1.11,
       "rel_volume": 1.08,
       "price_change_pct": 7.77,
-      "gap_pct": 6.83,
+      "gap_pct": 6.8,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 122119104,
@@ -700,23 +683,6 @@
       "recent_news": "Rocket Companies (RKT) Just Got a Major Win — Wall Street Is Reacting | What Could Send Rocket Lab Stock Higher? | How Much Downside Is Left In Rocket Lab Stock?"
     },
     {
-      "ticker": "CAPR",
-      "score": 35.4,
-      "last_close": 7.59,
-      "rel_volume": 2.65,
-      "price_change_pct": 0.8,
-      "gap_pct": -1.06,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 441298624,
-      "float_shares": 49641737,
-      "cash_debt_ratio": 2.14,
-      "insider_pct": 9.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "CAPR Stock Gains Ahead Of Weekend FDA Deramiocel Decision After Rough Week | CAPR Stock Has Retail’s Attention After SLS Rally — But 2 Other Drugs Could Have Better Estimated FDA Approval Odds This Month | ‘Pharma Bro’ Shkreli Calls SLS Results ‘Sketch,’ Compares Leukemia Vaccine Data To Capricor’s Deramiocel"
-    },
-    {
       "ticker": "VISN",
       "score": 34.7,
       "last_close": 3.82,
@@ -734,6 +700,23 @@
       "recent_news": "Vistance Networks (VISN) Could Be 74% Undervalued After CEO Exit And Cash Return Plans | Vistance Networks (VISN) Stock Could Trade Below Fair Value After Recent Falls | Vistance Networks Inc (VISN) (Q3 2026) Earnings Call Highlights: $4 Billion Returned to ..."
     },
     {
+      "ticker": "CAPR",
+      "score": 34.2,
+      "last_close": 7.59,
+      "rel_volume": 2.65,
+      "price_change_pct": 0.8,
+      "gap_pct": -0.4,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 441298624,
+      "float_shares": 49641737,
+      "cash_debt_ratio": 2.14,
+      "insider_pct": 9.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "CAPR Stock Gains Ahead Of Weekend FDA Deramiocel Decision After Rough Week | CAPR Stock Has Retail’s Attention After SLS Rally — But 2 Other Drugs Could Have Better Estimated FDA Approval Odds This Month | ‘Pharma Bro’ Shkreli Calls SLS Results ‘Sketch,’ Compares Leukemia Vaccine Data To Capricor’s Deramiocel"
+    },
+    {
       "ticker": "NU",
       "score": 32.1,
       "last_close": 11.27,
@@ -746,8 +729,8 @@
       "float_shares": 3733558233,
       "cash_debt_ratio": 2.52,
       "insider_pct": 2.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 11,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Red Violet And 2 High Growth Insider Stocks To Watch | MercadoLibre Has Disappointed for a Year: Why Bank of America Still Sees 48% Upside | Brazil-based Nubank gets banking license on home turf"
     },
     {
@@ -765,7 +748,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "5 Stocks Analysts Upgraded On Monday | YSS Stock Sinks To Record Low: Jefferies Slashes Price Target By 60%, Sees ‘Materially Longer Path To Positive EBITDA’ | Why York Space Systems Stock Just Crashed"
+      "recent_news": "Why York Space Systems Stock Plunged This Week | 5 Stocks Analysts Upgraded On Monday | YSS Stock Sinks To Record Low: Jefferies Slashes Price Target By 60%, Sees ‘Materially Longer Path To Positive EBITDA’"
     },
     {
       "ticker": "JBLU",
