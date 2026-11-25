@@ -1,12 +1,29 @@
 {
-  "last_updated_utc": "2026-11-25T00:22:49.320199+00:00",
-  "tickers_scanned": 64,
+  "last_updated_utc": "2026-11-25T09:34:19.722946+00:00",
+  "tickers_scanned": 67,
   "results": [
+    {
+      "ticker": "EMBC",
+      "score": 75.0,
+      "last_close": 8.08,
+      "rel_volume": 8.53,
+      "price_change_pct": 40.64,
+      "gap_pct": 39.25,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 457809568,
+      "float_shares": 53645797,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 2.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Embecta Corp. Q4 2026 Earnings Call Summary | Embecta (EMBC) Q4 2026 Earnings Call Transcript | Embecta Q4 Earnings Call Highlights"
+    },
     {
       "ticker": "LVWR",
       "score": 75.0,
       "last_close": 1.87,
-      "rel_volume": 8.19,
+      "rel_volume": 8.22,
       "price_change_pct": 90.82,
       "gap_pct": 93.37,
       "st_msg_count": null,
@@ -23,18 +40,18 @@
       "ticker": "FLNC",
       "score": 74.7,
       "last_close": 4.1,
-      "rel_volume": 5.6,
+      "rel_volume": 5.61,
       "price_change_pct": 7.89,
       "gap_pct": 8.29,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 798117376,
-      "float_shares": 89069226,
-      "cash_debt_ratio": 0.82,
+      "float_shares": 89151419,
+      "cash_debt_ratio": 0.67,
       "insider_pct": 14.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Fluence (FLNC) Q4 2026 Earnings Call Transcript | Why Fluence Energy Stock Is Powering Higher Today | Fluence Energy Is Worth $701 Million and Sitting on an $8.9 Billion Backlog"
+      "recent_news": "Fluence: 3 Key Takeaways for Long-Term Investors | Fluence (FLNC) Q4 2026 Earnings Call Transcript | Why Fluence Energy Stock Is Powering Higher Today"
     },
     {
       "ticker": "CSIQ",
@@ -54,6 +71,23 @@
       "recent_news": "Can T1 Energy's Growing Order Book Drive US Solar Expansion? | Did The Market Read First Solar Stock Right? | Solar Stocks Rebound After A Brutal Rout: Is The Worst Over For ENPH, FSLR, CSIQ, SEDG Stocks?"
     },
     {
+      "ticker": "VNET",
+      "score": 70.0,
+      "last_close": 1.97,
+      "rel_volume": 2.57,
+      "price_change_pct": -22.44,
+      "gap_pct": -22.64,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 561909568,
+      "float_shares": 63626450,
+      "cash_debt_ratio": 0.19,
+      "insider_pct": 0.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "What VNET Group (VNET) Said on Its Q3 Earnings Call | VNET Group (VNET) Reports Q3 Loss, Beats Revenue Estimates | KANZHUN LIMITED Sponsored ADR (BZ) Earnings Expected to Grow: Should You Buy?"
+    },
+    {
       "ticker": "ANNX",
       "score": 68.5,
       "last_close": 3.54,
@@ -71,12 +105,29 @@
       "recent_news": "Wells Fargo Names Top Pick in Biotechnology Sector | Annexon Eyes Q4 2026 Phase III Readout for Vision-Preserving GA Drug | What Annexon (ANNX)'s Dual-Endpoint ARCHER II Update Means For Shareholders"
     },
     {
+      "ticker": "ALEC",
+      "score": 64.8,
+      "last_close": 2.71,
+      "rel_volume": 2.13,
+      "price_change_pct": 11.07,
+      "gap_pct": 8.61,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 403456864,
+      "float_shares": 101228966,
+      "cash_debt_ratio": 6.6,
+      "insider_pct": 7.3,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "Missed Alector's 82% Gain? Here's What Investors Got Right | Alector (ALEC) Stock Sees Fair Value Lift As Analysts Split On Genentech Deal | IQVIA Stock Jumps 59% in 6 Months: Here's What You Should Know"
+    },
+    {
       "ticker": "CCCC",
       "score": 63.7,
       "last_close": 3.1,
       "rel_volume": 2.03,
       "price_change_pct": 15.67,
-      "gap_pct": 15.49,
+      "gap_pct": 15.67,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 407084192,
@@ -100,15 +151,15 @@
       "float_shares": 245206229,
       "cash_debt_ratio": 14.83,
       "insider_pct": 5.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Erasca (ERAS) Stock Is Up 13.0% Today Without Company News | Revolution Medicines Well Positioned Despite Rival RAS Cancer Therapies, RBC Says | Erasca Throws Down A Gauntlet — And Revolution Throws It Right Back"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 13,
+      "recent_news": "Erasca Inc. (ERAS) Is Exploding Ahead of These 2 Major Catalysts | Erasca (ERAS) Stock Is Up 13.0% Today Without Company News | Revolution Medicines Well Positioned Despite Rival RAS Cancer Therapies, RBC Says"
     },
     {
       "ticker": "TRVI",
-      "score": 61.0,
+      "score": 61.2,
       "last_close": 15.34,
-      "rel_volume": 1.8,
+      "rel_volume": 1.82,
       "price_change_pct": 12.22,
       "gap_pct": 12.22,
       "st_msg_count": null,
@@ -122,10 +173,27 @@
       "recent_news": "Trevi Therapeutics (TRVI) Stock Is Up 11.3% Today Without Company News | Trevi Therapeutics (TRVI) Stock Looks Fully Valued On Book Value Today | Does Wider Losses Change The Bull Case For Trevi Therapeutics Stock (TRVI)?"
     },
     {
+      "ticker": "LAB",
+      "score": 59.5,
+      "last_close": 0.64,
+      "rel_volume": 4.17,
+      "price_change_pct": 4.92,
+      "gap_pct": 4.89,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 253060656,
+      "float_shares": 189874463,
+      "cash_debt_ratio": 17.18,
+      "insider_pct": 1.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 407,
+      "recent_news": "Will TXG Stock Ever Get Back To Its Old High? | Standard BioTools Sells Mass Cytometry Business Amid Pending Merger With Treeline Biosciences | Stealthy startup Treeline plans a reverse merger"
+    },
+    {
       "ticker": "BMNR",
-      "score": 58.7,
+      "score": 58.8,
       "last_close": 13.18,
-      "rel_volume": 1.6,
+      "rel_volume": 1.61,
       "price_change_pct": -8.6,
       "gap_pct": -8.01,
       "st_msg_count": null,
@@ -134,15 +202,15 @@
       "float_shares": 617661913,
       "cash_debt_ratio": 420.93,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "What Would It Take for XRP to Reach $100? | Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes | Tom Lee Says Ethereum Is as Scarce as Bitcoin: Do the Supply Numbers Agree?"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Jim Cramer and Tom Lee are Buying More AI Stocks. Are They Right? | What Would It Take for XRP to Reach $100? | Stock Market Today, Nov. 24: Bitmine Shares Sink 8.6% as Confidence Wanes"
     },
     {
       "ticker": "CAPR",
-      "score": 57.3,
+      "score": 57.4,
       "last_close": 2.02,
-      "rel_volume": 2.72,
+      "rel_volume": 2.73,
       "price_change_pct": 5.21,
       "gap_pct": 4.95,
       "st_msg_count": null,
@@ -153,7 +221,7 @@
       "insider_pct": 9.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Capricor Therapeutics (CAPR) Stock Sees Fair Value Cut After FDA Letter Splits Analysts | CAPR Stock Clocks Worst Day Ever After FDA Rejects Approval For DMD Therapy: Company Reportedly Considering ‘Draconian’ Job Cuts | Capricor weighs 'draconian' job cuts after FDA declines to approve Duchenne therapy"
+      "recent_news": "Nelson Peltz-Backed Janus Henderson Loads Up On ImmunityBio: IBRX Stake Worth More Than SLS, CAPR And IOVA Combined | Capricor Therapeutics (CAPR) Stock Sees Fair Value Cut After FDA Letter Splits Analysts | CAPR Stock Clocks Worst Day Ever After FDA Rejects Approval For DMD Therapy: Company Reportedly Considering ‘Draconian’ Job Cuts"
     },
     {
       "ticker": "TROX",
@@ -173,6 +241,23 @@
       "recent_news": "Tronox (TROX) Stock Is Up 14.9% Today Without Company News | Tronox Holdings (TROX) Stock Fair Value Moves Lower After Analyst Target Cuts | Tronox Fell 65% While Sales Rose"
     },
     {
+      "ticker": "ABSI",
+      "score": 56.9,
+      "last_close": 9.17,
+      "rel_volume": 1.45,
+      "price_change_pct": 8.14,
+      "gap_pct": 8.37,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1584079104,
+      "float_shares": 164742497,
+      "cash_debt_ratio": 52.84,
+      "insider_pct": 11.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Absci Stock In Focus After Earnings Report And Commercial Chief Hire | ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 | Absci Corp. (ABSI) Gets Downgraded. Here’s How Much"
+    },
+    {
       "ticker": "NRGV",
       "score": 56.8,
       "last_close": 2.78,
@@ -190,23 +275,6 @@
       "recent_news": "All You Need to Know About Energy Vault (NRGV) Rating Upgrade to Buy | Energy Vault Holdings (NRGV) Stock Sees Fair Value Lift After Analyst Target Revisions | 5 Best Renewable & Clean Energy Stocks To Buy According to Analysts"
     },
     {
-      "ticker": "ABSI",
-      "score": 56.7,
-      "last_close": 9.17,
-      "rel_volume": 1.45,
-      "price_change_pct": 8.14,
-      "gap_pct": 7.9,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1584079104,
-      "float_shares": 164742497,
-      "cash_debt_ratio": 52.84,
-      "insider_pct": 11.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Absci Stock In Focus After Earnings Report And Commercial Chief Hire | ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 | Absci Corp. (ABSI) Gets Downgraded. Here’s How Much"
-    },
-    {
       "ticker": "IMNM",
       "score": 56.4,
       "last_close": 18.45,
@@ -219,15 +287,15 @@
       "float_shares": 113151663,
       "cash_debt_ratio": 40.54,
       "insider_pct": 6.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Immunome (IMNM) Stock May Be Fully Priced As Book Value Lags | Immunome (IMNM) Stock Is Up 13.8% Today Without Company News | Wall Street Analysts Predict a 73.95% Upside in Immunome (IMNM): Here's  What You Should Know"
     },
     {
       "ticker": "MMED",
-      "score": 54.0,
+      "score": 54.1,
       "last_close": 19.07,
-      "rel_volume": 1.2,
+      "rel_volume": 1.21,
       "price_change_pct": 14.06,
       "gap_pct": 14.17,
       "st_msg_count": null,
@@ -238,7 +306,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "MiniMed (MMED) Q2 2027 Earnings Call Transcript | Medtronic’s Core Business Looks Stronger Than Its Headline Earnings Numbers | MiniMed Group Q2 Earnings Call Highlights"
+      "recent_news": "Is MiniMed Group (MMED) A Bargain As Earnings Recover And Flex Launches? | MiniMed: 3 Key Takeaways for Long-Term Investors | Does MiniMed Group (MMED) Flex Launch Change Its Europe Diabetes Device Story?"
     },
     {
       "ticker": "OI",
@@ -270,8 +338,8 @@
       "float_shares": 81089350,
       "cash_debt_ratio": 0.74,
       "insider_pct": 1.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "Why Syndax (SNDX) Stock Is Up 8.2% Today Without Company News | What Syndax Pharmaceuticals Bears Spotted Before A 59% Slide | Syndax Pharmaceuticals (SNDX) Stock Sees Fair Value Cut After Axatilimab Trial Miss"
     },
     {
@@ -327,9 +395,9 @@
     },
     {
       "ticker": "WULF",
-      "score": 52.7,
+      "score": 52.8,
       "last_close": 10.01,
-      "rel_volume": 1.09,
+      "rel_volume": 1.1,
       "price_change_pct": -8.25,
       "gap_pct": -8.3,
       "st_msg_count": null,
@@ -340,7 +408,7 @@
       "insider_pct": 23.2,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Morgan Stanley says new chip export rule favors US data center developers TeraWulf, Hut 8, Cipher | Nebius & CoreWeave Jump 21% While Oracle Sees 12% Gains on Monday Following Jensen’s Return | 3 Growth Stocks With Earnings Growth Up To 72%"
+      "recent_news": "Bitcoin Miner Turned AI Landlord TeraWulf Says Selloff Hits Price, Not Demand | Morgan Stanley says new chip export rule favors US data center developers TeraWulf, Hut 8, Cipher | Nebius & CoreWeave Jump 21% While Oracle Sees 12% Gains on Monday Following Jensen’s Return"
     },
     {
       "ticker": "IREN",
@@ -355,9 +423,9 @@
       "float_shares": 383241394,
       "cash_debt_ratio": 0.34,
       "insider_pct": 6.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Applied Digital Is Down 33% in a Month. What Will It Take to Get APLD Stock Back to $20? | IREN Sinks 15%, CoreWeave Tumbles 14% as Neocloud Stocks Backtrack Monday’s Rally; Nebius Drops 13% | BC-Most Active Stocks"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
+      "recent_news": "IREN Selloff Draws Attention: Grant Cardone Joins Retail Bulls Asking Where The Bottom Is | Applied Digital Is Down 33% in a Month. What Will It Take to Get APLD Stock Back to $20? | IREN Sinks 15%, CoreWeave Tumbles 14% as Neocloud Stocks Backtrack Monday’s Rally; Nebius Drops 13%"
     },
     {
       "ticker": "UNIT",
@@ -406,32 +474,32 @@
       "float_shares": 368387047,
       "cash_debt_ratio": 0.12,
       "insider_pct": 3.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "SpaceX Falls 4%, CoreWeave Down 13%, Nebius Down 11% as AI Stocks Give Back Nvidia Rally | Morgan Stanley says new chip export rule favors US data center developers TeraWulf, Hut 8, Cipher | IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades"
     },
     {
-      "ticker": "CABA",
-      "score": 49.4,
-      "last_close": 1.11,
-      "rel_volume": 0.81,
-      "price_change_pct": 8.82,
-      "gap_pct": 9.31,
+      "ticker": "SRPT",
+      "score": 48.5,
+      "last_close": 15.09,
+      "rel_volume": 1.97,
+      "price_change_pct": 5.08,
+      "gap_pct": 5.15,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 239449632,
-      "float_shares": 192864816,
-      "cash_debt_ratio": 12.92,
-      "insider_pct": 0.8,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
-      "recent_news": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts | Kyverna Therapeutics Sinks 13%: Here’s Why | How Cabaletta Bio (CABA) Is Turning Rese-cel Enrollment and New Financing Into a Clearer Autoimmune Cell Therapy Setup"
+      "market_cap": 1618188928,
+      "float_shares": 102153941,
+      "cash_debt_ratio": 0.81,
+      "insider_pct": 4.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "BridgeBio Jumps After FDA Approves A First-Ever In Muscular Dystrophy | Implied Volatility Surging for Sarepta Stock Options | Sarepta Therapeutics (SRPT) Stock Trades Below Fair Value On Sales"
     },
     {
       "ticker": "UAMY",
-      "score": 48.4,
+      "score": 48.5,
       "last_close": 2.18,
-      "rel_volume": 0.73,
+      "rel_volume": 0.74,
       "price_change_pct": -8.79,
       "gap_pct": -7.95,
       "st_msg_count": null,
@@ -446,11 +514,11 @@
     },
     {
       "ticker": "XRAY",
-      "score": 48.4,
+      "score": 48.2,
       "last_close": 9.38,
       "rel_volume": 0.94,
       "price_change_pct": 7.57,
-      "gap_pct": 7.34,
+      "gap_pct": 7.22,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1869939328,
@@ -462,28 +530,11 @@
       "recent_news": "Smith + Nephew names new CFO | DENTSPLY SIRONA (XRAY) Stock Fair Value Moves Lower After Q3 Miss And Guidance Cut | Dentsply Sirona: 3 Key Takeaways for Long-Term Investors"
     },
     {
-      "ticker": "OPTU",
-      "score": 48.0,
-      "last_close": 0.627,
-      "rel_volume": 0.69,
-      "price_change_pct": 13.06,
-      "gap_pct": 10.37,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 239348304,
-      "float_shares": 144410883,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 20.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Optimum nears creditor deal to slash $26B debt load by more than half - Bloomberg | Optimum Skips Bond Interest Payments Amid Restructuring Talks | Optimum Communications (NYSE:OPTU) reports Q3 2026 in line with expectations but stock drops"
-    },
-    {
       "ticker": "HUMA",
       "score": 47.5,
       "last_close": 0.514,
       "rel_volume": 0.64,
-      "price_change_pct": 12.49,
+      "price_change_pct": 12.47,
       "gap_pct": 12.67,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -491,8 +542,8 @@
       "float_shares": 250790573,
       "cash_debt_ratio": 0.96,
       "insider_pct": 5.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Humacyte (HUMA) Q3 2026 Earnings Call Transcript | Humacyte, Inc. Q3 2026 Earnings Call Summary | Humacyte Q3 Earnings Call Highlights"
     },
     {
@@ -513,6 +564,23 @@
       "recent_news": "Deutsche Bank cuts price targets on 13 miners and upgrades Norsk Hydro to 'buy' | The Copper and Iron Ore Behind Your Wiring and Appliances: $90,000 Across These 3 Miners Pays $5,330 a Year | Investors Heavily Search VALE S.A. (VALE): Here is What You Need to Know"
     },
     {
+      "ticker": "TSHA",
+      "score": 46.7,
+      "last_close": 4.08,
+      "rel_volume": 1.69,
+      "price_change_pct": 5.15,
+      "gap_pct": 5.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1330265728,
+      "float_shares": 227322204,
+      "cash_debt_ratio": 7.75,
+      "insider_pct": 9.4,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Taysha Gene Therapies, Inc. Q3 2026 Earnings Call Summary | Taysha (TSHA) Q3 2026 Earnings Call Transcript | Taysha Gene Therapies Q3 Earnings Call Highlights"
+    },
+    {
       "ticker": "GERN",
       "score": 46.6,
       "last_close": 1.01,
@@ -527,7 +595,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Why Is Geron (GERN) Stock Up Today? Biotech Stocks Rally | Geron Targets Germany Launch and Deals as RYTELO Sales Grow | What Investors Got Wrong About Geron Before The Drop"
+      "recent_news": "What Geron Doubters Saw Before The Drop | Why Is Geron (GERN) Stock Up Today? Biotech Stocks Rally | Geron Targets Germany Launch and Deals as RYTELO Sales Grow"
     },
     {
       "ticker": "CLVT",
@@ -544,7 +612,7 @@
       "insider_pct": 18.3,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Clarivate (CLVT) Stock Is Up 8.8% Today Without Company News | Clarivate Expands IPOne Platform with Patent and Litigation Data Connectors for Anthropic’s Claude AI | Will Wider Loss Guidance Change Clarivate Stock Narrative"
+      "recent_news": "Clarivate (CLVT) Shares Just Moved, So What Is Driving Attention Now? | Clarivate (CLVT) Stock Is Up 8.8% Today Without Company News | Clarivate Expands IPOne Platform with Patent and Litigation Data Connectors for Anthropic’s Claude AI"
     },
     {
       "ticker": "OPEN",
@@ -559,8 +627,8 @@
       "float_shares": 911355069,
       "cash_debt_ratio": 0.3,
       "insider_pct": 5.1,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2776,
       "recent_news": "Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism? | Opendoor Director Dana Hamilton Just Cast a Vote of Confidence Near the Stock’s Low"
     },
     {
@@ -598,28 +666,11 @@
       "recent_news": "Top 3 Penny Stocks To Watch In November 2026 | What Makes Precigen (PGEN) a New Buy Stock | PGEN Q3 Earnings Call Highlights Launch Momentum and Competition"
     },
     {
-      "ticker": "EVH",
-      "score": 41.9,
-      "last_close": 3.9,
-      "rel_volume": 0.97,
-      "price_change_pct": 6.27,
-      "gap_pct": 5.86,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 441111552,
-      "float_shares": 110905617,
-      "cash_debt_ratio": 0.15,
-      "insider_pct": 3.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "What Could Humana (HUM) Cancer Care Model Mean For Patients And Costs? | Evolent Health’s (EVH) Explosive Q2 Surge and Contract Repricing Signal a Major Turnaround in Specialty Care Management | Do You Like Cash? Consider DaVita Stock"
-    },
-    {
       "ticker": "IQ",
-      "score": 40.8,
+      "score": 41.7,
       "last_close": 0.49,
-      "rel_volume": 1.43,
-      "price_change_pct": 4.84,
+      "rel_volume": 1.48,
+      "price_change_pct": 4.93,
       "gap_pct": 4.82,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -649,6 +700,23 @@
       "recent_news": "The IRS Takes Up to 37% of These 5 BDC Dividends (Unless You Move Them) | Prospect Capital Q1 Earnings Call Highlights | Prospect Capital Corp (PSEC) (Q1 2027) Earnings Call Highlights: Strong Credit Metrics and $200 ..."
     },
     {
+      "ticker": "OPENZ",
+      "score": 37.0,
+      "last_close": 0.015,
+      "rel_volume": 1.03,
+      "price_change_pct": -25.0,
+      "gap_pct": null,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": null,
+      "float_shares": 911355069,
+      "cash_debt_ratio": 0.3,
+      "insider_pct": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism? | Opendoor Director Dana Hamilton Just Cast a Vote of Confidence Near the Stock’s Low"
+    },
+    {
       "ticker": "AESI",
       "score": 35.0,
       "last_close": 4.94,
@@ -666,44 +734,10 @@
       "recent_news": "Why Is Atlas Energy (AESI) Stock Down Today? Goldman Cuts Price Target | How MongoDB Survived a CEO Shakeup to Become a Quiet AI Play | Can Solaris's Business Pay For Its Spending?"
     },
     {
-      "ticker": "BXMT",
-      "score": 34.9,
-      "last_close": 10.82,
-      "rel_volume": 0.84,
-      "price_change_pct": 5.05,
-      "gap_pct": 4.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1795989248,
-      "float_shares": 156310208,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 1.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Why TPG RE Finance Trust (TRTX) Stock Is Up 4.0% Today Without Company News | Blackstone Mortgage Trust (BXMT) Cuts Dividend As Investors Reassess Whether The Stock Is A Bargain | Mortgage REITs Retreat as Private Credit Takes the Deals"
-    },
-    {
-      "ticker": "SID",
-      "score": 33.6,
-      "last_close": 0.506,
-      "rel_volume": 0.3,
-      "price_change_pct": -6.22,
-      "gap_pct": -5.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 671533952,
-      "float_shares": 624762641,
-      "cash_debt_ratio": 0.2,
-      "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "National Steel Q3 Earnings Call Highlights | SID Q2 Earnings Miss on Higher Financial Costs, Revenues Rise Y/Y | Companhia Siderurgica Nacional (SID) (Q2 2026) Earnings Call Highlights: Steel Recovery and ..."
-    },
-    {
       "ticker": "HL",
-      "score": 33.2,
+      "score": 33.7,
       "last_close": 10.9,
-      "rel_volume": 1.73,
+      "rel_volume": 1.77,
       "price_change_pct": -2.68,
       "gap_pct": -2.5,
       "st_msg_count": null,
@@ -712,9 +746,26 @@
       "float_shares": 668310955,
       "cash_debt_ratio": 38.92,
       "insider_pct": 0.6,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 8,
       "recent_news": "Stock Market Today, Nov. 24: Hecla Mining Slides as Silver Prices Fall on Rate-Hike Worries | Why Sinda (SIND) Stock Is Up Today: $50 Million Share Buyback | Sinda Ltd (SIND) Stock Is Down 11.9% Today Without Company News"
+    },
+    {
+      "ticker": "ULCC",
+      "score": 33.4,
+      "last_close": 8.19,
+      "rel_volume": 0.99,
+      "price_change_pct": -4.55,
+      "gap_pct": -4.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1887119616,
+      "float_shares": 70272745,
+      "cash_debt_ratio": 0.19,
+      "insider_pct": 43.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Frontier Group: 3 Key Takeaways for Long-Term Investors | 3 Airline Stocks To Watch As Oil Prices Fall | How Investors May Respond To Frontier Airlines Stock As Losses Widen"
     },
     {
       "ticker": "RIG",
@@ -731,7 +782,7 @@
       "insider_pct": 9.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 36,
-      "recent_news": "SharkNinja to join S&P 500 | SharkNinja To Join S&P 500 Index | Transocean (RIG) Stock Looks Overvalued Even Below Industry Earnings Levels"
+      "recent_news": "Valaris (VAL) Stock Looks Reasonable Despite Pending Index Exit | SharkNinja to join S&P 500 | SharkNinja To Join S&P 500 Index"
     },
     {
       "ticker": "F",
@@ -774,22 +825,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GENI",
+      "score": 25.2,
+      "last_close": 5.18,
+      "rel_volume": 0.97,
+      "price_change_pct": -3.0,
+      "gap_pct": -2.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "JBLU",
       "score": 25.2,
       "last_close": 3.75,
       "rel_volume": 0.61,
       "price_change_pct": 3.31,
       "gap_pct": 4.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "GENI",
-      "score": 25.1,
-      "last_close": 5.18,
-      "rel_volume": 0.97,
-      "price_change_pct": -3.0,
-      "gap_pct": -2.34,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -805,11 +856,21 @@
     },
     {
       "ticker": "VISN",
-      "score": 24.6,
+      "score": 24.8,
       "last_close": 3.94,
       "rel_volume": 0.86,
       "price_change_pct": -2.96,
-      "gap_pct": -2.83,
+      "gap_pct": -2.96,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "BCRX",
+      "score": 23.5,
+      "last_close": 7.65,
+      "rel_volume": 0.72,
+      "price_change_pct": 2.96,
+      "gap_pct": 3.1,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -844,6 +905,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "GLAS",
+      "score": 17.6,
+      "last_close": 1.08,
+      "rel_volume": 1.11,
+      "price_change_pct": -0.92,
+      "gap_pct": -0.92,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "NIO",
       "score": 17.2,
       "last_close": 2.58,
@@ -854,22 +925,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "AAL",
-      "score": 16.4,
-      "last_close": 12.605,
-      "rel_volume": 1.0,
-      "price_change_pct": -0.9,
-      "gap_pct": -1.02,
+      "ticker": "GRAB",
+      "score": 16.8,
+      "last_close": 2.77,
+      "rel_volume": 0.86,
+      "price_change_pct": -1.42,
+      "gap_pct": -1.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GRAB",
-      "score": 16.2,
-      "last_close": 2.77,
-      "rel_volume": 0.81,
-      "price_change_pct": -1.42,
-      "gap_pct": -1.25,
+      "ticker": "AAL",
+      "score": 16.3,
+      "last_close": 12.61,
+      "rel_volume": 1.0,
+      "price_change_pct": -0.86,
+      "gap_pct": -1.02,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -920,26 +991,6 @@
       "rel_volume": 0.71,
       "price_change_pct": -0.28,
       "gap_pct": -0.55,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "NAT",
-      "score": 9.4,
-      "last_close": 6.43,
-      "rel_volume": 0.61,
-      "price_change_pct": 0.31,
-      "gap_pct": 0.7,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CLM",
-      "score": 6.8,
-      "last_close": 5.38,
-      "rel_volume": 0.55,
-      "price_change_pct": 0.0,
-      "gap_pct": -0.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
