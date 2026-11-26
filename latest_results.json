@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-26T02:42:30.536648+00:00",
+  "last_updated_utc": "2026-11-26T11:55:42.393761+00:00",
   "tickers_scanned": 67,
   "results": [
     {
@@ -12,12 +12,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 11610020864,
-      "float_shares": 518708206,
-      "cash_debt_ratio": 5.83,
+      "float_shares": 512683187,
+      "cash_debt_ratio": 4.85,
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 164,
-      "recent_news": "Li Auto earnings analysis: questions answered and next catalysts | Li (LI) Q3 2026 Earnings Call Transcript | Stock Market Today: Huangover Is Causing Headache for Tech Stocks"
+      "recent_news": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure | Li Auto (LI) Scores Double-Digit Gains on Key Achievement | Li Auto earnings analysis: questions answered and next catalysts"
     },
     {
       "ticker": "FLNC",
@@ -34,7 +34,7 @@
       "insider_pct": 14.4,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Fluence Energy (FLNC) Launched A New Partner Program For Battery Storage Projects | Fluence Energy (FLNC) Stock Looks Fully Priced On Cash Flow | Fluence Energy (FLNC) Stock Is Up 17.5% Today: Q4 Results, RBC Target Raise"
+      "recent_news": "Fluence Energy (FLNC) Stock Fair Value Moves Lower After Analyst Cuts On Execution Risk | Why Fluence Energy (FLNC) Shares Jumped After Its Latest Update | What Has Changed For Fluence Energy Since Its 79% Fall"
     },
     {
       "ticker": "TIGR",
@@ -119,7 +119,7 @@
       "insider_pct": 30.0,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
-      "recent_news": "Hyster Yale (HY) Stock Is Up 8.1% Today Without Company News | Why CNH (CNH) Stock Is Up Today: Deere Earnings Lift Farm Gear | Deere Q4 Earnings Miss Estimates on Large Agriculture Weakness"
+      "recent_news": "Is CNH Industrial (CNH) Reasonable After Its 28% Run And India Expansion? | Is CNH Industrial (CNH) Undervalued Following Deere Optimism And The Kobelco Venture? | CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook"
     },
     {
       "ticker": "GENI",
@@ -148,12 +148,12 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 6273831936,
-      "float_shares": 271199833,
-      "cash_debt_ratio": 97.16,
+      "float_shares": 375532400,
+      "cash_debt_ratio": 99.69,
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Stock Market Today: Huangover Is Causing Headache for Tech Stocks | KANZHUN Q3 Earnings Call Highlights | Kanzhun Ltd (BZ) (Q3 2026) Earnings Call Highlights: Record Margins, $500 Million Buyback, and ..."
+      "recent_news": "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback | Kanzhun Ltd. (BZ) Gets a Major Lift From $900M Initiative | Stock Market Today: Huangover Is Causing Headache for Tech Stocks"
     },
     {
       "ticker": "QXO",
@@ -170,7 +170,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks | What BTIG Sees in QXO (QXO) Beyond Housing | DraftKings downgraded, Dollar General upgraded: Wall Street's top analyst calls"
+      "recent_news": "QXO Inc. (QXO) Gets 9% Boost From Wall Street | A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks | What BTIG Sees in QXO (QXO) Beyond Housing"
     },
     {
       "ticker": "COMP",
@@ -187,7 +187,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses | Asia shares bounce, AI and tariffs lurk in background | Tech Stocks Stall Into Thanksgiving: Will the AI Rebound Return?"
+      "recent_news": "DeFi Revenue Surges But Valuations Drop, Drawing Parallels With Nasdaq’s Post-Dot-Com Recovery | Nvidia, AMD and Micron Stocks Plunge as AI Selloff Deepens | President Trump Just Hit Stock Market Investors With Bad News at a Bad Time"
     },
     {
       "ticker": "RKT",
@@ -306,7 +306,7 @@
       "insider_pct": 8.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "DraftKings (DKNG) Stock Is Up 8.1% Today as Gambling Peers Rise | Codere Online (CDRO) Stock Is Up 7.4% Today Without Company News | Outlook Cut Might Change The Case For Investing In DraftKings Stock (DKNG)"
+      "recent_news": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure | DraftKings (DKNG) Is Heating Up Ahead of the Holiday Betting Rush | DraftKings (DKNG) Stock Is Up 8.1% Today as Gambling Peers Rise"
     },
     {
       "ticker": "INIO",
@@ -340,7 +340,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 6,
-      "recent_news": "Can PINS's New Microsoft Advertising Deal Boost Its Competitive Edge? | Why Pinterest Stock Just Had Its Best Day in Over a Year | Pinterest Soars 11% as Executive Pay Overhaul Sparks Takeover Speculation"
+      "recent_news": "Why businesses are embracing ‘good enough’ open-weight AI—and how geopolitics could get in the way | Can PINS's New Microsoft Advertising Deal Boost Its Competitive Edge? | Pinterest expands advertiser access through Microsoft Advertising"
     },
     {
       "ticker": "STLA",
@@ -357,14 +357,14 @@
       "insider_pct": 40.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Sector Update: Consumer Stocks Higher Late Afternoon | Sector Update: Consumer Stocks Mixed in Afternoon Trading | European Stocks Close Lower Wednesday; German GDP Growth Slows More Than Expected"
+      "recent_news": "European Indexes Open Sharply Higher After U.S. Recovery | Sector Update: Consumer Stocks Higher Late Afternoon | Sector Update: Consumer Stocks Mixed in Afternoon Trading"
     },
     {
       "ticker": "ENVXW",
       "score": 50.2,
-      "last_close": 0.184,
+      "last_close": 0.18,
       "rel_volume": 0.87,
-      "price_change_pct": 67.45,
+      "price_change_pct": 63.64,
       "gap_pct": 86.45,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -420,7 +420,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 324200448,
-      "float_shares": 118796313,
+      "float_shares": 118764372,
       "cash_debt_ratio": 0.05,
       "insider_pct": 25.6,
       "dilution_risk": "낮음",
@@ -731,7 +731,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "What VNET Group (VNET) Said on Its Q3 Earnings Call | VNET Group (VNET) Reports Q3 Loss, Beats Revenue Estimates | KANZHUN LIMITED Sponsored ADR (BZ) Earnings Expected to Grow: Should You Buy?"
+      "recent_news": "Morning Movers: Nvidia skyrockets following reinstatement of CEO Jensen Huang | What VNET Group (VNET) Said on Its Q3 Earnings Call | VNET Group (VNET) Reports Q3 Loss, Beats Revenue Estimates"
     },
     {
       "ticker": "CAPR",
@@ -760,9 +760,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 433665248,
-      "float_shares": 53645797,
+      "float_shares": 52962460,
       "cash_debt_ratio": 0.13,
-      "insider_pct": 2.0,
+      "insider_pct": 2.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Embecta (EMBC) Stock Is Down 9.8% Today After Earnings Surge, Market Selloff | Embecta Corp. Q4 2026 Earnings Call Summary | Embecta (EMBC) Q4 2026 Earnings Call Transcript"
