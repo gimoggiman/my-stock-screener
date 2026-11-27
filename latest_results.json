@@ -1,5 +1,5 @@
 {
-  "last_updated_utc": "2026-11-27T03:32:41.028889+00:00",
+  "last_updated_utc": "2026-11-27T13:30:50.800556+00:00",
   "tickers_scanned": 66,
   "results": [
     {
@@ -32,9 +32,9 @@
       "float_shares": 512683187,
       "cash_debt_ratio": 4.85,
       "insider_pct": 0.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 159,
-      "recent_news": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure | Li Auto (LI) Scores Double-Digit Gains on Key Achievement | Li Auto earnings analysis: questions answered and next catalysts"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "NIO Pre-Q3 Earnings Analysis: Buy, Hold or Sell the Stock Now? | Should You Buy, Hold or Sell Li Auto Stock Post Q3 Earnings? | Company News for Nov 27, 2026"
     },
     {
       "ticker": "FLNC",
@@ -45,7 +45,7 @@
       "gap_pct": 14.51,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 918808320,
+      "market_cap": 919431872,
       "float_shares": 89151419,
       "cash_debt_ratio": 0.67,
       "insider_pct": 14.4,
@@ -62,7 +62,7 @@
       "gap_pct": 9.09,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 774234240,
+      "market_cap": 770275392,
       "float_shares": 143737966,
       "cash_debt_ratio": 75.84,
       "insider_pct": 13.5,
@@ -151,8 +151,8 @@
       "float_shares": 209602406,
       "cash_debt_ratio": 0.25,
       "insider_pct": 9.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Genius Sports (GENI) Stock Is Up 11.3% Today Without Company News | Genius Sports (GENI) Stock Looks Fully Priced Against Its Sales | Emerging Technology in Sports: An Investor Perspective, 6th Palm Beach CorpGov Forum"
     },
     {
@@ -170,7 +170,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback | Kanzhun Ltd. (BZ) Gets a Major Lift From $900M Initiative | Stock Market Today: Huangover Is Causing Headache for Tech Stocks"
+      "recent_news": "Company News for Nov 27, 2026 | Kanzhun Stock Is In Focus After Soft Outlook And $500 Million Buyback | Kanzhun Ltd. (BZ) Gets a Major Lift From $900M Initiative"
     },
     {
       "ticker": "QXO",
@@ -185,8 +185,8 @@
       "float_shares": 1037161164,
       "cash_debt_ratio": 0.05,
       "insider_pct": 0.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "QXO Inc. (QXO) Gets 9% Boost From Wall Street | A Fund With $3.2 Billion in US Equities Just Bought These 3 Stocks | What BTIG Sees in QXO (QXO) Beyond Housing"
     },
     {
@@ -204,7 +204,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do. | Is Compass (COMP) Priced For Perfection After Its Big Run? | Asian Markets Mostly Higher as Sentiment Stabilizes"
+      "recent_news": "US Equity Futures Climb Pre-Bell as Traders Prepare to Wind Down Volatile Holiday Week | Stock Futures Rise as Wall Street Heads for Weekly Gains | Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday"
     },
     {
       "ticker": "RKT",
@@ -233,7 +233,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 564357504,
-      "float_shares": 149718889,
+      "float_shares": 149294699,
       "cash_debt_ratio": 0.64,
       "insider_pct": 17.4,
       "dilution_risk": "높음",
@@ -270,8 +270,8 @@
       "float_shares": 150931165,
       "cash_debt_ratio": 0.59,
       "insider_pct": 0.4,
-      "dilution_risk": "주의",
-      "recent_dilution_filings_90d": 1,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "US Futures Mixed After Monday’s Nvidia-Led Chip Rally — ZM, HPE, AMD, BABA In Focus | Virgin Galactic (SPCE) Stock Sees Fair Value Cut After Flight Delay Drives Analyst Target Cuts | Virgin Galactic: 3 Key Takeaways for Long-Term Investors"
     },
     {
@@ -287,8 +287,8 @@
       "float_shares": 282984937,
       "cash_debt_ratio": 19.74,
       "insider_pct": 15.8,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 14,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Wondering Why SES AI Fell 81%? Here's What The Bears Saw | SES AI: 3 Key Takeaways for Long-Term Investors | SES AI Q3 Earnings Call Highlights"
     },
     {
@@ -306,7 +306,7 @@
       "insider_pct": 8.6,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Can DraftKings' Predictions Business Deliver on Its 2027 Outlook? | Is DraftKings Stock Worth Buying at Its Lower Sales Multiple Today? | DKNG Falls 16.4% in 1 Week. What Could Keep the Stock Under Pressure?"
+      "recent_news": "Should I Buy DraftKings Stock After Its Fall? | Can DraftKings' Predictions Business Deliver on Its 2027 Outlook? | Is DraftKings Stock Worth Buying at Its Lower Sales Multiple Today?"
     },
     {
       "ticker": "INIO",
@@ -357,7 +357,7 @@
       "insider_pct": 40.6,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 3,
-      "recent_news": "Stellantis (BIT:STLAM) Stock Looks Undervalued With Sales Priced Very Low | Why Is Stellantis (BIT:STLAM) Fighting Over Its Brampton Plant Sale? | European Indexes Open Sharply Higher After U.S. Recovery"
+      "recent_news": "Stellantis plans further European factory halts amid rising competition – report | Stellantis (BIT:STLAM) Stock Looks Undervalued With Sales Priced Very Low | Why Is Stellantis (BIT:STLAM) Fighting Over Its Brampton Plant Sale?"
     },
     {
       "ticker": "ENVXW",
@@ -372,8 +372,8 @@
       "float_shares": 188076379,
       "cash_debt_ratio": 0.75,
       "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Massif Capital Exits Enovix (ENVX) After Share Price Drop and Circle-of-Competence Review | 3 Penny Stocks To Watch With Up To 41% Revenue Growth | Top 3 Penny Stocks To Watch In November 2026"
     },
     {
@@ -389,8 +389,8 @@
       "float_shares": 170919686,
       "cash_debt_ratio": 0.42,
       "insider_pct": 11.0,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "GoPro: Q3 Earnings Snapshot | GoPro: A Brand That Ran Out of Runway | S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus"
     },
     {
@@ -440,8 +440,8 @@
       "float_shares": 13590167,
       "cash_debt_ratio": 0.51,
       "insider_pct": 94.1,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "LiveWire (LVWR) Stock Is Soaring 21.4% Today Without Company News | LiveWire (LVWR) Stock Is Soaring 93.9% Today Without Company News | TSLA Stock Is October’s Mag 7 King — But 2 Motorcycle Stocks Race Past Tesla Even As Chinese EV Stocks See Red"
     },
     {
@@ -474,9 +474,9 @@
       "float_shares": 923649803,
       "cash_debt_ratio": 0.1,
       "insider_pct": 9.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 37,
-      "recent_news": "5 Must-Buy Penny Stocks for 2027 | Can Transocean Stock Rally 50% After This Dip? | Valaris (VAL) Stock Looks Reasonable Despite Pending Index Exit"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Is It Time To Sell Your Transocean Stock? | 5 Must-Buy Penny Stocks for 2027 | Can Transocean Stock Rally 50% After This Dip?"
     },
     {
       "ticker": "EXK",
@@ -491,8 +491,8 @@
       "float_shares": 295670352,
       "cash_debt_ratio": 1.17,
       "insider_pct": 0.2,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Aya Gold And 2 Other Silver Stocks To Watch | Endeavour Silver Maps $585 Million Pitarrilla Mine, With Production Possible by 2030 | Can Pan American Silver Sustain Its Strong Cash Flow Growth?"
     },
     {
@@ -559,8 +559,8 @@
       "float_shares": 159695856,
       "cash_debt_ratio": 0.07,
       "insider_pct": 2.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Has Liberty Energy (LBRT) Fallen Enough For Its Dividend Value? | Liberty Energy (LBRT) Down 20.7% Since Last Earnings Report: Can It Rebound? | HP Q4 Earnings Beat Estimates on Higher U.S. Rig Activity"
     },
     {
@@ -578,7 +578,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Bradesco chairman Trabuco agrees to become Brazil's finance minister | Nu Holdings Soars 11% on Record $1.1 Billion Profit as It Takes “First Steps Beyond Latin America” | Brazilian banks cut growth forecasts, raising fiscal stakes for Lula"
+      "recent_news": "Banco Bradesco (BOVESPA:BBDC4) Stock Sees Fair Value Cut As Analysts Turn More Cautious | Brazil's Lula appoints private banker as finance minister | Bradesco chairman Trabuco agrees to become Brazil's finance minister"
     },
     {
       "ticker": "MLCO",
@@ -610,8 +610,8 @@
       "float_shares": 150665396,
       "cash_debt_ratio": 0.08,
       "insider_pct": 1.3,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Why Is O-I Glass (OI) Down 14% Since Last Earnings Report? | O-I Glass (OI) Stock Is Up 7.3% Today Without Company News | O-I: 3 Key Takeaways for Long-Term Investors"
     },
     {
@@ -680,7 +680,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Li Auto’s Losses Narrow and a Weak Sales Outlook Isn’t Spoiling the Stock’s Rally | NIO Just Dropped 22% in a Month. Is It a Buy Before Its Dec. 1 Report? | Nio Sees Revenue Topping $15B This Year— But Analyst Warns Onvo Could Derail Tesla Roadster-Inspired Luxury Bet"
+      "recent_news": "NIO Pre-Q3 Earnings Analysis: Buy, Hold or Sell the Stock Now? | Li Auto’s Losses Narrow and a Weak Sales Outlook Isn’t Spoiling the Stock’s Rally | NIO Just Dropped 22% in a Month. Is It a Buy Before Its Dec. 1 Report?"
     },
     {
       "ticker": "UWMC",
@@ -729,8 +729,8 @@
       "float_shares": 49641737,
       "cash_debt_ratio": 2.14,
       "insider_pct": 9.4,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Nelson Peltz-Backed Janus Henderson Loads Up On ImmunityBio: IBRX Stake Worth More Than SLS, CAPR And IOVA Combined | Capricor Therapeutics (CAPR) Stock Sees Fair Value Cut After FDA Letter Splits Analysts | CAPR Stock Clocks Worst Day Ever After FDA Rejects Approval For DMD Therapy: Company Reportedly Considering ‘Draconian’ Job Cuts"
     },
     {
@@ -765,7 +765,7 @@
       "insider_pct": 23.7,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "3 Penny Stocks With Net Margins Up To 23% | Inter & Co Inc (INTR) Q3 2026 Earnings Call Highlights: 14th Straight Quarter of Profit ... | Inter (INTR) Q3 2026 Earnings Call Transcript"
+      "recent_news": "Inter (INTR) Stock Jumps 14.5% Premarket: Latin American Stocks Rally | Nu Holdings (NU) Stock Jumps 8.3% Premarket Without Company News | 3 Penny Stocks With Net Margins Up To 23%"
     },
     {
       "ticker": "ULCC",
