@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-11-26T20:57:54.494333+00:00",
+  "last_updated_utc": "2026-11-27T03:32:41.028889+00:00",
   "tickers_scanned": 66,
   "results": [
+    {
+      "ticker": "GDRX",
+      "score": 75.0,
+      "last_close": 2.38,
+      "rel_volume": 4.96,
+      "price_change_pct": -20.67,
+      "gap_pct": -20.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 819533184,
+      "float_shares": 93679790,
+      "cash_debt_ratio": 0.69,
+      "insider_pct": 11.8,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "GoodRx (GDRX) Stock Looks Like A Bargain After Raised Guidance | GoodRx Holdings (GDRX) Faces A Fresh Test As Its Narrative Shifts Toward Fair Value | Sector Update: Healthcare Stocks Fall Late Afternoon"
+    },
     {
       "ticker": "LI",
       "score": 75.0,
@@ -16,7 +33,7 @@
       "cash_debt_ratio": 4.85,
       "insider_pct": 0.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 164,
+      "recent_dilution_filings_90d": 159,
       "recent_news": "Nvidia Wins Back Wall Street Backing As Jensen Huang Returns; CRWD, LI Stocks Score Upgrades While DKNG, AMBA Face Pressure | Li Auto (LI) Scores Double-Digit Gains on Key Achievement | Li Auto earnings analysis: questions answered and next catalysts"
     },
     {
@@ -35,23 +52,6 @@
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
       "recent_news": "Fluence Energy (FLNC) Stock Fair Value Moves Lower After Analyst Cuts On Execution Risk | Why Fluence Energy (FLNC) Shares Jumped After Its Latest Update | What Has Changed For Fluence Energy Since Its 79% Fall"
-    },
-    {
-      "ticker": "IQMX",
-      "score": 67.9,
-      "last_close": 6.6,
-      "rel_volume": 3.28,
-      "price_change_pct": 7.49,
-      "gap_pct": 5.05,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 3129798400,
-      "float_shares": 119047209,
-      "cash_debt_ratio": 6.76,
-      "insider_pct": null,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
-      "recent_news": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers | IQM Quantum Computers Oyj (HLSE:IQMX) Could Be 48% Above Fair Value On Q3 Results | IQM Quantum Computers Oyj (OHEL:IQMX) (Q3 2026) Earnings Call Highlights: Record EUR42. ..."
     },
     {
       "ticker": "TIGR",
@@ -110,7 +110,7 @@
       "last_close": 1.94,
       "rel_volume": 1.73,
       "price_change_pct": 18.29,
-      "gap_pct": 17.38,
+      "gap_pct": 17.68,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1098026368,
@@ -137,23 +137,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 7,
       "recent_news": "Is CNH Industrial (CNH) Reasonable After Its 28% Run And India Expansion? | Is CNH Industrial (CNH) Undervalued Following Deere Optimism And The Kobelco Venture? | CNH Industrial Stock Gains Attention As Deere Lifts Farm Equipment Outlook"
-    },
-    {
-      "ticker": "JMIA",
-      "score": 57.8,
-      "last_close": 2.89,
-      "rel_volume": 1.53,
-      "price_change_pct": 12.02,
-      "gap_pct": 11.82,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 386178688,
-      "float_shares": 102783443,
-      "cash_debt_ratio": 4.6,
-      "insider_pct": 11.6,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Jumia Technologies (JMIA) Stock Sees Fair Value Cut As Growth Outlook Softens | Jumia Technologies Q3 Earnings Call Highlights | Jumia Technologies (JMIA) Is Considered a Good Investment by Brokers: Is That True?"
     },
     {
       "ticker": "GENI",
@@ -221,7 +204,7 @@
       "insider_pct": 1.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 26,
-      "recent_news": "HP Stock Just Had Its Best Day Since May and Blew Past Wall Street’s Price Target | Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study | Apple Stocks Rise as AI Selloff Spares the iPhone Maker"
+      "recent_news": "Stocks Are Plunging Right Now. Here's What History Says Investors Should Do. | Is Compass (COMP) Priced For Perfection After Its Big Run? | Asian Markets Mostly Higher as Sentiment Stabilizes"
     },
     {
       "ticker": "RKT",
@@ -270,8 +253,8 @@
       "float_shares": 214951734,
       "cash_debt_ratio": 67.55,
       "insider_pct": 3.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
       "recent_news": "WISeSat.Space Advances Satellite Cybersecurity Strategy Following Space Tech Expo Europe 2026 | WISeSat.Space Nasdaq Opening Bell to Spotlight Quantum-Resilient Space Infrastructure Strategy | WISeSat.Space Closes $10 Million PIPE Investment to Advance Post-Quantum Satellite Communications"
     },
     {
@@ -343,6 +326,23 @@
       "recent_news": "Innio (INIO) is Surging From All-Time Lows. Here’s What’s Happening | Where to Find Bargains After the AI Power Boom Reality Check | Innio NV (INIO) Q2 2026 Earnings Call Highlights: Record $6. ..."
     },
     {
+      "ticker": "PINS",
+      "score": 51.0,
+      "last_close": 19.71,
+      "rel_volume": 1.57,
+      "price_change_pct": 6.54,
+      "gap_pct": 6.51,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 11303838720,
+      "float_shares": 493090571,
+      "cash_debt_ratio": 1.23,
+      "insider_pct": 1.5,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 6,
+      "recent_news": "What Does Pinterest (PINS) Pay Overhaul Mean For Its Takeover Talk And Ad Push? | Pinterest Soars 11% in a Week as a Pay Change Sparks Takeover Talk. Is a Deal Really Coming? | Why businesses are embracing ‘good enough’ open-weight AI—and how geopolitics could get in the way"
+    },
+    {
       "ticker": "STLA",
       "score": 51.0,
       "last_close": 3.66,
@@ -365,7 +365,7 @@
       "last_close": 0.18,
       "rel_volume": 0.87,
       "price_change_pct": 63.64,
-      "gap_pct": 86.27,
+      "gap_pct": 86.45,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": null,
@@ -389,8 +389,8 @@
       "float_shares": 170919686,
       "cash_debt_ratio": 0.42,
       "insider_pct": 11.0,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
       "recent_news": "GoPro: Q3 Earnings Snapshot | GoPro: A Brand That Ran Out of Runway | S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus"
     },
     {
@@ -407,7 +407,7 @@
       "cash_debt_ratio": 0.04,
       "insider_pct": 2.9,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 36,
+      "recent_dilution_filings_90d": 33,
       "recent_news": "New Strong Sell Stocks for November 24th | ACRES Capital’s Mark Fogel on CLOs, Workouts and the Reset | Small Multifamily Lending Runs at $79.1B Pace, Up 6%"
     },
     {
@@ -458,7 +458,7 @@
       "cash_debt_ratio": 0.3,
       "insider_pct": 5.1,
       "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2792,
+      "recent_dilution_filings_90d": 2721,
       "recent_news": "Opendoor (OPEN) Stock Is Up 11.8% Today: Real Estate Stocks Rally | Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism?"
     },
     {
@@ -477,23 +477,6 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 37,
       "recent_news": "5 Must-Buy Penny Stocks for 2027 | Can Transocean Stock Rally 50% After This Dip? | Valaris (VAL) Stock Looks Reasonable Despite Pending Index Exit"
-    },
-    {
-      "ticker": "OPTU",
-      "score": 45.5,
-      "last_close": 0.683,
-      "rel_volume": 0.49,
-      "price_change_pct": 8.76,
-      "gap_pct": 7.9,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 260403312,
-      "float_shares": 144410883,
-      "cash_debt_ratio": 0.04,
-      "insider_pct": 20.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Did Optimum Communications' 70% Drop Catch You Out? What Bears Saw | Optimum nears creditor deal to slash $26B debt load by more than half - Bloomberg | Optimum Skips Bond Interest Payments Amid Restructuring Talks"
     },
     {
       "ticker": "EXK",
@@ -595,7 +578,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Brazil's Lula sounds out Bradesco chairman as finance minister, sources say | Nu Holdings Soars 11% on Record $1.1 Billion Profit as It Takes “First Steps Beyond Latin America” | Brazilian banks cut growth forecasts, raising fiscal stakes for Lula"
+      "recent_news": "Bradesco chairman Trabuco agrees to become Brazil's finance minister | Nu Holdings Soars 11% on Record $1.1 Billion Profit as It Takes “First Steps Beyond Latin America” | Brazilian banks cut growth forecasts, raising fiscal stakes for Lula"
     },
     {
       "ticker": "MLCO",
@@ -649,21 +632,38 @@
       "recent_news": "Global Self Storage And 2 Other Financially Strong Penny Stocks | Is QuantumScape (QS) A Bargain As Osprey Raises Its Solid State Battery Stakes? | Zacks.com featured highlights include Stride, Tapestry, HeartBeam, QuantumScape and Alto Ingredients"
     },
     {
-      "ticker": "OPENZ",
-      "score": 36.6,
-      "last_close": 0.015,
-      "rel_volume": 0.99,
-      "price_change_pct": -25.0,
-      "gap_pct": null,
+      "ticker": "SITC",
+      "score": 37.6,
+      "last_close": 0.65,
+      "rel_volume": 1.56,
+      "price_change_pct": -4.2,
+      "gap_pct": -3.35,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": null,
-      "float_shares": 911355069,
-      "cash_debt_ratio": 0.3,
-      "insider_pct": null,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Opendoor (OPEN) Stock Is Up 11.8% Today: Real Estate Stocks Rally | Opendoor Technologies (OPEN) Moved, What Is Catching Traders’ Attention? | Opendoor Technologies (OPEN) is Soaring — What’s Driving Optimism?"
+      "market_cap": 34120304,
+      "float_shares": 45097073,
+      "cash_debt_ratio": null,
+      "insider_pct": 0.4,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Site Centers Delists From NYSE as It Winds Down Operations | Site Centers To Stop Trading As It Winds Up Operations | SITE Centers stock surges on $3 special dividend"
+    },
+    {
+      "ticker": "CCCC",
+      "score": 35.9,
+      "last_close": 3.26,
+      "rel_volume": 1.02,
+      "price_change_pct": 5.16,
+      "gap_pct": 4.19,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 428095008,
+      "float_shares": 108742699,
+      "cash_debt_ratio": 3.72,
+      "insider_pct": 0.8,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "C4 Therapeutics (CCCC) Stock Is Soaring 17.2% Today Without Company News | Why Did Kymera Therapeutics Stock Move? | What Could Stall Kymera Stock's Run?"
     },
     {
       "ticker": "NIO",
@@ -729,9 +729,26 @@
       "float_shares": 49641737,
       "cash_debt_ratio": 2.14,
       "insider_pct": 9.4,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Nelson Peltz-Backed Janus Henderson Loads Up On ImmunityBio: IBRX Stake Worth More Than SLS, CAPR And IOVA Combined | Capricor Therapeutics (CAPR) Stock Sees Fair Value Cut After FDA Letter Splits Analysts | CAPR Stock Clocks Worst Day Ever After FDA Rejects Approval For DMD Therapy: Company Reportedly Considering ‘Draconian’ Job Cuts"
+    },
+    {
+      "ticker": "EMBC",
+      "score": 33.0,
+      "last_close": 7.92,
+      "rel_volume": 1.97,
+      "price_change_pct": -1.98,
+      "gap_pct": -2.04,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 433665248,
+      "float_shares": 52962460,
+      "cash_debt_ratio": 0.13,
+      "insider_pct": 2.1,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Nelson Peltz-Backed Janus Henderson Loads Up On ImmunityBio: IBRX Stake Worth More Than SLS, CAPR And IOVA Combined | Capricor Therapeutics (CAPR) Stock Sees Fair Value Cut After FDA Letter Splits Analysts | CAPR Stock Clocks Worst Day Ever After FDA Rejects Approval For DMD Therapy: Company Reportedly Considering ‘Draconian’ Job Cuts"
+      "recent_news": "Embecta (EMBC) Stock Is Down 9.8% Today After Earnings Surge, Market Selloff | Embecta Corp. Q4 2026 Earnings Call Summary | Embecta (EMBC) Q4 2026 Earnings Call Transcript"
     },
     {
       "ticker": "INTR",
@@ -853,7 +870,7 @@
       "last_close": 12.85,
       "rel_volume": 1.07,
       "price_change_pct": -0.77,
-      "gap_pct": -1.31,
+      "gap_pct": -1.27,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -878,22 +895,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "AAL",
-      "score": 15.0,
-      "last_close": 12.57,
-      "rel_volume": 1.12,
-      "price_change_pct": -0.32,
-      "gap_pct": -0.48,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "FMC",
       "score": 14.5,
       "last_close": 4.1,
       "rel_volume": 0.5,
       "price_change_pct": -1.68,
       "gap_pct": -1.8,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "AAL",
+      "score": 14.4,
+      "last_close": 12.57,
+      "rel_volume": 1.12,
+      "price_change_pct": -0.32,
+      "gap_pct": -0.2,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -938,16 +955,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "JBLU",
-      "score": 11.1,
-      "last_close": 3.78,
-      "rel_volume": 0.61,
-      "price_change_pct": 0.8,
-      "gap_pct": 0.8,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "WULF",
       "score": 11.1,
       "last_close": 10.03,
@@ -958,22 +965,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "JBLU",
+      "score": 10.9,
+      "last_close": 3.78,
+      "rel_volume": 0.61,
+      "price_change_pct": 0.8,
+      "gap_pct": 0.67,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CIFR",
       "score": 10.6,
       "last_close": 5.51,
       "rel_volume": 0.86,
       "price_change_pct": -0.18,
       "gap_pct": 0.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "BAK",
-      "score": 10.3,
-      "last_close": 0.773,
-      "rel_volume": 0.41,
-      "price_change_pct": -1.15,
-      "gap_pct": -1.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
