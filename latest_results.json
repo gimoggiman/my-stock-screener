@@ -1,6 +1,6 @@
 {
-  "last_updated_utc": "2026-11-27T22:30:41.065417+00:00",
-  "tickers_scanned": 70,
+  "last_updated_utc": "2026-11-28T04:32:26.425464+00:00",
+  "tickers_scanned": 71,
   "results": [
     {
       "ticker": "LAES",
@@ -18,6 +18,57 @@
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
       "recent_news": "SEALSQ (LAES) Stock Is Up 22.0% Today Without Company News | WISeSat.Space Advances Satellite Cybersecurity Strategy Following Space Tech Expo Europe 2026 | WISeSat.Space Nasdaq Opening Bell to Spotlight Quantum-Resilient Space Infrastructure Strategy"
+    },
+    {
+      "ticker": "LOT",
+      "score": 75.0,
+      "last_close": 0.269,
+      "rel_volume": 227.64,
+      "price_change_pct": 31.22,
+      "gap_pct": 29.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 173691008,
+      "float_shares": 8189677,
+      "cash_debt_ratio": 0.05,
+      "insider_pct": 87.1,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 671,
+      "recent_news": "LOT: Luxury Vehicles Remain a Story of the Haves and Have Nots. Adjusting Our Target Valuation to Reflect The Difficult Macroeconomic Backdrop. | Lotus Technology Targets EBIT Profitability Before 2030 as Deliveries, Margins Improve | Lotus targets US sales in its turnaround strategy"
+    },
+    {
+      "ticker": "QFIN",
+      "score": 72.1,
+      "last_close": 4.815,
+      "rel_volume": 2.75,
+      "price_change_pct": 13.03,
+      "gap_pct": 15.85,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 585887744,
+      "float_shares": 91409437,
+      "cash_debt_ratio": 2.6,
+      "insider_pct": 3.4,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Qfin Holdings (QFIN) Stock May Look Reasonable Despite Class Action Claims | Qfin Holdings (QFIN) After Weak Q3 Earnings Still Looks Undervalued | Qfin Holdings (QFIN) Stock Sees Fair Value Cut As Analysts Turn More Neutral"
+    },
+    {
+      "ticker": "PMVP",
+      "score": 68.6,
+      "last_close": 1.16,
+      "rel_volume": 5.24,
+      "price_change_pct": 7.41,
+      "gap_pct": 5.56,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 87620304,
+      "float_shares": 59165608,
+      "cash_debt_ratio": 743.19,
+      "insider_pct": 2.4,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "PMVP Stock Rises 19% in 3 Months: Here's What You Need to Know | These Biotech Stocks Are Cheap Based On 1 Fundamental Measure | Should You Buy PMV Pharmaceuticals, Inc. (PMVP) After Golden Cross?"
     },
     {
       "ticker": "BBD",
@@ -51,7 +102,7 @@
       "insider_pct": 0.8,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 9,
-      "recent_news": "XP: 3 Key Takeaways for Long-Term Investors | XP (XP) Stock Jumps 19.5% Premarket Without Company News | Nvidia Stock Rally Shines A Light On US Retail Brokerage Platforms"
+      "recent_news": "XP (XP) Stock Still Looks Undervalued Despite A 33% Five Year Fall | XP: 3 Key Takeaways for Long-Term Investors | XP (XP) Stock Jumps 19.5% Premarket Without Company News"
     },
     {
       "ticker": "ITUB",
@@ -122,6 +173,23 @@
       "recent_news": "Open Pit Drill Results Might Change The Case For Investing In First Majestic Silver (TSX:AG) | Should You Buy Hecla Mining Stock For Its Cash? | Can AG's Latest Drilling Results Support Jerritt Canyon's Restart?"
     },
     {
+      "ticker": "JMIA",
+      "score": 53.1,
+      "last_close": 3.16,
+      "rel_volume": 1.12,
+      "price_change_pct": 9.34,
+      "gap_pct": 9.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 422257664,
+      "float_shares": 102783443,
+      "cash_debt_ratio": 4.6,
+      "insider_pct": 11.6,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Jumia Technologies (JMIA) Stock Sees Fair Value Cut As Growth Outlook Softens | Jumia Technologies Q3 Earnings Call Highlights | Jumia Technologies (JMIA) Is Considered a Good Investment by Brokers: Is That True?"
+    },
+    {
       "ticker": "CCCC",
       "score": 53.0,
       "last_close": 3.54,
@@ -153,7 +221,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Aya Gold And 2 Other Silver Stocks To Watch | Endeavour Silver Maps $585 Million Pitarrilla Mine, With Production Possible by 2030 | Can Pan American Silver Sustain Its Strong Cash Flow Growth?"
+      "recent_news": "Endeavour Silver Stock Has The Bull Case Changed After Pitarrilla Feasibility Study | Aya Gold And 2 Other Silver Stocks To Watch | Endeavour Silver Maps $585 Million Pitarrilla Mine, With Production Possible by 2030"
     },
     {
       "ticker": "TMC",
@@ -192,9 +260,9 @@
     {
       "ticker": "ALLO",
       "score": 50.8,
-      "last_close": 0.731,
+      "last_close": 0.73,
       "rel_volume": 0.93,
-      "price_change_pct": 10.79,
+      "price_change_pct": 10.61,
       "gap_pct": 10.91,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -209,9 +277,9 @@
     {
       "ticker": "VNET",
       "score": 50.4,
-      "last_close": 1.835,
+      "last_close": 1.84,
       "rel_volume": 0.89,
-      "price_change_pct": -10.92,
+      "price_change_pct": -10.68,
       "gap_pct": -10.19,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -221,7 +289,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "VNET Is Growing Wholesale Capacity in China While Margins Tighten | Morning Movers: Nvidia skyrockets following reinstatement of CEO Jensen Huang | What VNET Group (VNET) Said on Its Q3 Earnings Call"
+      "recent_news": "What Comes Next For VNET Group After A 80% Slide | VNET Is Growing Wholesale Capacity in China While Margins Tighten | Morning Movers: Nvidia skyrockets following reinstatement of CEO Jensen Huang"
     },
     {
       "ticker": "OPK",
@@ -309,6 +377,23 @@
       "recent_news": "What Ambev Holders Saw Early | Ambev Q3 Earnings Call Highlights | Ambev (ABEV) Q3 2026 Earnings Call Transcript"
     },
     {
+      "ticker": "SID",
+      "score": 48.5,
+      "last_close": 0.63,
+      "rel_volume": 0.73,
+      "price_change_pct": 16.67,
+      "gap_pct": 17.45,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 837560960,
+      "float_shares": 632016375,
+      "cash_debt_ratio": 0.2,
+      "insider_pct": 0.0,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 2,
+      "recent_news": "National Steel Q3 Earnings Call Highlights | SID Q2 Earnings Miss on Higher Financial Costs, Revenues Rise Y/Y | Companhia Siderurgica Nacional (SID) (Q2 2026) Earnings Call Highlights: Steel Recovery and ..."
+    },
+    {
       "ticker": "TROX",
       "score": 48.5,
       "last_close": 2.35,
@@ -372,26 +457,26 @@
       "float_shares": 117027648,
       "cash_debt_ratio": 0.11,
       "insider_pct": 7.8,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Melco Resorts And Entertainment (MLCO) Stock Fair Value Moves Lower After Cautious Analyst Cuts | What Melco Resorts & Entertainment (MLCO) Said on Its Q3 Earnings Call | Compared to Estimates, Melco (MLCO) Q3 Earnings: A Look at Key Metrics"
     },
     {
-      "ticker": "IHRT",
-      "score": 46.6,
-      "last_close": 0.377,
-      "rel_volume": 0.57,
-      "price_change_pct": 9.77,
-      "gap_pct": 7.99,
+      "ticker": "METC",
+      "score": 46.9,
+      "last_close": 6.3,
+      "rel_volume": 0.59,
+      "price_change_pct": 10.14,
+      "gap_pct": 10.14,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 58288944,
-      "float_shares": 144812576,
-      "cash_debt_ratio": 0.02,
-      "insider_pct": 6.8,
+      "market_cap": 401203872,
+      "float_shares": 43768794,
+      "cash_debt_ratio": 0.5,
+      "insider_pct": 9.8,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "iHeartMedia price target cut 80% by Bank of America after guidance downgrade | IHeartMedia's Debt Burden, Radio Headwinds Weigh on Outlook, BofA Says | Nvidia downgraded, AMD upgraded: Wall Street's top analyst calls"
+      "recent_news": "MP Materials Exec Makes First Stock Purchase Amid Insider Buying Spree | Rare-Earth Stock Moves Hint at China’s Fading Dominance | How Much Time Does Peabody's Cash Buy?"
     },
     {
       "ticker": "PPTA",
@@ -406,9 +491,9 @@
       "float_shares": 83868069,
       "cash_debt_ratio": 118.36,
       "insider_pct": 6.9,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Basic Materials Roundup: Market Talk | Canadian Stock Market Today: TSX Futures Dip As Hawkish Fed And Strong Dollar Bite | All You Need to Know About Perpetua Resources (PPTA) Rating Upgrade to Buy"
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
+      "recent_news": "Perpetua Resources Stock In Focus After Tungsten Supply MOU | Basic Materials Roundup: Market Talk | Canadian Stock Market Today: TSX Futures Dip As Hawkish Fed And Strong Dollar Bite"
     },
     {
       "ticker": "RDW",
@@ -517,7 +602,7 @@
       "score": 44.7,
       "last_close": 0.587,
       "rel_volume": 0.4,
-      "price_change_pct": 14.46,
+      "price_change_pct": 14.42,
       "gap_pct": 11.25,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -581,23 +666,6 @@
       "recent_news": "5 Best Up and Coming Data Center Stocks to Buy for 2027 | Neocloud firms face tighter terms than Nvidia’s old 50% AI chip cutoff | TeraWulf (WULF) Stock Trades At A Premium On New AI Rule Tailwind"
     },
     {
-      "ticker": "GLAS",
-      "score": 42.1,
-      "last_close": 1.15,
-      "rel_volume": 0.56,
-      "price_change_pct": -7.26,
-      "gap_pct": -6.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 115109376,
-      "float_shares": 77960077,
-      "cash_debt_ratio": 0.51,
-      "insider_pct": 7.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 13,
-      "recent_news": "Glass House Brands: 3 Key Takeaways for Long-Term Investors | Glass House (GLAS) Q3 2026 Earnings Call Transcript | Glass House Is Down 90% Since Its NYSE Debut. The Questions Are Piling Up"
-    },
-    {
       "ticker": "BBAI",
       "score": 42.0,
       "last_close": 1.7,
@@ -632,6 +700,23 @@
       "recent_news": "Sector Update: Consumer Stocks Advance Friday Afternoon | European Stocks Close Higher Friday as Mining, Tech, Banking Shares Advance | Fitch rates Stellantis BBB with negative outlook"
     },
     {
+      "ticker": "BW",
+      "score": 41.5,
+      "last_close": 4.05,
+      "rel_volume": 0.34,
+      "price_change_pct": 8.29,
+      "gap_pct": 6.68,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 589056320,
+      "float_shares": 108053289,
+      "cash_debt_ratio": 0.3,
+      "insider_pct": 3.6,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 19,
+      "recent_news": "Babcock And Wilcox Enterprises (BW) Stock Sees Fair Value Cut After Analyst Target Trims | Babcock & Wilcox Enterprises, Inc. Q3 2026 Earnings Call Summary | Babcock & Wilcox (BW) Q3 2026 Earnings Call Transcript"
+    },
+    {
       "ticker": "NIO",
       "score": 40.4,
       "last_close": 2.85,
@@ -646,24 +731,7 @@
       "insider_pct": 0.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Friday Trading | Investors Heavily Search NIO Inc. (NIO): Here is What You Need to Know | NIO Pre-Q3 Earnings Analysis: Buy, Hold or Sell the Stock Now?"
-    },
-    {
-      "ticker": "REAL",
-      "score": 40.3,
-      "last_close": 11.61,
-      "rel_volume": 0.46,
-      "price_change_pct": 6.81,
-      "gap_pct": 7.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1447918208,
-      "float_shares": 104156582,
-      "cash_debt_ratio": 0.28,
-      "insider_pct": 6.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "How Glendale Store Opening Will Impact RealReal (REAL) Stock | Why Is The RealReal Stock Rising Today Despite Recent Share Price Weakness? | The RealReal (REAL) Now Trades Above Golden Cross: Time to Buy?"
+      "recent_news": "NIO And 2 Other Top EV Stocks | Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Friday Trading | Investors Heavily Search NIO Inc. (NIO): Here is What You Need to Know"
     },
     {
       "ticker": "SMR",
@@ -678,8 +746,8 @@
       "float_shares": 403732268,
       "cash_debt_ratio": 140.7,
       "insider_pct": 1.7,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 10,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "NuScale Is Still Down 33% in a Month. Will SMR Stock Hit $2 or $5 First? | Constellation Energy Sinks 10% in a Week, NuScale 17%, as “the Jensen Huang Stock Put Is Fading” | NuScale Just Dropped 17% in a Week to a New 52-Week Low. Is It Time to Sell, or Load Up?"
     },
     {
@@ -695,26 +763,9 @@
       "float_shares": 278143023,
       "cash_debt_ratio": 57.59,
       "insider_pct": 0.2,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 3,
+      "dilution_risk": null,
+      "recent_dilution_filings_90d": null,
       "recent_news": "Amplitude And 2 Other AI Stocks To Watch | 3 Growth Stocks To Watch In November 2026 | Einride AB’s Autonomous Commercialization & NVIDIA Collaboration – Quarterly Update Report"
-    },
-    {
-      "ticker": "ABSI",
-      "score": 34.2,
-      "last_close": 9.565,
-      "rel_volume": 0.45,
-      "price_change_pct": 6.28,
-      "gap_pct": 5.0,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1652313600,
-      "float_shares": 164742497,
-      "cash_debt_ratio": 52.84,
-      "insider_pct": 11.7,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Absci Stock In Focus After Earnings Report And Commercial Chief Hire | ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 | Absci Corp. (ABSI) Gets Downgraded. Here’s How Much"
     },
     {
       "ticker": "IREN",
@@ -729,8 +780,8 @@
       "float_shares": 408134198,
       "cash_debt_ratio": 0.34,
       "insider_pct": 6.5,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 5,
       "recent_news": "IREN Is Transitioning From Bitcoin Mining to AI Cloud | What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares? | IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings"
     },
     {
@@ -768,28 +819,11 @@
       "recent_news": "Nu Holdings vs. SoFi: Which Fintech Powerhouse Is the Smarter Buy? | Bladex (BLX) Stock Is Up 4.4% Today as Latin America Names Rally | Patria Investments (PAX) Stock Is Up 6.7% Today in Broad Market Rally"
     },
     {
-      "ticker": "BFLY",
-      "score": 31.2,
-      "last_close": 5.79,
-      "rel_volume": 0.41,
-      "price_change_pct": 5.46,
-      "gap_pct": 5.01,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 1548604544,
-      "float_shares": 224133100,
-      "cash_debt_ratio": 6.64,
-      "insider_pct": 9.0,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "What Butterfly Network Buyers Were Betting On Before A 104% Rally | Cathie Wood Was Right About These 5 Stocks | Butterfly Network CEO Sees Chip Revenue Dwarfing Ultrasound Device Business"
-    },
-    {
       "ticker": "GPRO",
-      "score": 30.8,
+      "score": 30.6,
       "last_close": 0.526,
       "rel_volume": 0.82,
-      "price_change_pct": -3.91,
+      "price_change_pct": -3.84,
       "gap_pct": -4.83,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
@@ -852,26 +886,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "ULCC",
-      "score": 21.1,
-      "last_close": 8.16,
-      "rel_volume": 0.31,
-      "price_change_pct": 3.55,
-      "gap_pct": 3.43,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "EMBC",
-      "score": 21.0,
-      "last_close": 8.145,
-      "rel_volume": 0.55,
-      "price_change_pct": 2.84,
-      "gap_pct": 3.03,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "FMC",
       "score": 21.0,
       "last_close": 4.25,
@@ -922,12 +936,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "GDRX",
-      "score": 18.5,
-      "last_close": 2.4,
-      "rel_volume": 1.19,
-      "price_change_pct": 0.84,
-      "gap_pct": 1.05,
+      "ticker": "RC",
+      "score": 19.4,
+      "last_close": 0.63,
+      "rel_volume": 0.33,
+      "price_change_pct": 3.28,
+      "gap_pct": 2.84,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -938,16 +952,6 @@
       "rel_volume": 0.86,
       "price_change_pct": 1.06,
       "gap_pct": 1.41,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "HUMA",
-      "score": 15.2,
-      "last_close": 0.522,
-      "rel_volume": 0.34,
-      "price_change_pct": 2.96,
-      "gap_pct": 1.08,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -982,16 +986,6 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "UPST",
-      "score": 11.8,
-      "last_close": 17.58,
-      "rel_volume": 0.36,
-      "price_change_pct": 1.85,
-      "gap_pct": 0.98,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
       "ticker": "CSIQ",
       "score": 11.6,
       "last_close": 5.5,
@@ -1003,11 +997,21 @@
     },
     {
       "ticker": "IQ",
-      "score": 11.3,
+      "score": 11.5,
       "last_close": 0.497,
       "rel_volume": 0.33,
-      "price_change_pct": -1.52,
+      "price_change_pct": -1.58,
       "gap_pct": -1.43,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "EVH",
+      "score": 10.8,
+      "last_close": 3.96,
+      "rel_volume": 0.38,
+      "price_change_pct": 1.28,
+      "gap_pct": 1.28,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1022,12 +1026,32 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "NAT",
+      "score": 7.9,
+      "last_close": 6.5,
+      "rel_volume": 0.52,
+      "price_change_pct": 0.31,
+      "gap_pct": -0.46,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "BCRX",
       "score": 7.4,
       "last_close": 7.58,
       "rel_volume": 0.42,
       "price_change_pct": -0.39,
       "gap_pct": -0.66,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "LADR",
+      "score": 4.5,
+      "last_close": 8.79,
+      "rel_volume": 0.33,
+      "price_change_pct": -0.11,
+      "gap_pct": -0.17,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
