@@ -1,7 +1,24 @@
 {
-  "last_updated_utc": "2026-11-28T04:32:26.425464+00:00",
+  "last_updated_utc": "2026-11-28T13:55:05.272419+00:00",
   "tickers_scanned": 71,
   "results": [
+    {
+      "ticker": "IQMX",
+      "score": 75.0,
+      "last_close": 7.76,
+      "rel_volume": 3.58,
+      "price_change_pct": 17.58,
+      "gap_pct": 16.36,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 3679884544,
+      "float_shares": 119047209,
+      "cash_debt_ratio": 6.76,
+      "insider_pct": null,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 3,
+      "recent_news": "3 Top Stocks to Buy Before 2027 as Quantum Enters AI Data Centers | IQM Quantum Computers Oyj (HLSE:IQMX) Could Be 48% Above Fair Value On Q3 Results | IQM Quantum Computers Oyj (OHEL:IQMX) (Q3 2026) Earnings Call Highlights: Record EUR42. ..."
+    },
     {
       "ticker": "LAES",
       "score": 75.0,
@@ -20,57 +37,6 @@
       "recent_news": "SEALSQ (LAES) Stock Is Up 22.0% Today Without Company News | WISeSat.Space Advances Satellite Cybersecurity Strategy Following Space Tech Expo Europe 2026 | WISeSat.Space Nasdaq Opening Bell to Spotlight Quantum-Resilient Space Infrastructure Strategy"
     },
     {
-      "ticker": "LOT",
-      "score": 75.0,
-      "last_close": 0.269,
-      "rel_volume": 227.64,
-      "price_change_pct": 31.22,
-      "gap_pct": 29.27,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 173691008,
-      "float_shares": 8189677,
-      "cash_debt_ratio": 0.05,
-      "insider_pct": 87.1,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 671,
-      "recent_news": "LOT: Luxury Vehicles Remain a Story of the Haves and Have Nots. Adjusting Our Target Valuation to Reflect The Difficult Macroeconomic Backdrop. | Lotus Technology Targets EBIT Profitability Before 2030 as Deliveries, Margins Improve | Lotus targets US sales in its turnaround strategy"
-    },
-    {
-      "ticker": "QFIN",
-      "score": 72.1,
-      "last_close": 4.815,
-      "rel_volume": 2.75,
-      "price_change_pct": 13.03,
-      "gap_pct": 15.85,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 585887744,
-      "float_shares": 91409437,
-      "cash_debt_ratio": 2.6,
-      "insider_pct": 3.4,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "Qfin Holdings (QFIN) Stock May Look Reasonable Despite Class Action Claims | Qfin Holdings (QFIN) After Weak Q3 Earnings Still Looks Undervalued | Qfin Holdings (QFIN) Stock Sees Fair Value Cut As Analysts Turn More Neutral"
-    },
-    {
-      "ticker": "PMVP",
-      "score": 68.6,
-      "last_close": 1.16,
-      "rel_volume": 5.24,
-      "price_change_pct": 7.41,
-      "gap_pct": 5.56,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 87620304,
-      "float_shares": 59165608,
-      "cash_debt_ratio": 743.19,
-      "insider_pct": 2.4,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 2,
-      "recent_news": "PMVP Stock Rises 19% in 3 Months: Here's What You Need to Know | These Biotech Stocks Are Cheap Based On 1 Fundamental Measure | Should You Buy PMV Pharmaceuticals, Inc. (PMVP) After Golden Cross?"
-    },
-    {
       "ticker": "BBD",
       "score": 62.9,
       "last_close": 2.8,
@@ -85,7 +51,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "주의",
       "recent_dilution_filings_90d": 1,
-      "recent_news": "Brazilian markets rally after Lula taps Bradesco chairman for finance chief | Brazil’s B3 Enlists Itaú, Santander and Four Other Firms for Open BRL Stablecoin | Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets"
+      "recent_news": "Itau Unibanco (ITUB) Is Catching Fire on Wall Street | Banco Bradesco (BBD) Is Suddenly One of Wall Street’s Hottest Stocks | Inter & Co. (INTR) Suddenly Delivers a Jaw-Dropping Surge"
     },
     {
       "ticker": "XP",
@@ -119,7 +85,7 @@
       "insider_pct": 0.0,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Brazil’s B3 Enlists Itaú, Santander and Four Other Firms for Open BRL Stablecoin | Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams? | Brazil's Galipolo flags inflationary impact of spending growth in rare fiscal remarks"
+      "recent_news": "Itau Unibanco (ITUB) Is Catching Fire on Wall Street | Brazil’s B3 Enlists Itaú, Santander and Four Other Firms for Open BRL Stablecoin | Nu Holdings Scales in Mexico: Can It Unlock New Revenue Streams?"
     },
     {
       "ticker": "FLNC",
@@ -131,7 +97,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1010985536,
-      "float_shares": 89151419,
+      "float_shares": 89201572,
       "cash_debt_ratio": 0.67,
       "insider_pct": 14.4,
       "dilution_risk": "낮음",
@@ -170,7 +136,7 @@
       "insider_pct": 1.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 346,
-      "recent_news": "Open Pit Drill Results Might Change The Case For Investing In First Majestic Silver (TSX:AG) | Should You Buy Hecla Mining Stock For Its Cash? | Can AG's Latest Drilling Results Support Jerritt Canyon's Restart?"
+      "recent_news": "First Majestic (AG) Breaks Into the Market’s Winners’ Circle. Here’s What Propelled The Rally | Open Pit Drill Results Might Change The Case For Investing In First Majestic Silver (TSX:AG) | Should You Buy Hecla Mining Stock For Its Cash?"
     },
     {
       "ticker": "JMIA",
@@ -221,7 +187,7 @@
       "insider_pct": 0.2,
       "dilution_risk": "낮음",
       "recent_dilution_filings_90d": 0,
-      "recent_news": "Endeavour Silver Stock Has The Bull Case Changed After Pitarrilla Feasibility Study | Aya Gold And 2 Other Silver Stocks To Watch | Endeavour Silver Maps $585 Million Pitarrilla Mine, With Production Possible by 2030"
+      "recent_news": "Endeavour Silver (EXK) Makes a Spectacular Run for the Top | Endeavour Silver Stock Has The Bull Case Changed After Pitarrilla Feasibility Study | Aya Gold And 2 Other Silver Stocks To Watch"
     },
     {
       "ticker": "TMC",
@@ -233,9 +199,9 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1194245120,
-      "float_shares": 241002540,
+      "float_shares": 240499468,
       "cash_debt_ratio": null,
-      "insider_pct": 46.0,
+      "insider_pct": 46.1,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 8,
       "recent_news": "TMC (TMC) Stock Is Up 14.3% Today Without Company News | Down 34.7% in 4 Weeks, Here's Why You Should You Buy the Dip in The Metals Company (TMC) | TMC The Metals (TMC) Stock Sees Fair Value Falls After Q3 Sparks Analyst Target Cuts"
@@ -263,7 +229,7 @@
       "last_close": 0.73,
       "rel_volume": 0.93,
       "price_change_pct": 10.61,
-      "gap_pct": 10.91,
+      "gap_pct": 11.06,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 253336880,
@@ -309,23 +275,6 @@
       "recent_news": "OPKO Health (OPK) Stock Is Up 6.3% Today Without Company News | Is OPK Worth Buying as Pipeline Upside Meets a Premium Valuation? | 3 Penny Stocks With Revenue Growth Up To 20%"
     },
     {
-      "ticker": "BTG",
-      "score": 49.1,
-      "last_close": 4.85,
-      "rel_volume": 0.94,
-      "price_change_pct": 8.26,
-      "gap_pct": 7.03,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 6388519936,
-      "float_shares": 1309132811,
-      "cash_debt_ratio": 0.54,
-      "insider_pct": 0.5,
-      "dilution_risk": "높음",
-      "recent_dilution_filings_90d": 4,
-      "recent_news": "A $3.5 Billion Fund Dumps These 3 Stocks | Royal Gold Rewards Shareholders With 10.5% Hike in Annual Dividend | B2Gold (TSX:BTO) Earnings Jumped, Is The Stock Still Cheap?"
-    },
-    {
       "ticker": "INFQ",
       "score": 48.9,
       "last_close": 7.05,
@@ -335,7 +284,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 1595041024,
-      "float_shares": 196291849,
+      "float_shares": 197509058,
       "cash_debt_ratio": 28.31,
       "insider_pct": 9.1,
       "dilution_risk": "높음",
@@ -403,7 +352,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 375305920,
-      "float_shares": 118764372,
+      "float_shares": 118676534,
       "cash_debt_ratio": 0.05,
       "insider_pct": 25.6,
       "dilution_risk": "낮음",
@@ -416,7 +365,7 @@
       "last_close": 11.13,
       "rel_volume": 0.64,
       "price_change_pct": 10.42,
-      "gap_pct": 11.01,
+      "gap_pct": 11.11,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 4921912832,
@@ -462,23 +411,6 @@
       "recent_news": "Melco Resorts And Entertainment (MLCO) Stock Fair Value Moves Lower After Cautious Analyst Cuts | What Melco Resorts & Entertainment (MLCO) Said on Its Q3 Earnings Call | Compared to Estimates, Melco (MLCO) Q3 Earnings: A Look at Key Metrics"
     },
     {
-      "ticker": "METC",
-      "score": 46.9,
-      "last_close": 6.3,
-      "rel_volume": 0.59,
-      "price_change_pct": 10.14,
-      "gap_pct": 10.14,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null,
-      "market_cap": 401203872,
-      "float_shares": 43768794,
-      "cash_debt_ratio": 0.5,
-      "insider_pct": 9.8,
-      "dilution_risk": "낮음",
-      "recent_dilution_filings_90d": 0,
-      "recent_news": "MP Materials Exec Makes First Stock Purchase Amid Insider Buying Spree | Rare-Earth Stock Moves Hint at China’s Fading Dominance | How Much Time Does Peabody's Cash Buy?"
-    },
-    {
       "ticker": "PPTA",
       "score": 46.6,
       "last_close": 16.73,
@@ -488,11 +420,11 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 2092886144,
-      "float_shares": 83868069,
+      "float_shares": 83818030,
       "cash_debt_ratio": 118.36,
       "insider_pct": 6.9,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
       "recent_news": "Perpetua Resources Stock In Focus After Tungsten Supply MOU | Basic Materials Roundup: Market Talk | Canadian Stock Market Today: TSX Futures Dip As Hawkish Fed And Strong Dollar Bite"
     },
     {
@@ -508,9 +440,9 @@
       "float_shares": 246295941,
       "cash_debt_ratio": 5.43,
       "insider_pct": 1.3,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Why Did Redwire Stock Pop on Friday | PL Expands European Defense Footprint: A New Growth Opportunity Ahead? | Does Redwire (RDW) Change Its Growth Outlook With New Contract And CTO?"
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "HawkEye 360 And 2 Space Stocks To Watch | Why Did Redwire Stock Pop on Friday | PL Expands European Defense Footprint: A New Growth Opportunity Ahead?"
     },
     {
       "ticker": "ENVX",
@@ -539,7 +471,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 406034048,
-      "float_shares": 207877990,
+      "float_shares": 207844924,
       "cash_debt_ratio": 0.06,
       "insider_pct": 12.6,
       "dilution_risk": "높음",
@@ -573,7 +505,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 903324672,
-      "float_shares": 143134431,
+      "float_shares": 143009784,
       "cash_debt_ratio": 8.57,
       "insider_pct": 1.3,
       "dilution_risk": "높음",
@@ -734,6 +666,23 @@
       "recent_news": "NIO And 2 Other Top EV Stocks | Asian Equities Traded in the US as American Depositary Receipts Rise Sharply in Friday Trading | Investors Heavily Search NIO Inc. (NIO): Here is What You Need to Know"
     },
     {
+      "ticker": "REAL",
+      "score": 40.3,
+      "last_close": 11.61,
+      "rel_volume": 0.46,
+      "price_change_pct": 6.81,
+      "gap_pct": 7.27,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1447918208,
+      "float_shares": 104156582,
+      "cash_debt_ratio": 0.28,
+      "insider_pct": 6.9,
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 1996,
+      "recent_news": "How Glendale Store Opening Will Impact RealReal (REAL) Stock | Why Is The RealReal Stock Rising Today Despite Recent Share Price Weakness? | The RealReal (REAL) Now Trades Above Golden Cross: Time to Buy?"
+    },
+    {
       "ticker": "SMR",
       "score": 38.7,
       "last_close": 3.48,
@@ -742,30 +691,47 @@
       "gap_pct": 6.46,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1428684032,
+      "market_cap": 1428777472,
       "float_shares": 403732268,
       "cash_debt_ratio": 140.7,
       "insider_pct": 1.7,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "NuScale Is Still Down 33% in a Month. Will SMR Stock Hit $2 or $5 First? | Constellation Energy Sinks 10% in a Week, NuScale 17%, as “the Jensen Huang Stock Put Is Fading” | NuScale Just Dropped 17% in a Week to a New 52-Week Low. Is It Time to Sell, or Load Up?"
+      "dilution_risk": "높음",
+      "recent_dilution_filings_90d": 10,
+      "recent_news": "Could $5,000 in NuScale Power Stock Set You Up for Life? (Hint: Yes, But There's a Catch) | Oklo vs. NuScale Power: Which Nuclear Stock Will Rise 100% First? | NuScale Is Still Down 33% in a Month. Will SMR Stock Hit $2 or $5 First?"
     },
     {
-      "ticker": "PONY",
-      "score": 36.8,
-      "last_close": 3.46,
-      "rel_volume": 0.69,
-      "price_change_pct": 5.81,
-      "gap_pct": 5.66,
+      "ticker": "PBR",
+      "score": 35.8,
+      "last_close": 16.84,
+      "rel_volume": 0.91,
+      "price_change_pct": 4.92,
+      "gap_pct": 5.23,
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
-      "market_cap": 1505737216,
-      "float_shares": 278143023,
-      "cash_debt_ratio": 57.59,
-      "insider_pct": 0.2,
-      "dilution_risk": null,
-      "recent_dilution_filings_90d": null,
-      "recent_news": "Amplitude And 2 Other AI Stocks To Watch | 3 Growth Stocks To Watch In November 2026 | Einride AB’s Autonomous Commercialization & NVIDIA Collaboration – Quarterly Update Report"
+      "market_cap": 108523126784,
+      "float_shares": 3941761140,
+      "cash_debt_ratio": 0.17,
+      "insider_pct": 0.0,
+      "dilution_risk": "주의",
+      "recent_dilution_filings_90d": 1,
+      "recent_news": "Ultrapar Outperforms Petrobras YTD: Why PBR Still Has the Edge | OEEG 2026: international offshore buyers meet China’s supply chain as sanctioned investment heads for $137bn | Petrobras Eyes Corn Ethanol Expansion: Can It Unlock New Value?"
+    },
+    {
+      "ticker": "ABSI",
+      "score": 34.2,
+      "last_close": 9.565,
+      "rel_volume": 0.45,
+      "price_change_pct": 6.28,
+      "gap_pct": 5.0,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1652313600,
+      "float_shares": 164742497,
+      "cash_debt_ratio": 52.84,
+      "insider_pct": 11.7,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "Is Absci (ABSI) Priced Too Richly Against Its Book Value? | Absci Stock In Focus After Earnings Report And Commercial Chief Hire | ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026"
     },
     {
       "ticker": "IREN",
@@ -782,7 +748,7 @@
       "insider_pct": 6.5,
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 5,
-      "recent_news": "IREN Is Transitioning From Bitcoin Mining to AI Cloud | What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares? | IREN (NasdaqGS:IREN) Stock Sees Modest Fair Value Cut After AI Cloud Sentiment Swings"
+      "recent_news": "CoreWeave Can Borrow at About 7% Against Meta’s Contract. Its Unsecured Bonds Yield Nearly 18% | IREN Is Transitioning From Bitcoin Mining to AI Cloud | What Do Tighter Chip Export Rules Mean For IREN (IREN) Shares?"
     },
     {
       "ticker": "VALE",
@@ -794,7 +760,7 @@
       "st_msg_count": null,
       "short_volume_ratio_pct": null,
       "market_cap": 43706695680,
-      "float_shares": 3964157917,
+      "float_shares": 3964115359,
       "cash_debt_ratio": 0.24,
       "insider_pct": 0.0,
       "dilution_risk": "높음",
@@ -817,6 +783,23 @@
       "dilution_risk": "높음",
       "recent_dilution_filings_90d": 13,
       "recent_news": "Nu Holdings vs. SoFi: Which Fintech Powerhouse Is the Smarter Buy? | Bladex (BLX) Stock Is Up 4.4% Today as Latin America Names Rally | Patria Investments (PAX) Stock Is Up 6.7% Today in Broad Market Rally"
+    },
+    {
+      "ticker": "BFLY",
+      "score": 31.2,
+      "last_close": 5.79,
+      "rel_volume": 0.41,
+      "price_change_pct": 5.46,
+      "gap_pct": 5.01,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null,
+      "market_cap": 1548604544,
+      "float_shares": 224133100,
+      "cash_debt_ratio": 6.64,
+      "insider_pct": 9.0,
+      "dilution_risk": "낮음",
+      "recent_dilution_filings_90d": 0,
+      "recent_news": "What Butterfly Network Buyers Were Betting On Before A 104% Rally | Cathie Wood Was Right About These 5 Stocks | Butterfly Network CEO Sees Chip Revenue Dwarfing Ultrasound Device Business"
     },
     {
       "ticker": "GPRO",
@@ -856,6 +839,16 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "CWH",
+      "score": 26.6,
+      "last_close": 4.61,
+      "rel_volume": 0.41,
+      "price_change_pct": 4.54,
+      "gap_pct": 4.08,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "CAPR",
       "score": 26.0,
       "last_close": 1.88,
@@ -882,16 +875,6 @@
       "rel_volume": 0.41,
       "price_change_pct": 3.84,
       "gap_pct": 2.95,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "FMC",
-      "score": 21.0,
-      "last_close": 4.25,
-      "rel_volume": 0.25,
-      "price_change_pct": 3.66,
-      "gap_pct": 3.54,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -936,12 +919,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "RC",
-      "score": 19.4,
-      "last_close": 0.63,
-      "rel_volume": 0.33,
-      "price_change_pct": 3.28,
-      "gap_pct": 2.84,
+      "ticker": "GDRX",
+      "score": 18.5,
+      "last_close": 2.4,
+      "rel_volume": 1.19,
+      "price_change_pct": 0.84,
+      "gap_pct": 1.05,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -957,11 +940,11 @@
     },
     {
       "ticker": "AAL",
-      "score": 14.8,
+      "score": 15.0,
       "last_close": 12.81,
       "rel_volume": 0.52,
       "price_change_pct": 1.91,
-      "gap_pct": 1.47,
+      "gap_pct": 1.59,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -976,22 +959,22 @@
       "short_volume_ratio_pct": null
     },
     {
+      "ticker": "OPTU",
+      "score": 13.8,
+      "last_close": 0.668,
+      "rel_volume": 0.26,
+      "price_change_pct": -2.2,
+      "gap_pct": -2.09,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
       "ticker": "UAMY",
       "score": 13.8,
       "last_close": 2.26,
       "rel_volume": 0.4,
       "price_change_pct": 2.26,
       "gap_pct": 1.13,
-      "st_msg_count": null,
-      "short_volume_ratio_pct": null
-    },
-    {
-      "ticker": "CSIQ",
-      "score": 11.6,
-      "last_close": 5.5,
-      "rel_volume": 0.7,
-      "price_change_pct": 0.92,
-      "gap_pct": 0.28,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1006,12 +989,12 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "EVH",
-      "score": 10.8,
-      "last_close": 3.96,
-      "rel_volume": 0.38,
-      "price_change_pct": 1.28,
-      "gap_pct": 1.28,
+      "ticker": "CTKB",
+      "score": 10.1,
+      "last_close": 6.41,
+      "rel_volume": 0.7,
+      "price_change_pct": 0.16,
+      "gap_pct": 0.78,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     },
@@ -1046,12 +1029,22 @@
       "short_volume_ratio_pct": null
     },
     {
-      "ticker": "LADR",
-      "score": 4.5,
-      "last_close": 8.79,
-      "rel_volume": 0.33,
-      "price_change_pct": -0.11,
-      "gap_pct": -0.17,
+      "ticker": "BMBL",
+      "score": 2.8,
+      "last_close": 5.99,
+      "rel_volume": 0.15,
+      "price_change_pct": 0.17,
+      "gap_pct": 0.25,
+      "st_msg_count": null,
+      "short_volume_ratio_pct": null
+    },
+    {
+      "ticker": "BAK",
+      "score": 2.2,
+      "last_close": 0.774,
+      "rel_volume": 0.15,
+      "price_change_pct": 0.13,
+      "gap_pct": -0.03,
       "st_msg_count": null,
       "short_volume_ratio_pct": null
     }
